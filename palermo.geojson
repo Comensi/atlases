@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "The City of Palermo",
+                "type": "Place",
+                "marker-symbol": "",
+                "start_date": "",
+                "description": "Palermo is a city of Southern Italy, the capital of both the autonomous region of Sicily and the Metropolitan City of Palermo. The city is noted for its history, culture, architecture and gastronomy, playing an important role throughout much of its existence; it is over 2,700 years old. Palermo is located in the northwest of the island of Sicily, right by the Gulf of Palermo in the Tyrrhenian Sea. ",
+                "end_date": "",
+                "image": "",
+                "type2": "Place",
+                "category": "Places",
+                "sub-category": "",
+                "tags": "",
+                "category-description": "",
+                "links": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.367071,
+                    13.367071
+                ]
+            },
+            "id": "palermo/the_city_of_palermo#33"
+        }
+    ],
+    "properties": {
+        "title": "Palermo",
+        "uri": "palermo",
+        "description": "",
+        "image": "https://www.comune.palermo.it/img/hdrs/header.png"
+    }
+}

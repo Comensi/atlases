@@ -868,10 +868,10 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Quartiermanagement am Mehringplaz - Kunstwelt .v.",
+                "title": " Kunstwelt .v. - Quartiermanagement am Mehringplaz ",
                 "type": "Organization",
                 "marker-symbol": "",
-                "start_date": "1998-09-26T01:00:00.000-07:00",
+                "start_date": "1998-09-25T16:00:00.000-07:00",
                 "description": "Im Juli 2005 beauftragte die Senatsverwaltung für Stadtentwicklung in Zusammenarbeit mit dem Bezirksamt Friedrichshain-Kreuzberg den gemeinnützigen Verein Kunstwelt e.V., der seit 1998 seinen Sitz am Mehringplatz hat, mit der Umsetzung des Quartiersmanagements am Mehringplatz. Zusammen mit BewohnerInnen und \"starken Partnern der Quartiersentwicklung\" ermittelt und diskutiert das Vor-Ort-Team seither die wichtigsten Bedarfe, entwickelt Projektideen und bringt diese auf den Weg.",
                 "end_date": "",
                 "image": "https://i.ibb.co/SJXTHcq/Screenshot-2019-09-27-at-11-43-03.png",
@@ -896,7 +896,7 @@
                     52.50006
                 ]
             },
-            "id": "mehringplatz-community-atlas/quartiermanagement_am_mehringplaz_kunstwelt_v_#15"
+            "id": "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15"
         },
         {
             "type": "Feature",
@@ -927,40 +927,60 @@
                 "coordinates": [
                     [
                         [
-                            13.390974480686964,
-                            52.504162809150216
+                            13.389109026495703,
+                            52.49811904906019
                         ],
                         [
-                            13.39284129816133,
-                            52.50433913724122
+                            13.390868555609472,
+                            52.497936164411875
                         ],
                         [
-                            13.392894942341627,
-                            52.50400607247558
+                            13.395739447180517,
+                            52.49840643768485
                         ],
                         [
-                            13.39233704286653,
-                            52.50397994964212
+                            13.39543903977085,
+                            52.49902039799883
                         ],
                         [
-                            13.392412144718946,
-                            52.50347708207264
+                            13.39419449478794,
+                            52.50113653593054
                         ],
                         [
-                            13.391682583866896,
-                            52.50342483576153
+                            13.394087206427344,
+                            52.50175045812035
                         ],
                         [
-                            13.391693312702955,
-                            52.50334646617839
+                            13.39440907150913,
+                            52.502338247927895
                         ],
                         [
-                            13.391135413227857,
-                            52.503294219712025
+                            13.391211878363379,
+                            52.502116194924305
                         ],
                         [
-                            13.390974480686964,
-                            52.504162809150216
+                            13.391018759314306,
+                            52.503278695273096
+                        ],
+                        [
+                            13.388851534430273,
+                            52.503148078789366
+                        ],
+                        [
+                            13.38520373017002,
+                            52.502364371736924
+                        ],
+                        [
+                            13.387757193152197,
+                            52.500300542992875
+                        ],
+                        [
+                            13.388830076758154,
+                            52.500587917358274
+                        ],
+                        [
+                            13.389109026495703,
+                            52.49811904906019
                         ]
                     ]
                 ]

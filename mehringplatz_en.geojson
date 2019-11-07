@@ -13,7 +13,7 @@
                 "type2": "Interview",
                 "category": "Narratives",
                 "sub-category": "Stakeholder interviews",
-                "tags": "[\"quartiersmanagement\",\"Urban regeneration\",\"Social inclusion\"]",
+                "tags": "quartiersmanagement,Urban regeneration,Social inclusion",
                 "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
                     {
@@ -38,7 +38,7 @@
                 "type2": "Place",
                 "category": "Places",
                 "sub-category": "Community hub",
-                "tags": "[\"Social inclusion\",\"quartiersmanagement\"]",
+                "tags": "Social inclusion,quartiersmanagement",
                 "category-description": "",
                 "links": []
             },
@@ -56,7 +56,7 @@
                 "type2": "Organization",
                 "category": "Stakeholders",
                 "sub-category": "Developers and enterprises",
-                "tags": "[\"housing\"]",
+                "tags": "housing",
                 "category-description": "identifying formal and informal actors in the area",
                 "links": [
                     {
@@ -81,7 +81,7 @@
                 "type2": "Organization",
                 "category": "",
                 "sub-category": "",
-                "tags": "[]",
+                "tags": "",
                 "category-description": "",
                 "links": [
                     {
@@ -106,7 +106,7 @@
                 "type2": "Event",
                 "category": "Narratives",
                 "sub-category": "Place narratives ",
-                "tags": "[\"oral history\",\"Events\",\"culture\",\"Social inclusion\"]",
+                "tags": "oral history,Events,culture,Social inclusion",
                 "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
                     {
@@ -131,7 +131,7 @@
                 "type2": "Program",
                 "category": "Transformations",
                 "sub-category": "",
-                "tags": "[]",
+                "tags": "",
                 "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
                 "links": [
                     {
@@ -156,7 +156,7 @@
                 "type2": "Building",
                 "category": "Transformations",
                 "sub-category": "Private spaces common oriented",
-                "tags": "[\"culture\",\"commons\",\"Social inclusion\",\"temporary structure\",\"gardening\"]",
+                "tags": "culture,commons,Social inclusion,temporary structure,gardening",
                 "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
                 "links": [
                     {
@@ -183,7 +183,7 @@
                 "type2": "Interview",
                 "category": "Narratives",
                 "sub-category": "Stakeholder interviews",
-                "tags": "[\"Social inclusion\",\"feminism\",\"culture\",\"cooking\"]",
+                "tags": "Social inclusion,feminism,culture,cooking",
                 "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
                     {
@@ -215,7 +215,7 @@
                 "type2": "Organization",
                 "category": "Stakeholders",
                 "sub-category": "Public cultural institutions",
-                "tags": "[\"culture\",\"architecture\",\"media\",\"workspace\",\"commons\",\"oral history\",\"Events\"]",
+                "tags": "culture,architecture,media,workspace,commons,oral history,Events",
                 "category-description": "identifying formal and informal actors in the area",
                 "links": [
                     {
@@ -247,7 +247,7 @@
                 "type2": "Place",
                 "category": "Delimitations",
                 "sub-category": "Administrative borders",
-                "tags": "[]",
+                "tags": "",
                 "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
                 "links": []
             },
@@ -564,7 +564,7 @@
                 "type2": "Organization",
                 "category": "Stakeholders",
                 "sub-category": "NGO/Social work",
-                "tags": "[]",
+                "tags": "",
                 "category-description": "identifying formal and informal actors in the area",
                 "links": [
                     {
@@ -596,7 +596,7 @@
                 "type2": "Place",
                 "category": "Places",
                 "sub-category": "Community hub",
-                "tags": "[\"cooking\",\"culture\",\"Social inclusion\"]",
+                "tags": "cooking,culture,Social inclusion",
                 "category-description": "",
                 "links": []
             },
@@ -621,7 +621,7 @@
                 "type2": "Organization",
                 "category": "Stakeholders",
                 "sub-category": "NGO/Social work",
-                "tags": "[]",
+                "tags": "",
                 "category-description": "identifying formal and informal actors in the area",
                 "links": [
                     {
@@ -653,7 +653,7 @@
                 "type2": "Program",
                 "category": "Transformations",
                 "sub-category": "Public space",
-                "tags": "[\"Public space\",\"Urban regeneration\"]",
+                "tags": "Public space,Urban regeneration",
                 "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
                 "links": [
                     {
@@ -741,7 +741,7 @@
                 "type2": "Monument",
                 "category": "Memories",
                 "sub-category": "Statues",
-                "tags": "[\"art\",\"park\",\"Public space\"]",
+                "tags": "art,park,Public space",
                 "category-description": "to document material and immaterial heritage\r\n",
                 "links": [
                     {
@@ -773,7 +773,7 @@
                 "type2": "Building",
                 "category": "Transformations",
                 "sub-category": "Private spaces",
-                "tags": "[\"culture\",\"workspace\",\"housing\"]",
+                "tags": "culture,workspace,housing",
                 "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
                 "links": [
                     {
@@ -861,7 +861,7 @@
                 "type2": "Organization",
                 "category": "Stakeholders",
                 "sub-category": "NGO/Social work",
-                "tags": "[\"quartiersmanagement\",\"Social inclusion\",\"culture\"]",
+                "tags": "quartiersmanagement,Social inclusion,culture",
                 "category-description": "identifying formal and informal actors in the area",
                 "links": [
                     {
@@ -893,7 +893,7 @@
                 "type2": "Program",
                 "category": "Delimitations",
                 "sub-category": "Area of interest",
-                "tags": "[\"Social inclusion\",\"quartiersmanagement\"]",
+                "tags": "Social inclusion,quartiersmanagement",
                 "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
                 "links": [
                     {
@@ -981,7 +981,7 @@
                 "type2": "Interview",
                 "category": "Narratives",
                 "sub-category": "Stakeholder interviews",
-                "tags": "[\"culture\",\"media\",\"workspace\",\"digital \",\"commons\",\"platform\",\"coop\"]",
+                "tags": "culture,media,workspace,digital ,commons,platform,coop",
                 "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
                     {
@@ -1013,7 +1013,7 @@
                 "type2": "Organization",
                 "category": "Stakeholders",
                 "sub-category": "NGO/Social work",
-                "tags": "[\"media\",\"workspace\",\"culture\"]",
+                "tags": "media,workspace,culture",
                 "category-description": "identifying formal and informal actors in the area",
                 "links": [
                     {
@@ -1045,7 +1045,7 @@
                 "type2": "Program",
                 "category": "Transformations",
                 "sub-category": "Public space",
-                "tags": "[\"Urban regeneration\",\"Public space\",\"park\"]",
+                "tags": "Urban regeneration,Public space,park",
                 "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
                 "links": [
                     {
@@ -1113,7 +1113,7 @@
                 "type2": "Building",
                 "category": "Transformations",
                 "sub-category": "Private spaces",
-                "tags": "[\"media\",\"workspace\",\"culture\"]",
+                "tags": "media,workspace,culture",
                 "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
                 "links": [
                     {
@@ -1145,7 +1145,7 @@
                 "type2": "Monument",
                 "category": "Memories",
                 "sub-category": "Plaques/Information displays",
-                "tags": "[\"feminism\",\"culture\"]",
+                "tags": "feminism,culture",
                 "category-description": "to document material and immaterial heritage\r\n",
                 "links": []
             },
@@ -1170,7 +1170,7 @@
                 "type2": "Building",
                 "category": "Memories",
                 "sub-category": "Architecture ",
-                "tags": "[\"architecture\"]",
+                "tags": "architecture",
                 "category-description": "to document material and immaterial heritage\r\n",
                 "links": []
             },
@@ -1195,7 +1195,7 @@
                 "type2": "Organization",
                 "category": "Stakeholders",
                 "sub-category": "NGO/Social work",
-                "tags": "[\"youths\",\"culture\",\"Social inclusion\"]",
+                "tags": "youths,culture,Social inclusion",
                 "category-description": "identifying formal and informal actors in the area",
                 "links": [
                     {

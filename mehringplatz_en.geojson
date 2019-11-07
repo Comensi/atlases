@@ -81,7 +81,7 @@
                 "type2": "Organization",
                 "category": "",
                 "sub-category": "",
-                "tags": "[\"\"]",
+                "tags": "[]",
                 "category-description": "",
                 "links": [
                     {
@@ -131,7 +131,7 @@
                 "type2": "Program",
                 "category": "Transformations",
                 "sub-category": "",
-                "tags": "[\"\"]",
+                "tags": "[]",
                 "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
                 "links": [
                     {
@@ -247,7 +247,7 @@
                 "type2": "Place",
                 "category": "Delimitations",
                 "sub-category": "Administrative borders",
-                "tags": "[\"\"]",
+                "tags": "[]",
                 "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
                 "links": []
             },
@@ -564,7 +564,7 @@
                 "type2": "Organization",
                 "category": "Stakeholders",
                 "sub-category": "NGO/Social work",
-                "tags": "[\"\"]",
+                "tags": "[]",
                 "category-description": "identifying formal and informal actors in the area",
                 "links": [
                     {
@@ -621,7 +621,7 @@
                 "type2": "Organization",
                 "category": "Stakeholders",
                 "sub-category": "NGO/Social work",
-                "tags": "[\"\"]",
+                "tags": "[]",
                 "category-description": "identifying formal and informal actors in the area",
                 "links": [
                     {

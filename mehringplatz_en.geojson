@@ -1,6 +1,115 @@
 {
     "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urban Sketches: Victoria Versicherung",
+                "type": "Video",
+                "start_date": "2017-07-08T16:00:00.000-07:00",
+                "description": "A short video about one of the few historicl buildngs surviving destruction in this area.\nScript / Editing: Paula Mangold, Vicky Kiefer\nImages by Paula Mangold, Vicky Kiefer\nRealised  in July 2017 with the support of the Erasmus+ EULER program\n\nA series of short video postcards from Mehringplatz. \nThese audiovisual fragments are realised by the participants to the EULER - Mehringplatz Anknipsen laboratory. They experiment a simple and accessible format to capture an impression, report an observation or tell a story about the local identity. Complementing the collection of historical and analytical materials, they provide a layer of personal interpretation to the representation of the socio-spatial milieu.",
+                "end_date": "",
+                "image": "https://i.vimeocdn.com/video/646400350.jpg\n",
+                "type2": "Video",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": "architecture,culture,Urban regeneration",
+                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/225375320",
+                        "title": "Urban Sketches",
+                        "description": "",
+                        "type": "video"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39625,
+                    52.50373
+                ]
+            },
+            "id": "mehringplatz-community-atlas/urban_sketches_victoria_versicherung#35"
+        }
+    ],
     "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urban Sketches: Alienation",
+                "type": "Video",
+                "start_date": "2017-09-08T16:00:00.000-07:00",
+                "description": "Urban Sketches is a series of short video postcards from Mehringplatz. These audiovisual fragments are realised by the participants to the EULER - Mehringplatz Anknipsen laboratory in 2017. They experiment a simple and accessible format to capture an impression, report an observation or tell a story about the local identity. Complementing the collection of historical and analytical materials, they provide a layer of personal interpretation to the representation of the socio-spatial milieu.\n",
+                "end_date": "",
+                "image": "https://i.vimeocdn.com/video/651039369.jpg",
+                "type2": "Video",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": "Public space,Psychogeography",
+                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/230464313",
+                        "title": "Urban Sketches",
+                        "description": "",
+                        "type": "video"
+                    }
+                ]
+            },
+            "id": "mehringplatz-community-atlas/urban_sketches_alienation#36"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urban Sketches: Places for all times",
+                "type": "Video",
+                "start_date": "",
+                "description": "Things worth noticing in the ordinary city.\n\nby Rasha Kanjarawi \nرشا قنجراوي\n\nUrban Sketches is a series of short video postcards from Mehringplatz.\nThese audiovisual fragments are realised by the participants to the EULER - Mehringplatz Anknipsen laboratory in 2017. They experiment a simple and accessible format to capture an impression, report an observation or tell a story about the local identity. Complementing the collection of historical and analytical materials, they provide a layer of personal interpretation to the representation of the socio-spatial milieu.\n",
+                "end_date": "",
+                "image": "https://i.vimeocdn.com/video/651562520.jpg",
+                "type2": "Video",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": "Public space,culture,Social inclusion,oral history",
+                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/230890049",
+                        "title": "Urban Sketches",
+                        "description": "",
+                        "type": "video"
+                    }
+                ]
+            },
+            "id": "mehringplatz-community-atlas/urban_sketches_places_for_all_times#34"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urban Sketches: Development, Who Is It For",
+                "type": "Video",
+                "start_date": "2017-07-06T16:00:00.000-07:00",
+                "description": "\nThe narrative looks into the vulnerability and protection schemes affecting existing tenants and shop owners in Mehringplatz through a personal point of view account, contextualising the interest in the subject and also draws on a third party's knowledge and opinion on this question. \n\nScript Nathalie Bekdache\nEdited by oginoknauss\nImages from the Mehringplatz Memory Card set\n\nUrban Sketches is a series of short video postcards from Mehringplatz.\nThese audiovisual fragments are realised by the participants to the EULER - Mehringplatz Anknipsen laboratory in 2017. They experiment a simple and accessible format to capture an impression, report an observation or tell a story about the local identity. Complementing the collection of historical and analytical materials, they provide a layer of personal interpretation to the representation of the socio-spatial milieu.",
+                "end_date": "",
+                "image": "https://i.vimeocdn.com/video/646399950.jpg",
+                "type2": "Video",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": "Urban regeneration,oral history,Social inclusion",
+                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/manage/226707117/general",
+                        "title": "Urban Sketches",
+                        "description": "Urban Sketches is a series of short video postcards from Mehringplatz",
+                        "type": "video"
+                    }
+                ]
+            },
+            "id": "mehringplatz-community-atlas/urban_sketches_development_who_is_it_for#33"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -25,72 +134,6 @@
                 ]
             },
             "id": "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
-        }
-    ],
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Karin Lücker - Café MaDaMe ",
-                "type": "Interview",
-                "start_date": "2017-03-16T17:00:00.000-07:00",
-                "description": "Interview with Karin Lücker - Café MaDaMe. Recorded 17.03.2017  by Vicky Kiefer and Laura Colini\nCamera and editing Manuela Conti - ogino:knauss\nRealised in the frame of EULER - Switch On Mehringplatz Erasmus plus program.",
-                "end_date": "",
-                "image": "",
-                "type2": "Interview",
-                "category": "Narratives",
-                "sub-category": "Stakeholder interviews",
-                "tags": "Social inclusion,feminism,culture,cooking",
-                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/232820289",
-                        "title": "",
-                        "description": "",
-                        "type": "video"
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39248,
-                    52.49974
-                ]
-            },
-            "id": "mehringplatz-community-atlas/karin_l_cker_caf_madame_#31"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "ZLB - Amerika-Gedenkbibliothek",
-                "type": "Organization",
-                "start_date": "",
-                "description": "One of the two seats of the Zentral- und Landesbibliothek Berlin (ZLB). It is composed by the sections for humanities and fine arts, the Artothek, the Cinemathek, the children's and youth Library with its learning center, the music library. \n\n",
-                "end_date": "",
-                "image": "https://www.zlb.de/fileadmin/zlb/img/logo_leiste2_ohne_schrift.png",
-                "type2": "Organization",
-                "category": "Stakeholders",
-                "sub-category": "Public cultural institutions",
-                "tags": "culture,architecture,media,workspace,commons,oral history,Events",
-                "category-description": "identifying formal and informal actors in the area",
-                "links": [
-                    {
-                        "url": "https://www.zlb.de",
-                        "title": "",
-                        "description": "",
-                        "type": ""
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39249,
-                    52.49656
-                ]
-            },
-            "id": "mehringplatz-community-atlas/zlb_amerika_gedenkbibliothek#30"
         }
     ],
     "properties": {

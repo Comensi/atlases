@@ -1,5 +1,33 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Capo",
+                "type": "Place",
+                "marker-symbol": "",
+                "start_date": "",
+                "description": "Quartiere storico del centro storico di Palermo",
+                "end_date": "",
+                "image": "https://postimg.cc/t1N43Hzc",
+                "type2": "Place",
+                "category": "Delimitations",
+                "sub-category": "",
+                "tags": "",
+                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "links": [
+                    {
+                        "url": "https://postimg.cc/t1N43Hzc",
+                        "title": "Mappa del Capo",
+                        "description": "",
+                        "type": "image"
+                    }
+                ]
+            },
+            "id": "palermo/capo#34"
+        }
+    ],
     "features": [
         {
             "type": "Feature",
@@ -8,11 +36,11 @@
                 "type": "Place",
                 "marker-symbol": "",
                 "start_date": "",
-                "description": "Palermo is a city of Southern Italy, the capital of both the autonomous region of Sicily and the Metropolitan City of Palermo. The city is noted for its history, culture, architecture and gastronomy, playing an important role throughout much of its existence; it is over 2,700 years old. Palermo is located in the northwest of the island of Sicily, right by the Gulf of Palermo in the Tyrrhenian Sea. ",
+                "description": "Palermo is a city of Southern Italy, the capital of both the autonomous region of Sicily and the Metropolitan City of Palermo. The city is noted for its history, culture, architecture and gastronomy, playing an important role throughout much of its existence; it is over 2,700 years old. \n\nPalermo is located in the northwest of the island of Sicily, right by the Gulf of Palermo in the Tyrrhenian Sea. \n\n\n\n",
                 "end_date": "",
                 "image": "",
                 "type2": "Place",
-                "category": "Places",
+                "category": "Simple",
                 "sub-category": "",
                 "tags": "",
                 "category-description": "",

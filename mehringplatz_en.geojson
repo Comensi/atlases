@@ -72,6 +72,37 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Sanierungsgebiet Südliche Friedrichstadt",
+                "type": "Program",
+                "start_date": "2011-04-01T06:00:00.000-07:00",
+                "description": "",
+                "end_date": "",
+                "image": "http://www.sanierung-suedliche-friedrichstadt.de/der-sanierungsbeirat/",
+                "type2": "Program",
+                "category": "Transformations",
+                "sub-category": "Public space",
+                "tags": "Public space,Urban regeneration",
+                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/",
+                        "title": "Official website",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
+                        "title": "Area",
+                        "description": "",
+                        "type": "image"
+                    }
+                ]
+            },
+            "id": "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
                 "type": "Organization",
                 "start_date": "",
@@ -99,9 +130,9 @@
             "properties": {
                 "title": "Erzählcafè",
                 "type": "Event",
-                "start_date": "2019-09-26T04:00:00.000-07:00",
+                "start_date": "2016-09-25T16:00:00.000-07:00",
                 "description": "A series of meetings with informed citizens and long time residents telling their stories and experience of the area of the Südliche Friedrichstadt. Part of the activities to facilitate the integration  of the new developments of the PXB plan realised at the Bauhütte in 2017",
-                "end_date": "2017-09-26T04:00:00.000-07:00",
+                "end_date": "2017-09-25T16:00:00.000-07:00",
                 "image": "https://irp-cdn.multiscreensite.com/5c373733/dms3rep/multi/desktop/ada347df5f334c2a9696b92b4f7851b6-420x595.dm.edit_KyaLZO.jpg",
                 "type2": "Event",
                 "category": "Narratives",
@@ -644,94 +675,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Sanierungsgebiet Südliche Friedrichstadt",
-                "type": "Program",
-                "start_date": "2011-04-01T06:00:00.000-07:00",
-                "description": "",
-                "end_date": "",
-                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
-                "type2": "Program",
-                "category": "Transformations",
-                "sub-category": "Public space",
-                "tags": "Public space,Urban regeneration",
-                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
-                "links": [
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.389109026495703,
-                            52.49811904906019
-                        ],
-                        [
-                            13.390868555609472,
-                            52.497936164411875
-                        ],
-                        [
-                            13.395739447180517,
-                            52.49840643768485
-                        ],
-                        [
-                            13.39543903977085,
-                            52.49902039799883
-                        ],
-                        [
-                            13.39419449478794,
-                            52.50113653593054
-                        ],
-                        [
-                            13.394087206427344,
-                            52.50175045812035
-                        ],
-                        [
-                            13.39440907150913,
-                            52.502338247927895
-                        ],
-                        [
-                            13.391211878363379,
-                            52.502116194924305
-                        ],
-                        [
-                            13.391018759314306,
-                            52.503278695273096
-                        ],
-                        [
-                            13.388851534430273,
-                            52.503148078789366
-                        ],
-                        [
-                            13.38520373017002,
-                            52.502364371736924
-                        ],
-                        [
-                            13.387757193152197,
-                            52.500300542992875
-                        ],
-                        [
-                            13.388830076758154,
-                            52.500587917358274
-                        ],
-                        [
-                            13.389109026495703,
-                            52.49811904906019
-                        ]
-                    ]
-                ]
-            },
-            "id": "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Donut Wedge with Two Balls ",
                 "type": "Monument",
                 "start_date": "",
@@ -1164,7 +1107,7 @@
                 "title": "Victoria Versicherung Kreuzberg",
                 "type": "Building",
                 "start_date": "1913-09-29T16:00:00.000-08:00",
-                "description": "Neo- baroque building ",
+                "description": "Neo- baroque building.\n\n",
                 "end_date": "",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Kreuzberg_Postkarte_004.jpg/220px-Berlin-Kreuzberg_Postkarte_004.jpg",
                 "type2": "Building",

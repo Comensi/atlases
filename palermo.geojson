@@ -1,5 +1,32 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Pascal's parents",
+                "type": "Building",
+                "marker-symbol": "",
+                "start_date": "1979-11-11T16:00:00.000-08:00",
+                "description": "Where they live",
+                "end_date": "",
+                "image": "https://i.postimg.cc/RFvL8v1d/ballet-head-only.jpg",
+                "category": "Places",
+                "sub-category": "Housing",
+                "tags": null,
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "https://www.the-organization.com/",
+                        "title": "The org website",
+                        "description": "All about the org",
+                        "type": "website"
+                    }
+                ]
+            },
+            "id": "palermo/pascal_s_parents#40"
+        }
+    ],
     "features": [
         {
             "type": "Feature",

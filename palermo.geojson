@@ -4,6 +4,82 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Spazi di Quartiere",
+                "type": "Event",
+                "marker-symbol": "",
+                "start_date": "2019-11-14T16:00:00.000-08:00",
+                "description": "#SpaziDiQuartiere é una serie Incontri di ascolto di proposte e idee dei cittadini del Capo-Monte di Pieta' con NaKa Giancarlo Gallitano @teatroallaguilla.palermo e prima circoscrizione Comune di Palermo",
+                "end_date": "2019-11-14T16:00:00.000-08:00",
+                "image": "https://i.postimg.cc/0NMkFYZz/COMENSI-SPAZI-DI-QUARTIERE-CARTOLINA-A5-2.jpg",
+                "category": "Transformations",
+                "sub-category": "",
+                "tags": null,
+                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.114987,
+                    13.354046
+                ]
+            },
+            "id": "palermo/spazi_di_quartiere#42"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Testing",
+                "type": "",
+                "marker-symbol": "",
+                "start_date": "",
+                "description": "",
+                "end_date": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": null,
+                "category-description": "",
+                "links": []
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        13.361417,
+                        38.115719
+                    ],
+                    [
+                        13.357836,
+                        38.121306
+                    ],
+                    [
+                        13.350973,
+                        38.118386
+                    ],
+                    [
+                        13.353418,
+                        38.11506
+                    ],
+                    [
+                        13.354855,
+                        38.114722
+                    ],
+                    [
+                        13.355948,
+                        38.113423
+                    ],
+                    [
+                        13.361353,
+                        38.115668
+                    ]
+                ]
+            },
+            "id": "palermo/testing#41"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Pascal's parents",
                 "type": "Building",
                 "marker-symbol": "",
@@ -100,7 +176,14 @@
                 "sub-category": "Public space",
                 "tags": null,
                 "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
-                "links": []
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/h4k2dTXK/COMENSI-SPAZI-DI-QUARTIERE-CARTOLINA-A5-4.jpg",
+                        "title": "spazi di quartiere",
+                        "description": "evento partecipativo a cortile mangano",
+                        "type": "image"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -139,11 +222,31 @@
                 "coordinates": [
                     [
                         13.361417,
-                        13.361417
+                        38.115719
                     ],
                     [
-                        38.115719,
-                        38.115719
+                        13.357836,
+                        38.121306
+                    ],
+                    [
+                        13.350973,
+                        38.118386
+                    ],
+                    [
+                        13.353418,
+                        38.11506
+                    ],
+                    [
+                        13.354855,
+                        38.114722
+                    ],
+                    [
+                        13.355948,
+                        38.113423
+                    ],
+                    [
+                        13.361353,
+                        38.115668
                     ]
                 ]
             },

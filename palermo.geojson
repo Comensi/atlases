@@ -62,7 +62,7 @@
                 "end_date": "",
                 "image": "https://i.postimg.cc/RCkdWCwn/Vicolo-1.jpg",
                 "category": "Delimitations",
-                "sub-category": "",
+                "sub-category": "Area of interest",
                 "tags": null,
                 "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
                 "links": [
@@ -75,10 +75,16 @@
                 ]
             },
             "geometry": {
-                "type": "Point",
+                "type": "LineString",
                 "coordinates": [
-                    38.121121,
-                    38.121121
+                    [
+                        13.357875,
+                        13.357875
+                    ],
+                    [
+                        38.121188,
+                        38.121188
+                    ]
                 ]
             },
             "id": "palermo/#capo"

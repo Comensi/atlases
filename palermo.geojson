@@ -24,7 +24,7 @@
                     }
                 ]
             },
-            "id": "palermo/#capo"
+            "id": "palermo/capo#34"
         }
     ],
     "features": [
@@ -51,7 +51,7 @@
                     38.117546
                 ]
             },
-            "id": "palermo/#la_pupa_del_capo"
+            "id": "palermo/la_pupa_del_capo#36"
         },
         {
             "type": "Feature",
@@ -76,7 +76,7 @@
                     38.116978
                 ]
             },
-            "id": "palermo/#cortile_mangano"
+            "id": "palermo/cortile_mangano#35"
         },
         {
             "type": "Feature",
@@ -153,13 +153,13 @@
                     ]
                 ]
             },
-            "id": "palermo/#the_city_of_palermo"
+            "id": "palermo/the_city_of_palermo#33"
         }
     ],
     "properties": {
-        "title": "",
-        "uri": "",
+        "title": "Palermo",
+        "uri": "palermo",
         "description": "",
-        "image": ""
+        "image": "https://www.comune.palermo.it/img/hdrs/header.png"
     }
 }

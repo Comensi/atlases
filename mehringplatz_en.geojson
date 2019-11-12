@@ -304,6 +304,35 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Pascal's parents",
+                "type": "Place",
+                "start_date": "1979-11-11T16:00:00.000-08:00",
+                "description": "Where the parents have lived for many years",
+                "end_date": "",
+                "image": "https://i.postimg.cc/QxJ75NNX/brick2.jpg",
+                "category": "Places",
+                "sub-category": "Housing",
+                "tags": [
+                    "architecture",
+                    "park",
+                    "gardening",
+                    "housing"
+                ],
+                "category-description": "",
+                "links": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.615041,
+                    1.230674
+                ]
+            },
+            "id": "mehringplatz-community-atlas/pascal_s_parents#37"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Urban Sketches: Victoria Versicherung",
                 "type": "Video",
                 "start_date": "2017-07-08T16:00:00.000-07:00",
@@ -1276,6 +1305,67 @@
                 ]
             },
             "id": "mehringplatz-community-atlas/hedwig_dohm_gedenktafel#9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Victoria Versicherung Kreuzberg",
+                "type": "Building",
+                "start_date": "1913-09-29T16:00:00.000-08:00",
+                "description": "Neo- baroque building.\n\n",
+                "end_date": "",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Kreuzberg_Postkarte_004.jpg/220px-Berlin-Kreuzberg_Postkarte_004.jpg",
+                "category": "Memories",
+                "sub-category": "Architecture ",
+                "tags": [
+                    "architecture"
+                ],
+                "category-description": "to document material and immaterial heritage\r\n",
+                "links": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39625,
+                    52.50373
+                ]
+            },
+            "id": "mehringplatz-community-atlas/victoria_versicherung_kreuzberg#8"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "KMA Antenne",
+                "type": "Organization",
+                "start_date": "",
+                "description": "Youth centre",
+                "end_date": "",
+                "image": "",
+                "category": "Stakeholders",
+                "sub-category": "NGO/Social work",
+                "tags": [
+                    "youths",
+                    "culture",
+                    "Social inclusion"
+                ],
+                "category-description": "identifying formal and informal actors in the area",
+                "links": [
+                    {
+                        "url": "http://kma-ev.de/index.php?id=5",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39179,
+                    52.50062
+                ]
+            },
+            "id": "mehringplatz-community-atlas/kma_antenne#7"
         }
     ],
     "properties": {

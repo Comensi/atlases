@@ -4,24 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "La Pupa Del Capo",
-                "type": "Monument",
-                "marker-symbol": "",
-                "start_date": "",
-                "description": "Il mosaico noto come “A Pupa ru Capo” è stato creato e affisso nei primissimi anni del Novecento. Il mosaico rappresenta Demetra, dea delle messi, che tiene tra le mani un arco di spighe e fiori.",
-                "end_date": "",
-                "image": "https://i.postimg.cc/FH23BYzr/pupa-capo.jpg",
-                "category": "Narratives",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
-                "links": []
-            },
-            "id": "palermo/la_pupa_del_capo#36"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Capo",
                 "type": "Place",
                 "marker-symbol": "",
@@ -42,10 +24,35 @@
                     }
                 ]
             },
-            "id": "palermo/capo#34"
+            "id": "palermo/#capo"
         }
     ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "La Pupa Del Capo",
+                "type": "Monument",
+                "marker-symbol": "",
+                "start_date": "",
+                "description": "Il mosaico noto come “A Pupa ru Capo” è stato creato e affisso nei primissimi anni del Novecento. Il mosaico rappresenta Demetra, dea delle messi, che tiene tra le mani un arco di spighe e fiori.",
+                "end_date": "",
+                "image": "https://i.postimg.cc/FH23BYzr/pupa-capo.jpg",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": null,
+                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "links": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.117546,
+                    13.354483
+                ]
+            },
+            "id": "palermo/#la_pupa_del_capo"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -69,7 +76,7 @@
                     13.354138
                 ]
             },
-            "id": "palermo/cortile_mangano#35"
+            "id": "palermo/#cortile_mangano"
         },
         {
             "type": "Feature",
@@ -146,13 +153,13 @@
                     ]
                 ]
             },
-            "id": "palermo/the_city_of_palermo#33"
+            "id": "palermo/#the_city_of_palermo"
         }
     ],
     "properties": {
-        "title": "Palermo",
-        "uri": "palermo",
+        "title": "",
+        "uri": "",
         "description": "",
-        "image": "https://www.comune.palermo.it/img/hdrs/header.png"
+        "image": ""
     }
 }

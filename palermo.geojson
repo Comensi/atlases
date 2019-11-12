@@ -1,32 +1,5 @@
 {
     "type": "FeatureCollection",
-    "nonGeoFeatures": [
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Capo",
-                "type": "Place",
-                "marker-symbol": "",
-                "start_date": "",
-                "description": "Quartiere storico del centro storico di Palermo",
-                "end_date": "",
-                "image": "https://i.postimg.cc/RCkdWCwn/Vicolo-1.jpg",
-                "category": "Delimitations",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
-                "links": [
-                    {
-                        "url": "https://postimg.cc/t1N43Hzc",
-                        "title": "Mappa del Capo",
-                        "description": "",
-                        "type": "image"
-                    }
-                ]
-            },
-            "id": "palermo/#capo"
-        }
-    ],
     "features": [
         {
             "type": "Feature",
@@ -77,6 +50,38 @@
                 ]
             },
             "id": "palermo/#cortile_mangano"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Capo",
+                "type": "Place",
+                "marker-symbol": "",
+                "start_date": "",
+                "description": "Quartiere storico del centro storico di Palermo",
+                "end_date": "",
+                "image": "https://i.postimg.cc/RCkdWCwn/Vicolo-1.jpg",
+                "category": "Delimitations",
+                "sub-category": "",
+                "tags": null,
+                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "links": [
+                    {
+                        "url": "https://postimg.cc/t1N43Hzc",
+                        "title": "Mappa del Capo",
+                        "description": "",
+                        "type": "image"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.121121,
+                    38.121121
+                ]
+            },
+            "id": "palermo/#capo"
         },
         {
             "type": "Feature",

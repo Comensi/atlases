@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "nonGeoFeatures": [
+    "features": [
         {
             "type": "Feature",
             "properties": {
@@ -24,10 +24,43 @@
                     }
                 ]
             },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.349257,
+                            43.827502
+                        ],
+                        [
+                            1.801718,
+                            43.66155
+                        ],
+                        [
+                            1.66673,
+                            43.426268
+                        ],
+                        [
+                            1.246765,
+                            43.275569
+                        ],
+                        [
+                            0.869298,
+                            43.464337
+                        ],
+                        [
+                            0.941791,
+                            43.735564
+                        ],
+                        [
+                            1.349257,
+                            43.827502
+                        ]
+                    ]
+                ]
+            },
             "id": "palermo/pascal_s_parents#40"
-        }
-    ],
-    "features": [
+        },
         {
             "type": "Feature",
             "properties": {

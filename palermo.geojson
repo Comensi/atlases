@@ -8,7 +8,7 @@
                 "type": "Monument",
                 "marker-symbol": "",
                 "start_date": "",
-                "description": "Il mosaico noto come “A Pupa ru Capo” è stato creato e affisso nei primissimi anni del Novecento. Il mosaico rappresenta Demetra, dea delle messi, che tiene tra le mani un arco di spighe e fiori.",
+                "description": "Il mosaico noto come “A Pupa ru Capo” è stato creato e affisso nei primissimi anni del Novecento. Il mosaico rappresenta Demetra, dea delle messi, che tiene tra le mani un arco di spighe e fiori. Attualmente in restauro, é uno dei simboli storici del quartiere.",
                 "end_date": "",
                 "image": "https://i.postimg.cc/FH23BYzr/pupa-capo.jpg",
                 "category": "Narratives",
@@ -43,10 +43,16 @@
                 "links": []
             },
             "geometry": {
-                "type": "Point",
+                "type": "LineString",
                 "coordinates": [
-                    38.116695,
-                    13.354138
+                    [
+                        13.354206,
+                        13.354206
+                    ],
+                    [
+                        38.116978,
+                        38.116978
+                    ]
                 ]
             },
             "id": "palermo/#cortile_mangano"

@@ -4,6 +4,23 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "",
+                "type": "",
+                "start_date": "",
+                "description": "",
+                "end_date": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": null,
+                "category-description": "",
+                "links": []
+            },
+            "id": ""
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Urban Sketches: Alienation",
                 "type": "Video",
                 "start_date": "2017-09-08T16:00:00.000-07:00",
@@ -301,35 +318,6 @@
         }
     ],
     "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Pascal's parents",
-                "type": "Place",
-                "start_date": "1979-11-11T16:00:00.000-08:00",
-                "description": "Where the parents have lived for many years",
-                "end_date": "",
-                "image": "https://i.postimg.cc/QxJ75NNX/brick2.jpg",
-                "category": "Places",
-                "sub-category": "Housing",
-                "tags": [
-                    "architecture",
-                    "park",
-                    "gardening",
-                    "housing"
-                ],
-                "category-description": "",
-                "links": []
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.230403,
-                    43.615041
-                ]
-            },
-            "id": "mehringplatz-community-atlas/pascal_s_parents#37"
-        },
         {
             "type": "Feature",
             "properties": {

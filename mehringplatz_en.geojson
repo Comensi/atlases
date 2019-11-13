@@ -114,7 +114,8 @@
                     }
                 ],
                 "relationships": [
-                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14,mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15"
+                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14",
+                    "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15"
                 ]
             },
             "id": "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
@@ -221,7 +222,8 @@
                     }
                 ],
                 "relationships": [
-                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17,mehringplatz-community-atlas/bauhutte#16"
+                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
+                    "mehringplatz-community-atlas/bauhutte#16"
                 ]
             },
             "id": "mehringplatz-community-atlas/erz_hlcaf_#18"
@@ -248,7 +250,9 @@
                     }
                 ],
                 "relationships": [
-                    "mehringplatz-community-atlas/bauhutte#16,mehringplatz-community-atlas/taz_neubau#10,mehringplatz-community-atlas/erz_hlcaf_#18"
+                    "mehringplatz-community-atlas/bauhutte#16",
+                    "mehringplatz-community-atlas/taz_neubau#10",
+                    "mehringplatz-community-atlas/erz_hlcaf_#18"
                 ]
             },
             "id": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
@@ -351,7 +355,8 @@
                     }
                 ],
                 "relationships": [
-                    "mehringplatz-community-atlas/caf_madame#26,mehringplatz-community-atlas/die_globale_e_v_#27"
+                    "mehringplatz-community-atlas/caf_madame#26",
+                    "mehringplatz-community-atlas/die_globale_e_v_#27"
                 ]
             },
             "geometry": {
@@ -674,7 +679,9 @@
                     }
                 ],
                 "relationships": [
-                    "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21,mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15,mehringplatz-community-atlas/besselpark_regeneration_#11"
+                    "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+                    "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15",
+                    "mehringplatz-community-atlas/besselpark_regeneration_#11"
                 ]
             },
             "geometry": {
@@ -800,7 +807,8 @@
                     }
                 ],
                 "relationships": [
-                    "mehringplatz-community-atlas/besselpark_regeneration_#11,mehringplatz-community-atlas/taz_neubau#10"
+                    "mehringplatz-community-atlas/besselpark_regeneration_#11",
+                    "mehringplatz-community-atlas/taz_neubau#10"
                 ]
             },
             "geometry": {
@@ -932,7 +940,8 @@
                     }
                 ],
                 "relationships": [
-                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14,mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
+                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14",
+                    "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
                 ]
             },
             "geometry": {
@@ -969,7 +978,8 @@
                     }
                 ],
                 "relationships": [
-                    "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15,mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
+                    "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15",
+                    "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
                 ]
             },
             "geometry": {

@@ -25,7 +25,7 @@
                         "type": "video"
                     }
                 ],
-                "relationships": "[]"
+                "relationships": []
             },
             "id": "mehringplatz-community-atlas/urban_sketches_alienation#36"
         },
@@ -55,7 +55,7 @@
                         "type": "video"
                     }
                 ],
-                "relationships": "[]"
+                "relationships": []
             },
             "id": "mehringplatz-community-atlas/urban_sketches_places_for_all_times#34"
         },
@@ -84,7 +84,7 @@
                         "type": "video"
                     }
                 ],
-                "relationships": "[]"
+                "relationships": []
             },
             "id": "mehringplatz-community-atlas/urban_sketches_development_who_is_it_for#33"
         },
@@ -113,7 +113,9 @@
                         "type": "video"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14,mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14,mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15"
+                ]
             },
             "id": "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
         },
@@ -134,7 +136,7 @@
                 ],
                 "category-description": "",
                 "links": [],
-                "relationships": "[]"
+                "relationships": []
             },
             "id": "mehringplatz-community-atlas/kiezstube_mehringpltz#25"
         },
@@ -161,7 +163,7 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[]"
+                "relationships": []
             },
             "id": "mehringplatz-community-atlas/gewobag#23"
         },
@@ -186,7 +188,9 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
+                ]
             },
             "id": "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
         },
@@ -216,7 +220,9 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17,mehringplatz-community-atlas/bauhutte#16\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17,mehringplatz-community-atlas/bauhutte#16"
+                ]
             },
             "id": "mehringplatz-community-atlas/erz_hlcaf_#18"
         },
@@ -241,7 +247,9 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/bauhutte#16,mehringplatz-community-atlas/taz_neubau#10,mehringplatz-community-atlas/erz_hlcaf_#18\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/bauhutte#16,mehringplatz-community-atlas/taz_neubau#10,mehringplatz-community-atlas/erz_hlcaf_#18"
+                ]
             },
             "id": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
         },
@@ -272,7 +280,9 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
+                ]
             },
             "id": "mehringplatz-community-atlas/bauhutte#16"
         }
@@ -303,7 +313,7 @@
                         "type": "video"
                     }
                 ],
-                "relationships": "[]"
+                "relationships": []
             },
             "geometry": {
                 "type": "Point",
@@ -340,7 +350,9 @@
                         "type": "video"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/caf_madame#26,mehringplatz-community-atlas/die_globale_e_v_#27\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/caf_madame#26,mehringplatz-community-atlas/die_globale_e_v_#27"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +392,7 @@
                         "type": ""
                     }
                 ],
-                "relationships": "[]"
+                "relationships": []
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +419,7 @@
                 ],
                 "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
                 "links": [],
-                "relationships": "[]"
+                "relationships": []
             },
             "geometry": {
                 "type": "LineString",
@@ -553,7 +565,9 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/caf_madame#26\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/caf_madame#26"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -582,7 +596,9 @@
                 ],
                 "category-description": "",
                 "links": [],
-                "relationships": "[\"mehringplatz-community-atlas/die_globale_e_v_#27\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/die_globale_e_v_#27"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -614,7 +630,9 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/die_globale_e_v_#27\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/die_globale_e_v_#27"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -655,7 +673,9 @@
                         "type": "image"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21,mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15,mehringplatz-community-atlas/besselpark_regeneration_#11\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21,mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15,mehringplatz-community-atlas/besselpark_regeneration_#11"
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -779,7 +799,9 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/besselpark_regeneration_#11,mehringplatz-community-atlas/taz_neubau#10\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/besselpark_regeneration_#11,mehringplatz-community-atlas/taz_neubau#10"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -815,7 +837,9 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -907,7 +931,9 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14,mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14,mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -942,7 +968,9 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15,mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15,mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -1038,7 +1066,9 @@
                         "type": "video"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/supermarkt#12\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/supermarkt#12"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1074,7 +1104,9 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[\"mehringplatz-community-atlas/ela_kagel_supermarkt#13\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/ela_kagel_supermarkt#13"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1110,7 +1142,7 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[]"
+                "relationships": []
             },
             "geometry": {
                 "type": "Polygon",
@@ -1182,7 +1214,7 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[]"
+                "relationships": []
             },
             "geometry": {
                 "type": "Point",
@@ -1210,7 +1242,7 @@
                 ],
                 "category-description": "to document material and immaterial heritage\r\n",
                 "links": [],
-                "relationships": "[]"
+                "relationships": []
             },
             "geometry": {
                 "type": "Point",
@@ -1237,7 +1269,9 @@
                 ],
                 "category-description": "to document material and immaterial heritage\r\n",
                 "links": [],
-                "relationships": "[\"mehringplatz-community-atlas/urban_sketches_victoria_versicherung#35\"]"
+                "relationships": [
+                    "mehringplatz-community-atlas/urban_sketches_victoria_versicherung#35"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1273,7 +1307,7 @@
                         "type": "website"
                     }
                 ],
-                "relationships": "[]"
+                "relationships": []
             },
             "geometry": {
                 "type": "Point",

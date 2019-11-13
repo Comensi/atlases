@@ -162,39 +162,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Sanierungsgebiet Südliche Friedrichstadt",
-                "type": "Program",
-                "start_date": "2011-04-01T06:00:00.000-07:00",
-                "description": "",
-                "end_date": "",
-                "image": "http://www.sanierung-suedliche-friedrichstadt.de/der-sanierungsbeirat/",
-                "category": "Transformations",
-                "sub-category": "Public space",
-                "tags": [
-                    "Public space",
-                    "Urban regeneration"
-                ],
-                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
-                "links": [
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/",
-                        "title": "Official website",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
-                        "title": "Area",
-                        "description": "",
-                        "type": "image"
-                    }
-                ]
-            },
-            "id": "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
                 "type": "Organization",
                 "start_date": "",
@@ -640,6 +607,134 @@
                 ]
             },
             "id": "mehringplatz-community-atlas/vielfalt_e_v_#24"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sanierungsgebiet Südliche Friedrichstadt",
+                "type": "Program",
+                "start_date": "2011-04-01T06:00:00.000-07:00",
+                "description": "",
+                "end_date": "",
+                "image": "http://www.sanierung-suedliche-friedrichstadt.de/der-sanierungsbeirat/",
+                "category": "Transformations",
+                "sub-category": "Public space",
+                "tags": [
+                    "Public space",
+                    "Urban regeneration"
+                ],
+                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/",
+                        "title": "Official website",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
+                        "title": "Area",
+                        "description": "",
+                        "type": "image"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.388694,
+                            52.494134
+                        ],
+                        [
+                            13.395335,
+                            52.494514
+                        ],
+                        [
+                            13.394827,
+                            52.49639
+                        ],
+                        [
+                            13.395881,
+                            52.498362
+                        ],
+                        [
+                            13.397561,
+                            52.498457
+                        ],
+                        [
+                            13.397209,
+                            52.499169
+                        ],
+                        [
+                            13.395764,
+                            52.499074
+                        ],
+                        [
+                            13.397092,
+                            52.499787
+                        ],
+                        [
+                            13.399436,
+                            52.504703
+                        ],
+                        [
+                            13.396897,
+                            52.505391
+                        ],
+                        [
+                            13.394983,
+                            52.503064
+                        ],
+                        [
+                            13.394553,
+                            52.504916
+                        ],
+                        [
+                            13.391624,
+                            52.504655
+                        ],
+                        [
+                            13.391702,
+                            52.504418
+                        ],
+                        [
+                            13.390765,
+                            52.504323
+                        ],
+                        [
+                            13.391038,
+                            52.503064
+                        ],
+                        [
+                            13.388304,
+                            52.503064
+                        ],
+                        [
+                            13.384945,
+                            52.50228
+                        ],
+                        [
+                            13.389046,
+                            52.499122
+                        ],
+                        [
+                            13.389554,
+                            52.495891
+                        ],
+                        [
+                            13.389671,
+                            52.49544
+                        ],
+                        [
+                            13.388694,
+                            52.494134
+                        ]
+                    ]
+                ]
+            },
+            "id": "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
         },
         {
             "type": "Feature",

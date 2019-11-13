@@ -24,7 +24,8 @@
                         "description": "",
                         "type": "video"
                     }
-                ]
+                ],
+                "relationships": "[]"
             },
             "id": "mehringplatz-community-atlas/urban_sketches_alienation#36"
         },
@@ -53,7 +54,8 @@
                         "description": "",
                         "type": "video"
                     }
-                ]
+                ],
+                "relationships": "[]"
             },
             "id": "mehringplatz-community-atlas/urban_sketches_places_for_all_times#34"
         },
@@ -81,7 +83,8 @@
                         "description": "Urban Sketches is a series of short video postcards from Mehringplatz",
                         "type": "video"
                     }
-                ]
+                ],
+                "relationships": "[]"
             },
             "id": "mehringplatz-community-atlas/urban_sketches_development_who_is_it_for#33"
         },
@@ -109,7 +112,8 @@
                         "description": "",
                         "type": "video"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14,mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15\"]"
             },
             "id": "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
         },
@@ -129,7 +133,8 @@
                     "quartiersmanagement"
                 ],
                 "category-description": "",
-                "links": []
+                "links": [],
+                "relationships": "[]"
             },
             "id": "mehringplatz-community-atlas/kiezstube_mehringpltz#25"
         },
@@ -155,7 +160,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[]"
             },
             "id": "mehringplatz-community-atlas/gewobag#23"
         },
@@ -179,7 +185,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14\"]"
             },
             "id": "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
         },
@@ -208,7 +215,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17,mehringplatz-community-atlas/bauhutte#16\"]"
             },
             "id": "mehringplatz-community-atlas/erz_hlcaf_#18"
         },
@@ -232,7 +240,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/bauhutte#16,mehringplatz-community-atlas/taz_neubau#10,mehringplatz-community-atlas/erz_hlcaf_#18\"]"
             },
             "id": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
         },
@@ -262,7 +271,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17\"]"
             },
             "id": "mehringplatz-community-atlas/bauhutte#16"
         }
@@ -292,7 +302,8 @@
                         "description": "",
                         "type": "video"
                     }
-                ]
+                ],
+                "relationships": "[]"
             },
             "geometry": {
                 "type": "Point",
@@ -328,7 +339,8 @@
                         "description": "",
                         "type": "video"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/caf_madame#26,mehringplatz-community-atlas/die_globale_e_v_#27\"]"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +379,8 @@
                         "description": "",
                         "type": ""
                     }
-                ]
+                ],
+                "relationships": "[]"
             },
             "geometry": {
                 "type": "Point",
@@ -393,7 +406,8 @@
                     "a test, with comma"
                 ],
                 "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
-                "links": []
+                "links": [],
+                "relationships": "[]"
             },
             "geometry": {
                 "type": "LineString",
@@ -538,7 +552,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/caf_madame#26\"]"
             },
             "geometry": {
                 "type": "Point",
@@ -566,7 +581,8 @@
                     "Social inclusion"
                 ],
                 "category-description": "",
-                "links": []
+                "links": [],
+                "relationships": "[\"mehringplatz-community-atlas/die_globale_e_v_#27\"]"
             },
             "geometry": {
                 "type": "Point",
@@ -597,7 +613,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/die_globale_e_v_#27\"]"
             },
             "geometry": {
                 "type": "Point",
@@ -616,14 +633,14 @@
                 "start_date": "2011-04-01T06:00:00.000-07:00",
                 "description": "",
                 "end_date": "",
-                "image": "http://www.sanierung-suedliche-friedrichstadt.de/der-sanierungsbeirat/",
-                "category": "Transformations",
+                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
+                "category": "Delimitations",
                 "sub-category": "Public space",
                 "tags": [
                     "Public space",
                     "Urban regeneration"
                 ],
-                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
                 "links": [
                     {
                         "url": "http://www.sanierung-suedliche-friedrichstadt.de/",
@@ -637,7 +654,8 @@
                         "description": "",
                         "type": "image"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21,mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15,mehringplatz-community-atlas/besselpark_regeneration_#11\"]"
             },
             "geometry": {
                 "type": "Polygon",
@@ -760,7 +778,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/besselpark_regeneration_#11,mehringplatz-community-atlas/taz_neubau#10\"]"
             },
             "geometry": {
                 "type": "Point",
@@ -795,7 +814,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17\"]"
             },
             "geometry": {
                 "type": "Polygon",
@@ -886,7 +906,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14,mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32\"]"
             },
             "geometry": {
                 "type": "Point",
@@ -920,7 +941,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15,mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32\"]"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1015,7 +1037,8 @@
                         "description": "",
                         "type": "video"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/supermarkt#12\"]"
             },
             "geometry": {
                 "type": "Point",
@@ -1050,7 +1073,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[\"mehringplatz-community-atlas/ela_kagel_supermarkt#13\"]"
             },
             "geometry": {
                 "type": "Point",
@@ -1085,7 +1109,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[]"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1156,7 +1181,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[]"
             },
             "geometry": {
                 "type": "Point",
@@ -1183,7 +1209,8 @@
                     "culture"
                 ],
                 "category-description": "to document material and immaterial heritage\r\n",
-                "links": []
+                "links": [],
+                "relationships": "[]"
             },
             "geometry": {
                 "type": "Point",
@@ -1209,7 +1236,8 @@
                     "architecture"
                 ],
                 "category-description": "to document material and immaterial heritage\r\n",
-                "links": []
+                "links": [],
+                "relationships": "[\"mehringplatz-community-atlas/urban_sketches_victoria_versicherung#35\"]"
             },
             "geometry": {
                 "type": "Point",
@@ -1244,7 +1272,8 @@
                         "description": "",
                         "type": "website"
                     }
-                ]
+                ],
+                "relationships": "[]"
             },
             "geometry": {
                 "type": "Point",

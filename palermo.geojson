@@ -16,7 +16,8 @@
                     "Events"
                 ],
                 "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
-                "links": []
+                "links": [],
+                "relationships": []
             },
             "geometry": {
                 "type": "Point",
@@ -42,7 +43,10 @@
                     "art"
                 ],
                 "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
-                "links": []
+                "links": [],
+                "relationships": [
+                    "palermo/capo#34"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -73,7 +77,8 @@
                         "description": "evento partecipativo a cortile mangano",
                         "type": "image"
                     }
-                ]
+                ],
+                "relationships": []
             },
             "geometry": {
                 "type": "Point",
@@ -104,6 +109,9 @@
                         "description": "",
                         "type": "image"
                     }
+                ],
+                "relationships": [
+                    "palermo/capo#34"
                 ]
             },
             "geometry": {
@@ -154,7 +162,8 @@
                 "sub-category": "",
                 "tags": [],
                 "category-description": "",
-                "links": []
+                "links": [],
+                "relationships": []
             },
             "geometry": {
                 "type": "Polygon",

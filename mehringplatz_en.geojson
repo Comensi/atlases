@@ -1471,7 +1471,14 @@
         "title": "Mehringplatz Anknipsen",
         "url": "http://mehringplatz-en.community-atlas.net",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-11-21T16:40:57.835Z",
-        "links": []
+        "published": "2019-11-21T16:41:59.244Z",
+        "links": [
+            {
+                "title": "Mehringplats - German",
+                "url": "http://mehringplatz-de.community-atlas.net",
+                "description": "German version of the atlas",
+                "lang": "de"
+            }
+        ]
     }
 }

@@ -238,6 +238,10 @@
         }
     ],
     "properties": {
-        "published": 1574351229737
+        "title": "Palermo",
+        "url": "https://palermo.community-atlas.net",
+        "description": "",
+        "image": "https://www.comune.palermo.it/img/hdrs/header.png",
+        "published": "2019-11-21T15:49:20.682Z"
     }
 }

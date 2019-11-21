@@ -22,7 +22,8 @@
                 "category-description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
                 "links": [],
                 "relationships": [],
-                "created_date": "2019-11-21T03:30:20.027-08:00"
+                "created_date": "2019-11-21T03:30:20.027-08:00",
+                "updated_date": "2019-11-21T03:33:31.543-08:00"
             },
             "id": "mehringplatz-community-atlas/kreative_raumpioniere#41"
         },
@@ -34,7 +35,7 @@
                 "start_date": "1815-11-20T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "The circus/round plaza is renamed Belle-Alliance-Platz after the Battle of Waterloo, when English and Prussian  defeated Napoleon's army, June, 18th, 1815. “Belle-Alliance” was another name used to recall this battle, from the name of the inn where the two winning generals previously met.",
-                "image": "https://de.wikipedia.org/wiki/Mehringplatz#/media/File:Berlin_Friedenssaeule.jpg",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/800px-Berlin_Friedenssaeule.jpg",
                 "category": "Memories",
                 "sub-category": "",
                 "tags": [
@@ -47,7 +48,8 @@
                 "relationships": [
                     "mehringplatz-community-atlas/mehringplatz#39"
                 ],
-                "created_date": "2019-11-21T03:11:07.402-08:00"
+                "created_date": "2019-11-21T03:11:07.402-08:00",
+                "updated_date": "2019-11-21T09:09:54.720-08:00"
             },
             "id": "mehringplatz-community-atlas/belle_alliance_platz#40"
         },
@@ -72,7 +74,8 @@
                 "category-description": "",
                 "links": [],
                 "relationships": [],
-                "created_date": "2019-11-21T02:25:33.651-08:00"
+                "created_date": "2019-11-21T02:25:33.651-08:00",
+                "updated_date": "2019-11-21T02:47:41.831-08:00"
             },
             "id": "mehringplatz-community-atlas/mehringplatz#39"
         },
@@ -101,7 +104,8 @@
                     }
                 ],
                 "relationships": [],
-                "created_date": "2019-11-09T03:07:33.603-08:00"
+                "created_date": "2019-11-09T03:07:33.603-08:00",
+                "updated_date": "2019-11-09T03:15:29.162-08:00"
             },
             "id": "mehringplatz-community-atlas/urban_sketches_alienation#36"
         },
@@ -132,7 +136,8 @@
                     }
                 ],
                 "relationships": [],
-                "created_date": "2019-11-09T02:27:23.642-08:00"
+                "created_date": "2019-11-09T02:27:23.642-08:00",
+                "updated_date": "2019-11-09T02:36:34.405-08:00"
             },
             "id": "mehringplatz-community-atlas/urban_sketches_places_for_all_times#34"
         },
@@ -162,7 +167,8 @@
                     }
                 ],
                 "relationships": [],
-                "created_date": "2019-11-07T07:23:13.358-08:00"
+                "created_date": "2019-11-07T07:23:13.358-08:00",
+                "updated_date": "2019-11-09T02:36:21.099-08:00"
             },
             "id": "mehringplatz-community-atlas/urban_sketches_development_who_is_it_for#33"
         },
@@ -195,7 +201,8 @@
                     "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14",
                     "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15"
                 ],
-                "created_date": "2019-11-01T11:26:35.150-07:00"
+                "created_date": "2019-11-01T11:26:35.150-07:00",
+                "updated_date": "2019-11-01T11:38:08.006-07:00"
             },
             "id": "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
         },
@@ -217,7 +224,8 @@
                 "category-description": "",
                 "links": [],
                 "relationships": [],
-                "created_date": "2019-09-27T01:27:56.456-07:00"
+                "created_date": "2019-09-27T01:27:56.456-07:00",
+                "updated_date": "2019-10-28T07:29:30.739-07:00"
             },
             "id": "mehringplatz-community-atlas/kiezstube_mehringpltz#25"
         },
@@ -245,7 +253,8 @@
                     }
                 ],
                 "relationships": [],
-                "created_date": "2019-09-26T13:52:54.348-07:00"
+                "created_date": "2019-09-26T13:52:54.348-07:00",
+                "updated_date": "2019-10-28T07:29:30.739-07:00"
             },
             "id": "mehringplatz-community-atlas/gewobag#23"
         },
@@ -273,7 +282,8 @@
                 "relationships": [
                     "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
                 ],
-                "created_date": "2019-09-26T06:24:58.508-07:00"
+                "created_date": "2019-09-26T06:24:58.508-07:00",
+                "updated_date": "2019-09-26T06:28:14.096-07:00"
             },
             "id": "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
         },
@@ -307,7 +317,8 @@
                     "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
                     "mehringplatz-community-atlas/bauhutte#16"
                 ],
-                "created_date": "2019-09-26T03:56:46.512-07:00"
+                "created_date": "2019-09-26T03:56:46.512-07:00",
+                "updated_date": "2019-11-09T02:54:15.060-08:00"
             },
             "id": "mehringplatz-community-atlas/erz_hlcaf_#18"
         },
@@ -337,7 +348,8 @@
                     "mehringplatz-community-atlas/taz_neubau#10",
                     "mehringplatz-community-atlas/erz_hlcaf_#18"
                 ],
-                "created_date": "2019-09-26T03:29:19.999-07:00"
+                "created_date": "2019-09-26T03:29:19.999-07:00",
+                "updated_date": "2019-11-03T08:45:18.331-08:00"
             },
             "id": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
         },
@@ -371,7 +383,8 @@
                 "relationships": [
                     "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
                 ],
-                "created_date": "2019-09-26T03:07:19.608-07:00"
+                "created_date": "2019-09-26T03:07:19.608-07:00",
+                "updated_date": "2019-10-28T07:29:30.739-07:00"
             },
             "id": "mehringplatz-community-atlas/bauhutte#16"
         }
@@ -385,7 +398,7 @@
                 "start_date": "2017-04-30T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "Soziales Erhaltungsgebiet  is a program of the City of Berlin for the protection of the social composition of a neighbourhood. As of January 2019, there are a total of 57 social conservation areas in Berlin. Referred to in the media as “Milieuschutzgebiete“ (social environment protection areas), these are legally established areas for preserving the composition of the resident population. In the Südliche Freidrichsstadt it is established by a recent deliberation on the same area of the Sanierungsgebiet.\nLegal basis\nThe legal basis is Art. 172 Federal Building Code (BauGB). Extracts:\n• In a development plan or other statutes, the municipality may designate areas in which the demolition, alteration or change of use of building structures first requires official approval with the aim of maintaining the social composition of the resident population.\n• The state governments shall be authorised to determine, by statutory order with a maximum validity of five years, that the establishment of condominium ownership or partial ownership (Art. 1, German Condominium Act) of buildings intended to serve residential purposes may not take place in whole or in part without prior authorisation for plots in areas located within the scope of a statute in accordance with Sentence 1 (2).\n\n",
-                "image": "https://ibb.co/GdXtj3g",
+                "image": "https://i.ibb.co/hgkZv1p/Milieuschutzgebiet-SF.png",
                 "category": "Delimitations",
                 "sub-category": "social policy",
                 "tags": [],
@@ -401,7 +414,8 @@
                 "relationships": [
                     "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
                 ],
-                "created_date": "2019-11-20T10:18:28.481-08:00"
+                "created_date": "2019-11-20T10:18:28.481-08:00",
+                "updated_date": "2019-11-21T09:09:11.563-08:00"
             },
             "geometry": {
                 "type": "Polygon",
@@ -534,7 +548,8 @@
                     }
                 ],
                 "relationships": [],
-                "created_date": "2019-11-09T02:38:47.634-08:00"
+                "created_date": "2019-11-09T02:38:47.634-08:00",
+                "updated_date": "2019-11-09T02:52:31.858-08:00"
             },
             "geometry": {
                 "type": "Point",
@@ -575,7 +590,8 @@
                     "mehringplatz-community-atlas/caf_madame#26",
                     "mehringplatz-community-atlas/die_globale_e_v_#27"
                 ],
-                "created_date": "2019-10-30T04:32:12.500-07:00"
+                "created_date": "2019-10-30T04:32:12.500-07:00",
+                "updated_date": "2019-11-03T08:51:04.969-08:00"
             },
             "geometry": {
                 "type": "Point",
@@ -616,7 +632,8 @@
                     }
                 ],
                 "relationships": [],
-                "created_date": "2019-10-30T03:56:51.891-07:00"
+                "created_date": "2019-10-30T03:56:51.891-07:00",
+                "updated_date": "2019-10-31T02:01:31.245-07:00"
             },
             "geometry": {
                 "type": "Point",
@@ -644,7 +661,8 @@
                 "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
                 "links": [],
                 "relationships": [],
-                "created_date": "2019-10-17T14:07:18.473-07:00"
+                "created_date": "2019-10-17T14:07:18.473-07:00",
+                "updated_date": "2019-11-11T12:37:50.573-08:00"
             },
             "geometry": {
                 "type": "LineString",
@@ -793,7 +811,8 @@
                 "relationships": [
                     "mehringplatz-community-atlas/caf_madame#26"
                 ],
-                "created_date": "2019-09-27T02:10:08.037-07:00"
+                "created_date": "2019-09-27T02:10:08.037-07:00",
+                "updated_date": "2019-10-28T07:29:30.739-07:00"
             },
             "geometry": {
                 "type": "Point",
@@ -825,7 +844,8 @@
                 "relationships": [
                     "mehringplatz-community-atlas/die_globale_e_v_#27"
                 ],
-                "created_date": "2019-09-27T01:50:32.870-07:00"
+                "created_date": "2019-09-27T01:50:32.870-07:00",
+                "updated_date": "2019-10-28T07:29:30.739-07:00"
             },
             "geometry": {
                 "type": "Point",
@@ -860,7 +880,8 @@
                 "relationships": [
                     "mehringplatz-community-atlas/die_globale_e_v_#27"
                 ],
-                "created_date": "2019-09-27T01:02:35.669-07:00"
+                "created_date": "2019-09-27T01:02:35.669-07:00",
+                "updated_date": "2019-11-21T03:30:07.440-08:00"
             },
             "geometry": {
                 "type": "Point",
@@ -906,7 +927,8 @@
                     "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15",
                     "mehringplatz-community-atlas/besselpark_regeneration_#11"
                 ],
-                "created_date": "2019-09-26T06:31:05.747-07:00"
+                "created_date": "2019-09-26T06:31:05.747-07:00",
+                "updated_date": "2019-11-13T08:41:49.394-08:00"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1042,7 +1064,8 @@
                     "mehringplatz-community-atlas/besselpark_regeneration_#11",
                     "mehringplatz-community-atlas/taz_neubau#10"
                 ],
-                "created_date": "2019-09-26T06:05:41.401-07:00"
+                "created_date": "2019-09-26T06:05:41.401-07:00",
+                "updated_date": "2019-11-05T04:15:04.566-08:00"
             },
             "geometry": {
                 "type": "Point",
@@ -1081,7 +1104,8 @@
                 "relationships": [
                     "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
                 ],
-                "created_date": "2019-09-26T04:08:36.760-07:00"
+                "created_date": "2019-09-26T04:08:36.760-07:00",
+                "updated_date": "2019-10-28T07:29:30.739-07:00"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1177,7 +1201,8 @@
                     "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14",
                     "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
                 ],
-                "created_date": "2019-09-26T01:20:24.808-07:00"
+                "created_date": "2019-09-26T01:20:24.808-07:00",
+                "updated_date": "2019-11-07T04:15:26.695-08:00"
             },
             "geometry": {
                 "type": "Point",
@@ -1216,7 +1241,8 @@
                     "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15",
                     "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
                 ],
-                "created_date": "2019-09-25T10:32:11.919-07:00"
+                "created_date": "2019-09-25T10:32:11.919-07:00",
+                "updated_date": "2019-11-07T04:15:56.171-08:00"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1315,7 +1341,8 @@
                 "relationships": [
                     "mehringplatz-community-atlas/supermarkt#12"
                 ],
-                "created_date": "2019-09-25T09:10:51.974-07:00"
+                "created_date": "2019-09-25T09:10:51.974-07:00",
+                "updated_date": "2019-10-28T07:29:30.739-07:00"
             },
             "geometry": {
                 "type": "Point",
@@ -1354,7 +1381,8 @@
                 "relationships": [
                     "mehringplatz-community-atlas/ela_kagel_supermarkt#13"
                 ],
-                "created_date": "2019-09-25T09:07:25.368-07:00"
+                "created_date": "2019-09-25T09:07:25.368-07:00",
+                "updated_date": "2019-10-28T07:29:30.739-07:00"
             },
             "geometry": {
                 "type": "Point",
@@ -1391,7 +1419,8 @@
                     }
                 ],
                 "relationships": [],
-                "created_date": "2019-09-25T08:52:03.678-07:00"
+                "created_date": "2019-09-25T08:52:03.678-07:00",
+                "updated_date": "2019-10-28T07:29:30.739-07:00"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1464,7 +1493,8 @@
                     }
                 ],
                 "relationships": [],
-                "created_date": "2019-09-25T07:59:09.170-07:00"
+                "created_date": "2019-09-25T07:59:09.170-07:00",
+                "updated_date": "2019-10-28T07:29:30.739-07:00"
             },
             "geometry": {
                 "type": "Point",
@@ -1493,7 +1523,8 @@
                 "category-description": "to document material and immaterial heritage\r\n",
                 "links": [],
                 "relationships": [],
-                "created_date": "2019-09-25T07:58:48.148-07:00"
+                "created_date": "2019-09-25T07:58:48.148-07:00",
+                "updated_date": "2019-10-28T07:29:30.739-07:00"
             },
             "geometry": {
                 "type": "Point",
@@ -1523,7 +1554,8 @@
                 "relationships": [
                     "mehringplatz-community-atlas/urban_sketches_victoria_versicherung#35"
                 ],
-                "created_date": "2019-09-25T07:57:02.813-07:00"
+                "created_date": "2019-09-25T07:57:02.813-07:00",
+                "updated_date": "2019-11-09T02:52:15.095-08:00"
             },
             "geometry": {
                 "type": "Point",
@@ -1560,7 +1592,8 @@
                     }
                 ],
                 "relationships": [],
-                "created_date": "2019-09-25T07:36:57.647-07:00"
+                "created_date": "2019-09-25T07:36:57.647-07:00",
+                "updated_date": "2019-11-12T05:53:27.661-08:00"
             },
             "geometry": {
                 "type": "Point",
@@ -1576,7 +1609,7 @@
         "title": "Mehringplatz Anknipsen",
         "url": "http://mehringplatz-en.community-atlas.net",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-11-21T17:06:32.967Z",
+        "published": "2019-11-21T17:10:24.974Z",
         "links": [
             {
                 "title": "Mehringplats - German",

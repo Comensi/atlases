@@ -4,12 +4,12 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Kreative Raumpioniere",
+                "title": "Kreative Raumpioniere am Mehringplatz",
                 "type": "Project",
                 "start_date": "",
                 "end_date": "",
-                "description": " In 2009 the study Kreativ Raumpionere am Mehringplatz develops a strategy to support the settlement of cultural actors and creative industries in the area.",
-                "image": "",
+                "description": " In 2009 the study Kreative Raumpionere am Mehringplatz is commissioned by GeWoBag to the firm Urbanitas to develop a strategy to support the settlement of cultural actors and creative industries in the area. The study is lead by Florian Schmidt, who will later become Baustadtrat (Coucillor for Urban Development) of Friedrichshain-Kreuzberg. ",
+                "image": "https://taz.de/picture/304920/624/Kreativquartier_aktuell_WEB.jpg",
                 "category": "Imaginations",
                 "sub-category": "",
                 "tags": [
@@ -20,12 +20,22 @@
                     "Creative industries"
                 ],
                 "category-description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
-                "links": [],
-                "relationships": [],
+                "links": [
+                    {
+                        "url": "http://kreativ-quartier-berlin.de/Raumpioniere_web.pdf",
+                        "title": "",
+                        "description": "",
+                        "type": "document"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
+                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
+                ],
                 "created_date": "2019-11-21T03:30:20.027-08:00",
-                "updated_date": "2019-11-21T03:33:31.543-08:00"
+                "updated_date": "2019-11-22T14:35:37.933-08:00"
             },
-            "id": "mehringplatz-community-atlas/kreative_raumpioniere#41"
+            "id": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41"
         },
         {
             "type": "Feature",
@@ -39,9 +49,10 @@
                 "category": "Memories",
                 "sub-category": "",
                 "tags": [
-                    "history, ",
                     "architecture",
-                    "toponyms"
+                    "Creative industries",
+                    "toponyms",
+                    "history"
                 ],
                 "category-description": "to document material and immaterial heritage\r\n",
                 "links": [],
@@ -49,7 +60,7 @@
                     "mehringplatz-community-atlas/mehringplatz#39"
                 ],
                 "created_date": "2019-11-21T03:11:07.402-08:00",
-                "updated_date": "2019-11-21T09:09:54.720-08:00"
+                "updated_date": "2019-11-21T09:35:15.679-08:00"
             },
             "id": "mehringplatz-community-atlas/belle_alliance_platz#40"
         },
@@ -1610,7 +1621,7 @@
         "url": "http://mehringplatz-en.community-atlas.net",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-11-21T17:20:27.558Z",
+        "published": "2019-11-22T23:36:10.357Z",
         "links": [
             {
                 "title": "Mehringplats - German",

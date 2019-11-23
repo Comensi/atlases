@@ -4,6 +4,52 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Friedrichstadt Incorporation",
+                "type": "Event",
+                "start_date": "",
+                "end_date": "",
+                "description": "in 1709 is decreed and in  1710 happens the  effectively incorporation of the Friedrichstadt in the city of Berlin. The town is then integrated in the city as a district.",
+                "image": "https://en.wikipedia.org/wiki/Friedrichstadt_(Berlin)#/media/File:Map_de_berlin_1710.jpg",
+                "category": "Memories",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "to document material and immaterial heritage\r\n",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/friedrichstadt_foundation#42"
+                ],
+                "created_date": "2019-11-23T03:48:48.433-08:00",
+                "updated_date": "2019-11-23T03:53:48.280-08:00"
+            },
+            "id": "mehringplatz-community-atlas/friedrichstadt_incorporation#44"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Friedrichstadt Foundation",
+                "type": "Event",
+                "start_date": "1691-11-22T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Friedrichstadt is founded as independent city and suburb of Berlin",
+                "image": "https://en.wikipedia.org/wiki/Friedrichstadt_(Berlin)#/media/File:FriedrichstadtEarlyStreetPlan.jpg",
+                "category": "Memories",
+                "sub-category": "",
+                "tags": [
+                    "toponyms",
+                    "history",
+                    "Urbanism"
+                ],
+                "category-description": "to document material and immaterial heritage\r\n",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-11-22T03:36:17.608-08:00",
+                "updated_date": "2019-11-23T03:47:40.929-08:00"
+            },
+            "id": "mehringplatz-community-atlas/friedrichstadt_foundation#42"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Kreative Raumpioniere am Mehringplatz",
                 "type": "Project",
                 "start_date": "",
@@ -404,15 +450,59 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "GSW Tower",
+                "type": "Building",
+                "start_date": "1999-11-21T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Germany’s first ecological high-rise building was designed by Sauerbach Hutton and inaugurated in 1999. The construction of the 80-metre tall building was regarded as a political signal as it represented a departure from Berlin’s usual building height. One of the functions of the streamlined façade is to reduce energy requirements. ",
+                "image": "http://www.sauerbruchhutton.de/cache/images/projekte/gsw/2567-gsw_hero-c.jpg",
+                "category": "Places",
+                "sub-category": "",
+                "tags": [
+                    "architecture",
+                    "office",
+                    "workspace"
+                ],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "http://www.sauerbruchhutton.de/en/project/gsw",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-11-22T15:22:50.574-08:00",
+                "updated_date": "2019-11-22T15:35:59.671-08:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.507115,
+                    13.392414
+                ]
+            },
+            "id": "mehringplatz-community-atlas/gsw_tower#43"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Milieuschutzgebiet - Soziales Erhaltungsgebiet Südliche Friedrichstadt",
                 "type": "Program",
                 "start_date": "2017-04-30T16:00:00.000-07:00",
                 "end_date": "",
-                "description": "Soziales Erhaltungsgebiet  is a program of the City of Berlin for the protection of the social composition of a neighbourhood. As of January 2019, there are a total of 57 social conservation areas in Berlin. Referred to in the media as “Milieuschutzgebiete“ (social environment protection areas), these are legally established areas for preserving the composition of the resident population. In the Südliche Freidrichsstadt it is established by a recent deliberation on the same area of the Sanierungsgebiet.\nLegal basis\nThe legal basis is Art. 172 Federal Building Code (BauGB). Extracts:\n• In a development plan or other statutes, the municipality may designate areas in which the demolition, alteration or change of use of building structures first requires official approval with the aim of maintaining the social composition of the resident population.\n• The state governments shall be authorised to determine, by statutory order with a maximum validity of five years, that the establishment of condominium ownership or partial ownership (Art. 1, German Condominium Act) of buildings intended to serve residential purposes may not take place in whole or in part without prior authorisation for plots in areas located within the scope of a statute in accordance with Sentence 1 (2).\n\n",
+                "description": "Since  2017 the Südlche Friedrichsstadt is inscribed in the program  of the City of Berlin for the protection of the social composition of a neighbourhood,  the Soziales Erhaltungsgebiet.  Referred to in the media as “Milieuschutzgebiete“ (social environment protection areas), these are legally established areas for preserving the composition of the resident population from displacement and expulsion connected with urban regeneration. As of January 2019, there are a total of 57 social conservation areas in Berlin. In the Südliche Freidrichsstadt it is established by a recent deliberation on the same area of the Sanierungsgebiet.\n\nLegal basis\nThe legal basis is Art. 172 Federal Building Code (BauGB). Extracts:\n• In a development plan or other statutes, the municipality may designate areas in which the demolition, alteration or change of use of building structures first requires official approval with the aim of maintaining the social composition of the resident population.\n• The state governments shall be authorised to determine, by statutory order with a maximum validity of five years, that the establishment of condominium ownership or partial ownership (Art. 1, German Condominium Act) of buildings intended to serve residential purposes may not take place in whole or in part without prior authorisation for plots in areas located within the scope of a statute in accordance with Sentence 1 (2).\n\n",
                 "image": "https://i.ibb.co/hgkZv1p/Milieuschutzgebiet-SF.png",
                 "category": "Delimitations",
                 "sub-category": "social policy",
-                "tags": [],
+                "tags": [
+                    "Social inclusion",
+                    "Urban regeneration",
+                    "Urbanism",
+                    "Urban Policy",
+                    "Heritage"
+                ],
                 "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
                 "links": [
                     {
@@ -426,7 +516,7 @@
                     "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
                 ],
                 "created_date": "2019-11-20T10:18:28.481-08:00",
-                "updated_date": "2019-11-21T09:09:11.563-08:00"
+                "updated_date": "2019-11-23T04:02:33.701-08:00"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1515,105 +1605,6 @@
                 ]
             },
             "id": "mehringplatz-community-atlas/taz_neubau#10"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Hedwig Dohm Gedenktafel",
-                "type": "Monument",
-                "start_date": "",
-                "end_date": "",
-                "description": "Marianne Adelaide Hedwig Dohm  (20 September 1831 – 1 June 1919) was a German feminist, and author. She was one of the first feminist thinkers. She lived in this house until 1851.",
-                "image": "https://www.gedenktafeln-in-berlin.de/typo3temp/pics/Gedenktafel_Friedrichstr_235__Kreuz__Hed_ed79a9fe12.jpg",
-                "category": "Memories",
-                "sub-category": "Plaques/Information displays",
-                "tags": [
-                    "feminism",
-                    "culture"
-                ],
-                "category-description": "to document material and immaterial heritage\r\n",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-09-25T07:58:48.148-07:00",
-                "updated_date": "2019-10-28T07:29:30.739-07:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39107,
-                    52.50225
-                ]
-            },
-            "id": "mehringplatz-community-atlas/hedwig_dohm_gedenktafel#9"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Victoria Versicherung Kreuzberg",
-                "type": "Building",
-                "start_date": "1913-09-29T16:00:00.000-08:00",
-                "end_date": "",
-                "description": "Neo- baroque building.\n\n",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Kreuzberg_Postkarte_004.jpg/220px-Berlin-Kreuzberg_Postkarte_004.jpg",
-                "category": "Memories",
-                "sub-category": "Architecture ",
-                "tags": [
-                    "architecture"
-                ],
-                "category-description": "to document material and immaterial heritage\r\n",
-                "links": [],
-                "relationships": [
-                    "mehringplatz-community-atlas/urban_sketches_victoria_versicherung#35"
-                ],
-                "created_date": "2019-09-25T07:57:02.813-07:00",
-                "updated_date": "2019-11-09T02:52:15.095-08:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39625,
-                    52.50373
-                ]
-            },
-            "id": "mehringplatz-community-atlas/victoria_versicherung_kreuzberg#8"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "KMA Antenne",
-                "type": "Organization",
-                "start_date": "",
-                "end_date": "",
-                "description": "Youth centre",
-                "image": "",
-                "category": "Stakeholders",
-                "sub-category": "NGO/Social work",
-                "tags": [
-                    "youths",
-                    "culture",
-                    "Social inclusion"
-                ],
-                "category-description": "identifying formal and informal actors in the area",
-                "links": [
-                    {
-                        "url": "http://kma-ev.de/index.php?id=5",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-09-25T07:36:57.647-07:00",
-                "updated_date": "2019-11-12T05:53:27.661-08:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39179,
-                    52.50062
-                ]
-            },
-            "id": "mehringplatz-community-atlas/kma_antenne#7"
         }
     ],
     "properties": {
@@ -1621,7 +1612,7 @@
         "url": "http://mehringplatz-en.community-atlas.net",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-11-22T23:36:10.357Z",
+        "published": "2019-11-23T12:02:55.755Z",
         "links": [
             {
                 "title": "Mehringplats - German",

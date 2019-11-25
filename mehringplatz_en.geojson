@@ -1782,9 +1782,23 @@
     "properties": {
         "title": "Mehringplatz Anknipsen",
         "url": "http://mehringplatz-en.community-atlas.net",
+        "id": "mehringplatz_en",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-11-25T14:29:28.284Z",
-        "links": []
+        "published": "2019-11-25T17:37:38.254Z",
+        "links": [],
+        "taxonomy": [
+            {
+                "title": "Mehringplatz Anknipsen",
+                "base_key": "mehringplatz-community-atlas",
+                "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
+                "id": "mehringplatz_en",
+                "url": "http://mehringplatz-en.community-atlas.net",
+                "language": "en",
+                "links": "[{\"title\":\"Mehringplats - German\",\"url\":\"http://mehringplatz-de.community-atlas.net\",\"description\":\"German version of the atlas\",\"lang\":\"de\"}, \"type\":\"translation\"]",
+                "sub-categories": []
+            }
+        ]
     }
 }

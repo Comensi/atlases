@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Die Rondell",
+                "type": "",
+                "start_date": "1720-11-22T16:00:00.000-08:00",
+                "end_date": "1815-11-22T16:00:00.000-08:00",
+                "description": "Originally named Rondell for its circular shape, this baroque square  was s laid out and completed around 1720 inspired by the urban model od piazza del Popolo in Rome. It is realized in the context of the city's extension under King Frederick William I of Prussia, along with Pariser Platz (former Karree) and Leipziger Platz (Octagon), as southern end of the Friedrichstraße. ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mehringplatz_um1730.jpg",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-11-23T04:19:54.664-08:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "id": "mehringplatz-community-atlas/die_rondell#45"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Friedrichstadt Incorporation",
                 "type": "Event",
                 "start_date": "",
@@ -19,7 +40,8 @@
                     "mehringplatz-community-atlas/friedrichstadt_foundation#42"
                 ],
                 "created_date": "2019-11-23T03:48:48.433-08:00",
-                "updated_date": "2019-11-23T03:53:48.280-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/friedrichstadt_incorporation#44"
         },
@@ -31,7 +53,7 @@
                 "start_date": "1691-11-22T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "Friedrichstadt is founded as independent city and suburb of Berlin",
-                "image": "https://en.wikipedia.org/wiki/Friedrichstadt_(Berlin)#/media/File:FriedrichstadtEarlyStreetPlan.jpg",
+                "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/FriedrichstadtEarlyStreetPlan.jpg",
                 "category": "Memories",
                 "sub-category": "",
                 "tags": [
@@ -43,7 +65,8 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-11-22T03:36:17.608-08:00",
-                "updated_date": "2019-11-23T03:47:40.929-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/friedrichstadt_foundation#42"
         },
@@ -79,7 +102,8 @@
                     "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
                 ],
                 "created_date": "2019-11-21T03:30:20.027-08:00",
-                "updated_date": "2019-11-22T14:35:37.933-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41"
         },
@@ -106,35 +130,10 @@
                     "mehringplatz-community-atlas/mehringplatz#39"
                 ],
                 "created_date": "2019-11-21T03:11:07.402-08:00",
-                "updated_date": "2019-11-21T09:35:15.679-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/belle_alliance_platz#40"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Mehringplatz",
-                "type": "Place",
-                "start_date": "1720-11-20T16:00:00.000-08:00",
-                "end_date": "",
-                "description": "Mehringplatz is the core of the Südliche Friedrichstadt. The square, originally named Rondell for its circular shape, is laid out and completed around 1720. Its urban model is piazza del Popolo in Rome. It is realized in the context of the city's extension under King Frederick William I of Prussia, along with Pariser Platz (former Karree) and Leipziger Platz (Octagon), as southern end of the Friedrichstraße. The  baroque monumental round plaza at the end of the main North-South axis Friedrichstrasse, next to the “Hallesche tor” (city door towards Halle), it was completely destroyed during WWII.  Successively it found itself as a peripheral territory at the edge of Berlin Wall. Rebuilt in the seventies on a concept by Hans Scharoun readapted in residential key by its follower Werner Düttman, it has become a huge social-housing settlement inhabited mostly by immigrant households. ",
-                "image": "",
-                "category": "Places",
-                "sub-category": "Public space",
-                "tags": [
-                    "Public space",
-                    "Urban regeneration",
-                    "quartiersmanagement",
-                    "Social inclusion",
-                    "architecture"
-                ],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-11-21T02:25:33.651-08:00",
-                "updated_date": "2019-11-21T02:47:41.831-08:00"
-            },
-            "id": "mehringplatz-community-atlas/mehringplatz#39"
         },
         {
             "type": "Feature",
@@ -162,7 +161,8 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-09T03:07:33.603-08:00",
-                "updated_date": "2019-11-09T03:15:29.162-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/urban_sketches_alienation#36"
         },
@@ -194,7 +194,8 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-09T02:27:23.642-08:00",
-                "updated_date": "2019-11-09T02:36:34.405-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/urban_sketches_places_for_all_times#34"
         },
@@ -225,7 +226,8 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-07T07:23:13.358-08:00",
-                "updated_date": "2019-11-09T02:36:21.099-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/urban_sketches_development_who_is_it_for#33"
         },
@@ -259,32 +261,10 @@
                     "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15"
                 ],
                 "created_date": "2019-11-01T11:26:35.150-07:00",
-                "updated_date": "2019-11-01T11:38:08.006-07:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Kiezstube Mehringpltz",
-                "type": "Place",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "http://qm-mehringplatz.info/fileadmin/_processed_/csm_2018_eroeffn_kiezstube06_b9c3ae922e.jpg",
-                "category": "Places",
-                "sub-category": "Community hub",
-                "tags": [
-                    "Social inclusion",
-                    "quartiersmanagement"
-                ],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-09-27T01:27:56.456-07:00",
-                "updated_date": "2019-10-28T07:29:30.739-07:00"
-            },
-            "id": "mehringplatz-community-atlas/kiezstube_mehringpltz#25"
         },
         {
             "type": "Feature",
@@ -298,7 +278,7 @@
                 "category": "Stakeholders",
                 "sub-category": "Developers and enterprises",
                 "tags": [
-                    "housing"
+                    "architecture"
                 ],
                 "category-description": "identifying formal and informal actors in the area",
                 "links": [
@@ -311,7 +291,8 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-09-26T13:52:54.348-07:00",
-                "updated_date": "2019-10-28T07:29:30.739-07:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/gewobag#23"
         },
@@ -340,7 +321,8 @@
                     "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
                 ],
                 "created_date": "2019-09-26T06:24:58.508-07:00",
-                "updated_date": "2019-09-26T06:28:14.096-07:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
         },
@@ -375,7 +357,8 @@
                     "mehringplatz-community-atlas/bauhutte#16"
                 ],
                 "created_date": "2019-09-26T03:56:46.512-07:00",
-                "updated_date": "2019-11-09T02:54:15.060-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/erz_hlcaf_#18"
         },
@@ -406,7 +389,8 @@
                     "mehringplatz-community-atlas/erz_hlcaf_#18"
                 ],
                 "created_date": "2019-09-26T03:29:19.999-07:00",
-                "updated_date": "2019-11-03T08:45:18.331-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
         },
@@ -441,7 +425,8 @@
                     "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
                 ],
                 "created_date": "2019-09-26T03:07:19.608-07:00",
-                "updated_date": "2019-10-28T07:29:30.739-07:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "id": "mehringplatz-community-atlas/bauhutte#16"
         }
@@ -474,16 +459,53 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-22T15:22:50.574-08:00",
-                "updated_date": "2019-11-22T15:35:59.671-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    52.507115,
-                    13.392414
+                    52.506507,
+                    13.393316
                 ]
             },
             "id": "mehringplatz-community-atlas/gsw_tower#43"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mehringplatz",
+                "type": "Place",
+                "start_date": "1720-11-20T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Mehringplatz is the core of the Südliche Friedrichstadt. The  baroque monumental plaza at the end of the main North-South axis Friedrichstrasse, next to the Hallesches Tor (city door towards Halle), was completely destroyed during WWII.  Successively it found itself as a peripheral territory at the edge of Berlin Wall. Rebuilt in the seventies on a concept by Hans Scharoun readapted in residential key by its follower Werner Düttman, it has become a huge social-housing settlement inhabited mostly by immigrant households. The owner of most of the housing complex is today GeWoBag, a publicly owned private company. ",
+                "image": "https://ibb.co/YRwGrTm",
+                "category": "Places",
+                "sub-category": "Public space",
+                "tags": [
+                    "Public space",
+                    "Urban regeneration",
+                    "quartiersmanagement",
+                    "Social inclusion",
+                    "architecture"
+                ],
+                "category-description": "",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/die_rondell#45"
+                ],
+                "created_date": "2019-11-21T02:25:33.651-08:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.391837,
+                    52.498937
+                ]
+            },
+            "id": "mehringplatz-community-atlas/mehringplatz#39"
         },
         {
             "type": "Feature",
@@ -516,7 +538,8 @@
                     "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
                 ],
                 "created_date": "2019-11-20T10:18:28.481-08:00",
-                "updated_date": "2019-11-23T04:02:33.701-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Polygon",
@@ -650,7 +673,8 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-09T02:38:47.634-08:00",
-                "updated_date": "2019-11-09T02:52:31.858-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -692,7 +716,8 @@
                     "mehringplatz-community-atlas/die_globale_e_v_#27"
                 ],
                 "created_date": "2019-10-30T04:32:12.500-07:00",
-                "updated_date": "2019-11-03T08:51:04.969-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -734,7 +759,8 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-10-30T03:56:51.891-07:00",
-                "updated_date": "2019-10-31T02:01:31.245-07:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -763,7 +789,8 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-10-17T14:07:18.473-07:00",
-                "updated_date": "2019-11-11T12:37:50.573-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "LineString",
@@ -913,7 +940,8 @@
                     "mehringplatz-community-atlas/caf_madame#26"
                 ],
                 "created_date": "2019-09-27T02:10:08.037-07:00",
-                "updated_date": "2019-10-28T07:29:30.739-07:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -946,7 +974,8 @@
                     "mehringplatz-community-atlas/die_globale_e_v_#27"
                 ],
                 "created_date": "2019-09-27T01:50:32.870-07:00",
-                "updated_date": "2019-10-28T07:29:30.739-07:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -956,6 +985,37 @@
                 ]
             },
             "id": "mehringplatz-community-atlas/caf_madame#26"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Kiezstube Mehringpltz",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "http://qm-mehringplatz.info/fileadmin/_processed_/csm_2018_eroeffn_kiezstube06_b9c3ae922e.jpg",
+                "category": "Places",
+                "sub-category": "Community hub",
+                "tags": [
+                    "Social inclusion",
+                    "quartiersmanagement"
+                ],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-09-27T01:27:56.456-07:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.499245,
+                    13.39305
+                ]
+            },
+            "id": "mehringplatz-community-atlas/kiezstube_mehringpltz#25"
         },
         {
             "type": "Feature",
@@ -982,7 +1042,8 @@
                     "mehringplatz-community-atlas/die_globale_e_v_#27"
                 ],
                 "created_date": "2019-09-27T01:02:35.669-07:00",
-                "updated_date": "2019-11-21T03:30:07.440-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1029,7 +1090,8 @@
                     "mehringplatz-community-atlas/besselpark_regeneration_#11"
                 ],
                 "created_date": "2019-09-26T06:31:05.747-07:00",
-                "updated_date": "2019-11-13T08:41:49.394-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Polygon",
@@ -1166,7 +1228,8 @@
                     "mehringplatz-community-atlas/taz_neubau#10"
                 ],
                 "created_date": "2019-09-26T06:05:41.401-07:00",
-                "updated_date": "2019-11-05T04:15:04.566-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1206,7 +1269,8 @@
                     "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
                 ],
                 "created_date": "2019-09-26T04:08:36.760-07:00",
-                "updated_date": "2019-10-28T07:29:30.739-07:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Polygon",
@@ -1303,7 +1367,8 @@
                     "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
                 ],
                 "created_date": "2019-09-26T01:20:24.808-07:00",
-                "updated_date": "2019-11-07T04:15:26.695-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1343,7 +1408,8 @@
                     "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
                 ],
                 "created_date": "2019-09-25T10:32:11.919-07:00",
-                "updated_date": "2019-11-07T04:15:56.171-08:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Polygon",
@@ -1443,7 +1509,8 @@
                     "mehringplatz-community-atlas/supermarkt#12"
                 ],
                 "created_date": "2019-09-25T09:10:51.974-07:00",
-                "updated_date": "2019-10-28T07:29:30.739-07:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1483,7 +1550,8 @@
                     "mehringplatz-community-atlas/ela_kagel_supermarkt#13"
                 ],
                 "created_date": "2019-09-25T09:07:25.368-07:00",
-                "updated_date": "2019-10-28T07:29:30.739-07:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1521,7 +1589,8 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-09-25T08:52:03.678-07:00",
-                "updated_date": "2019-10-28T07:29:30.739-07:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Polygon",
@@ -1595,7 +1664,8 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-09-25T07:59:09.170-07:00",
-                "updated_date": "2019-10-28T07:29:30.739-07:00"
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1605,6 +1675,108 @@
                 ]
             },
             "id": "mehringplatz-community-atlas/taz_neubau#10"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Hedwig Dohm Gedenktafel",
+                "type": "Monument",
+                "start_date": "",
+                "end_date": "",
+                "description": "Marianne Adelaide Hedwig Dohm  (20 September 1831 – 1 June 1919) was a German feminist, and author. She was one of the first feminist thinkers. She lived in this house until 1851.",
+                "image": "https://www.gedenktafeln-in-berlin.de/typo3temp/pics/Gedenktafel_Friedrichstr_235__Kreuz__Hed_ed79a9fe12.jpg",
+                "category": "Memories",
+                "sub-category": "Plaques/Information displays",
+                "tags": [
+                    "feminism",
+                    "culture"
+                ],
+                "category-description": "to document material and immaterial heritage\r\n",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-09-25T07:58:48.148-07:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39107,
+                    52.50225
+                ]
+            },
+            "id": "mehringplatz-community-atlas/hedwig_dohm_gedenktafel#9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Victoria Versicherung Kreuzberg",
+                "type": "Building",
+                "start_date": "1913-09-29T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Neo- baroque building.\n\n",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Kreuzberg_Postkarte_004.jpg/220px-Berlin-Kreuzberg_Postkarte_004.jpg",
+                "category": "Memories",
+                "sub-category": "Architecture ",
+                "tags": [
+                    "architecture"
+                ],
+                "category-description": "to document material and immaterial heritage\r\n",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/urban_sketches_victoria_versicherung#35"
+                ],
+                "created_date": "2019-09-25T07:57:02.813-07:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39625,
+                    52.50373
+                ]
+            },
+            "id": "mehringplatz-community-atlas/victoria_versicherung_kreuzberg#8"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "KMA Antenne",
+                "type": "Organization",
+                "start_date": "",
+                "end_date": "",
+                "description": "Youth centre",
+                "image": "",
+                "category": "Stakeholders",
+                "sub-category": "NGO/Social work",
+                "tags": [
+                    "youths",
+                    "culture",
+                    "Social inclusion"
+                ],
+                "category-description": "identifying formal and informal actors in the area",
+                "links": [
+                    {
+                        "url": "http://kma-ev.de/index.php?id=5",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-09-25T07:36:57.647-07:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39179,
+                    52.50062
+                ]
+            },
+            "id": "mehringplatz-community-atlas/kma_antenne#7"
         }
     ],
     "properties": {
@@ -1612,14 +1784,7 @@
         "url": "http://mehringplatz-en.community-atlas.net",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-11-23T12:02:55.755Z",
-        "links": [
-            {
-                "title": "Mehringplats - German",
-                "url": "http://mehringplatz-de.community-atlas.net",
-                "description": "German version of the atlas",
-                "lang": "de"
-            }
-        ]
+        "published": "2019-11-25T14:29:05.781Z",
+        "links": []
     }
 }

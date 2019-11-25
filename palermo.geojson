@@ -245,7 +245,7 @@
         "url": "https://palermo.community-atlas.net",
         "description": "",
         "image": "https://www.comune.palermo.it/img/hdrs/header.png",
-        "published": "2019-11-25T14:21:43.651Z",
+        "published": "2019-11-25T14:33:18.887Z",
         "links": [],
         "taxonomy": [
             {
@@ -275,7 +275,8 @@
                 "category": "Narratives",
                 "description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
                 "sub-categories": [
-                    "Place narratives "
+                    "Place narratives ",
+                    "Stakeholder interviews"
                 ],
                 "weight": 0,
                 "id": 5
@@ -284,7 +285,11 @@
                 "category": "Memories",
                 "description": "to document material and immaterial heritage\r\n",
                 "sub-categories": [
-                    "Statues"
+                    "Statues",
+                    "Graffiti & Murals",
+                    "Oral histories",
+                    "Plaques/Information displays",
+                    "Architecture "
                 ],
                 "weight": 0,
                 "id": 3
@@ -293,7 +298,11 @@
                 "category": "Stakeholders",
                 "description": "identifying formal and informal actors in the area",
                 "sub-categories": [
-                    "Public cultural institutions"
+                    "Public cultural institutions",
+                    "Administration",
+                    "Developers and enterprises",
+                    "NGO/Social work",
+                    "Commerce"
                 ],
                 "weight": 0,
                 "id": 4
@@ -302,7 +311,10 @@
                 "category": "Transformations",
                 "description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
                 "sub-categories": [
-                    "Private spaces"
+                    "Private spaces",
+                    "Public space",
+                    "Infrastructural",
+                    "Commons oriented"
                 ],
                 "weight": 0,
                 "id": 2
@@ -311,7 +323,12 @@
                 "category": "Places",
                 "description": "",
                 "sub-categories": [
-                    "Community hub"
+                    "Community hub",
+                    "Public space",
+                    "Venue",
+                    "commerce",
+                    "Park",
+                    "Housing"
                 ],
                 "weight": 1,
                 "id": 9
@@ -320,7 +337,10 @@
                 "category": "Delimitations",
                 "description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
                 "sub-categories": [
-                    "Area of interest"
+                    "Area of interest",
+                    "Administrative borders",
+                    "Spatial planning",
+                    "social policy"
                 ],
                 "weight": -1,
                 "id": 1

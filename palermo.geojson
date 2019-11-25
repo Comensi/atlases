@@ -19,7 +19,8 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-11-12T06:56:08.143-08:00",
-                "updated_date": "2019-11-25T05:02:22.227-08:00"
+                "updated_date": "2019-11-25T05:02:22.227-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +51,8 @@
                     "palermo/capo#34"
                 ],
                 "created_date": "2019-11-11T07:22:17.898-08:00",
-                "updated_date": "2019-11-25T05:02:22.227-08:00"
+                "updated_date": "2019-11-25T06:04:51.058-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +86,8 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-11T07:14:16.220-08:00",
-                "updated_date": "2019-11-25T05:02:22.227-08:00"
+                "updated_date": "2019-11-25T06:04:51.058-08:00",
+                "weight": 0
             },
             "geometry": {
                 "type": "Point",
@@ -94,6 +97,147 @@
                 ]
             },
             "id": "palermo/cortile_mangano#35"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Capo",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "Quartiere storico del centro storico di Palermo",
+                "image": "https://i.postimg.cc/RCkdWCwn/Vicolo-1.jpg",
+                "category": "Delimitations",
+                "sub-category": "Area of interest",
+                "tags": [],
+                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "links": [
+                    {
+                        "url": "https://postimg.cc/t1N43Hzc",
+                        "title": "Mappa del Capo",
+                        "description": "",
+                        "type": "image"
+                    }
+                ],
+                "relationships": [
+                    "palermo/capo#34"
+                ],
+                "created_date": "2019-11-07T07:43:06.445-08:00",
+                "updated_date": "2019-11-25T06:04:51.058-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.354999,
+                            38.112391
+                        ],
+                        [
+                            13.367185,
+                            38.110365
+                        ],
+                        [
+                            13.367576,
+                            38.104348
+                        ],
+                        [
+                            13.359764,
+                            38.098208
+                        ],
+                        [
+                            13.350312,
+                            38.100173
+                        ],
+                        [
+                            13.354999,
+                            38.112391
+                        ]
+                    ]
+                ]
+            },
+            "id": "palermo/capo#34"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "The City of Palermo",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "Palermo is a city of Southern Italy, the capital of both the autonomous region of Sicily and the Metropolitan City of Palermo. The city is noted for its history, culture, architecture and gastronomy, playing an important role throughout much of its existence; it is over 2,700 years old. \n\nPalermo is located in the northwest of the island of Sicily, right by the Gulf of Palermo in the Tyrrhenian Sea. \n\n\n\n",
+                "image": "",
+                "category": "Simple",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-11-06T08:43:52.963-08:00",
+                "updated_date": "2019-11-25T05:26:50.144-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.364838,
+                            38.126995
+                        ],
+                        [
+                            13.37376,
+                            38.145358
+                        ],
+                        [
+                            13.375132,
+                            38.158857
+                        ],
+                        [
+                            13.331212,
+                            38.150217
+                        ],
+                        [
+                            13.311996,
+                            38.129155
+                        ],
+                        [
+                            13.318859,
+                            38.101063
+                        ],
+                        [
+                            13.332584,
+                            38.084851
+                        ],
+                        [
+                            13.364838,
+                            38.081609
+                        ],
+                        [
+                            13.399838,
+                            38.08269
+                        ],
+                        [
+                            13.434151,
+                            38.099442
+                        ],
+                        [
+                            13.408073,
+                            38.101604
+                        ],
+                        [
+                            13.387485,
+                            38.107007
+                        ],
+                        [
+                            13.364838,
+                            38.126995
+                        ]
+                    ]
+                ]
+            },
+            "id": "palermo/city#33"
         }
     ],
     "properties": {
@@ -101,7 +245,16 @@
         "url": "https://palermo.community-atlas.net",
         "description": "",
         "image": "https://www.comune.palermo.it/img/hdrs/header.png",
-        "published": "2019-11-25T13:36:29.164Z",
-        "links": []
+        "published": "2019-11-25T14:20:37.449Z",
+        "links": [],
+        "taxonomy": [
+            {
+                "category": "Simple",
+                "description": "",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 10
+            }
+        ]
     }
 }

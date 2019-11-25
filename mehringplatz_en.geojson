@@ -269,6 +269,30 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Kiezstube Mehringpltz",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "http://qm-mehringplatz.info/fileadmin/_processed_/csm_2018_eroeffn_kiezstube06_b9c3ae922e.jpg",
+                "category": "Places",
+                "sub-category": "Community hub",
+                "tags": [
+                    "Social inclusion",
+                    "quartiersmanagement"
+                ],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-09-27T01:27:56.456-07:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "id": "mehringplatz-community-atlas/kiezstube_mehringpltz#25"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "GEWOBAG",
                 "type": "Organization",
                 "start_date": "1919-05-01T13:00:00.000-07:00",
@@ -465,8 +489,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    52.506507,
-                    13.393316
+                    13.393316,
+                    52.506507
                 ]
             },
             "id": "mehringplatz-community-atlas/gsw_tower#43"
@@ -985,37 +1009,6 @@
                 ]
             },
             "id": "mehringplatz-community-atlas/caf_madame#26"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Kiezstube Mehringpltz",
-                "type": "Place",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "http://qm-mehringplatz.info/fileadmin/_processed_/csm_2018_eroeffn_kiezstube06_b9c3ae922e.jpg",
-                "category": "Places",
-                "sub-category": "Community hub",
-                "tags": [
-                    "Social inclusion",
-                    "quartiersmanagement"
-                ],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-09-27T01:27:56.456-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    52.499245,
-                    13.39305
-                ]
-            },
-            "id": "mehringplatz-community-atlas/kiezstube_mehringpltz#25"
         },
         {
             "type": "Feature",
@@ -1785,7 +1778,7 @@
         "id": "mehringplatz_en",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-11-25T17:37:38.254Z",
+        "published": "2019-11-25T18:07:31.454Z",
         "links": [],
         "taxonomy": [
             {

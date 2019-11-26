@@ -246,19 +246,105 @@
         "id": "polermo",
         "description": "",
         "image": "https://www.comune.palermo.it/img/hdrs/header.png",
-        "published": "2019-11-26T10:46:43.484Z",
+        "published": "2019-11-26T11:06:39.041Z",
         "links": [],
         "taxonomy": [
             {
-                "title": "Palermo",
-                "base_key": "palermo",
+                "category": "Simple",
                 "description": "",
-                "image": "https://www.comune.palermo.it/img/hdrs/header.png",
-                "id": "polermo",
-                "url": "https://palermo.community-atlas.net",
-                "language": "it",
-                "links": "[{\"title\":\"The Comensi project\",\"url\":\"http://community-atlas.net\t\",\"description\":\"The Comensi Project homepage\",\"lang\":\"en\", \"type\":\"homepage\"}]",
-                "sub-categories": []
+                "sub-categories": [],
+                "weight": 0,
+                "id": 10
+            },
+            {
+                "category": "Itineraries",
+                "description": "to connect different elements in the territory in a geo-spatial experience, e.g. guided tours",
+                "sub-categories": [
+                    "H-Town Lab (URBEX Youth Lab)"
+                ],
+                "weight": 0,
+                "id": 6
+            },
+            {
+                "category": "Imaginations",
+                "description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 7
+            },
+            {
+                "category": "Narratives",
+                "description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "sub-categories": [
+                    "Place narratives ",
+                    "Stakeholder interviews"
+                ],
+                "weight": 0,
+                "id": 5
+            },
+            {
+                "category": "Memories",
+                "description": "to document material and immaterial heritage\r\n",
+                "sub-categories": [
+                    "Statues",
+                    "Graffiti & Murals",
+                    "Oral histories",
+                    "Plaques/Information displays",
+                    "Architecture "
+                ],
+                "weight": 0,
+                "id": 3
+            },
+            {
+                "category": "Stakeholders",
+                "description": "identifying formal and informal actors in the area",
+                "sub-categories": [
+                    "Public cultural institutions",
+                    "Administration",
+                    "Developers and enterprises",
+                    "NGO/Social work",
+                    "Commerce"
+                ],
+                "weight": 0,
+                "id": 4
+            },
+            {
+                "category": "Transformations",
+                "description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "sub-categories": [
+                    "Private spaces",
+                    "Public space",
+                    "Infrastructural",
+                    "Commons oriented"
+                ],
+                "weight": 0,
+                "id": 2
+            },
+            {
+                "category": "Places",
+                "description": "",
+                "sub-categories": [
+                    "Community hub",
+                    "Public space",
+                    "Venue",
+                    "commerce",
+                    "Park",
+                    "Housing"
+                ],
+                "weight": 1,
+                "id": 9
+            },
+            {
+                "category": "Delimitations",
+                "description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "sub-categories": [
+                    "Area of interest",
+                    "Administrative borders",
+                    "Spatial planning",
+                    "social policy"
+                ],
+                "weight": -1,
+                "id": 1
             }
         ]
     }

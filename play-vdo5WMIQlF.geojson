@@ -4,6 +4,45 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Limehouse Hackspace",
+                "type": "Project",
+                "start_date": "",
+                "end_date": "",
+                "description": "A hackspace. You can make things. ",
+                "image": "",
+                "category": "Places",
+                "sub-category": "",
+                "tags": [
+                    "hackspace"
+                ],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "https://www.limehouselabs.org/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "play/limehouse_town_hall#47"
+                ],
+                "created_date": "2019-11-26T05:49:27.729-08:00",
+                "updated_date": "2019-11-26T05:52:54.098-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0314,
+                    51.5121
+                ]
+            },
+            "id": "play/limehouse_hackspace#53"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Limehouse town hall",
                 "type": "Building",
                 "start_date": "2001-11-24T16:00:00.000-08:00",
@@ -47,7 +86,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2019-11-26T13:48:45.395Z",
+        "published": "2019-11-26T14:00:18.912Z",
         "links": [
             {
                 "title": "The Comensi project",

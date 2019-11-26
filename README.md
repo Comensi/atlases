@@ -1,4 +1,4 @@
-# Comminity-Atlas.net Atlas Data
+# Community-Atlas.net Atlas Data
 Geodata for the Commensi Neighbourhood atlases. 
 
 This repository comtains the source atlas data for the Comensi Community Atlas project. The geoJson files stored here are essentially the project database. 

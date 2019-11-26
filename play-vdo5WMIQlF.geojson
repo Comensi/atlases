@@ -4,6 +4,35 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "coco d'ajuda",
+                "type": "Monument",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "Places",
+                "sub-category": "",
+                "tags": [
+                    "cooking",
+                    "youths",
+                    "architecture"
+                ],
+                "category-description": "",
+                "links": [],
+                "relationships": [
+                    "play/something#55"
+                ],
+                "created_date": "2019-11-26T06:13:42.876-08:00",
+                "updated_date": "2019-11-26T06:32:38.532-08:00",
+                "weight": 0
+            },
+            "id": "play/coco_d_ajuda#56"
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "BOU test",
                 "type": "Place",
                 "start_date": "",
@@ -20,33 +49,15 @@
                 "updated_date": "2019-11-26T06:30:49.965-08:00",
                 "weight": 0
             },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3555,
+                    38.1169
+                ]
+            },
             "id": "play/bou_test#58"
         },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "coco d'ajuda",
-                "type": "Monument",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [
-                    "play/something#55"
-                ],
-                "created_date": "2019-11-26T06:13:42.876-08:00",
-                "updated_date": "2019-11-26T06:27:26.390-08:00",
-                "weight": 0
-            },
-            "id": "play/coco_d_ajuda#56"
-        }
-    ],
-    "features": [
         {
             "type": "Feature",
             "properties": {
@@ -172,7 +183,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2019-11-26T14:31:07.609Z",
+        "published": "2019-11-26T14:32:54.471Z",
         "links": [
             {
                 "title": "The Comensi project",

@@ -1,6 +1,151 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "A new example",
+                "type": "Project",
+                "start_date": "",
+                "end_date": "",
+                "description": "Something else",
+                "image": "",
+                "category": "Memories",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "to document material and immaterial heritage\r\n",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-11-26T08:26:42.019-08:00",
+                "updated_date": "2019-11-26T08:27:01.119-08:00",
+                "weight": 0
+            },
+            "id": "play/a_new_example#61"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "coco d'ajuda",
+                "type": "Monument",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "Places",
+                "sub-category": "",
+                "tags": [
+                    "cooking",
+                    "youths",
+                    "architecture"
+                ],
+                "category-description": "",
+                "links": [],
+                "relationships": [
+                    "play/something#55"
+                ],
+                "created_date": "2019-11-26T06:13:42.876-08:00",
+                "updated_date": "2019-11-26T06:32:38.532-08:00",
+                "weight": 0
+            },
+            "id": "play/coco_d_ajuda#56"
+        }
+    ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "BOU test",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "BOU office",
+                "image": "",
+                "category": "Places",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-11-26T06:30:10.507-08:00",
+                "updated_date": "2019-11-26T06:30:49.965-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3555,
+                    38.1169
+                ]
+            },
+            "id": "play/bou_test#58"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "MCP (María's test)",
+                "type": "Organization",
+                "start_date": "2019-12-03T16:00:00.000-08:00",
+                "end_date": "2020-07-28T16:00:00.000-07:00",
+                "description": "That's exactly where we work!",
+                "image": "https://mildmaycp.org.uk/wp-content/uploads/2019/07/header-5.jpg",
+                "category": "Places",
+                "sub-category": "Community hub",
+                "tags": [
+                    "cooking",
+                    "language ",
+                    "Events",
+                    "youths",
+                    "architecture",
+                    "workspace",
+                    "office",
+                    "gardening",
+                    "charity"
+                ],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "https://mildmaycp.org.uk/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "play/coco_d_ajuda#56"
+                ],
+                "created_date": "2019-11-26T06:23:08.661-08:00",
+                "updated_date": "2019-11-26T06:38:38.413-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.074659,
+                            51.553354
+                        ],
+                        [
+                            -0.075303,
+                            51.548443
+                        ],
+                        [
+                            -0.070156,
+                            51.547963
+                        ],
+                        [
+                            -0.069426,
+                            51.55298
+                        ],
+                        [
+                            -0.074659,
+                            51.553354
+                        ]
+                    ]
+                ]
+            },
+            "id": "play/mcp_mar_a_s_test_#57"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -154,7 +299,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2019-11-26T16:27:08.108Z",
+        "published": "2019-11-26T16:29:21.621Z",
         "links": [
             {
                 "title": "The Comensi project",

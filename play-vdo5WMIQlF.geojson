@@ -1,6 +1,92 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "BOU test",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "BOU office",
+                "image": "",
+                "category": "Places",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-11-26T06:30:10.507-08:00",
+                "updated_date": "2019-11-26T06:30:49.965-08:00",
+                "weight": 0
+            },
+            "id": "play/bou_test#58"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "coco d'ajuda",
+                "type": "Monument",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [
+                    "play/something#55"
+                ],
+                "created_date": "2019-11-26T06:13:42.876-08:00",
+                "updated_date": "2019-11-26T06:27:26.390-08:00",
+                "weight": 0
+            },
+            "id": "play/coco_d_ajuda#56"
+        }
+    ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Something",
+                "type": "Example",
+                "start_date": "",
+                "end_date": "",
+                "description": "An example feature that we will delete. ",
+                "image": "https://i.postimg.cc/4yZZhR0z/comensi-logo-icon-heavy-4x.png",
+                "category": "Delimitations",
+                "sub-category": "Administrative borders",
+                "tags": [
+                    "digital ",
+                    "office"
+                ],
+                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "links": [
+                    {
+                        "url": "http://example.com",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "play/limehouse_hackspace#53"
+                ],
+                "created_date": "2019-11-26T06:13:06.072-08:00",
+                "updated_date": "2019-11-26T06:26:23.146-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0521,
+                    51.53
+                ]
+            },
+            "id": "play/something#55"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -86,7 +172,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2019-11-26T14:30:31.481Z",
+        "published": "2019-11-26T14:31:07.609Z",
         "links": [
             {
                 "title": "The Comensi project",

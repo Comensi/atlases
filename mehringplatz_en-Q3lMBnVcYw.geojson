@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Die Rondell",
+                "type": "",
+                "start_date": "1720-11-22T16:00:00.000-08:00",
+                "end_date": "1815-11-22T16:00:00.000-08:00",
+                "description": "Originally named Rondell for its circular shape, this baroque square  was s laid out and completed around 1720 inspired by the urban model od piazza del Popolo in Rome. It is realized in the context of the city's extension under King Frederick William I of Prussia, along with Pariser Platz (former Karree) and Leipziger Platz (Octagon), as southern end of the Friedrichstraße. ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mehringplatz_um1730.jpg",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-11-23T04:19:54.664-08:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "id": "mehringplatz-community-atlas/die_rondell#45"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Friedrichstadt Incorporation",
+                "type": "Event",
+                "start_date": "",
+                "end_date": "",
+                "description": "in 1709 is decreed and in  1710 happens the  effectively incorporation of the Friedrichstadt in the city of Berlin. The town is then integrated in the city as a district.",
+                "image": "https://en.wikipedia.org/wiki/Friedrichstadt_(Berlin)#/media/File:Map_de_berlin_1710.jpg",
+                "category": "Memories",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "to document material and immaterial heritage\r\n",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/friedrichstadt_foundation#42"
+                ],
+                "created_date": "2019-11-23T03:48:48.433-08:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "id": "mehringplatz-community-atlas/friedrichstadt_incorporation#44"
+        }
+    ],
+    "properties": {
+        "title": "Mehringplatz Anknipsen",
+        "url": "http://mehringplatz-en.community-atlas.net",
+        "id": "mehringplatz_en",
+        "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
+        "published": "2019-11-26T10:46:30.277Z",
+        "links": [],
+        "taxonomy": [
+            {
+                "title": "Mehringplatz Anknipsen",
+                "base_key": "mehringplatz-community-atlas",
+                "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
+                "id": "mehringplatz_en",
+                "url": "http://mehringplatz-en.community-atlas.net",
+                "language": "en",
+                "links": "[{\"title\":\"Mehringplats - German\",\"url\":\"http://mehringplatz-de.community-atlas.net\",\"description\":\"German version of the atlas\",\"lang\":\"de\"}, \"type\":\"translation\"]",
+                "sub-categories": []
+            }
+        ]
+    }
+}

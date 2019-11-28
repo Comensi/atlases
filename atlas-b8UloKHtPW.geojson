@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "nonGeoFeatures": [
+    "features": [
         {
             "type": "Feature",
             "properties": {
@@ -20,6 +20,13 @@
                 "updated_date": "2019-11-28T06:42:38.603-08:00",
                 "weight": 0
             },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3891,
+                    52.498
+                ]
+            },
             "id": "atlas/mehringplatz#64"
         }
     ],
@@ -29,7 +36,7 @@
         "id": "atlas",
         "description": "",
         "image": "",
-        "published": "2019-11-28T18:07:39.230Z",
+        "published": "2019-11-28T18:29:02.695Z",
         "links": [
             {
                 "title": "The Comensi project",

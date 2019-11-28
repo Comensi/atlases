@@ -1,10 +1,10 @@
 {
     "type": "FeatureCollection",
-    "nonGeoFeatures": [
+    "features": [
         {
             "type": "Feature",
             "properties": {
-                "title": "",
+                "title": "Delete me",
                 "type": "",
                 "start_date": "",
                 "end_date": "",
@@ -12,162 +12,22 @@
                 "image": "",
                 "category": "",
                 "sub-category": "",
-                "tags": null,
+                "tags": [],
                 "category-description": "",
                 "links": [],
                 "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
+                "created_date": "2019-11-28T05:59:44.644-08:00",
+                "updated_date": "2019-11-28T05:59:48.992-08:00",
+                "weight": 0
             },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
             },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
+            "id": "mildmay/delete_me#64"
         }
     ],
     "properties": {
@@ -176,7 +36,7 @@
         "id": "mildmay",
         "description": "",
         "image": "",
-        "published": "2019-11-28T14:00:07.767Z",
+        "published": "2019-11-28T15:15:25.282Z",
         "links": [
             {
                 "title": "The Comensi project",

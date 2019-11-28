@@ -4,170 +4,23 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "",
-                "type": "",
+                "title": "Mehringplatz",
+                "type": "Place",
                 "start_date": "",
                 "end_date": "",
                 "description": "",
                 "image": "",
                 "category": "",
                 "sub-category": "",
-                "tags": null,
+                "tags": [],
                 "category-description": "",
                 "links": [],
                 "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
+                "created_date": "2019-11-28T06:42:27.217-08:00",
+                "updated_date": "2019-11-28T06:42:38.603-08:00",
+                "weight": 0
             },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": null,
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "",
-                "updated_date": "",
-                "weight": ""
-            },
-            "id": ""
+            "id": "atlas/mehringplatz#64"
         }
     ],
     "properties": {
@@ -176,7 +29,7 @@
         "id": "atlas",
         "description": "",
         "image": "",
-        "published": "2019-11-28T18:04:20.686Z",
+        "published": "2019-11-28T18:07:39.230Z",
         "links": [
             {
                 "title": "The Comensi project",

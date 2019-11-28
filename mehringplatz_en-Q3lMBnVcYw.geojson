@@ -147,34 +147,6 @@
                 "weight": 0
             },
             "id": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Belle Alliance Platz",
-                "type": "Event",
-                "start_date": "1815-11-20T16:00:00.000-08:00",
-                "end_date": "",
-                "description": "The circus/round plaza is renamed Belle-Alliance-Platz after the Battle of Waterloo, when English and Prussian  defeated Napoleon's army, June, 18th, 1815. “Belle-Alliance” was another name used to recall this battle, from the name of the inn where the two winning generals previously met.",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/800px-Berlin_Friedenssaeule.jpg",
-                "category": "Memories",
-                "sub-category": "",
-                "tags": [
-                    "architecture",
-                    "Creative industries",
-                    "toponyms",
-                    "history"
-                ],
-                "category-description": "to document material and immaterial heritage\r\n",
-                "links": [],
-                "relationships": [
-                    "mehringplatz-community-atlas/mehringplatz#39"
-                ],
-                "created_date": "2019-11-21T03:11:07.402-08:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
-            },
-            "id": "mehringplatz-community-atlas/belle_alliance_platz#40"
         }
     ],
     "properties": {
@@ -183,7 +155,7 @@
         "id": "mehringplatz_en",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-11-27T14:15:04.739Z",
+        "published": "2019-11-28T14:59:52.014Z",
         "links": [],
         "taxonomy": [
             {

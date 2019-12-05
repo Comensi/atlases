@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Die Rondell",
-                "type": "",
+                "type": "Place",
                 "start_date": "1720-11-22T16:00:00.000-08:00",
                 "end_date": "1815-11-22T16:00:00.000-08:00",
                 "description": "Originally named Rondell for its circular shape, this baroque square  was s laid out and completed around 1720 inspired by the urban model od piazza del Popolo in Rome. It is realized in the context of the city's extension under King Frederick William I of Prussia, along with Pariser Platz (former Karree) and Leipziger Platz (Octagon), as southern end of the Friedrichstraße. ",
@@ -17,7 +17,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-11-23T04:19:54.664-08:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-05T09:40:37.514-08:00",
                 "weight": 0
             },
             "id": "mehringplatz-community-atlas/die_rondell#45"
@@ -83,7 +83,7 @@
                 "sub-category": "",
                 "tags": [
                     "Urban regeneration",
-                    "Social inclusion",
+                    "social inclusion",
                     "art",
                     "culture",
                     "Creative industries"
@@ -111,9 +111,9 @@
             "type": "Feature",
             "properties": {
                 "title": "Belle Alliance Platz",
-                "type": "Event",
+                "type": "Place",
                 "start_date": "1815-11-20T16:00:00.000-08:00",
-                "end_date": "",
+                "end_date": "1945-02-02T16:00:00.000-07:00",
                 "description": "The circus/round plaza is renamed Belle-Alliance-Platz after the Battle of Waterloo, when English and Prussian  defeated Napoleon's army, June, 18th, 1815. “Belle-Alliance” was another name used to recall this battle, from the name of the inn where the two winning generals previously met.",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/800px-Berlin_Friedenssaeule.jpg",
                 "category": "Memories",
@@ -130,7 +130,7 @@
                     "mehringplatz-community-atlas/mehringplatz#39"
                 ],
                 "created_date": "2019-11-21T03:11:07.402-08:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-05T09:40:32.587-08:00",
                 "weight": 0
             },
             "id": "mehringplatz-community-atlas/belle_alliance_platz#40"
@@ -180,7 +180,7 @@
                 "tags": [
                     "Public space",
                     "culture",
-                    "Social inclusion",
+                    "social inclusion",
                     "oral history"
                 ],
                 "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
@@ -213,7 +213,7 @@
                 "tags": [
                     "Urban regeneration",
                     "oral history",
-                    "Social inclusion"
+                    "social inclusion"
                 ],
                 "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
@@ -245,7 +245,7 @@
                 "tags": [
                     "quartiersmanagement",
                     "Urban regeneration",
-                    "Social inclusion"
+                    "social inclusion"
                 ],
                 "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
@@ -339,9 +339,9 @@
                 "sub-category": "Place narratives ",
                 "tags": [
                     "oral history",
-                    "Events",
+                    "events",
                     "culture",
-                    "Social inclusion"
+                    "social inclusion"
                 ],
                 "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
@@ -408,7 +408,7 @@
                 "tags": [
                     "culture",
                     "commons",
-                    "Social inclusion",
+                    "social inclusion",
                     "temporary structure",
                     "gardening"
                 ],
@@ -476,7 +476,7 @@
             "properties": {
                 "title": "Mehringplatz",
                 "type": "Place",
-                "start_date": "1720-11-20T16:00:00.000-08:00",
+                "start_date": "1968-06-20T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "Mehringplatz is the core of the Südliche Friedrichstadt. The  baroque monumental plaza at the end of the main North-South axis Friedrichstrasse, next to the Hallesches Tor (city door towards Halle), was completely destroyed during WWII.  Successively it found itself as a peripheral territory at the edge of Berlin Wall. Rebuilt in the seventies on a concept by Hans Scharoun readapted in residential key by its follower Werner Düttman, it has become a huge social-housing settlement inhabited mostly by immigrant households. The owner of most of the housing complex is today GeWoBag, a publicly owned private company. ",
                 "image": "https://i.ibb.co/smzrBJn/photo-2019-11-23-15-06-50.jpg",
@@ -486,7 +486,7 @@
                     "Public space",
                     "Urban regeneration",
                     "quartiersmanagement",
-                    "Social inclusion",
+                    "social inclusion",
                     "architecture"
                 ],
                 "category-description": "",
@@ -495,7 +495,7 @@
                     "mehringplatz-community-atlas/die_rondell#45"
                 ],
                 "created_date": "2019-11-21T02:25:33.651-08:00",
-                "updated_date": "2019-11-26T06:33:10.467-08:00",
+                "updated_date": "2019-12-05T09:37:42.531-08:00",
                 "weight": 0
             },
             "geometry": {
@@ -519,7 +519,7 @@
                 "category": "Delimitations",
                 "sub-category": "social policy",
                 "tags": [
-                    "Social inclusion",
+                    "social inclusion",
                     "Urban regeneration",
                     "Urbanism",
                     "Urban Policy",
@@ -697,7 +697,7 @@
                 "category": "Narratives",
                 "sub-category": "Stakeholder interviews",
                 "tags": [
-                    "Social inclusion",
+                    "social inclusion",
                     "feminism",
                     "culture",
                     "cooking"
@@ -746,7 +746,7 @@
                     "workspace",
                     "commons",
                     "oral history",
-                    "Events"
+                    "events"
                 ],
                 "category-description": "identifying formal and informal actors in the area",
                 "links": [
@@ -966,7 +966,7 @@
                 "tags": [
                     "cooking",
                     "culture",
-                    "Social inclusion"
+                    "social inclusion"
                 ],
                 "category-description": "",
                 "links": [],
@@ -998,7 +998,7 @@
                 "category": "Places",
                 "sub-category": "Community hub",
                 "tags": [
-                    "Social inclusion",
+                    "social inclusion",
                     "quartiersmanagement"
                 ],
                 "category-description": "",
@@ -1354,7 +1354,7 @@
                 "sub-category": "NGO/Social work",
                 "tags": [
                     "quartiersmanagement",
-                    "Social inclusion",
+                    "social inclusion",
                     "culture"
                 ],
                 "category-description": "identifying formal and informal actors in the area",
@@ -1395,7 +1395,7 @@
                 "category": "Delimitations",
                 "sub-category": "Area of interest",
                 "tags": [
-                    "Social inclusion",
+                    "social inclusion",
                     "quartiersmanagement"
                 ],
                 "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
@@ -1757,7 +1757,7 @@
                 "tags": [
                     "youths",
                     "culture",
-                    "Social inclusion"
+                    "social inclusion"
                 ],
                 "category-description": "identifying formal and informal actors in the area",
                 "links": [
@@ -1789,7 +1789,7 @@
         "id": "mehringplatz_en",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-12-03T20:37:26.950Z",
+        "published": "2019-12-05T19:41:54.503Z",
         "links": [],
         "taxonomy": [
             {

@@ -4,6 +4,33 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "WWII Air raid",
+                "type": "Event",
+                "start_date": "1945-03-02T16:00:00.000-07:00",
+                "end_date": "",
+                "description": " The area was completely devastated in World War Two, particularly in an air raid on 3 February 1945 and the Battle of Berlin which followed. The air raid produced the almost total destruction of the inner city, in particular in the proximities of the Regierungsviertel (Government district) on the Wilhelmstraße, leaving more than 120,000 homeless people, 2,296 totally destroyed buildings, 909 heavy damaged, 3,606 moderately and slightly damaged buildings, 22,519 destroyed homes, and 27,017 apartments evacuated due to the risk of collapse. Belle Alliance Platz is totally destroyed and will remain an empty lot for the following 20 years. ",
+                "image": "https://www.welt.de/img/geschichte/zweiter-weltkrieg/mobile140131885/6362507847-ci102l-w1024/2-WK-Berlin-1945-Strassenkampf.jpg",
+                "category": "Memories",
+                "sub-category": "",
+                "tags": [
+                    "history",
+                    "demolition"
+                ],
+                "category-description": "to document material and immaterial heritage\r\n",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/belle_alliance_platz#40",
+                    "mehringplatz-community-atlas/mehringplatz#39"
+                ],
+                "created_date": "2019-12-05T09:40:58.990-08:00",
+                "updated_date": "2019-12-05T11:41:14.873-08:00",
+                "weight": 0
+            },
+            "id": "mehringplatz-community-atlas/wwii_air_raid#47"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Die Rondell",
                 "type": "Place",
                 "start_date": "1720-11-22T16:00:00.000-08:00",
@@ -1789,7 +1816,7 @@
         "id": "mehringplatz_en",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-12-05T19:41:54.503Z",
+        "published": "2019-12-05T19:45:33.617Z",
         "links": [],
         "taxonomy": [
             {

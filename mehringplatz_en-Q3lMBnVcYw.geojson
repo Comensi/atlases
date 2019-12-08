@@ -16,7 +16,7 @@
                     "history",
                     "demolition"
                 ],
-                "category-description": "to document material and immaterial heritage\r\n",
+                "category-description": "Document of material and immaterial heritage",
                 "links": [],
                 "relationships": [
                     "mehringplatz-community-atlas/belle_alliance_platz#40",
@@ -61,7 +61,7 @@
                 "category": "Memories",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "to document material and immaterial heritage\r\n",
+                "category-description": "Document of material and immaterial heritage",
                 "links": [],
                 "relationships": [
                     "mehringplatz-community-atlas/friedrichstadt_foundation#42"
@@ -86,9 +86,9 @@
                 "tags": [
                     "toponyms",
                     "history",
-                    "Urbanism"
+                    "urbanism"
                 ],
-                "category-description": "to document material and immaterial heritage\r\n",
+                "category-description": "Document of material and immaterial heritage",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-11-22T03:36:17.608-08:00",
@@ -115,7 +115,7 @@
                     "culture",
                     "Creative industries"
                 ],
-                "category-description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
+                "category-description": "Visions for transformation, unrealised projects and proposed hypothesis - representing alternative realities of the area",
                 "links": [
                     {
                         "url": "http://kreativ-quartier-berlin.de/Raumpioniere_web.pdf",
@@ -151,7 +151,7 @@
                     "toponyms",
                     "history"
                 ],
-                "category-description": "to document material and immaterial heritage\r\n",
+                "category-description": "Document of material and immaterial heritage",
                 "links": [],
                 "relationships": [
                     "mehringplatz-community-atlas/mehringplatz#39"
@@ -177,7 +177,7 @@
                     "Public space",
                     "Psychogeography"
                 ],
-                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
                     {
                         "url": "https://vimeo.com/230464313",
@@ -210,7 +210,7 @@
                     "social inclusion",
                     "oral history"
                 ],
-                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
                     {
                         "url": "https://vimeo.com/230890049",
@@ -242,7 +242,7 @@
                     "oral history",
                     "social inclusion"
                 ],
-                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
                     {
                         "url": "https://vimeo.com/manage/226707117/general",
@@ -274,7 +274,7 @@
                     "Urban regeneration",
                     "social inclusion"
                 ],
-                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
                     {
                         "url": "://vimeo.com/230981438",
@@ -285,7 +285,7 @@
                 ],
                 "relationships": [
                     "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14",
-                    "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15"
+                    "mehringplatz-community-atlas/_quartiermanagement_am_mehringplatz_#15"
                 ],
                 "created_date": "2019-11-01T11:26:35.150-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
@@ -307,7 +307,7 @@
                 "tags": [
                     "architecture"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Formal and informal actors in the area",
                 "links": [
                     {
                         "url": "https://www.gewobag.de",
@@ -370,7 +370,7 @@
                     "culture",
                     "social inclusion"
                 ],
-                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
                     {
                         "url": "http://www.bauhuette-berlin.de/blog",
@@ -401,7 +401,7 @@
                 "category": "Transformations",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
                 "links": [
                     {
                         "url": "https://pxb.ag",
@@ -439,7 +439,7 @@
                     "temporary structure",
                     "gardening"
                 ],
-                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
                 "links": [
                     {
                         "url": "http://www.bauhuette-berlin.de",
@@ -475,7 +475,7 @@
                     "office",
                     "workspace"
                 ],
-                "category-description": "",
+                "category-description": "Locations that are recognised by the community or important reference points",
                 "links": [
                     {
                         "url": "http://www.sauerbruchhutton.de/en/project/gsw",
@@ -516,7 +516,7 @@
                     "social inclusion",
                     "architecture"
                 ],
-                "category-description": "",
+                "category-description": "Locations that are recognised by the community or important reference points",
                 "links": [],
                 "relationships": [
                     "mehringplatz-community-atlas/die_rondell#45"
@@ -548,11 +548,11 @@
                 "tags": [
                     "social inclusion",
                     "Urban regeneration",
-                    "Urbanism",
+                    "urbanism",
                     "Urban Policy",
-                    "Heritage"
+                    "heritage"
                 ],
-                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "category-description": "An area of interest or defining administrative borders or policies",
                 "links": [
                     {
                         "url": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/gruppe-infrastruktur-und-staedtebaufoerderung/aktuelles/suedliche-friedrichstadt-erhaltungsgebiet-gem-172-abs-1-nr-2-baugb-milieuschutz-600453.php",
@@ -689,7 +689,7 @@
                     "culture",
                     "Urban regeneration"
                 ],
-                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
                     {
                         "url": "https://vimeo.com/225375320",
@@ -729,7 +729,7 @@
                     "culture",
                     "cooking"
                 ],
-                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
                     {
                         "url": "https://vimeo.com/232820289",
@@ -775,7 +775,7 @@
                     "oral history",
                     "events"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Formal and informal actors in the area",
                 "links": [
                     {
                         "url": "https://www.zlb.de",
@@ -812,7 +812,7 @@
                 "tags": [
                     "a test, with comma"
                 ],
-                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "category-description": "An area of interest or defining administrative borders or policies",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-10-17T14:07:18.473-07:00",
@@ -954,7 +954,7 @@
                 "category": "Stakeholders",
                 "sub-category": "NGO/Social work",
                 "tags": [],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Formal and informal actors in the area",
                 "links": [
                     {
                         "url": "http://dieglobale.org/",
@@ -995,7 +995,7 @@
                     "culture",
                     "social inclusion"
                 ],
-                "category-description": "",
+                "category-description": "Locations that are recognised by the community or important reference points",
                 "links": [],
                 "relationships": [
                     "mehringplatz-community-atlas/die_globale_e_v_#27"
@@ -1028,7 +1028,7 @@
                     "social inclusion",
                     "quartiersmanagement"
                 ],
-                "category-description": "",
+                "category-description": "Locations that are recognised by the community or important reference points",
                 "links": [],
                 "relationships": [
                     "mehringplatz-community-atlas/mehringplatz#39",
@@ -1060,7 +1060,7 @@
                 "category": "Stakeholders",
                 "sub-category": "NGO/Social work",
                 "tags": [],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Formal and informal actors in the area",
                 "links": [
                     {
                         "url": "http://www.vielfaltev.de/",
@@ -1100,7 +1100,7 @@
                     "Public space",
                     "Urban regeneration"
                 ],
-                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "category-description": "An area of interest or defining administrative borders or policies",
                 "links": [
                     {
                         "url": "http://www.sanierung-suedliche-friedrichstadt.de/",
@@ -1117,7 +1117,7 @@
                 ],
                 "relationships": [
                     "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
-                    "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15",
+                    "mehringplatz-community-atlas/_quartiermanagement_am_mehringplatz_#15",
                     "mehringplatz-community-atlas/besselpark_regeneration_#11"
                 ],
                 "created_date": "2019-09-26T06:31:05.747-07:00",
@@ -1245,7 +1245,7 @@
                     "park",
                     "Public space"
                 ],
-                "category-description": "to document material and immaterial heritage\r\n",
+                "category-description": "Document of material and immaterial heritage",
                 "links": [
                     {
                         "url": "https://www.berlinischegalerie.de/en/museum-berlin/art-city-space/fletcher-benton-tilted-donut-wedge/",
@@ -1287,7 +1287,7 @@
                     "workspace",
                     "housing"
                 ],
-                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
                 "links": [
                     {
                         "url": "http://www.metropolenhaus.de",
@@ -1371,20 +1371,20 @@
         {
             "type": "Feature",
             "properties": {
-                "title": " Kunstwelt .v. - Quartiermanagement am Mehringplaz ",
-                "type": "Organization",
+                "title": " Quartiermanagement am Mehringplatz ",
+                "type": "Program",
                 "start_date": "1998-09-25T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "Im Juli 2005 beauftragte die Senatsverwaltung für Stadtentwicklung in Zusammenarbeit mit dem Bezirksamt Friedrichshain-Kreuzberg den gemeinnützigen Verein Kunstwelt e.V., der seit 1998 seinen Sitz am Mehringplatz hat, mit der Umsetzung des Quartiersmanagements am Mehringplatz. Zusammen mit BewohnerInnen und \"starken Partnern der Quartiersentwicklung\" ermittelt und diskutiert das Vor-Ort-Team seither die wichtigsten Bedarfe, entwickelt Projektideen und bringt diese auf den Weg.",
                 "image": "https://i.ibb.co/SJXTHcq/Screenshot-2019-09-27-at-11-43-03.png",
-                "category": "Stakeholders",
-                "sub-category": "NGO/Social work",
+                "category": "Delimitations",
+                "sub-category": "social policy",
                 "tags": [
                     "quartiersmanagement",
                     "social inclusion",
                     "culture"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "An area of interest or defining administrative borders or policies",
                 "links": [
                     {
                         "url": "Kunstwelt e.V.",
@@ -1398,7 +1398,7 @@
                     "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
                 ],
                 "created_date": "2019-09-26T01:20:24.808-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-08T09:27:00.613-08:00",
                 "weight": 0
             },
             "geometry": {
@@ -1408,7 +1408,7 @@
                     52.50006
                 ]
             },
-            "id": "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15"
+            "id": "mehringplatz-community-atlas/_quartiermanagement_am_mehringplatz_#15"
         },
         {
             "type": "Feature",
@@ -1420,12 +1420,12 @@
                 "description": "In 2005 the area around Mehringplatz has been targeted by the national Soziale Stadt program (Socially Integrative City), identifying this territory as a deprived neighbourhood in need for specific social support measures according to standards defined at Federal level. Soziale Stadt is a complex and comprehensive community-led local development scheme that combines a tight spatial focus, local participation, and the integration of policies and human and financial resources. This federal programme, jointly financed by European Regional Development Funds and national funds, decentralises decision-making, by delegating responsibility for small-scale projects to residents living in deprived areas selected by the Berlin Senate. The program establishes a local Quartiermanagement that manages different types of Neighbourhood Funds, each covering a different type of project and working with the direct involvement of residents. The Quartiersmanagement teams provide a platform for networking and interaction, enabling groups and actors to debate and identify local needs, values and responses. ",
                 "image": "https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg",
                 "category": "Delimitations",
-                "sub-category": "Area of interest",
+                "sub-category": "social policy",
                 "tags": [
                     "social inclusion",
                     "quartiersmanagement"
                 ],
-                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "category-description": "An area of interest or defining administrative borders or policies",
                 "links": [
                     {
                         "url": "http://www.qm-mehringplatz.de/index.php?id=4",
@@ -1435,11 +1435,11 @@
                     }
                 ],
                 "relationships": [
-                    "mehringplatz-community-atlas/_kunstwelt_v_quartiermanagement_am_mehringplaz_#15",
+                    "mehringplatz-community-atlas/_quartiermanagement_am_mehringplatz_#15",
                     "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
                 ],
                 "created_date": "2019-09-25T10:32:11.919-07:00",
-                "updated_date": "2019-11-26T07:06:14.925-08:00",
+                "updated_date": "2019-12-08T09:27:58.826-08:00",
                 "weight": 0
             },
             "geometry": {
@@ -1527,7 +1527,7 @@
                     "platform",
                     "coop"
                 ],
-                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
                 "links": [
                     {
                         "url": "Video Interview to Ela Kagel",
@@ -1568,7 +1568,7 @@
                     "workspace",
                     "culture"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Formal and informal actors in the area",
                 "links": [
                     {
                         "url": "http://www.supermarkt-berlin.net/en",
@@ -1592,222 +1592,6 @@
                 ]
             },
             "id": "mehringplatz-community-atlas/supermarkt#12"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Besselpark Regeneration ",
-                "type": "Program",
-                "start_date": "2019-08-14T16:00:00.000-07:00",
-                "end_date": "",
-                "description": "Redesign of the park in progress as part of the Regeneration plan (Sanierungsgebiet). The project has been selected through a competition including a public consultation",
-                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/03/Besselpark-Perspektive-komp-768x402.jpg",
-                "category": "Transformations",
-                "sub-category": "Public space",
-                "tags": [
-                    "Urban regeneration",
-                    "Public space",
-                    "park"
-                ],
-                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
-                "links": [
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/05/BES_LP3_Pr%C3%A4sentation_170523.pdf",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-09-25T08:52:03.678-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.390974480686964,
-                            52.504162809150216
-                        ],
-                        [
-                            13.39284129816133,
-                            52.50433913724122
-                        ],
-                        [
-                            13.392894942341627,
-                            52.50400607247558
-                        ],
-                        [
-                            13.39233704286653,
-                            52.50397994964212
-                        ],
-                        [
-                            13.392412144718946,
-                            52.50347708207264
-                        ],
-                        [
-                            13.391682583866896,
-                            52.50342483576153
-                        ],
-                        [
-                            13.391693312702955,
-                            52.50334646617839
-                        ],
-                        [
-                            13.391135413227857,
-                            52.503294219712025
-                        ],
-                        [
-                            13.390974480686964,
-                            52.504162809150216
-                        ]
-                    ]
-                ]
-            },
-            "id": "mehringplatz-community-atlas/besselpark_regeneration_#11"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "TAZ Neubau",
-                "type": "Building",
-                "start_date": "2018-09-29T16:00:00.000-07:00",
-                "end_date": "",
-                "description": "Building site for the new building of the TAZ Newspaper. \n\nNew house for the Taz, die Tageszeitung, created through a common investment of its cooperative members to respond better to the changes of the new digital structure and organization of work, in order to improve the working conditions and at the same time secure the Taz’s company through a capital investment.\nThe design concept follows the idea of (quote) “a system without hierarchies”, where the network is the structural guiding principle.\nIt claims to be a (quote) “ living organism”: besides allowing all employees currently working in three different buildings to work together under one roof, it looks to its new role as part of the creative quarter’s project and wants to achieve openness to outside, addressing not only the past supporters of taz, cooperative members, founders, limited partners, subscribers and readers, but in general to all those who want to support the house project and participate in the cooperative.\nRecently completed, is becoming operational",
-                "image": "https://i.pinimg.com/564x/9b/fe/fe/9bfefe50ca7507a3c783edb501f9d376.jpg",
-                "category": "Transformations",
-                "sub-category": "Private spaces",
-                "tags": [
-                    "media",
-                    "workspace",
-                    "culture"
-                ],
-                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
-                "links": [
-                    {
-                        "url": "http://www.taz.de/!p4820/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-09-25T07:59:09.170-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39135,
-                    52.50315
-                ]
-            },
-            "id": "mehringplatz-community-atlas/taz_neubau#10"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Hedwig Dohm Gedenktafel",
-                "type": "Monument",
-                "start_date": "",
-                "end_date": "",
-                "description": "Marianne Adelaide Hedwig Dohm  (20 September 1831 – 1 June 1919) was a German feminist, and author. She was one of the first feminist thinkers. She lived in this house until 1851.",
-                "image": "https://www.gedenktafeln-in-berlin.de/typo3temp/pics/Gedenktafel_Friedrichstr_235__Kreuz__Hed_ed79a9fe12.jpg",
-                "category": "Memories",
-                "sub-category": "Plaques/Information displays",
-                "tags": [
-                    "feminism",
-                    "culture"
-                ],
-                "category-description": "to document material and immaterial heritage\r\n",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-09-25T07:58:48.148-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39107,
-                    52.50225
-                ]
-            },
-            "id": "mehringplatz-community-atlas/hedwig_dohm_gedenktafel#9"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Victoria Versicherung Kreuzberg",
-                "type": "Building",
-                "start_date": "1913-09-29T16:00:00.000-08:00",
-                "end_date": "",
-                "description": "Neo- baroque building.\n\n",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Kreuzberg_Postkarte_004.jpg/220px-Berlin-Kreuzberg_Postkarte_004.jpg",
-                "category": "Memories",
-                "sub-category": "Architecture ",
-                "tags": [
-                    "architecture"
-                ],
-                "category-description": "to document material and immaterial heritage\r\n",
-                "links": [],
-                "relationships": [
-                    "mehringplatz-community-atlas/urban_sketches_victoria_versicherung#35"
-                ],
-                "created_date": "2019-09-25T07:57:02.813-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39625,
-                    52.50373
-                ]
-            },
-            "id": "mehringplatz-community-atlas/victoria_versicherung_kreuzberg#8"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "KMA Antenne",
-                "type": "Organization",
-                "start_date": "",
-                "end_date": "",
-                "description": "Youth centre",
-                "image": "",
-                "category": "Stakeholders",
-                "sub-category": "NGO/Social work",
-                "tags": [
-                    "youths",
-                    "culture",
-                    "social inclusion"
-                ],
-                "category-description": "identifying formal and informal actors in the area",
-                "links": [
-                    {
-                        "url": "http://kma-ev.de/index.php?id=5",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-09-25T07:36:57.647-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39179,
-                    52.50062
-                ]
-            },
-            "id": "mehringplatz-community-atlas/kma_antenne#7"
         }
     ],
     "properties": {
@@ -1816,28 +1600,32 @@
         "id": "mehringplatz_en",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-12-08T16:38:48.701Z",
+        "published": "2019-12-08T17:59:43.291Z",
         "links": [],
         "taxonomy": [
             {
                 "category": "Itineraries",
-                "description": "to connect different elements in the territory in a geo-spatial experience, e.g. guided tours",
+                "description": "Connecting different elements in the territory in a geo-spatial experience, e.g. guided tours",
                 "sub-categories": [
                     "H-Town Lab (URBEX Youth Lab)"
                 ],
-                "weight": 4,
+                "weight": 6,
                 "id": 6
             },
             {
                 "category": "Imaginations",
-                "description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
-                "sub-categories": [],
+                "description": "Visions for transformation, unrealised projects and proposed hypothesis - representing alternative realities of the area",
+                "sub-categories": [
+                    "Study",
+                    "Project",
+                    "Exhibition"
+                ],
                 "weight": 5,
                 "id": 7
             },
             {
                 "category": "Narratives",
-                "description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "description": "Personal perspective and voices, oral histories, interviews and documentations.",
                 "sub-categories": [
                     "Place narratives ",
                     "Interviews",
@@ -1848,7 +1636,7 @@
             },
             {
                 "category": "Memories",
-                "description": "to document material and immaterial heritage\r\n",
+                "description": "Document of material and immaterial heritage",
                 "sub-categories": [
                     "Statues",
                     "Graffiti & Murals",
@@ -1861,12 +1649,12 @@
             },
             {
                 "category": "Stakeholders",
-                "description": "identifying formal and informal actors in the area",
+                "description": "Formal and informal actors in the area",
                 "sub-categories": [
                     "Cultural institutions",
                     "Administration",
                     "Developers and enterprises",
-                    "NGO/Social work",
+                    "Associations /NGO",
                     "Commerce",
                     "Creative industries"
                 ],
@@ -1875,9 +1663,9 @@
             },
             {
                 "category": "Transformations",
-                "description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "description": "Current projects, conflicts and initiatives - transformations taking place in the area",
                 "sub-categories": [
-                    "Private spaces",
+                    "Private space",
                     "Public space",
                     "Infrastructural",
                     "Commons oriented"
@@ -1887,7 +1675,7 @@
             },
             {
                 "category": "Places",
-                "description": "",
+                "description": "Locations that are recognised by the community or important reference points",
                 "sub-categories": [
                     "Community hub",
                     "Public space",
@@ -1901,12 +1689,12 @@
             },
             {
                 "category": "Delimitations",
-                "description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "description": "An area of interest or defining administrative borders or policies",
                 "sub-categories": [
                     "Area of interest",
                     "Administrative borders",
                     "Spatial planning",
-                    "social policy"
+                    "Social policy"
                 ],
                 "weight": -10,
                 "id": 1

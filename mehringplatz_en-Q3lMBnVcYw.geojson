@@ -1816,7 +1816,7 @@
         "id": "mehringplatz_en",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-12-05T19:45:33.617Z",
+        "published": "2019-12-08T16:38:48.701Z",
         "links": [],
         "taxonomy": [
             {
@@ -1825,14 +1825,14 @@
                 "sub-categories": [
                     "H-Town Lab (URBEX Youth Lab)"
                 ],
-                "weight": 0,
+                "weight": 4,
                 "id": 6
             },
             {
                 "category": "Imaginations",
                 "description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
                 "sub-categories": [],
-                "weight": 8,
+                "weight": 5,
                 "id": 7
             },
             {
@@ -1856,7 +1856,7 @@
                     "Plaques/Information displays",
                     "Architecture "
                 ],
-                "weight": 0,
+                "weight": -6,
                 "id": 3
             },
             {
@@ -1870,7 +1870,7 @@
                     "Commerce",
                     "Creative industries"
                 ],
-                "weight": -7,
+                "weight": -3,
                 "id": 4
             },
             {
@@ -1882,7 +1882,7 @@
                     "Infrastructural",
                     "Commons oriented"
                 ],
-                "weight": -3,
+                "weight": -5,
                 "id": 2
             },
             {

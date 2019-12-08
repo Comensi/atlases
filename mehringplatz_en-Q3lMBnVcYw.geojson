@@ -4,6 +4,34 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Kunstwelt e.V.",
+                "type": "Organization",
+                "start_date": "",
+                "end_date": "",
+                "description": "Founded in 1999 the non-profit organization Kunstwelt Berlin develops public forums and hosts cultural events. Since 2005 is in charge of the Quartiersmanagement ( Neighbourhood Management) at Mehringplatz, Berlin.\nMajor  activities of this organization include art projects such as THE PATH OF VISIONARIES und THE BERLIN ORACLE as well as the EUROPAFESTIVAL - BERLIN. ",
+                "image": "",
+                "category": "Stakeholders",
+                "sub-category": "NGO/Social work",
+                "tags": [
+                    "art",
+                    "culture",
+                    "quartiersmanagement"
+                ],
+                "category-description": "Formal and informal actors in the area",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14",
+                    "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
+                ],
+                "created_date": "2019-12-08T09:29:03.261-08:00",
+                "updated_date": "2019-12-08T09:36:09.571-08:00",
+                "weight": 0
+            },
+            "id": "mehringplatz-community-atlas/kunstwelt_e_v_#48"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "WWII Air raid",
                 "type": "Event",
                 "start_date": "1945-03-02T16:00:00.000-07:00",
@@ -1592,6 +1620,222 @@
                 ]
             },
             "id": "mehringplatz-community-atlas/supermarkt#12"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Besselpark Regeneration ",
+                "type": "Program",
+                "start_date": "2019-08-14T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Redesign of the park in progress as part of the Regeneration plan (Sanierungsgebiet). The project has been selected through a competition including a public consultation",
+                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/03/Besselpark-Perspektive-komp-768x402.jpg",
+                "category": "Transformations",
+                "sub-category": "Public space",
+                "tags": [
+                    "Urban regeneration",
+                    "Public space",
+                    "park"
+                ],
+                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/05/BES_LP3_Pr%C3%A4sentation_170523.pdf",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-09-25T08:52:03.678-07:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.390974480686964,
+                            52.504162809150216
+                        ],
+                        [
+                            13.39284129816133,
+                            52.50433913724122
+                        ],
+                        [
+                            13.392894942341627,
+                            52.50400607247558
+                        ],
+                        [
+                            13.39233704286653,
+                            52.50397994964212
+                        ],
+                        [
+                            13.392412144718946,
+                            52.50347708207264
+                        ],
+                        [
+                            13.391682583866896,
+                            52.50342483576153
+                        ],
+                        [
+                            13.391693312702955,
+                            52.50334646617839
+                        ],
+                        [
+                            13.391135413227857,
+                            52.503294219712025
+                        ],
+                        [
+                            13.390974480686964,
+                            52.504162809150216
+                        ]
+                    ]
+                ]
+            },
+            "id": "mehringplatz-community-atlas/besselpark_regeneration_#11"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "TAZ Neubau",
+                "type": "Building",
+                "start_date": "2018-09-29T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Building site for the new building of the TAZ Newspaper. \n\nNew house for the Taz, die Tageszeitung, created through a common investment of its cooperative members to respond better to the changes of the new digital structure and organization of work, in order to improve the working conditions and at the same time secure the Taz’s company through a capital investment.\nThe design concept follows the idea of (quote) “a system without hierarchies”, where the network is the structural guiding principle.\nIt claims to be a (quote) “ living organism”: besides allowing all employees currently working in three different buildings to work together under one roof, it looks to its new role as part of the creative quarter’s project and wants to achieve openness to outside, addressing not only the past supporters of taz, cooperative members, founders, limited partners, subscribers and readers, but in general to all those who want to support the house project and participate in the cooperative.\nRecently completed, is becoming operational",
+                "image": "https://i.pinimg.com/564x/9b/fe/fe/9bfefe50ca7507a3c783edb501f9d376.jpg",
+                "category": "Transformations",
+                "sub-category": "Private spaces",
+                "tags": [
+                    "media",
+                    "workspace",
+                    "culture"
+                ],
+                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": [
+                    {
+                        "url": "http://www.taz.de/!p4820/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-09-25T07:59:09.170-07:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39135,
+                    52.50315
+                ]
+            },
+            "id": "mehringplatz-community-atlas/taz_neubau#10"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Hedwig Dohm Gedenktafel",
+                "type": "Monument",
+                "start_date": "",
+                "end_date": "",
+                "description": "Marianne Adelaide Hedwig Dohm  (20 September 1831 – 1 June 1919) was a German feminist, and author. She was one of the first feminist thinkers. She lived in this house until 1851.",
+                "image": "https://www.gedenktafeln-in-berlin.de/typo3temp/pics/Gedenktafel_Friedrichstr_235__Kreuz__Hed_ed79a9fe12.jpg",
+                "category": "Memories",
+                "sub-category": "Plaques/Information displays",
+                "tags": [
+                    "feminism",
+                    "culture"
+                ],
+                "category-description": "Document of material and immaterial heritage",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-09-25T07:58:48.148-07:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39107,
+                    52.50225
+                ]
+            },
+            "id": "mehringplatz-community-atlas/hedwig_dohm_gedenktafel#9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Victoria Versicherung Kreuzberg",
+                "type": "Building",
+                "start_date": "1913-09-29T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Neo- baroque building.\n\n",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Kreuzberg_Postkarte_004.jpg/220px-Berlin-Kreuzberg_Postkarte_004.jpg",
+                "category": "Memories",
+                "sub-category": "Architecture ",
+                "tags": [
+                    "architecture"
+                ],
+                "category-description": "Document of material and immaterial heritage",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/urban_sketches_victoria_versicherung#35"
+                ],
+                "created_date": "2019-09-25T07:57:02.813-07:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39625,
+                    52.50373
+                ]
+            },
+            "id": "mehringplatz-community-atlas/victoria_versicherung_kreuzberg#8"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "KMA Antenne",
+                "type": "Organization",
+                "start_date": "",
+                "end_date": "",
+                "description": "Youth centre",
+                "image": "",
+                "category": "Stakeholders",
+                "sub-category": "NGO/Social work",
+                "tags": [
+                    "youths",
+                    "culture",
+                    "social inclusion"
+                ],
+                "category-description": "Formal and informal actors in the area",
+                "links": [
+                    {
+                        "url": "http://kma-ev.de/index.php?id=5",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-09-25T07:36:57.647-07:00",
+                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39179,
+                    52.50062
+                ]
+            },
+            "id": "mehringplatz-community-atlas/kma_antenne#7"
         }
     ],
     "properties": {
@@ -1600,7 +1844,7 @@
         "id": "mehringplatz_en",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-12-08T17:59:43.291Z",
+        "published": "2019-12-08T22:40:41.938Z",
         "links": [],
         "taxonomy": [
             {

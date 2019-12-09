@@ -42,33 +42,6 @@
                 "weight": 0
             },
             "id": "play/a_new_example#61"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "coco d'ajuda",
-                "type": "Monument",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "Places",
-                "sub-category": "",
-                "tags": [
-                    "cooking",
-                    "youths",
-                    "architecture"
-                ],
-                "category-description": "",
-                "links": [],
-                "relationships": [
-                    "play/something#55"
-                ],
-                "created_date": "2019-11-26T06:13:42.876-08:00",
-                "updated_date": "2019-11-26T06:32:38.532-08:00",
-                "weight": 0
-            },
-            "id": "play/coco_d_ajuda#56"
         }
     ],
     "features": [
@@ -132,7 +105,7 @@
                     }
                 ],
                 "relationships": [
-                    "play/coco_d_ajuda#56"
+                    "play/ajuda_jovem#56"
                 ],
                 "created_date": "2019-11-26T06:23:08.661-08:00",
                 "updated_date": "2019-11-26T06:38:38.413-08:00",
@@ -170,8 +143,64 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Ajuda Jovem",
+                "type": "Project",
+                "start_date": "2020-01-05T16:00:00.000-08:00",
+                "end_date": "2020-09-10T16:00:00.000-07:00",
+                "description": "A map of young people's initiatives in Ajuda's territory",
+                "image": "https://www.facebook.com/ajuda.juntadefreguesia/photos/rpp.237830389733250/1338152153034396/?type=3&theater ",
+                "category": "Itineraries",
+                "sub-category": "",
+                "tags": [
+                    "cooking",
+                    "youths",
+                    "Events",
+                    "music",
+                    "culture",
+                    "feminism",
+                    "media",
+                    "park",
+                    "digital ",
+                    "coop",
+                    "Social inclusion",
+                    "gardening",
+                    "housing",
+                    "oral history",
+                    "Public space",
+                    "Urban regeneration",
+                    "collective",
+                    "hackspace"
+                ],
+                "category-description": "to connect different elements in the territory in a geo-spatial experience, e.g. guided tours",
+                "links": [
+                    {
+                        "url": "https://www.facebook.com/4Change.org/photos/gm.573540153152248/2139471472806600/?type=3&theater ",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "play/something#55"
+                ],
+                "created_date": "2019-11-26T06:13:42.876-08:00",
+                "updated_date": "2019-11-28T09:51:49.766-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.201571,
+                    38.707559
+                ]
+            },
+            "id": "play/ajuda_jovem#56"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Something",
-                "type": "Example",
+                "type": "",
                 "start_date": "",
                 "end_date": "",
                 "description": "An example feature that we will delete. ",
@@ -320,7 +349,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2019-11-26T16:39:17.528Z",
+        "published": "2019-12-09T16:46:57.799Z",
         "links": [
             {
                 "title": "The Comensi project",

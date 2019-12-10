@@ -490,6 +490,100 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Friedrichstadt ",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "Friedrichstadt is a historical neighbourhood of Berlin located south of the twin-city zone of Berlin and Cölln. Today, the northern part of the neighbourhood is  in the borough of Berlin-Mitte, while the southern part of the neighbourhood is part of Friedrichshain-Kreuzberg. The border between the two boroughs runs along the southern side of Niederkirchnerstraße and Zimmerstraße. The official boundaries of Friedrichstadt extend from the Spittelmarkt starting between northbound streets Niederwall- and Oberwallstraße, along Behrenstraße west to Ebertstraße, and then south over the Potsdamer Platz, Stresemann- and Gitschiner Straße, ending at the Hallesches Tor, and then again north over Linden- and Axel-Springer-Straße, back to the Spittelmarkt. \n",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Map_de-be_friedrichstadt.png",
+                "category": "Delimitations",
+                "sub-category": "Administrative borders",
+                "tags": [
+                    "toponyms",
+                    "history"
+                ],
+                "category-description": "An area of interest or defining administrative borders or policies",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/friedrichstadt_foundation#42",
+                    "mehringplatz-community-atlas/friedrichstadt_incorporation#44"
+                ],
+                "created_date": "2019-12-10T01:35:42.660-08:00",
+                "updated_date": "2019-12-10T01:47:16.639-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.389252,
+                            52.498094
+                        ],
+                        [
+                            13.393861,
+                            52.498189
+                        ],
+                        [
+                            13.401282,
+                            52.510348
+                        ],
+                        [
+                            13.400813,
+                            52.511867
+                        ],
+                        [
+                            13.399095,
+                            52.512152
+                        ],
+                        [
+                            13.396595,
+                            52.51201
+                        ],
+                        [
+                            13.396204,
+                            52.512722
+                        ],
+                        [
+                            13.396283,
+                            52.513387
+                        ],
+                        [
+                            13.396048,
+                            52.516283
+                        ],
+                        [
+                            13.381206,
+                            52.515096
+                        ],
+                        [
+                            13.379487,
+                            52.514716
+                        ],
+                        [
+                            13.377534,
+                            52.514669
+                        ],
+                        [
+                            13.376597,
+                            52.50935
+                        ],
+                        [
+                            13.376909,
+                            52.508638
+                        ],
+                        [
+                            13.389252,
+                            52.498094
+                        ]
+                    ]
+                ]
+            },
+            "id": "mehringplatz-community-atlas/friedrichstadt_#50"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "GSW Tower",
                 "type": "Building",
                 "start_date": "1999-11-21T16:00:00.000-08:00",
@@ -1802,7 +1896,7 @@
         "id": "mehringplatz_en",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-12-10T10:48:48.259Z",
+        "published": "2019-12-10T12:22:46.283Z",
         "links": [
             {
                 "title": "Mehringplats - German",

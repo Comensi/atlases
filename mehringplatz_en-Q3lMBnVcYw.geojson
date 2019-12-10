@@ -623,6 +623,42 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Mehringplatz test",
+                "type": "Place",
+                "start_date": "1968-06-20T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Mehringplatz is the core of the Südliche Friedrichstadt. The  baroque monumental plaza at the end of the main North-South axis Friedrichstrasse, next to the Hallesches Tor (city door towards Halle), was completely destroyed during WWII.  Successively it found itself as a peripheral territory at the edge of Berlin Wall. Rebuilt in the seventies on a concept by Hans Scharoun readapted in residential key by its follower Werner Düttman, it has become a huge social-housing settlement inhabited mostly by immigrant households. The owner of most of the housing complex is today GeWoBag, a publicly owned private company. ",
+                "image": "https://i.ibb.co/smzrBJn/photo-2019-11-23-15-06-50.jpg",
+                "category": "Places",
+                "sub-category": "Public space",
+                "tags": [
+                    "Public space",
+                    "Urban regeneration",
+                    "quartiersmanagement",
+                    "social inclusion",
+                    "architecture"
+                ],
+                "category-description": "Locations that are recognised by the community or important reference points",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/die_rondell#45"
+                ],
+                "created_date": "2019-12-10T09:05:46.149-08:00",
+                "updated_date": "2019-12-10T09:05:58.441-08:00",
+                "weight": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "id": "mehringplatz-community-atlas/mehringplatz_test#51"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Mehringplatz",
                 "type": "Place",
                 "start_date": "1968-06-20T16:00:00.000-07:00",
@@ -1896,7 +1932,7 @@
         "id": "mehringplatz_en",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-12-10T17:03:08.818Z",
+        "published": "2019-12-10T17:09:02.592Z",
         "links": [
             {
                 "title": "Mehringplats - German",
@@ -1906,7 +1942,7 @@
                 "type": "translation"
             }
         ],
-        "version": 2,
+        "version": 3,
         "taxonomy": [
             {
                 "category": "Itineraries",

@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Testing live mode",
+                "type": "Organization",
+                "start_date": "",
+                "end_date": "",
+                "description": "Live!!!",
+                "image": "",
+                "category": "Transformations",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-10T08:40:29.658-08:00",
+                "updated_date": "2019-12-10T08:40:45.725-08:00",
+                "weight": 0
+            },
+            "id": "play/testing_live_mode#67"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Retry!!",
                 "type": "",
                 "start_date": "",
@@ -391,7 +412,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2019-12-10T16:09:11.331Z",
+        "published": "2019-12-10T16:53:46.980Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -401,7 +422,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 5,
+        "version": 15,
         "taxonomy": [
             {
                 "category": "Simple",

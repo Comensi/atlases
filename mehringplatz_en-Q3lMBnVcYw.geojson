@@ -313,7 +313,7 @@
                 ],
                 "relationships": [
                     "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14",
-                    "mehringplatz-community-atlas/_quartiermanagement_am_mehringplatz_#15"
+                    ""
                 ],
                 "created_date": "2019-11-01T11:26:35.150-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
@@ -1145,7 +1145,7 @@
                 ],
                 "relationships": [
                     "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
-                    "mehringplatz-community-atlas/_quartiermanagement_am_mehringplatz_#15",
+                    "",
                     "mehringplatz-community-atlas/besselpark_regeneration_#11"
                 ],
                 "created_date": "2019-09-26T06:31:05.747-07:00",
@@ -1802,7 +1802,7 @@
         "id": "mehringplatz_en",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-12-10T08:56:18.787Z",
+        "published": "2019-12-10T10:00:53.959Z",
         "links": [
             {
                 "title": "Mehringplats - German",

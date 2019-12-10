@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Retry!!",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "Try again",
+                "image": "",
+                "category": "Simple",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-10T08:05:37.273-08:00",
+                "updated_date": "2019-12-10T08:05:56.065-08:00",
+                "weight": 0
+            },
+            "id": "play/retry_#66"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "This is a new feature",
                 "type": "Place",
                 "start_date": "",
@@ -370,7 +391,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2019-12-10T16:06:49.028Z",
+        "published": "2019-12-10T16:09:11.331Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -380,7 +401,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 4,
+        "version": 5,
         "taxonomy": [
             {
                 "category": "Simple",

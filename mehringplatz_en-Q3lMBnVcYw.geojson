@@ -1896,7 +1896,7 @@
         "id": "mehringplatz_en",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-12-10T17:00:54.728Z",
+        "published": "2019-12-10T17:03:08.818Z",
         "links": [
             {
                 "title": "Mehringplats - German",
@@ -1906,6 +1906,7 @@
                 "type": "translation"
             }
         ],
+        "version": 2,
         "taxonomy": [
             {
                 "category": "Itineraries",

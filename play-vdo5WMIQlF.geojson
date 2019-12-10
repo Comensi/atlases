@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "This is a new feature",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "A feature",
+                "image": "",
+                "category": "Places",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-10T07:11:43.207-08:00",
+                "updated_date": "2019-12-10T07:12:08.909-08:00",
+                "weight": 0
+            },
+            "id": "play/this_is_a_new_feature#65"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "One more time",
                 "type": "",
                 "start_date": "",
@@ -349,7 +370,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2019-12-10T15:12:24.107Z",
+        "published": "2019-12-10T15:24:03.944Z",
         "links": [
             {
                 "title": "The Comensi project",

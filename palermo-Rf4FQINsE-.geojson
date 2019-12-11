@@ -4,6 +4,35 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Piazza Papireto",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "Piazza del quartiere capo in via di ristrutturazione",
+                "image": "https://i.postimg.cc/76mtZBpM/UNADJUSTEDNONRAW-thumb-6ad.jpg",
+                "category": "Places",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-11T08:12:02.170-08:00",
+                "updated_date": "2019-12-11T08:15:02.526-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3538,
+                    38.1151
+                ]
+            },
+            "id": "ca/piazza_papireto#70"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Cortile Mangano",
                 "type": "Place",
                 "start_date": "",
@@ -37,7 +66,7 @@
         "id": "palermo",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-11T16:08:23.526Z",
+        "published": "2019-12-11T16:17:44.884Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -47,7 +76,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 19,
+        "version": 20,
         "taxonomy": [
             {
                 "category": "Simple",

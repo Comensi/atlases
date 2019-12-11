@@ -4,40 +4,40 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Delete me",
-                "type": "",
+                "title": "Cortile Mangano",
+                "type": "Place",
                 "start_date": "",
                 "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
+                "description": "Piazza del quartiere capo",
+                "image": "https://i.postimg.cc/PrJK25Yy/UNADJUSTEDNONRAW-thumb-6af.jpg",
+                "category": "Places",
+                "sub-category": "Public space",
                 "tags": [],
                 "category-description": "",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-11T05:30:08.220-08:00",
-                "updated_date": "2019-12-11T05:30:13.954-08:00",
+                "updated_date": "2019-12-11T08:01:58.721-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0,
-                    0
+                    13.3542,
+                    38.1165
                 ]
             },
-            "id": "ca/delete_me#68"
+            "id": "ca/cortile_mangano#68"
         }
     ],
     "properties": {
-        "title": "palermo",
+        "title": "Palermo",
         "url": "https://palermo.community-atlas.net",
         "id": "palermo",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-11T14:14:43.557Z",
+        "published": "2019-12-11T16:08:23.526Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -47,7 +47,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 18,
+        "version": 19,
         "taxonomy": [
             {
                 "category": "Simple",

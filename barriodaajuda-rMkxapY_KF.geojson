@@ -32,12 +32,12 @@
         }
     ],
     "properties": {
-        "title": "Barrio da Ajuda",
+        "title": "Bairro da Ajuda",
         "url": "https://bairrodaajuda.community-atlas.net",
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-11T14:21:08.197Z",
+        "published": "2019-12-11T15:20:39.032Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -47,7 +47,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 18,
+        "version": 19,
         "taxonomy": [
             {
                 "category": "Simple",

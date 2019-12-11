@@ -37,7 +37,7 @@
         "id": "savskonaselje",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-11T14:28:26.984Z",
+        "published": "2019-12-11T14:31:38.946Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -47,7 +47,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 20,
+        "version": 21,
         "taxonomy": [
             {
                 "category": "Simple",

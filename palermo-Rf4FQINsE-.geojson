@@ -4,6 +4,42 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Madonna della Mercede al Capo",
+                "type": "Event",
+                "start_date": "2019-09-27T16:00:00.000-07:00",
+                "end_date": "2019-12-28T16:00:00.000-08:00",
+                "description": "",
+                "image": "https://i.postimg.cc/85R2jfLx/45026980262-5bacd1d3f9-z.jpg",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=mUUsUQEwjtY",
+                        "title": "Festa della Mercede",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-12-12T02:55:40.353-08:00",
+                "updated_date": "2019-12-12T03:03:40.524-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3546,
+                    38.1174
+                ]
+            },
+            "id": "ca/madonna_della_mercede_al_capo#73"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Spazi Di Quartiere",
                 "type": "Event",
                 "start_date": "2019-11-07T16:00:00.000-08:00",
@@ -67,7 +103,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "",
-                "image": "",
+                "image": "https://i.postimg.cc/76MDVzmg/DSCF1683.jpg",
                 "category": "",
                 "sub-category": "",
                 "tags": [],
@@ -75,7 +111,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T02:11:40.236-08:00",
-                "updated_date": "2019-12-12T02:13:17.939-08:00",
+                "updated_date": "2019-12-12T03:04:35.066-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -209,7 +245,7 @@
         "id": "palermo",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-12T10:37:54.718Z",
+        "published": "2019-12-12T11:06:52.678Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -219,7 +255,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 21,
+        "version": 22,
         "taxonomy": [
             {
                 "category": "Simple",

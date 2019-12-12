@@ -4,16 +4,16 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Madonna della Mercede al Capo",
+                "title": "Madonna della Mercede al Capo 2019",
                 "type": "Event",
                 "start_date": "2019-09-27T16:00:00.000-07:00",
                 "end_date": "2019-12-28T16:00:00.000-08:00",
                 "description": "",
                 "image": "https://i.postimg.cc/85R2jfLx/45026980262-5bacd1d3f9-z.jpg",
-                "category": "",
+                "category": "Memories",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "to document material and immaterial heritage\r\n",
                 "links": [
                     {
                         "url": "https://www.youtube.com/watch?v=mUUsUQEwjtY",
@@ -24,7 +24,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-12-12T02:55:40.353-08:00",
-                "updated_date": "2019-12-12T03:03:40.524-08:00",
+                "updated_date": "2019-12-12T03:13:31.253-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -35,7 +35,7 @@
                     38.1174
                 ]
             },
-            "id": "ca/madonna_della_mercede_al_capo#73"
+            "id": "ca/madonna_della_mercede_al_capo_2019#73"
         },
         {
             "type": "Feature",
@@ -102,7 +102,7 @@
                 "type": "",
                 "start_date": "",
                 "end_date": "",
-                "description": "",
+                "description": "Il Capo è un antico e noto quartiere del centro storico di Palermo. Con lo stesso termine i palermitani indicano indifferentemente anche il mercato che vi si tiene e con cui il quartiere si identifica.",
                 "image": "https://i.postimg.cc/76MDVzmg/DSCF1683.jpg",
                 "category": "",
                 "sub-category": "",
@@ -111,7 +111,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T02:11:40.236-08:00",
-                "updated_date": "2019-12-12T03:04:35.066-08:00",
+                "updated_date": "2019-12-12T03:11:41.841-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -245,7 +245,7 @@
         "id": "palermo",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-12T11:11:38.811Z",
+        "published": "2019-12-12T11:14:17.383Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -255,7 +255,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 22,
+        "version": 23,
         "taxonomy": [
             {
                 "category": "Simple",

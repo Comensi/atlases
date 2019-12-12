@@ -28,7 +28,7 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Laboratorio Comensi 1",
+                "title": "Laboratorio Comensi FASE 1",
                 "type": "Event",
                 "start_date": "2020-01-13T16:00:00.000-08:00",
                 "end_date": "2020-01-30T16:00:00.000-08:00",
@@ -41,7 +41,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T04:32:10.764-08:00",
-                "updated_date": "2019-12-12T04:37:14.030-08:00",
+                "updated_date": "2019-12-12T06:46:46.297-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -52,7 +52,7 @@
                     38.1168
                 ]
             },
-            "id": "ca/laboratorio_comensi_1#76"
+            "id": "ca/laboratorio_comensi_fase_1#76"
         },
         {
             "type": "Feature",
@@ -131,7 +131,8 @@
                 "category": "Imaginations",
                 "sub-category": "",
                 "tags": [
-                    "Events"
+                    "Urban regeneration",
+                    "Public space"
                 ],
                 "category-description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
                 "links": [
@@ -164,7 +165,7 @@
                     "ca/cortile_mangano#68,ca/piazza_papireto#70"
                 ],
                 "created_date": "2019-12-12T02:24:26.427-08:00",
-                "updated_date": "2019-12-12T02:36:00.014-08:00",
+                "updated_date": "2019-12-12T07:04:24.576-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -327,7 +328,7 @@
         "id": "palermo",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-12T14:46:37.482Z",
+        "published": "2019-12-12T15:04:53.944Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -337,7 +338,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 25,
+        "version": 27,
         "taxonomy": [
             {
                 "category": "Simple",

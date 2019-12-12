@@ -4,10 +4,39 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Teatro Massimo",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "Il principale Teatro d'opera della città delimita il quartiere Capo. Per costruirlo è stato necessario demolire parte dell'antico tessuto urbano.",
+                "image": "",
+                "category": "Delimitations",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-12T03:14:36.545-08:00",
+                "updated_date": "2019-12-12T03:16:36.919-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3573,
+                    38.12
+                ]
+            },
+            "id": "ca/teatro_massimo#74"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Madonna della Mercede al Capo 2019",
                 "type": "Event",
                 "start_date": "2019-09-27T16:00:00.000-07:00",
-                "end_date": "2019-12-28T16:00:00.000-08:00",
+                "end_date": "2019-09-28T16:00:00.000-07:00",
                 "description": "",
                 "image": "https://i.postimg.cc/85R2jfLx/45026980262-5bacd1d3f9-z.jpg",
                 "category": "Memories",
@@ -24,7 +53,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-12-12T02:55:40.353-08:00",
-                "updated_date": "2019-12-12T03:13:31.253-08:00",
+                "updated_date": "2019-12-12T03:17:58.267-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -245,7 +274,7 @@
         "id": "palermo",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-12T11:14:17.383Z",
+        "published": "2019-12-12T11:18:38.024Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -255,7 +284,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 23,
+        "version": 24,
         "taxonomy": [
             {
                 "category": "Simple",

@@ -4,6 +4,149 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Spazi Di Quartiere",
+                "type": "Event",
+                "start_date": "2019-11-07T16:00:00.000-08:00",
+                "end_date": "2019-11-28T16:00:00.000-08:00",
+                "description": "Discussioni pubbliche su idee e proposte di rinnovamento urbano dei cittadini del Capo gestite da Bond of Union",
+                "image": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
+                "category": "Imaginations",
+                "sub-category": "",
+                "tags": [
+                    "Events"
+                ],
+                "category-description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
+                        "title": "Vicolo degli orfani",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.facebook.com/events/957580901286850/",
+                        "title": "Piazza Papireto",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.facebook.com/events/456256658412760/",
+                        "title": "Piazzetta alla Guilla",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.facebook.com/events/753117621822422/",
+                        "title": "Cortile Mangano",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/cortile_mangano#68,ca/piazza_papireto#70"
+                ],
+                "created_date": "2019-12-12T02:24:26.427-08:00",
+                "updated_date": "2019-12-12T02:36:00.014-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3557,
+                    38.1175
+                ]
+            },
+            "id": "ca/spazi_di_quartiere#72"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Quartiere Capo - Monte di Pietà",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-12T02:11:40.236-08:00",
+                "updated_date": "2019-12-12T02:13:17.939-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.357875,
+                            38.121229
+                        ],
+                        [
+                            13.361461,
+                            38.115704
+                        ],
+                        [
+                            13.355956,
+                            38.113472
+                        ],
+                        [
+                            13.3549,
+                            38.114656
+                        ],
+                        [
+                            13.353716,
+                            38.114989
+                        ],
+                        [
+                            13.353316,
+                            38.115228
+                        ],
+                        [
+                            13.351085,
+                            38.117638
+                        ],
+                        [
+                            13.350946,
+                            38.118989
+                        ],
+                        [
+                            13.352538,
+                            38.119402
+                        ],
+                        [
+                            13.353716,
+                            38.119331
+                        ],
+                        [
+                            13.356104,
+                            38.120102
+                        ],
+                        [
+                            13.356972,
+                            38.120584
+                        ],
+                        [
+                            13.356913,
+                            38.120859
+                        ],
+                        [
+                            13.357875,
+                            38.121229
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/quartiere_capo_monte_di_piet_#71"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Piazza Papireto",
                 "type": "Place",
                 "start_date": "",
@@ -66,7 +209,7 @@
         "id": "palermo",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-11T16:17:44.884Z",
+        "published": "2019-12-12T10:37:54.718Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -76,7 +219,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 20,
+        "version": 21,
         "taxonomy": [
             {
                 "category": "Simple",

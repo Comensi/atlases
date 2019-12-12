@@ -1,6 +1,59 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Vicolo degli Orfani",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "Vicolo degli Orfani è un vicolo che collega Piazza Beati Paoli e Via Sant'Agostino. Nel vicolo si trova la sede operativa di Bond of Union",
+                "image": "https://i.postimg.cc/BQKwD3b0/IMG-1402.jpg",
+                "category": "Places",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-12T03:28:00.260-08:00",
+                "updated_date": "2019-12-12T03:36:12.232-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/vicolo_degli_orfani#75"
+        }
+    ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Laboratorio Comensi 1",
+                "type": "Event",
+                "start_date": "2020-01-13T16:00:00.000-08:00",
+                "end_date": "2020-01-30T16:00:00.000-08:00",
+                "description": "Laboratorio di progettazione con il quartiere nel community hub di Bond of Union",
+                "image": "https://i.postimg.cc/qvT0KB9d/UNADJUSTEDNONRAW-thumb-6b6.jpg",
+                "category": "Imaginations",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-12T04:32:10.764-08:00",
+                "updated_date": "2019-12-12T04:37:14.030-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3555,
+                    38.1168
+                ]
+            },
+            "id": "ca/laboratorio_comensi_1#76"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -9,7 +62,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Il principale Teatro d'opera della città delimita il quartiere Capo. Per costruirlo è stato necessario demolire parte dell'antico tessuto urbano.",
-                "image": "",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Palermo_-_Teatro_Massimo_Vittorio_Emanuele.jpg",
                 "category": "Delimitations",
                 "sub-category": "",
                 "tags": [],
@@ -17,7 +70,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T03:14:36.545-08:00",
-                "updated_date": "2019-12-12T03:16:36.919-08:00",
+                "updated_date": "2019-12-12T03:21:32.109-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -274,7 +327,7 @@
         "id": "palermo",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-12T11:18:38.024Z",
+        "published": "2019-12-12T12:39:46.535Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -284,7 +337,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 24,
+        "version": 25,
         "taxonomy": [
             {
                 "category": "Simple",

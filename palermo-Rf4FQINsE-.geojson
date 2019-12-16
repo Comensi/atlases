@@ -323,12 +323,12 @@
         }
     ],
     "properties": {
-        "title": "Palermo",
+        "title": "Palermo Community Atlas",
         "url": "https://palermo.community-atlas.net",
         "id": "palermo",
-        "description": "",
+        "description": "L'Atlas Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-12T15:04:53.944Z",
+        "published": "2019-12-16T15:21:16.324Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -338,7 +338,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 27,
+        "version": 28,
         "taxonomy": [
             {
                 "category": "Simple",

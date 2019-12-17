@@ -24,7 +24,7 @@
                     "ca/candy_hartmann_quartiersmanagement_#32"
                 ],
                 "created_date": "2019-12-08T09:29:03.261-08:00",
-                "updated_date": "2019-12-08T09:36:09.571-08:00",
+                "updated_date": "2019-12-11T10:24:48.449-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -33,11 +33,11 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "WWII Air raid",
+                "title": "Weltkrieg II - Luftangriff",
                 "type": "Event",
                 "start_date": "1945-03-02T16:00:00.000-07:00",
                 "end_date": "",
-                "description": " The area was completely devastated in World War Two, particularly in an air raid on 3 February 1945 and the Battle of Berlin which followed. The air raid produced the almost total destruction of the inner city, in particular in the proximities of the Regierungsviertel (Government district) on the Wilhelmstraße, leaving more than 120,000 homeless people, 2,296 totally destroyed buildings, 909 heavy damaged, 3,606 moderately and slightly damaged buildings, 22,519 destroyed homes, and 27,017 apartments evacuated due to the risk of collapse. Belle Alliance Platz is totally destroyed and will remain an empty lot for the following 20 years. ",
+                "description": "Das Gebiet wurde im Zweiten Weltkrieg vollständig zerstört, insbesondere bei einem Luftangriff am 3. Februar 1945 und der darauffolgenden Schlacht um Berlin. Der Luftangriff führte zu einer fast vollständigen Zerstörung der Innenstadt, stark getroffen war das Regierungsviertel nahe der Wilhelmstraße. Aufgrund des Luftangriffes wurden über 120.000 Menschen obdachlos, knapp 2.300 Gebäude wurden vollständig zerstört und weitere etwa 900 Gebäuden waren schwer beschädigt. Viele der zerstörten Häuser wurden aufgrund der Einsturzgefahr evakuiert. Der Belle Alliance Platz ist völlig zerstört und wird für die nächsten 20 Jahre ein leeres Grundstück bleiben.",
                 "image": "https://www.welt.de/img/geschichte/zweiter-weltkrieg/mobile140131885/6362507847-ci102l-w1024/2-WK-Berlin-1945-Strassenkampf.jpg",
                 "category": "Memories",
                 "sub-category": "",
@@ -52,11 +52,11 @@
                     "ca/mehringplatz#39"
                 ],
                 "created_date": "2019-12-05T09:40:58.990-08:00",
-                "updated_date": "2019-12-05T11:41:14.873-08:00",
+                "updated_date": "2019-12-16T15:53:15.521-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
-            "id": "ca/wwii_air_raid#47"
+            "id": "ca/weltkrieg_ii_luftangriff#47"
         },
         {
             "type": "Feature",
@@ -83,11 +83,11 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Friedrichstadt Incorporation",
+                "title": "Eingemeindung Friedrichstadt ",
                 "type": "Event",
-                "start_date": "",
+                "start_date": "1709-12-10T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "in 1709 is decreed and in  1710 happens the  effectively incorporation of the Friedrichstadt in the city of Berlin. The town is then integrated in the city as a district.",
+                "description": "Im Jahr 1709 wird die Eingemeindung von Friedrichstadt in die Stadt Berlin verordnet und im darauffolgenden Jahr umgesetzt. Seitdem ist die Friedrichstadt als fester Stadtteil in der Hauptstadt integriert.\n",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Map_de_berlin_1710.jpg",
                 "category": "Memories",
                 "sub-category": "",
@@ -95,23 +95,23 @@
                 "category-description": "Document of material and immaterial heritage",
                 "links": [],
                 "relationships": [
-                    "ca/friedrichstadt_foundation#42"
+                    "ca/gr_ndung_friedrichstadt_#42"
                 ],
                 "created_date": "2019-11-23T03:48:48.433-08:00",
-                "updated_date": "2019-11-26T06:35:53.588-08:00",
+                "updated_date": "2019-12-16T16:07:16.098-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
-            "id": "ca/friedrichstadt_incorporation#44"
+            "id": "ca/eingemeindung_friedrichstadt_#44"
         },
         {
             "type": "Feature",
             "properties": {
-                "title": "Friedrichstadt Foundation",
+                "title": "Gründung Friedrichstadt ",
                 "type": "Event",
                 "start_date": "1691-11-22T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "Friedrichstadt is founded as independent city and suburb of Berlin",
+                "description": "Im Jahr 1688 gründete König Friedrich I. - seinen Namen zur Vorbild nehmend - Friedrichstadt. Geplant und baulich realisiert wurde Friedrichstadt nach schachbrettartigem System und wies somit klare Strukturen auf. Nur drei Jahre nach der Gründung erhielt Friedrichstadt bereits das Stadtrecht.",
                 "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/FriedrichstadtEarlyStreetPlan.jpg",
                 "category": "Memories",
                 "sub-category": "",
@@ -124,11 +124,11 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-11-22T03:36:17.608-08:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-16T16:14:29.989-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
-            "id": "ca/friedrichstadt_foundation#42"
+            "id": "ca/gr_ndung_friedrichstadt_#42"
         },
         {
             "type": "Feature",
@@ -162,7 +162,7 @@
                     "ca/quartiersmanagement_am_mehringplatz_#14"
                 ],
                 "created_date": "2019-11-21T03:30:20.027-08:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:26:22.125-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -175,7 +175,7 @@
                 "type": "Place",
                 "start_date": "1815-11-20T16:00:00.000-08:00",
                 "end_date": "1945-02-02T16:00:00.000-07:00",
-                "description": "The circus/round plaza is renamed Belle-Alliance-Platz after the Battle of Waterloo, when English and Prussian  defeated Napoleon's army, June, 18th, 1815. “Belle-Alliance” was another name used to recall this battle, from the name of the inn where the two winning generals previously met.",
+                "description": "Der Zirkus/Runde Platz wurde nach der Schlacht von Waterloo in Belle Alliance Platz umbenannt, nachdem die Engländer und Preußen am 18. Juni 1815 Napoleons Armee besiegten. \"Belle Alliance\" hieß ebenfalls jenes Gasthaus, in dem Napoleon während der Schlacht von Waterloo nächtigte.",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/800px-Berlin_Friedenssaeule.jpg",
                 "category": "Memories",
                 "sub-category": "",
@@ -191,7 +191,7 @@
                     "ca/mehringplatz#39"
                 ],
                 "created_date": "2019-11-21T03:11:07.402-08:00",
-                "updated_date": "2019-12-05T09:40:32.587-08:00",
+                "updated_date": "2019-12-16T15:22:54.228-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -257,7 +257,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-09T02:27:23.642-08:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:25:38.187-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -290,7 +290,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-07T07:23:13.358-08:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-16T16:03:00.326-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -303,7 +303,7 @@
                 "type": "Interview",
                 "start_date": "2017-08-13T16:00:00.000-07:00",
                 "end_date": "",
-                "description": "interview with Candy Hartmann\nQM Mehringplatz // Kunstwelt e.V.\n\nRecorded 14.08.2017 at Quartiermanagement \nby Daniele Tognozzi, Paula Mangold\nCamera and editing Manuela Conti - ogino:knauss\n\n\nThis video is part of a set of interviews to local social, economic and institutional stakeholders realised  for the Mehringplatz Solidarity Curriculum, a neighbourhood atlas aimed at survey existing resources and potentialities of the Südliche Friedrichstadt in the framework of the EULER Erasmus+ project.",
+                "description": "Interview mit Candy Hartmann\nQM Mehringplatz // Kunstwelt e.V.\n\nAufgenommen am 14.08.2017 beim Quartiermanagement \nvon Daniele Tognozzi, Paula Mangold\nKamera und Bearbeitung Manuela Conti - ogino:knauss\n\n\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.",
                 "image": "",
                 "category": "Narratives",
                 "sub-category": "Stakeholder interviews",
@@ -326,7 +326,7 @@
                     ""
                 ],
                 "created_date": "2019-11-01T11:26:35.150-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-16T15:45:38.076-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -357,7 +357,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-09-26T13:52:54.348-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:24:42.585-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -425,7 +425,7 @@
                     "ca/bauhutte#16"
                 ],
                 "created_date": "2019-09-26T03:56:46.512-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:25:34.261-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -458,7 +458,7 @@
                     "ca/erz_hlcaf_#18"
                 ],
                 "created_date": "2019-09-26T03:29:19.999-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:16:26.566-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -495,7 +495,7 @@
                     "ca/projektgruppe_x_blumenmarkt#17"
                 ],
                 "created_date": "2019-09-26T03:07:19.608-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:16:01.540-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -521,11 +521,11 @@
                 "category-description": "An area of interest or defining administrative borders or policies",
                 "links": [],
                 "relationships": [
-                    "ca/friedrichstadt_foundation#42",
-                    "ca/friedrichstadt_incorporation#44"
+                    "ca/gr_ndung_friedrichstadt_#42",
+                    "ca/eingemeindung_friedrichstadt_#44"
                 ],
                 "created_date": "2019-12-10T01:35:42.660-08:00",
-                "updated_date": "2019-12-10T01:47:16.639-08:00",
+                "updated_date": "2019-12-11T09:37:56.860-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -625,7 +625,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-22T15:22:50.574-08:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T09:38:42.514-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -662,7 +662,7 @@
                     "ca/die_rondell#45"
                 ],
                 "created_date": "2019-11-21T02:25:33.651-08:00",
-                "updated_date": "2019-12-05T09:37:42.531-08:00",
+                "updated_date": "2019-12-11T09:38:50.218-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -706,7 +706,7 @@
                     "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
                 ],
                 "created_date": "2019-11-20T10:18:28.481-08:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T09:37:46.338-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -842,7 +842,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-09T02:38:47.634-08:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:25:41.576-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -906,7 +906,7 @@
                 "type": "Organization",
                 "start_date": "",
                 "end_date": "",
-                "description": "One of the two seats of the Zentral- und Landesbibliothek Berlin (ZLB). It is composed by the sections for humanities and fine arts, the Artothek, the Cinemathek, the children's and youth Library with its learning center, the music library. \n\n",
+                "description": "Die Zentral- und Landesbibliothek Berlin (ZLB) hat mit der Amerika-Gedenkbibliothek (AGB) einen ihrer beiden Sitze nahe des Mehringplatzes. An diesem Standort wird Wissen über diverse Medien beispielsweise aus den Abteilungen Geisteswissenschaften oder Bildende Kunst zugänglich gemacht. Neben der Wissensvermittlung versteht sich die AGB auch als einen Bildungsort, weswegen es auch ein Lernzentrum, eine Kinder- und Jugendbibliothek oder eine Musikbibliothek beherbergt.\n\n",
                 "image": "https://www.zlb.de/fileadmin/zlb/img/logo_leiste2_ohne_schrift.png",
                 "category": "Stakeholders",
                 "sub-category": "Public cultural institutions",
@@ -930,7 +930,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-10-30T03:56:51.891-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-16T16:01:57.589-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -961,7 +961,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-10-17T14:07:18.473-07:00",
-                "updated_date": "2019-12-08T14:40:26.756-08:00",
+                "updated_date": "2019-12-11T09:38:19.775-08:00",
                 "weight": -10,
                 "image_credit": ""
             },
@@ -1113,7 +1113,7 @@
                     "ca/caf_madame#26"
                 ],
                 "created_date": "2019-09-27T02:10:08.037-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:24:39.504-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1148,7 +1148,7 @@
                     "ca/die_globale_e_v_#27"
                 ],
                 "created_date": "2019-09-27T01:50:32.870-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T09:38:55.340-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1184,7 +1184,7 @@
                     "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
                 ],
                 "created_date": "2019-09-27T01:27:56.456-07:00",
-                "updated_date": "2019-11-27T02:19:55.455-08:00",
+                "updated_date": "2019-12-11T09:38:38.298-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1222,7 +1222,7 @@
                     "ca/die_globale_e_v_#27"
                 ],
                 "created_date": "2019-09-27T01:02:35.669-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:24:57.452-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1268,10 +1268,10 @@
                 "relationships": [
                     "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
                     "",
-                    "ca/besselpark_regeneration_#11"
+                    "ca/besselpark_sanierung#11"
                 ],
                 "created_date": "2019-09-26T06:31:05.747-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T09:38:11.912-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1406,11 +1406,11 @@
                     }
                 ],
                 "relationships": [
-                    "ca/besselpark_regeneration_#11",
+                    "ca/besselpark_sanierung#11",
                     "ca/taz_neubau#10"
                 ],
                 "created_date": "2019-09-26T06:05:41.401-07:00",
-                "updated_date": "2019-12-11T01:40:38.682-08:00",
+                "updated_date": "2019-12-11T09:36:14.218-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1452,7 +1452,7 @@
                     "ca/projektgruppe_x_blumenmarkt#17"
                 ],
                 "created_date": "2019-09-26T04:08:36.760-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:16:11.867-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1528,7 +1528,7 @@
                 "type": "Program",
                 "start_date": "2005-09-26T00:00:00.000-07:00",
                 "end_date": "",
-                "description": "In 2005 the area around Mehringplatz has been targeted by the national Soziale Stadt program (Socially Integrative City), identifying this territory as a deprived neighbourhood in need for specific social support measures according to standards defined at Federal level. Soziale Stadt is a complex and comprehensive community-led local development scheme that combines a tight spatial focus, local participation, and the integration of policies and human and financial resources. This federal programme, jointly financed by European Regional Development Funds and national funds, decentralises decision-making, by delegating responsibility for small-scale projects to residents living in deprived areas selected by the Berlin Senate. The program establishes a local Quartiermanagement that manages different types of Neighbourhood Funds, each covering a different type of project and working with the direct involvement of residents. The Quartiersmanagement teams provide a platform for networking and interaction, enabling groups and actors to debate and identify local needs, values and responses. ",
+                "description": "Im Jahr 2005 wurde das Gebiet um den Mehringplatz Teil des nationalen Programms „Soziale Stadt“, welches aus dem Europäischen Fonds für regionale Entwicklung (EFRE) und nationalen Fonds finanziert wird. Im Rahmen dieses Programms werden benachteiligte Gebiete gefördert, indem gemäß den auf Bundesebene festgelegten Standards spezifische soziale Unterstützungsmaßnahmen umgesetzt werden. Das Entwicklungsprogramm Soziale Stadt setzt einen engen räumlichen Fokus und stärkt die lokale Beteiligung. Dies geschieht, indem die Entscheidungsfindung dezentralisiert wird, da die Verantwortung für kleine Projekte auf Bewohner:innen vor Ort übertragen wird. Das Programm richtet ein lokales Quartiersmanagement ein, das verschiedene Arten von Nachbarschaftsfonds verwaltet, die jeweils unterschiedliche Projektarten abdecken und unter direkter Einbeziehung der Bewohner:innen arbeiten. Die Teams des Quartiersmanagements bieten eine Plattform fürs Netzwerken und Austauschen an, auf der Gruppen und Akteur:innen lokale Bedürfnisse, Werte und Visionen erörtern und identifizieren können.",
                 "image": "https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg",
                 "category": "Delimitations",
                 "sub-category": "social policy",
@@ -1550,7 +1550,7 @@
                     "ca/kunstwelt_e_v_#48"
                 ],
                 "created_date": "2019-09-25T10:32:11.919-07:00",
-                "updated_date": "2019-12-10T00:12:47.614-08:00",
+                "updated_date": "2019-12-16T15:41:09.945-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1652,7 +1652,7 @@
                     "ca/supermarkt#12"
                 ],
                 "created_date": "2019-09-25T09:10:51.974-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:25:29.303-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1694,7 +1694,7 @@
                     "ca/ela_kagel_supermarkt#13"
                 ],
                 "created_date": "2019-09-25T09:07:25.368-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:24:53.860-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1710,11 +1710,11 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Besselpark Regeneration ",
+                "title": "Besselpark Sanierung",
                 "type": "Program",
                 "start_date": "2019-08-14T16:00:00.000-07:00",
                 "end_date": "",
-                "description": "Redesign of the park in progress as part of the Regeneration plan (Sanierungsgebiet). The project has been selected through a competition including a public consultation",
+                "description": "Der Besselpark wurde im Zuge des Sanierungsgebiet neu gestaltet. Die Entscheidung über die Art der Umgestaltung wurde im Rahmen eines Wettbewerbs getroffen, an der auch die Öffentlichkeit teilgenommen hat.",
                 "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/03/Besselpark-Perspektive-komp-768x402.jpg",
                 "category": "Transformations",
                 "sub-category": "Public space",
@@ -1734,7 +1734,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-09-25T08:52:03.678-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-16T16:22:45.701-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1781,7 +1781,7 @@
                     ]
                 ]
             },
-            "id": "ca/besselpark_regeneration_#11"
+            "id": "ca/besselpark_sanierung#11"
         },
         {
             "type": "Feature",
@@ -1810,7 +1810,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-09-25T07:59:09.170-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:16:30.395-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1842,7 +1842,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-09-25T07:58:48.148-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T09:36:51.937-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1875,7 +1875,7 @@
                     "ca/urban_sketches_victoria_versicherung#35"
                 ],
                 "created_date": "2019-09-25T07:57:02.813-07:00",
-                "updated_date": "2019-12-10T00:52:58.011-08:00",
+                "updated_date": "2019-12-11T09:37:01.783-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1915,7 +1915,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-09-25T07:36:57.647-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2019-12-11T10:24:33.787-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1935,7 +1935,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-12-11T14:34:07.230Z",
+        "published": "2019-12-17T00:23:24.071Z",
         "links": [
             {
                 "title": "Mehringplats - English",

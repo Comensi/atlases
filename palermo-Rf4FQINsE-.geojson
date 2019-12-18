@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Vicolo degli Orfani",
-                "type": "",
+                "type": "Place",
                 "start_date": "",
                 "end_date": "",
                 "description": "Vicolo degli Orfani è un vicolo che collega Piazza Beati Paoli e Via Sant'Agostino. Nel vicolo si trova la sede operativa di Bond of Union",
@@ -17,7 +17,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T03:28:00.260-08:00",
-                "updated_date": "2019-12-12T03:36:12.232-08:00",
+                "updated_date": "2019-12-18T02:58:16.630-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -328,7 +328,7 @@
         "id": "palermo",
         "description": "L'Atlas Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-18T10:57:05.593Z",
+        "published": "2019-12-18T10:58:42.931Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -338,7 +338,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 30,
+        "version": 31,
         "taxonomy": [
             {
                 "category": "Simple",

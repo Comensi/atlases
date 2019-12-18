@@ -58,19 +58,19 @@
             "type": "Feature",
             "properties": {
                 "title": "Teatro Massimo",
-                "type": "",
+                "type": "Place",
                 "start_date": "",
                 "end_date": "",
                 "description": "Il principale Teatro d'opera della città delimita il quartiere Capo. Per costruirlo è stato necessario demolire parte dell'antico tessuto urbano.",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Palermo_-_Teatro_Massimo_Vittorio_Emanuele.jpg",
-                "category": "Delimitations",
+                "category": "Places",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "category-description": "",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T03:14:36.545-08:00",
-                "updated_date": "2019-12-12T03:21:32.109-08:00",
+                "updated_date": "2019-12-18T02:56:19.367-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -328,7 +328,7 @@
         "id": "palermo",
         "description": "L'Atlas Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-18T10:54:27.066Z",
+        "published": "2019-12-18T10:57:05.593Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -338,7 +338,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 29,
+        "version": 30,
         "taxonomy": [
             {
                 "category": "Simple",

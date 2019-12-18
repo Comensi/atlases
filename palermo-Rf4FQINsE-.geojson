@@ -187,14 +187,14 @@
                 "end_date": "",
                 "description": "Il Capo è un antico e noto quartiere del centro storico di Palermo. Con lo stesso termine i palermitani indicano indifferentemente anche il mercato che vi si tiene e con cui il quartiere si identifica.",
                 "image": "https://i.postimg.cc/76MDVzmg/DSCF1683.jpg",
-                "category": "",
+                "category": "Delimitations",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T02:11:40.236-08:00",
-                "updated_date": "2019-12-12T03:11:41.841-08:00",
+                "updated_date": "2019-12-18T02:53:45.482-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -328,7 +328,7 @@
         "id": "palermo",
         "description": "L'Atlas Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-16T15:21:16.324Z",
+        "published": "2019-12-18T10:54:27.066Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -338,7 +338,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 28,
+        "version": 29,
         "taxonomy": [
             {
                 "category": "Simple",

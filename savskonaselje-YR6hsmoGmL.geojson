@@ -4,40 +4,180 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Delete me",
-                "type": "",
+                "title": "Vizija za javni prostor soseske",
+                "type": "Project",
+                "start_date": "2013-01-12T16:00:00.000-08:00",
+                "end_date": "2014-12-12T16:00:00.000-08:00",
+                "description": "Vizija za javni prostor soseske je bil del širšega projekta Celovite urbane prenove Savskega naselja v Ljubljani, ki se je začel izvajati leta 2013 na povabilo Oddelka za urejanje prostora MOL. Vloga javnega prostora se je od izgradnje soseske (leta 1961) bistveno spremenila. Skrb zanj je danes omejena zgolj na boj za parkirna mesta, kar izhaja iz dejstva, da je bila soseska grajena za 500 avtomobilov, danes pa jih na ulicah, pločnikih, travnikih, igriščih in dvoriščih naštejemo preko štiri tisoč. Da bi urbana prenova soseske resnično reševala probleme soseske in odgovarjala na pereča vprašanja, se je za posamezna področja oblikovalo delovne skupine, v katere so se vključili zainteresirani prebivalci. Formirala se je tudi skupina za javni prostor. Tej so se pridružili študenti dveh arhitekturnih šol in strokovnjaki na področju urejanja prostora. ",
+                "image": "",
+                "category": "Delimitations",
+                "sub-category": "Spatial planning",
+                "tags": [
+                    "promet",
+                    "javni prostor",
+                    "parkiranje"
+                ],
+                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "links": [
+                    {
+                        "url": "http://prostoroz.org/wp-content/uploads/2017/01/Prenova-javnega-prostora-Savsko-naselje.pdf",
+                        "title": "",
+                        "description": "",
+                        "type": "document"
+                    }
+                ],
+                "relationships": [
+                    "ca/knji_nica_re_i#72,ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
+                ],
+                "created_date": "2019-12-13T05:00:46.277-08:00",
+                "updated_date": "2019-12-13T05:05:59.772-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        14.518276,
+                        46.064924
+                    ],
+                    [
+                        14.526168,
+                        46.066472
+                    ],
+                    [
+                        14.52426,
+                        46.062318
+                    ],
+                    [
+                        14.522051,
+                        46.059995
+                    ],
+                    [
+                        14.520785,
+                        46.059921
+                    ],
+                    [
+                        14.520206,
+                        46.061737
+                    ],
+                    [
+                        14.518298,
+                        46.064819
+                    ]
+                ]
+            },
+            "id": "ca/vizija_za_javni_prostor_soseske#74"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urbani sadovnjak in otroško igrišče",
+                "type": "Place",
                 "start_date": "",
                 "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
+                "description": "Savsko naselje je leta 2016 dobilo urbani sadovnjak in prenovljeno otroško igrišče",
+                "image": "http://prostoroz.org/wp-content/uploads/2016/11/ROK4141_mala.jpg",
+                "category": "Places",
+                "sub-category": "Public space",
+                "tags": [
+                    "otroško igrišče",
+                    "mladi",
+                    "park",
+                    "skupnost"
+                ],
                 "category-description": "",
-                "links": [],
+                "links": [
+                    {
+                        "url": "http://prostoroz.org/portfolio/items/urbani-sadovnjak-in-igrisce-v-savskem-naselju/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
                 "relationships": [],
-                "created_date": "2019-12-11T05:30:08.220-08:00",
-                "updated_date": "2019-12-11T05:30:13.954-08:00",
+                "created_date": "2019-12-13T04:47:16.081-08:00",
+                "updated_date": "2019-12-13T04:56:15.785-08:00",
+                "weight": 0,
+                "image_credit": "Rok Oblak"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        14.52469,
+                        46.065372
+                    ],
+                    [
+                        14.525006,
+                        46.065677
+                    ],
+                    [
+                        14.525376,
+                        46.06559
+                    ],
+                    [
+                        14.525266,
+                        46.065262
+                    ],
+                    [
+                        14.524701,
+                        46.065374
+                    ]
+                ]
+            },
+            "id": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Knjižnica REČI",
+                "type": "Place",
+                "start_date": "2015-01-20T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Knjižnica REČI je neprofitna izposojevalnica najrazličnejših reči za prosti čas, ki deluje po vzoru klasične knjižnične izposoje.",
+                "image": "http://prostoroz.org/wp-content/uploads/2019/11/ROK4049.jpg",
+                "category": "Stakeholders",
+                "sub-category": "NGO/Social work",
+                "tags": [
+                    "knjižnica",
+                    "kultura",
+                    "mladi",
+                    "skupnost",
+                    "ekologija"
+                ],
+                "category-description": "identifying formal and informal actors in the area",
+                "links": [
+                    {
+                        "url": "https://www.knjiznicareci.si/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-12-13T03:33:00.661-08:00",
+                "updated_date": "2019-12-13T04:55:40.635-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0,
-                    0
+                    14.5238,
+                    46.0637
                 ]
             },
-            "id": "ca/delete_me#68"
+            "id": "ca/knji_nica_re_i#72"
         }
     ],
     "properties": {
         "title": "Savskonaselje",
         "url": "https://savskonaselje.community-atlas.net",
         "id": "savskonaselje",
-        "description": "",
+        "description": "Lokalci za lokalce - zbirka uporabnih informacij, kul placev in storitev v Savskem naselju",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-11T14:31:38.946Z",
+        "published": "2019-12-21T10:21:06.580Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -47,7 +187,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 21,
+        "version": 22,
         "taxonomy": [
             {
                 "category": "Simple",

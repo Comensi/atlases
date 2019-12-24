@@ -4,12 +4,57 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Superhiška",
+                "type": "Project",
+                "start_date": "",
+                "end_date": "",
+                "description": "Superhiška je bil primer skupnostnega načrtovanja in financiranja, ki ga je društvo Smetumet in prostoRož načrtovalo skupaj z učenci OŠ Savsko naselje, otroci iz vrtca Mladi rod in varovanci Rehabilitacijskega inštituta Soča. Otroci so na delavnicah ustvarjali nove ideje za igrišče in se na koncu odločili za hišico, ki združuje predloge različnih starostnih skupin. Stroške gradnje se je pokrilo s pomočjo lokalnih podjetij in preko nabirke v posebnih \"šparovčkih\", ki so bili postavljeni v lokalne bare. Po postavitvi se je obisk na igrišču povečal, ljudje so preživeli več časa zunaj in bolj skrbeli za prostor. ",
+                "image": "http://prostoroz.org/wp-content/uploads/2015/02/IMG_5336.jpg",
+                "category": "Places",
+                "sub-category": "Public space",
+                "tags": [
+                    "park",
+                    "skupnost",
+                    "otroci",
+                    "otroško igrišče",
+                    "mladi",
+                    "javni prostor"
+                ],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "http://prostoroz.org/portfolio/items/superhiska/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
+                ],
+                "created_date": "2019-12-24T00:47:21.852-08:00",
+                "updated_date": "2019-12-24T00:52:53.667-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.525,
+                    46.0655
+                ]
+            },
+            "id": "ca/superhi_ka#75"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Vizija za javni prostor soseske",
                 "type": "Project",
                 "start_date": "2013-01-12T16:00:00.000-08:00",
                 "end_date": "2014-12-12T16:00:00.000-08:00",
                 "description": "Vizija za javni prostor soseske je bil del širšega projekta Celovite urbane prenove Savskega naselja v Ljubljani, ki se je začel izvajati leta 2013 na povabilo Oddelka za urejanje prostora MOL. Vloga javnega prostora se je od izgradnje soseske (leta 1961) bistveno spremenila. Skrb zanj je danes omejena zgolj na boj za parkirna mesta, kar izhaja iz dejstva, da je bila soseska grajena za 500 avtomobilov, danes pa jih na ulicah, pločnikih, travnikih, igriščih in dvoriščih naštejemo preko štiri tisoč. Da bi urbana prenova soseske resnično reševala probleme soseske in odgovarjala na pereča vprašanja, se je za posamezna področja oblikovalo delovne skupine, v katere so se vključili zainteresirani prebivalci. Formirala se je tudi skupina za javni prostor. Tej so se pridružili študenti dveh arhitekturnih šol in strokovnjaki na področju urejanja prostora. ",
-                "image": "",
+                "image": "http://prostoroz.org/wp-content/uploads/2016/12/PJP_14-2.jpg",
                 "category": "Delimitations",
                 "sub-category": "Spatial planning",
                 "tags": [
@@ -30,7 +75,7 @@
                     "ca/knji_nica_re_i#72,ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
                 ],
                 "created_date": "2019-12-13T05:00:46.277-08:00",
-                "updated_date": "2019-12-13T05:05:59.772-08:00",
+                "updated_date": "2019-12-24T00:42:07.511-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -177,7 +222,7 @@
         "id": "savskonaselje",
         "description": "Lokalci za lokalce - zbirka uporabnih informacij, kul placev in storitev v Savskem naselju",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-21T10:21:21.606Z",
+        "published": "2019-12-24T08:57:48.729Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -187,7 +232,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 22,
+        "version": 24,
         "taxonomy": [
             {
                 "category": "Simple",

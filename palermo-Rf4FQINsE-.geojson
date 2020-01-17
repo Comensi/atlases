@@ -34,10 +34,10 @@
                 "end_date": "2020-01-30T16:00:00.000-08:00",
                 "description": "Laboratorio di progettazione con il quartiere nel community hub di Bond of Union",
                 "image": "https://i.postimg.cc/qvT0KB9d/UNADJUSTEDNONRAW-thumb-6b6.jpg",
-                "category": "Idee",
+                "category": "Idee e Proposte",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
+                "category-description": "presentare visioni, progetti e ipotesi alternative  dei cittadini per la trasformazione o il miglioramento del quartiere",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T04:32:10.764-08:00",
@@ -95,7 +95,7 @@
                 "category": "Memorie",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "to document material and immaterial heritage\r\n",
+                "category-description": "documentare il patrimonio materiale ed immateriale del quartiere\n",
                 "links": [
                     {
                         "url": "https://www.youtube.com/watch?v=mUUsUQEwjtY",
@@ -128,13 +128,13 @@
                 "end_date": "2019-11-28T16:00:00.000-08:00",
                 "description": "Discussioni pubbliche su idee e proposte di rinnovamento urbano dei cittadini del Capo gestite da Bond of Union",
                 "image": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
-                "category": "Idee",
+                "category": "Idee e Proposte",
                 "sub-category": "",
                 "tags": [
                     "Urban regeneration",
                     "Public space"
                 ],
-                "category-description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
+                "category-description": "presentare visioni, progetti e ipotesi alternative  dei cittadini per la trasformazione o il miglioramento del quartiere",
                 "links": [
                     {
                         "url": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
@@ -187,7 +187,7 @@
                 "end_date": "",
                 "description": "Il Capo è un antico e noto quartiere del centro storico di Palermo. Con lo stesso termine i palermitani indicano indifferentemente anche il mercato che vi si tiene e con cui il quartiere si identifica.",
                 "image": "https://i.postimg.cc/76MDVzmg/DSCF1683.jpg",
-                "category": "Delimitazioni",
+                "category": "Confini",
                 "sub-category": "",
                 "tags": [],
                 "category-description": "Definire i limiti di un area di interesse\n- Identificare aree definite da confini politici o aministrativi",
@@ -328,7 +328,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-01-16T15:43:00.872Z",
+        "published": "2020-01-17T12:44:15.148Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -344,8 +344,8 @@
                 "category": "Simple",
                 "description": "",
                 "sub-categories": [],
-                "weight": 0,
-                "id": 10
+                "weight": "",
+                "id": ""
             },
             {
                 "category": "Itinerari",
@@ -357,8 +357,8 @@
                 "id": 6
             },
             {
-                "category": "Idee",
-                "description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
+                "category": "Idee e Proposte",
+                "description": "presentare visioni, progetti e ipotesi alternative  dei cittadini per la trasformazione o il miglioramento del quartiere",
                 "sub-categories": [],
                 "weight": 0,
                 "id": 7
@@ -375,7 +375,7 @@
             },
             {
                 "category": "Memorie",
-                "description": "to document material and immaterial heritage\r\n",
+                "description": "documentare il patrimonio materiale ed immateriale del quartiere\n",
                 "sub-categories": [
                     "Statues",
                     "Graffiti & Murals",
@@ -387,8 +387,8 @@
                 "id": 3
             },
             {
-                "category": "Stakeholders",
-                "description": "identifying formal and informal actors in the area",
+                "category": "Servizi",
+                "description": "identificare servizi e attori formali ed informali del quartiere",
                 "sub-categories": [
                     "Public cultural institutions",
                     "Administration",
@@ -426,7 +426,7 @@
                 "id": 9
             },
             {
-                "category": "Delimitazioni",
+                "category": "Confini",
                 "description": "Definire i limiti di un area di interesse\n- Identificare aree definite da confini politici o aministrativi",
                 "sub-categories": [
                     "Area di interesse",

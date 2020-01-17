@@ -4,6 +4,69 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Ajuda",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "Delimitations",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-01-17T04:04:54.845-08:00",
+                "updated_date": "2020-01-17T04:06:50.237-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.22609,
+                            38.746318
+                        ],
+                        [
+                            -9.261802,
+                            38.732929
+                        ],
+                        [
+                            -9.260428,
+                            38.714179
+                        ],
+                        [
+                            -9.226433,
+                            38.699712
+                        ],
+                        [
+                            -9.172866,
+                            38.704267
+                        ],
+                        [
+                            -9.169088,
+                            38.728376
+                        ],
+                        [
+                            -9.197246,
+                            38.744712
+                        ],
+                        [
+                            -9.22609,
+                            38.746318
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/ajuda#70"
+        }
+    ],
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Delete me",
                 "type": "",
                 "start_date": "",
@@ -21,13 +84,6 @@
                 "weight": 0,
                 "image_credit": ""
             },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
             "id": "ca/delete_me#68"
         }
     ],
@@ -37,7 +93,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-11T15:20:39.032Z",
+        "published": "2020-01-17T12:30:20.948Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -47,8 +103,15 @@
                 "type": "homepage"
             }
         ],
-        "version": 19,
+        "version": 20,
         "taxonomy": [
+            {
+                "category": "#r12",
+                "description": "",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 12
+            },
             {
                 "category": "Simple",
                 "description": "",

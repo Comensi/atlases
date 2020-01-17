@@ -4,6 +4,30 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Repair Cafe",
+                "type": "Organization",
+                "start_date": "2013-01-16T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "",
+                "image": "https://i.ibb.co/YNvHyBS/Repair-Cafe.png",
+                "category": "Akteur:innen",
+                "sub-category": "",
+                "tags": [
+                    "Umwelt"
+                ],
+                "category-description": "Formal and informal actors in the area",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-01-17T05:53:12.876-08:00",
+                "updated_date": "2020-01-17T08:25:50.851-08:00",
+                "weight": 0,
+                "image_credit": "www.123RF.com"
+            },
+            "id": "ca/repair_cafe#52"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Weltkrieg II - Luftangriff",
                 "type": "Event",
                 "start_date": "1945-03-02T16:00:00.000-07:00",
@@ -533,7 +557,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-12-17T00:36:21.732Z",
+        "published": "2020-01-17T16:27:22.495Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -543,7 +567,7 @@
                 "type": "translation"
             }
         ],
-        "version": 8,
+        "version": 11,
         "taxonomy": [
             {
                 "category": "Rundgang",

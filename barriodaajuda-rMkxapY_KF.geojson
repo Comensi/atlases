@@ -61,30 +61,46 @@
                 ]
             },
             "id": "ca/ajuda#70"
-        }
-    ],
-    "nonGeoFeatures": [
+        },
         {
             "type": "Feature",
             "properties": {
-                "title": "Delete me",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
+                "title": "Test item",
+                "type": "Event",
+                "start_date": "2020-01-16T16:00:00.000-08:00",
+                "end_date": "2020-01-23T16:00:00.000-08:00",
+                "description": "New item just for you",
+                "image": "https://images.app.goo.gl/Nv36wbUC3w8beDFp8",
+                "category": "Itineraries",
                 "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
+                "tags": [
+                    "cooking"
+                ],
+                "category-description": "to connect different elements in the territory in a geo-spatial experience, e.g. guided tours",
+                "links": [
+                    {
+                        "url": "https://www.4change.org/pt/blog",
+                        "title": "4change",
+                        "description": "information",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/ajuda#70"
+                ],
                 "created_date": "2019-12-11T05:30:08.220-08:00",
-                "updated_date": "2019-12-11T05:30:13.954-08:00",
+                "updated_date": "2020-01-17T04:42:29.073-08:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "cml"
             },
-            "id": "ca/delete_me#68"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2184,
+                    38.6957
+                ]
+            },
+            "id": "ca/test_item#68"
         }
     ],
     "properties": {
@@ -93,7 +109,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-01-17T12:30:20.948Z",
+        "published": "2020-01-17T12:45:57.695Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -103,7 +119,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 20,
+        "version": 22,
         "taxonomy": [
             {
                 "category": "#r12",

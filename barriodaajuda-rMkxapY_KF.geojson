@@ -4,6 +4,57 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Envolver uma comunidade",
+                "type": "Event",
+                "start_date": "2019-10-28T17:00:00.000-07:00",
+                "end_date": "2019-10-28T17:00:00.000-07:00",
+                "description": "Este foi o 1º Laboratório de trabalho com a comunidade e parceiros envolvidos no território da Ajuda. Usando o mote do lançamento do \"Toolkit: Community Engagement for social Inclusion\", reuniram-se as pessoas com o intuito de criar, manter, fortalecer laços entre as organizações que\r atuam na/para a comunidade e a própria comunidade residente. Através da promoção deste momento informal, em que as pessoas circularam enquanto petiscaram, partilharam-se\r histórias de vida e recolheram-se intenções e ideias para a freguesia.\n",
+                "image": "https://www.4change.org/images/2020/01/15/programa-04.png\n",
+                "category": "Stakeholders",
+                "sub-category": "NGO/Social work",
+                "tags": [
+                    "art",
+                    "Events",
+                    "culture",
+                    "media",
+                    "workspace",
+                    "commons",
+                    "Social inclusion",
+                    "quartiersmanagement",
+                    "temporary structure",
+                    "oral history",
+                    "Public space",
+                    "Urban regeneration",
+                    "collective",
+                    "hackspace"
+                ],
+                "category-description": "identifying formal and informal actors in the area",
+                "links": [
+                    {
+                        "url": "https://www.4change.org/pt/blog-3/envolver-uma-comunidade-2",
+                        "title": "Programa",
+                        "description": "Envolver uma comunidade",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-01-17T08:09:14.107-08:00",
+                "updated_date": "2020-01-17T08:40:24.589-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1969,
+                    38.7037
+                ]
+            },
+            "id": "ca/envolver_uma_comunidade#72"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Freguesia da Ajuda",
                 "type": "Place",
                 "start_date": "",
@@ -215,7 +266,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-01-17T16:04:12.809Z",
+        "published": "2020-01-17T16:43:31.425Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -225,7 +276,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 25,
+        "version": 26,
         "taxonomy": [
             {
                 "category": "#r12",

@@ -15,7 +15,7 @@
                 "tags": [
                     "Umwelt"
                 ],
-                "category-description": "Formal and informal actors in the area",
+                "category-description": "(In-)Formelle Akteur:innen des Gebietes",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-01-17T05:53:12.876-08:00",
@@ -40,7 +40,7 @@
                     "history",
                     "demolition"
                 ],
-                "category-description": "Document of material and immaterial heritage",
+                "category-description": "(Im-)Materielles Erbe des Gebietes",
                 "links": [],
                 "relationships": [
                     "ca/belle_alliance_platz#40",
@@ -87,7 +87,7 @@
                 "category": "Erinnerungen",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "Document of material and immaterial heritage",
+                "category-description": "(Im-)Materielles Erbe des Gebietes",
                 "links": [],
                 "relationships": [
                     "ca/gr_ndung_friedrichstadt_#42"
@@ -115,7 +115,7 @@
                     "history",
                     "urbanism"
                 ],
-                "category-description": "Document of material and immaterial heritage",
+                "category-description": "(Im-)Materielles Erbe des Gebietes",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-11-22T03:36:17.608-08:00",
@@ -142,7 +142,7 @@
                     "toponyms",
                     "history"
                 ],
-                "category-description": "Document of material and immaterial heritage",
+                "category-description": "(Im-)Materielles Erbe des Gebietes",
                 "links": [],
                 "relationships": [
                     "ca/mehringplatz#39"
@@ -169,7 +169,7 @@
                     "Public space",
                     "Psychogeography"
                 ],
-                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Persönliche Perspektiven, Interviews, Überlieferungen, Dokumente zum Gebiet",
                 "links": [
                     {
                         "url": "https://vimeo.com/230464313",
@@ -202,7 +202,7 @@
                     "oral history",
                     "social inclusion"
                 ],
-                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Persönliche Perspektiven, Interviews, Überlieferungen, Dokumente zum Gebiet",
                 "links": [
                     {
                         "url": "https://vimeo.com/manage/226707117/general",
@@ -235,7 +235,7 @@
                     "Urban regeneration",
                     "social inclusion"
                 ],
-                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Persönliche Perspektiven, Interviews, Überlieferungen, Dokumente zum Gebiet",
                 "links": [
                     {
                         "url": "://vimeo.com/230981438",
@@ -305,7 +305,7 @@
                     "culture",
                     "cooking"
                 ],
-                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Persönliche Perspektiven, Interviews, Überlieferungen, Dokumente zum Gebiet",
                 "links": [
                     {
                         "url": "https://vimeo.com/232820289",
@@ -352,7 +352,7 @@
                     "oral history",
                     "events"
                 ],
-                "category-description": "Formal and informal actors in the area",
+                "category-description": "(In-)Formelle Akteur:innen des Gebietes",
                 "links": [
                     {
                         "url": "https://www.zlb.de",
@@ -391,7 +391,7 @@
                     "social inclusion",
                     "quartiersmanagement"
                 ],
-                "category-description": "An area of interest or defining administrative borders or policies",
+                "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
                 "links": [
                     {
                         "url": "http://www.qm-mehringplatz.de/index.php?id=4",
@@ -490,7 +490,7 @@
                     "Public space",
                     "park"
                 ],
-                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
+                "category-description": "Aktuelle Projekte, Initiativen oder Konflikte - Transformationen im Gebiet",
                 "links": [
                     {
                         "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/05/BES_LP3_Pr%C3%A4sentation_170523.pdf",
@@ -557,7 +557,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-01-17T16:27:22.495Z",
+        "published": "2020-01-19T09:58:16.477Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -571,7 +571,7 @@
         "taxonomy": [
             {
                 "category": "Rundgang",
-                "description": "Connecting different elements in the territory in a geo-spatial experience, e.g. guided tours",
+                "description": "Verbindung verschiedener Elemente zu einer räumlichen Erfahrung (z.B. Kiez-Führung)",
                 "sub-categories": [
                     "H-Town Lab (URBEX Youth Lab)"
                 ],
@@ -580,7 +580,7 @@
             },
             {
                 "category": "Imaginationen",
-                "description": "Visions for transformation, unrealised projects and proposed hypothesis - representing alternative realities of the area",
+                "description": "Zukunftsvisionen zum Gebiet - Ideen und Ansätze für z.B. nicht realisierte Projekte",
                 "sub-categories": [
                     "Study",
                     "Project",
@@ -591,7 +591,7 @@
             },
             {
                 "category": "Narrative",
-                "description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "description": "Persönliche Perspektiven, Interviews, Überlieferungen, Dokumente zum Gebiet",
                 "sub-categories": [
                     "Place narratives ",
                     "Interviews",
@@ -602,7 +602,7 @@
             },
             {
                 "category": "Erinnerungen",
-                "description": "Document of material and immaterial heritage",
+                "description": "(Im-)Materielles Erbe des Gebietes",
                 "sub-categories": [
                     "Statues",
                     "Graffiti & Murals",
@@ -615,7 +615,7 @@
             },
             {
                 "category": "Akteur:innen",
-                "description": "Formal and informal actors in the area",
+                "description": "(In-)Formelle Akteur:innen des Gebietes",
                 "sub-categories": [
                     "Cultural institutions",
                     "Administration",
@@ -629,7 +629,7 @@
             },
             {
                 "category": "Transformationen",
-                "description": "Current projects, conflicts and initiatives - transformations taking place in the area",
+                "description": "Aktuelle Projekte, Initiativen oder Konflikte - Transformationen im Gebiet",
                 "sub-categories": [
                     "Private space",
                     "Public space",
@@ -641,7 +641,7 @@
             },
             {
                 "category": "Orte",
-                "description": "Locations that are recognised by the community or important reference points",
+                "description": "Für die Gemeinschaft als wichtig erachtete Orte",
                 "sub-categories": [
                     "Community hub",
                     "Public space",
@@ -655,7 +655,7 @@
             },
             {
                 "category": "Begrenzungen",
-                "description": "An area of interest or defining administrative borders or policies",
+                "description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
                 "sub-categories": [
                     "Area of interest",
                     "Administrative borders",

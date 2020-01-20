@@ -10,10 +10,10 @@
                 "end_date": "",
                 "description": "Vicolo degli Orfani è un vicolo che collega Piazza Beati Paoli e Via Sant'Agostino. Nel vicolo si trova la sede operativa di Bond of Union",
                 "image": "https://i.postimg.cc/BQKwD3b0/IMG-1402.jpg",
-                "category": "Places",
+                "category": "Spazi di quartiere",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "luoghi di interesse pubblici e privati del quartiere",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T03:28:00.260-08:00",
@@ -63,10 +63,10 @@
                 "end_date": "",
                 "description": "Il principale Teatro d'opera della città delimita il quartiere Capo. Per costruirlo è stato necessario demolire parte dell'antico tessuto urbano.",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Palermo_-_Teatro_Massimo_Vittorio_Emanuele.jpg",
-                "category": "Places",
+                "category": "Spazi di quartiere",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "luoghi di interesse pubblici e privati del quartiere",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T03:14:36.545-08:00",
@@ -190,7 +190,7 @@
                 "category": "Confini",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "Definire i limiti di un area di interesse\n- Identificare aree definite da confini politici o aministrativi",
+                "category-description": "confini o limiti politici-aministrativi del quartiere",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T02:11:40.236-08:00",
@@ -272,10 +272,10 @@
                 "end_date": "",
                 "description": "Piazza del quartiere capo in via di ristrutturazione",
                 "image": "https://i.postimg.cc/76mtZBpM/UNADJUSTEDNONRAW-thumb-6ad.jpg",
-                "category": "Places",
+                "category": "Spazi di quartiere",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "luoghi di interesse pubblici e privati del quartiere",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-11T08:12:02.170-08:00",
@@ -301,10 +301,10 @@
                 "end_date": "",
                 "description": "Piazza del quartiere capo",
                 "image": "https://i.postimg.cc/PrJK25Yy/UNADJUSTEDNONRAW-thumb-6af.jpg",
-                "category": "Places",
-                "sub-category": "Public space",
+                "category": "Spazi di quartiere",
+                "sub-category": "Spazi pubblici",
                 "tags": [],
-                "category-description": "",
+                "category-description": "luoghi di interesse pubblici e privati del quartiere",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-11T05:30:08.220-08:00",
@@ -328,7 +328,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-01-17T12:44:15.148Z",
+        "published": "2020-01-20T15:06:32.318Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -338,7 +338,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 38,
+        "version": 40,
         "taxonomy": [
             {
                 "category": "Simple",
@@ -348,13 +348,11 @@
                 "id": ""
             },
             {
-                "category": "Itinerari",
-                "description": "to connect different elements in the territory in a geo-spatial experience, e.g. guided tours",
-                "sub-categories": [
-                    "H-Town Lab (URBEX Youth Lab)"
-                ],
-                "weight": 0,
-                "id": 6
+                "category": "It",
+                "description": "",
+                "sub-categories": [],
+                "weight": "",
+                "id": ""
             },
             {
                 "category": "Idee e Proposte",
@@ -377,11 +375,9 @@
                 "category": "Memorie",
                 "description": "documentare il patrimonio materiale ed immateriale del quartiere\n",
                 "sub-categories": [
-                    "Statues",
-                    "Graffiti & Murals",
-                    "Oral histories",
-                    "Plaques/Information displays",
-                    "Architecture "
+                    "Monumenti ed edifici storici",
+                    "Luoghi storici",
+                    "Tradizioni e cultura locale"
                 ],
                 "weight": 0,
                 "id": 3
@@ -412,28 +408,22 @@
                 "id": 2
             },
             {
-                "category": "Places",
-                "description": "",
+                "category": "Spazi di quartiere",
+                "description": "luoghi di interesse pubblici e privati del quartiere",
                 "sub-categories": [
-                    "Community hub",
-                    "Public space",
-                    "Venue",
-                    "commerce",
-                    "Park",
-                    "Housing"
+                    "Organizzazioni e associazioni",
+                    "Spazi pubblici",
+                    "luoghi di incontro",
+                    "attivita' commerciali",
+                    "spazi verdi"
                 ],
                 "weight": 1,
                 "id": 9
             },
             {
                 "category": "Confini",
-                "description": "Definire i limiti di un area di interesse\n- Identificare aree definite da confini politici o aministrativi",
-                "sub-categories": [
-                    "Area di interesse",
-                    "Confini amministrativi",
-                    "Pianificazione spaziale",
-                    "Policy sociale"
-                ],
+                "description": "confini o limiti politici-aministrativi del quartiere",
+                "sub-categories": [],
                 "weight": -1,
                 "id": 1
             }

@@ -328,7 +328,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-01-21T15:27:37.298Z",
+        "published": "2020-01-21T15:34:25.839Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -338,7 +338,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 42,
+        "version": 43,
         "taxonomy": [
             {
                 "category": "Idee e Proposte",
@@ -369,7 +369,7 @@
                 "id": 3
             },
             {
-                "category": "Servizi",
+                "category": "Servizi pubblici e privati",
                 "description": "identificare servizi e attori formali ed informali del quartiere",
                 "sub-categories": [
                     "Istituzione culturale ",
@@ -382,13 +382,13 @@
                 "id": 4
             },
             {
-                "category": "Transformazioni",
-                "description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "category": "Trasformazioni",
+                "description": "progetti in corso, conflitti e iniziative - transformazioni che stanno avendo luogo",
                 "sub-categories": [
-                    "Private spaces",
-                    "Public space",
-                    "Infrastructural",
-                    "Commons oriented"
+                    "Spazi privati",
+                    "Spazi pubblici",
+                    "Infrastrutture",
+                    "Commons "
                 ],
                 "weight": 0,
                 "id": 2

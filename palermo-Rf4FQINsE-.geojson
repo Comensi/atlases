@@ -92,7 +92,7 @@
                 "end_date": "2019-09-28T16:00:00.000-07:00",
                 "description": "",
                 "image": "https://i.postimg.cc/85R2jfLx/45026980262-5bacd1d3f9-z.jpg",
-                "category": "Memorie",
+                "category": "Memorie del quartiere",
                 "sub-category": "",
                 "tags": [],
                 "category-description": "documentare il patrimonio materiale ed immateriale del quartiere\n",
@@ -100,7 +100,7 @@
                     {
                         "url": "https://www.youtube.com/watch?v=mUUsUQEwjtY",
                         "title": "Festa della Mercede",
-                        "description": "",
+                        "description": "video della festa della mercede al capo 2019",
                         "type": "video"
                     }
                 ],
@@ -328,7 +328,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-01-21T15:07:26.204Z",
+        "published": "2020-01-21T15:27:37.298Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -338,7 +338,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 41,
+        "version": 42,
         "taxonomy": [
             {
                 "category": "Idee e Proposte",
@@ -348,17 +348,17 @@
                 "id": 7
             },
             {
-                "category": "Narrativa",
-                "description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "category": "Storie del quartiere",
+                "description": "collezionare prospettive personali e voci, storie orali, interviste e documentazione",
                 "sub-categories": [
-                    "Place narratives ",
-                    "Stakeholder interviews"
+                    "narrativa dei luoghi",
+                    "interviste "
                 ],
                 "weight": 0,
                 "id": 5
             },
             {
-                "category": "Memorie",
+                "category": "Memorie del quartiere",
                 "description": "documentare il patrimonio materiale ed immateriale del quartiere\n",
                 "sub-categories": [
                     "Monumenti ed edifici storici",
@@ -372,11 +372,11 @@
                 "category": "Servizi",
                 "description": "identificare servizi e attori formali ed informali del quartiere",
                 "sub-categories": [
-                    "Public cultural institutions",
-                    "Administration",
-                    "Developers and enterprises",
-                    "NGO/Social work",
-                    "Commerce"
+                    "Istituzione culturale ",
+                    "Amministrazione comunale",
+                    "Impresa locale",
+                    "Non profit, associazione, lavoratori sociali",
+                    "Commercianti "
                 ],
                 "weight": 0,
                 "id": 4

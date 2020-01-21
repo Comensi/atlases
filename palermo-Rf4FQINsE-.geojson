@@ -328,7 +328,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-01-21T13:39:55.571Z",
+        "published": "2020-01-21T13:45:41.552Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -340,20 +340,6 @@
         ],
         "version": 40,
         "taxonomy": [
-            {
-                "category": "Simple",
-                "description": "",
-                "sub-categories": [],
-                "weight": "",
-                "id": ""
-            },
-            {
-                "category": "It",
-                "description": "",
-                "sub-categories": [],
-                "weight": "",
-                "id": ""
-            },
             {
                 "category": "Idee e Proposte",
                 "description": "presentare visioni, progetti e ipotesi alternative  dei cittadini per la trasformazione o il miglioramento del quartiere",

@@ -4,12 +4,70 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "GEWOBAG",
+                "type": "Organization",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "https://www.gewobag.de/wp-content/themes/gewobag/assets/svg/gewobag-logo.svg",
+                "category": "Akteur:innen",
+                "sub-category": "Developers and enterprises",
+                "tags": [],
+                "category-description": "(In-)Formelle Akteur:innen des Gebietes",
+                "links": [
+                    {
+                        "url": "https://www.gewobag.de",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-01-18T09:44:19.885-08:00",
+                "updated_date": "2020-01-18T09:50:43.021-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/gewobag#54"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "GEWOBAG",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "https://www.gewobag.de",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-01-18T09:43:38.087-08:00",
+                "updated_date": "2020-01-18T09:43:38.627-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/gewobag#53"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Repair Cafe",
                 "type": "Organization",
                 "start_date": "2013-01-16T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "",
-                "image": "https://i.ibb.co/YNvHyBS/Repair-Cafe.png",
+                "image": "https://i.ibb.co/YNvHyBS/Repair-Cafe.png ",
                 "category": "Akteur:innen",
                 "sub-category": "",
                 "tags": [
@@ -19,7 +77,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-01-17T05:53:12.876-08:00",
-                "updated_date": "2020-01-17T08:25:50.851-08:00",
+                "updated_date": "2020-01-24T08:01:03.237-08:00",
                 "weight": 0,
                 "image_credit": "www.123RF.com"
             },
@@ -93,7 +151,7 @@
                     "ca/gr_ndung_friedrichstadt_#42"
                 ],
                 "created_date": "2019-11-23T03:48:48.433-08:00",
-                "updated_date": "2019-12-16T16:07:16.098-08:00",
+                "updated_date": "2020-01-24T07:52:15.086-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -557,7 +615,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-01-19T09:58:16.477Z",
+        "published": "2020-01-24T16:04:48.453Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -567,7 +625,7 @@
                 "type": "translation"
             }
         ],
-        "version": 11,
+        "version": 14,
         "taxonomy": [
             {
                 "category": "Rundgang",

@@ -4,6 +4,34 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Test 2",
+                "type": "Monument",
+                "start_date": "2019-12-12T16:00:00.000-08:00",
+                "end_date": "2019-12-12T16:00:00.000-08:00",
+                "description": "test",
+                "image": "",
+                "category": "Places",
+                "sub-category": "Public space",
+                "tags": [
+                    "art",
+                    "architecture",
+                    "culture"
+                ],
+                "category-description": "",
+                "links": [],
+                "relationships": [
+                    "play/mcp_mar_a_s_test_#57"
+                ],
+                "created_date": "2019-12-13T03:22:32.572-08:00",
+                "updated_date": "2019-12-13T03:27:11.195-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "play/test_2#68"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Testing live mode",
                 "type": "Organization",
                 "start_date": "",
@@ -423,7 +451,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2019-12-11T11:42:36.046Z",
+        "published": "2020-01-24T11:37:44.818Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -433,14 +461,14 @@
                 "type": "homepage"
             }
         ],
-        "version": 16,
+        "version": 17,
         "taxonomy": [
             {
                 "category": "Simple",
                 "description": "",
                 "sub-categories": [],
-                "weight": 0,
-                "id": 10
+                "weight": "",
+                "id": ""
             },
             {
                 "category": "Itineraries",

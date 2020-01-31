@@ -328,7 +328,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-01-21T15:34:25.839Z",
+        "published": "2020-01-31T12:20:48.978Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -338,8 +338,17 @@
                 "type": "homepage"
             }
         ],
-        "version": 43,
+        "version": 45,
         "taxonomy": [
+            {
+                "category": "Commercianti",
+                "description": "commercianti e botteghe storiche del quartiere",
+                "sub-categories": [
+                    "#r29"
+                ],
+                "weight": 0,
+                "id": 12
+            },
             {
                 "category": "Idee e Proposte",
                 "description": "presentare visioni, progetti e ipotesi alternative dei cittadini per la trasformazione o il miglioramento del quartiere",
@@ -374,9 +383,9 @@
                 "sub-categories": [
                     "Istituzione culturale ",
                     "Amministrazione comunale",
-                    "Impresa locale",
-                    "Non profit, associazione, lavoratori sociali",
-                    "Commercianti "
+                    "Non profit, associazionI, lavoratori sociali",
+                    "#r15",
+                    "#r16"
                 ],
                 "weight": 0,
                 "id": 4

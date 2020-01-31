@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Vicolo degli Orfani",
-                "type": "Place",
+                "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
                 "description": "Vicolo degli Orfani è un vicolo che collega Piazza Beati Paoli e Via Sant'Agostino. Nel vicolo si trova la sede operativa di Bond of Union",
@@ -29,7 +29,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Laboratori di Quartiere",
-                "type": "Event",
+                "type": "Evento",
                 "start_date": "2020-01-13T16:00:00.000-08:00",
                 "end_date": "2020-03-31T16:00:00.000-07:00",
                 "description": "Laboratorio di progettazione di idee e proposte nello spazio di quartiere di Bond of Union",
@@ -58,7 +58,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Teatro Massimo",
-                "type": "Place",
+                "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
                 "description": "Il principale Teatro d'opera della città delimita il quartiere Capo. Per costruirlo è stato necessario demolire parte dell'antico tessuto urbano.",
@@ -87,7 +87,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Madonna della Mercede al Capo 2019",
-                "type": "Event",
+                "type": "Evento",
                 "start_date": "2019-09-27T16:00:00.000-07:00",
                 "end_date": "2019-09-28T16:00:00.000-07:00",
                 "description": "",
@@ -123,7 +123,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Spazi Di Quartiere",
-                "type": "Event",
+                "type": "Evento",
                 "start_date": "2019-11-07T16:00:00.000-08:00",
                 "end_date": "2019-11-28T16:00:00.000-08:00",
                 "description": "Discussioni pubbliche su idee e proposte di rinnovamento urbano dei cittadini del Capo gestite da Bond of Union",
@@ -267,7 +267,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Piazza Papireto",
-                "type": "Place",
+                "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
                 "description": "Piazza del quartiere capo in via di ristrutturazione",
@@ -296,7 +296,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cortile Mangano",
-                "type": "Place",
+                "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
                 "description": "Piazza del quartiere capo",
@@ -328,7 +328,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-01-31T12:25:50.180Z",
+        "published": "2020-01-31T12:43:49.164Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -338,7 +338,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 46,
+        "version": 47,
         "taxonomy": [
             {
                 "category": "Commercianti",
@@ -383,9 +383,7 @@
                 "sub-categories": [
                     "Istituzione culturale ",
                     "Amministrazione comunale",
-                    "Non profit, associazionI, lavoratori sociali",
-                    "#r15",
-                    "#r16"
+                    "Non profit, associazionI, lavoratori sociali"
                 ],
                 "weight": 0,
                 "id": 4

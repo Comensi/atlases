@@ -95,7 +95,7 @@
                 "category": "Erinnerungen",
                 "sub-category": "",
                 "tags": [
-                    "history",
+                    "geschichte ",
                     "demolition"
                 ],
                 "category-description": "(Im-)Materielles Erbe des Gebietes",
@@ -169,8 +169,8 @@
                 "category": "Erinnerungen",
                 "sub-category": "",
                 "tags": [
-                    "toponyms",
-                    "history",
+                    "ortsname",
+                    "geschichte ",
                     "urbanism"
                 ],
                 "category-description": "(Im-)Materielles Erbe des Gebietes",
@@ -197,8 +197,8 @@
                 "tags": [
                     "architecture",
                     "Creative industries",
-                    "toponyms",
-                    "history"
+                    "ortsname",
+                    "geschichte "
                 ],
                 "category-description": "(Im-)Materielles Erbe des Gebietes",
                 "links": [],
@@ -349,6 +349,102 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Friedrichstadt ",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "Die Friedrichstadt ist ein historischer Stadtteil der heute zum Teil im Berliner Ortsteil Mitte liegt und sich jenseits der Bezirksgrenze in den Ortsteil Kreuzberg erstreckt. Die Friedrichstadt war eine ab 1688 angelegte selbstständige Vorstadt Berlins, die 1710 eingemeindet wurde. Benannt wurde die Friedrichstadt nach dem preußischen König Friedrich I. Heute liegt der nördliche Teil der Friedrichstadt im Bezirk Mitte und der südliche Teil im Bezirk Friedrichshain-Kreuzberg. Die Grenze zwischen beiden Bezirken verläuft entlang der südlichen Seite der Niederkirchner- und Zimmerstraße.\n",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Map_de-be_friedrichstadt.png",
+                "category": "Begrenzungen",
+                "sub-category": "Administrative borders",
+                "tags": [
+                    "geschichte ",
+                    "geografie",
+                    "ortsname"
+                ],
+                "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
+                "links": [],
+                "relationships": [
+                    "ca/gr_ndung_friedrichstadt_#42",
+                    "ca/eingemeindung_friedrichstadt_#44"
+                ],
+                "created_date": "2019-12-10T01:35:42.660-08:00",
+                "updated_date": "2020-02-05T07:03:10.247-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.389252,
+                            52.498094
+                        ],
+                        [
+                            13.393861,
+                            52.498189
+                        ],
+                        [
+                            13.401282,
+                            52.510348
+                        ],
+                        [
+                            13.400813,
+                            52.511867
+                        ],
+                        [
+                            13.399095,
+                            52.512152
+                        ],
+                        [
+                            13.396595,
+                            52.51201
+                        ],
+                        [
+                            13.396204,
+                            52.512722
+                        ],
+                        [
+                            13.396283,
+                            52.513387
+                        ],
+                        [
+                            13.396048,
+                            52.516283
+                        ],
+                        [
+                            13.381206,
+                            52.515096
+                        ],
+                        [
+                            13.379487,
+                            52.514716
+                        ],
+                        [
+                            13.377534,
+                            52.514669
+                        ],
+                        [
+                            13.376597,
+                            52.50935
+                        ],
+                        [
+                            13.376909,
+                            52.508638
+                        ],
+                        [
+                            13.389252,
+                            52.498094
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/friedrichstadt_#50"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Karin Lücker - Café MaDaMe ",
                 "type": "Interview",
                 "start_date": "2017-03-16T17:00:00.000-07:00",
@@ -433,6 +529,151 @@
                 ]
             },
             "id": "ca/zlb_amerika_gedenkbibliothek#30"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sanierungsgebiet Südliche Friedrichstadt",
+                "type": "Program",
+                "start_date": "2011-04-01T06:00:00.000-07:00",
+                "end_date": "",
+                "description": "Das Gebiet der Südlichen Friedrichstadt wurde mit Rechtsverordnung vom 15. März 2011 mit Rechtskraft am 1. April 2011 förmlich als Sanierungsgebiet festgesetzt. Die zuvor im Gebiet durchgeführten Vorbereitenden Untersuchungen kamen zu dem Ergebnis, dass die Südliche Friedrichstadt durch erhebliche städtebauliche und funktionale Schwächen gekennzeichnet ist. Das Gebiet wird seiner Lage und Bedeutung in der Innenstadt nicht gerecht, wichtige Areale und öffentliche Standorte sind städtebaulich nicht eingebunden. Darüber hinaus bestehen funktionale und gestalterische Mängel bei den Einrichtungen der sozialen Infrastruktur und im öffentlichen Raum.\nIm Gebiet gilt nun für den Zeitraum der Sanierungsdurchführung das „Besondere Städtebaurecht” gemäß §§ 136-191 BauGB. Die Sanierung erfolgt im „vereinfachten Verfahren” in dem die besonderen sanierungsrechtlichen Vorschriften (Kaufpreisprüfung, Ausgleichsbetrag des Eigentümers, §§ 152-156a BauGB) nicht angewendet werden.",
+                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
+                "category": "Begrenzungen",
+                "sub-category": "Public space",
+                "tags": [
+                    "Public space",
+                    "Urban regeneration"
+                ],
+                "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/",
+                        "title": "Official website",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
+                        "title": "Area",
+                        "description": "",
+                        "type": "image"
+                    }
+                ],
+                "relationships": [
+                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+                    "",
+                    "ca/besselpark_sanierung#11"
+                ],
+                "created_date": "2019-09-26T06:31:05.747-07:00",
+                "updated_date": "2020-02-05T07:05:27.320-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.388535,
+                            52.49415
+                        ],
+                        [
+                            13.395292,
+                            52.494459
+                        ],
+                        [
+                            13.395058,
+                            52.496312
+                        ],
+                        [
+                            13.396425,
+                            52.495979
+                        ],
+                        [
+                            13.396972,
+                            52.496692
+                        ],
+                        [
+                            13.395175,
+                            52.497
+                        ],
+                        [
+                            13.395917,
+                            52.49833
+                        ],
+                        [
+                            13.395761,
+                            52.498995
+                        ],
+                        [
+                            13.396503,
+                            52.49928
+                        ],
+                        [
+                            13.399511,
+                            52.504672
+                        ],
+                        [
+                            13.396855,
+                            52.505526
+                        ],
+                        [
+                            13.395214,
+                            52.503294
+                        ],
+                        [
+                            13.39498,
+                            52.503508
+                        ],
+                        [
+                            13.394589,
+                            52.504861
+                        ],
+                        [
+                            13.39166,
+                            52.504529
+                        ],
+                        [
+                            13.391777,
+                            52.504292
+                        ],
+                        [
+                            13.390957,
+                            52.504173
+                        ],
+                        [
+                            13.390996,
+                            52.503175
+                        ],
+                        [
+                            13.388769,
+                            52.503128
+                        ],
+                        [
+                            13.385176,
+                            52.502297
+                        ],
+                        [
+                            13.389004,
+                            52.499138
+                        ],
+                        [
+                            13.389551,
+                            52.495623
+                        ],
+                        [
+                            13.388926,
+                            52.494269
+                        ],
+                        [
+                            13.388535,
+                            52.49415
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
         },
         {
             "type": "Feature",
@@ -615,7 +856,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-01-24T16:04:48.453Z",
+        "published": "2020-02-05T17:21:42.024Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -625,7 +866,7 @@
                 "type": "translation"
             }
         ],
-        "version": 14,
+        "version": 15,
         "taxonomy": [
             {
                 "category": "Rundgang",
@@ -715,9 +956,9 @@
                 "category": "Begrenzungen",
                 "description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
                 "sub-categories": [
-                    "Area of interest",
+                    "Interessengebiet",
                     "Administrative borders",
-                    "Spatial planning",
+                    "Planen",
                     "Social policy"
                 ],
                 "weight": -10,

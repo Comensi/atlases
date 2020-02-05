@@ -48,7 +48,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -346.6445,
+                    16.6089,
                     38.1167
                 ]
             },
@@ -357,7 +357,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-02-05T14:42:08.782Z",
+        "published": "2020-02-05T16:09:03.343Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -367,7 +367,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 51,
+        "version": 53,
         "taxonomy": [
             {
                 "category": "Commercianti",
@@ -376,7 +376,7 @@
                     "#r29"
                 ],
                 "weight": 0,
-                "id": 12
+                "id": 8
             },
             {
                 "category": "Idee e Proposte",
@@ -393,7 +393,7 @@
                     "interviste "
                 ],
                 "weight": 0,
-                "id": 5
+                "id": 6
             },
             {
                 "category": "Memorie del quartiere",
@@ -404,7 +404,7 @@
                     "Tradizioni e cultura locale"
                 ],
                 "weight": 0,
-                "id": 3
+                "id": 5
             },
             {
                 "category": "Servizi pubblici e privati",
@@ -427,7 +427,7 @@
                     "Commons "
                 ],
                 "weight": 0,
-                "id": 2
+                "id": 3
             },
             {
                 "category": "Spazi di quartiere",
@@ -440,7 +440,7 @@
                     "spazi verdi"
                 ],
                 "weight": 1,
-                "id": 9
+                "id": 2
             },
             {
                 "category": "Confini",

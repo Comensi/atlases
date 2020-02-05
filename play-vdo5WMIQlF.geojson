@@ -451,8 +451,23 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2020-02-05T16:22:50.557Z",
-        "links": [],
+        "published": "2020-02-05T16:32:24.068Z",
+        "links": [
+            {
+                "title": "The Comensi project",
+                "url": "http://community-atlas.net",
+                "description": "The Comensi Project homepage",
+                "lang": "en",
+                "type": "homepage"
+            },
+            {
+                "title": "Contact ",
+                "url": "mailto:test@example.com",
+                "description": "Contact the editor",
+                "lang": "en",
+                "type": "email"
+            }
+        ],
         "version": 19,
         "taxonomy": [
             {

@@ -38,7 +38,14 @@
                 "sub-category": "",
                 "tags": [],
                 "category-description": "presentare visioni, progetti e ipotesi alternative dei cittadini per la trasformazione o il miglioramento del quartiere",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/XqGPv4fP/73415966-3361784120528293-55589860496375808-o.jpg",
+                        "title": "Foto del cartellone",
+                        "description": "il cartellone realizzato",
+                        "type": "image"
+                    }
+                ],
                 "relationships": [],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
                 "updated_date": "2020-02-05T06:01:08.231-08:00",
@@ -111,244 +118,6 @@
                 ]
             },
             "id": "ca/teatro_massimo#74"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Madonna della Mercede al Capo 2019",
-                "type": "Evento",
-                "start_date": "2019-09-27T16:00:00.000-07:00",
-                "end_date": "2019-09-28T16:00:00.000-07:00",
-                "description": "",
-                "image": "https://i.postimg.cc/85R2jfLx/45026980262-5bacd1d3f9-z.jpg",
-                "category": "Memorie del quartiere",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "documentare il patrimonio materiale ed immateriale del quartiere\n",
-                "links": [
-                    {
-                        "url": "https://www.youtube.com/watch?v=mUUsUQEwjtY",
-                        "title": "Festa della Mercede",
-                        "description": "video della festa della mercede al capo 2019",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-12-12T02:55:40.353-08:00",
-                "updated_date": "2019-12-12T03:17:58.267-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3546,
-                    38.1174
-                ]
-            },
-            "id": "ca/madonna_della_mercede_al_capo_2019#73"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Spazi Di Quartiere",
-                "type": "Evento",
-                "start_date": "2019-11-07T16:00:00.000-08:00",
-                "end_date": "2019-11-28T16:00:00.000-08:00",
-                "description": "Discussioni pubbliche su idee e proposte di rinnovamento urbano dei cittadini del Capo gestite da Bond of Union",
-                "image": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
-                "category": "Idee e Proposte",
-                "sub-category": "",
-                "tags": [
-                    "Urban regeneration",
-                    "Public space"
-                ],
-                "category-description": "presentare visioni, progetti e ipotesi alternative dei cittadini per la trasformazione o il miglioramento del quartiere",
-                "links": [
-                    {
-                        "url": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
-                        "title": "Vicolo degli orfani",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.facebook.com/events/957580901286850/",
-                        "title": "Piazza Papireto",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.facebook.com/events/456256658412760/",
-                        "title": "Piazzetta alla Guilla",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.facebook.com/events/753117621822422/",
-                        "title": "Cortile Mangano",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/cortile_mangano#68,ca/piazza_papireto#70"
-                ],
-                "created_date": "2019-12-12T02:24:26.427-08:00",
-                "updated_date": "2019-12-12T07:04:24.576-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3557,
-                    38.1175
-                ]
-            },
-            "id": "ca/spazi_di_quartiere#72"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Quartiere Capo - Monte di Pietà",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "Il Capo è un antico e noto quartiere del centro storico di Palermo. Con lo stesso termine i palermitani indicano indifferentemente anche il mercato che vi si tiene e con cui il quartiere si identifica.",
-                "image": "https://i.postimg.cc/76MDVzmg/DSCF1683.jpg",
-                "category": "Confini",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "confini o limiti politici-aministrativi del quartiere",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-12-12T02:11:40.236-08:00",
-                "updated_date": "2019-12-18T02:53:45.482-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.357875,
-                            38.121229
-                        ],
-                        [
-                            13.361461,
-                            38.115704
-                        ],
-                        [
-                            13.355956,
-                            38.113472
-                        ],
-                        [
-                            13.3549,
-                            38.114656
-                        ],
-                        [
-                            13.353716,
-                            38.114989
-                        ],
-                        [
-                            13.353316,
-                            38.115228
-                        ],
-                        [
-                            13.351085,
-                            38.117638
-                        ],
-                        [
-                            13.350946,
-                            38.118989
-                        ],
-                        [
-                            13.352538,
-                            38.119402
-                        ],
-                        [
-                            13.353716,
-                            38.119331
-                        ],
-                        [
-                            13.356104,
-                            38.120102
-                        ],
-                        [
-                            13.356972,
-                            38.120584
-                        ],
-                        [
-                            13.356913,
-                            38.120859
-                        ],
-                        [
-                            13.357875,
-                            38.121229
-                        ]
-                    ]
-                ]
-            },
-            "id": "ca/quartiere_capo_monte_di_piet_#71"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Piazza Papireto",
-                "type": "Luogo",
-                "start_date": "",
-                "end_date": "",
-                "description": "Piazza del quartiere capo in via di ristrutturazione",
-                "image": "https://i.postimg.cc/76mtZBpM/UNADJUSTEDNONRAW-thumb-6ad.jpg",
-                "category": "Spazi di quartiere",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "luoghi di interesse pubblici e privati del quartiere",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-12-11T08:12:02.170-08:00",
-                "updated_date": "2019-12-11T08:15:02.526-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3538,
-                    38.1151
-                ]
-            },
-            "id": "ca/piazza_papireto#70"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Cortile Mangano",
-                "type": "Luogo",
-                "start_date": "",
-                "end_date": "",
-                "description": "Piazza del quartiere capo",
-                "image": "https://i.postimg.cc/PrJK25Yy/UNADJUSTEDNONRAW-thumb-6af.jpg",
-                "category": "Spazi di quartiere",
-                "sub-category": "Spazi pubblici",
-                "tags": [],
-                "category-description": "luoghi di interesse pubblici e privati del quartiere",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-12-11T05:30:08.220-08:00",
-                "updated_date": "2019-12-11T08:01:58.721-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3542,
-                    38.1165
-                ]
-            },
-            "id": "ca/cortile_mangano#68"
         }
     ],
     "properties": {
@@ -357,7 +126,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-02-05T14:01:31.070Z",
+        "published": "2020-02-05T14:36:04.145Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -367,7 +136,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 49,
+        "version": 50,
         "taxonomy": [
             {
                 "category": "Commercianti",

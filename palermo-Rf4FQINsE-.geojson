@@ -28,6 +28,35 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Cartello informativo Capo",
+                "type": "Progetto",
+                "start_date": "",
+                "end_date": "",
+                "description": "Cartello informativo proposto dal quartiere per il mercato capo",
+                "image": "https://i.postimg.cc/kXjPBbcz/IMG-20200205-123444.jpg",
+                "category": "Idee e Proposte",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "presentare visioni, progetti e ipotesi alternative dei cittadini per la trasformazione o il miglioramento del quartiere",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-02-05T05:51:25.211-08:00",
+                "updated_date": "2020-02-05T05:58:49.917-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -346.6445,
+                    38.1167
+                ]
+            },
+            "id": "ca/cartello_informativo_capo#77"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Laboratori di Quartiere",
                 "type": "Evento",
                 "start_date": "2020-01-13T16:00:00.000-08:00",
@@ -328,7 +357,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-01-31T12:43:49.164Z",
+        "published": "2020-02-05T13:59:42.747Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -338,7 +367,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 47,
+        "version": 49,
         "taxonomy": [
             {
                 "category": "Commercianti",

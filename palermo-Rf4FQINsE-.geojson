@@ -92,14 +92,14 @@
                 "end_date": "",
                 "description": "Il principale Teatro d'opera della città delimita il quartiere Capo. Per costruirlo è stato necessario demolire parte dell'antico tessuto urbano.",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Palermo_-_Teatro_Massimo_Vittorio_Emanuele.jpg",
-                "category": "Spazi di quartiere",
-                "sub-category": "",
+                "category": "Memorie del quartiere",
+                "sub-category": "Monumenti ed edifici storici",
                 "tags": [],
-                "category-description": "luoghi di interesse pubblici e privati del quartiere",
+                "category-description": "documentare il patrimonio materiale ed immateriale del quartiere\n",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T03:14:36.545-08:00",
-                "updated_date": "2019-12-18T02:56:19.367-08:00",
+                "updated_date": "2020-02-07T03:39:08.903-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -357,7 +357,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-02-06T16:07:53.510Z",
+        "published": "2020-02-07T11:40:17.288Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -367,7 +367,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 54,
+        "version": 55,
         "taxonomy": [
             {
                 "category": "Commercianti",
@@ -433,11 +433,11 @@
                 "category": "Spazi di quartiere",
                 "description": "luoghi di interesse pubblici e privati del quartiere",
                 "sub-categories": [
-                    "Organizzazioni e associazioni",
+                    "Luoghi di incontro",
                     "Spazi pubblici",
-                    "luoghi di incontro",
-                    "attivita' commerciali",
-                    "spazi verdi"
+                    "Spazi verdi",
+                    "#r25",
+                    "#r26"
                 ],
                 "weight": 1,
                 "id": 2

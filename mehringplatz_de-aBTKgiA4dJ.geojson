@@ -493,8 +493,8 @@
                 "type": "Organization",
                 "start_date": "",
                 "end_date": "",
-                "description": "Die Zentral- und Landesbibliothek Berlin (ZLB) hat mit der Amerika-Gedenkbibliothek (AGB) einen ihrer beiden Sitze nahe des Mehringplatzes. An diesem Standort wird Wissen über diverse Medien beispielsweise aus den Abteilungen Geisteswissenschaften oder Bildende Kunst zugänglich gemacht. Neben der Wissensvermittlung versteht sich die AGB auch als einen Bildungsort, weswegen es auch ein Lernzentrum, eine Kinder- und Jugendbibliothek oder eine Musikbibliothek beherbergt.\n\n",
-                "image": "https://www.zlb.de/fileadmin/zlb/img/logo_leiste2_ohne_schrift.png",
+                "description": "Die Zentral- und Landesbibliothek Berlin (ZLB) hat mit der Amerika-Gedenkbibliothek (AGB) einen ihrer beiden Sitze nahe des Mehringplatzes. An diesem Standort wird Wissen über diverse Medien beispielsweise aus den Abteilungen Geisteswissenschaften oder Bildende Kunst zugänglich gemacht. Neben der Wissensvermittlung versteht sich die AGB auch als einen Bildungsort, weswegen es auch ein Lernzentrum, eine Kinder- und Jugendbibliothek oder eine Musikbibliothek beherbergt.\n\nVorschlag (Arthur 07.02):                                                                                                                                                                                                                                                                                                        Die Stiftung Zentral- und Landesbibliothek Berlin (ZLB) ist die größte Öffentliche Bibliothek Deutschlands. Ihre beiden Standorte sind die Amerika-Gedenkbibliothek (AGB) in Berlin-Kreuzberg und die Berliner Stadtbibliothek (BStB) in Berlin-Mitte.  \n\nDie Amerika-Gedenkbibliothek - wochentags von 10.00 bis 21.00 Uhr geöffnet - konzentriert sich auf die geisteswissenschaftlichen Fachgebiete und die „schönen“ Künste. Sie besteht auch viele Bücher oder Medien auf Belletristik, Filme, Musik und eine Artothek. Hier ist auch die Kinder- und Jugendbibliothek mit dem Lernzentrum angesiedelt.\n\nJeden Sonntag von 11.00 – 17.00 Uhr ist die Amerika-Gedenkbibliothek geöffnet und biet eines wöchentlich wechselnden Veranstaltungsprogramms: https://www.zlb.de/veranstaltungen/agbsonntagsoffen.html. Wenn Sie auch Ideen für das Programm haben oder selbst einen Veranstaltungspunkt anbieten möchten, können Sie eine E-mail schicken an: sonntagsbureau@berlin.de\n\nIn Zukunft werden die beiden Standorte der ZLB zusammengelegt und die neue Bibliothek am heutigen Standort die Amerika-Gedenkbibliothek untergebracht wird. Die neue Bibliothek wird ein öffentlicher Raum, frei von kommerziellen Interessen und der Baubeginn wird im 2026 anfangen.",
+                "image": "https://i.postimg.cc/28sSnvr9/agb.jpg",
                 "category": "Akteur:innen",
                 "sub-category": "Public cultural institutions",
                 "tags": [
@@ -517,9 +517,9 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-10-30T03:56:51.891-07:00",
-                "updated_date": "2019-12-16T16:01:57.589-08:00",
+                "updated_date": "2020-02-07T04:15:07.021-08:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "http://text-der-stadt.blogspot.com/2014/09/facelifting-die-amerika.html"
             },
             "geometry": {
                 "type": "Point",
@@ -856,7 +856,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-02-05T17:21:42.024Z",
+        "published": "2020-02-07T12:54:06.902Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -866,7 +866,7 @@
                 "type": "translation"
             }
         ],
-        "version": 15,
+        "version": 17,
         "taxonomy": [
             {
                 "category": "Rundgang",

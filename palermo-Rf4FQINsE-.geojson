@@ -38,10 +38,17 @@
                 "sub-category": "",
                 "tags": [],
                 "category-description": "presentare visioni, progetti e ipotesi alternative dei cittadini per la trasformazione o il miglioramento del quartiere",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/nc4fTTtp/DSC03599.jpg",
+                        "title": "Arena Trinacria",
+                        "description": "Il vecchio ingresso dell'Arena Trinacria",
+                        "type": "image"
+                    }
+                ],
                 "relationships": [],
                 "created_date": "2020-02-14T08:29:46.329-08:00",
-                "updated_date": "2020-02-14T08:34:50.520-08:00",
+                "updated_date": "2020-02-14T08:43:37.487-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -386,7 +393,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-02-14T16:38:33.870Z",
+        "published": "2020-02-14T16:44:19.259Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -396,7 +403,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 56,
+        "version": 57,
         "taxonomy": [
             {
                 "category": "Commercianti",

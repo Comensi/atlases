@@ -32,7 +32,7 @@
                 "type": "Progetto",
                 "start_date": "",
                 "end_date": "",
-                "description": "L'idea del cinema all'aperto é una delle proposte emerse nelle discussioni con i cittadini (febbraio 2019). Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato il quartiere aveva due cinema (es. arena trinacria in Via del Celso) ormai completamente abbandonati .",
+                "description": "L'idea del cinema all'aperto é una delle proposte emerse nelle discussioni con i cittadini per piazzetta saponeria (febbraio 2019). Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato il quartiere aveva due cinema (es. arena trinacria in Via del Celso) ormai completamente abbandonati .",
                 "image": "https://i.postimg.cc/fbYFCRdy/161643390-20caf882-d668-4e45-9d5c-0209eb2e3385.jpg",
                 "category": "Idee e Proposte",
                 "sub-category": "",
@@ -48,7 +48,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-02-14T08:29:46.329-08:00",
-                "updated_date": "2020-02-14T08:43:37.487-08:00",
+                "updated_date": "2020-02-14T08:45:34.195-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -393,7 +393,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-02-14T16:44:19.259Z",
+        "published": "2020-02-14T16:46:24.562Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -403,7 +403,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 57,
+        "version": 59,
         "taxonomy": [
             {
                 "category": "Commercianti",

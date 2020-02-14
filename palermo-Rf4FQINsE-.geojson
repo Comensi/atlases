@@ -28,6 +28,48 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "La Bottegaga del Fabbro",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "Il Fabbro e Artista Gianni Conigliaro é nato e lavora nel quartiere con splendide insegne grafiche e luminarie artigianali create anche per le feste patronali. Attivissimo del quartiere da anni ha fornito idee da sviluppare insieme agli altri abitanti.",
+                "image": "https://i.postimg.cc/y8h91q4t/IMG-20200212-110903.jpg",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/MHbMWRgR/IMG-20200212-111938.jpg",
+                        "title": "Insegna del Fabbro",
+                        "description": "Insegna della Bottega di Gianni",
+                        "type": "image"
+                    },
+                    {
+                        "url": "https://i.postimg.cc/VLf5qJ3G/IMG-20200212-110912.jpg",
+                        "title": "Lavoro",
+                        "description": "Lavoro in ferro battuto",
+                        "type": "image"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-02-14T08:48:29.637-08:00",
+                "updated_date": "2020-02-14T08:55:44.964-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3545,
+                    38.116
+                ]
+            },
+            "id": "ca/la_bottegaga_del_fabbro#79"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Cinema all'aperto",
                 "type": "Progetto",
                 "start_date": "",
@@ -393,7 +435,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-02-14T16:46:24.562Z",
+        "published": "2020-02-14T16:56:35.818Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -403,7 +445,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 59,
+        "version": 60,
         "taxonomy": [
             {
                 "category": "Commercianti",

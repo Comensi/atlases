@@ -34,10 +34,10 @@
                 "end_date": "",
                 "description": "Il Fabbro e Artista Gianni Conigliaro é nato e lavora nel quartiere con splendide insegne grafiche e luminarie artigianali create anche per le feste patronali. Attivissimo del quartiere da anni ha fornito idee da sviluppare insieme agli altri abitanti.",
                 "image": "https://i.postimg.cc/y8h91q4t/IMG-20200212-110903.jpg",
-                "category": "Storie del quartiere",
+                "category": "Commercianti",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "collezionare prospettive personali e voci, storie orali, interviste e documentazione",
+                "category-description": "commercianti e botteghe storiche del quartiere",
                 "links": [
                     {
                         "url": "https://i.postimg.cc/MHbMWRgR/IMG-20200212-111938.jpg",
@@ -54,7 +54,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-02-14T08:48:29.637-08:00",
-                "updated_date": "2020-02-14T08:57:52.500-08:00",
+                "updated_date": "2020-02-14T08:58:54.225-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -435,7 +435,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-02-14T16:59:22.391Z",
+        "published": "2020-02-14T17:06:41.897Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -445,7 +445,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 60,
+        "version": 61,
         "taxonomy": [
             {
                 "category": "Commercianti",

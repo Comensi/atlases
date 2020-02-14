@@ -28,6 +28,35 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Cinema all'aperto",
+                "type": "Progetto",
+                "start_date": "",
+                "end_date": "",
+                "description": "L'idea del cinema all'aperto é una delle proposte emerse nelle discussioni con i cittadini (febbraio 2019). Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato il quartiere aveva due cinema (es. arena trinacria in Via del Celso) ormai completamente abbandonati .",
+                "image": "https://i.postimg.cc/fbYFCRdy/161643390-20caf882-d668-4e45-9d5c-0209eb2e3385.jpg",
+                "category": "Idee e Proposte",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "presentare visioni, progetti e ipotesi alternative dei cittadini per la trasformazione o il miglioramento del quartiere",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-02-14T08:29:46.329-08:00",
+                "updated_date": "2020-02-14T08:34:50.520-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3548,
+                    38.1178
+                ]
+            },
+            "id": "ca/cinema_all_aperto#78"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Cartello informativo Capo",
                 "type": "Progetto",
                 "start_date": "",
@@ -219,7 +248,7 @@
                 "category": "Confini",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "confini o limiti politici-aministrativi del quartiere",
+                "category-description": "confini o limiti politici-aministrativi ",
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T02:11:40.236-08:00",
@@ -357,7 +386,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-02-07T11:40:17.288Z",
+        "published": "2020-02-14T16:38:33.870Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -367,7 +396,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 55,
+        "version": 56,
         "taxonomy": [
             {
                 "category": "Commercianti",
@@ -444,8 +473,10 @@
             },
             {
                 "category": "Confini",
-                "description": "confini o limiti politici-aministrativi del quartiere",
-                "sub-categories": [],
+                "description": "confini o limiti politici-aministrativi ",
+                "sub-categories": [
+                    "#r30"
+                ],
                 "weight": -1,
                 "id": 1
             }

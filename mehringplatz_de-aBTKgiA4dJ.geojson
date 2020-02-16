@@ -195,7 +195,7 @@
                 "category": "Erinnerungen",
                 "sub-category": "",
                 "tags": [
-                    "architecture",
+                    "architektur",
                     "Creative industries",
                     "ortsname",
                     "geschichte "
@@ -243,39 +243,6 @@
                 "image_credit": ""
             },
             "id": "ca/urban_sketches_alienation#36"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Urban Sketches: Development, Who Is It For",
-                "type": "Video",
-                "start_date": "2017-07-06T16:00:00.000-07:00",
-                "end_date": "",
-                "description": "\nThe narrative looks into the vulnerability and protection schemes affecting existing tenants and shop owners in Mehringplatz through a personal point of view account, contextualising the interest in the subject and also draws on a third party's knowledge and opinion on this question. \n\nScript Nathalie Bekdache\nEdited by oginoknauss\nImages from the Mehringplatz Memory Card set\n\nUrban Sketches is a series of short video postcards from Mehringplatz.\nThese audiovisual fragments are realised by the participants to the EULER - Mehringplatz Anknipsen laboratory in 2017. They experiment a simple and accessible format to capture an impression, report an observation or tell a story about the local identity. Complementing the collection of historical and analytical materials, they provide a layer of personal interpretation to the representation of the socio-spatial milieu.",
-                "image": "https://i.vimeocdn.com/video/646399950.jpg",
-                "category": "Narrative",
-                "sub-category": "Place narratives ",
-                "tags": [
-                    "Urban regeneration",
-                    "oral history",
-                    "social inclusion"
-                ],
-                "category-description": "Persönliche Perspektiven, Interviews, Überlieferungen, Dokumente zum Gebiet",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/manage/226707117/general",
-                        "title": "Urban Sketches",
-                        "description": "Urban Sketches is a series of short video postcards from Mehringplatz",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-11-07T07:23:13.358-08:00",
-                "updated_date": "2019-12-16T16:03:00.326-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "ca/urban_sketches_development_who_is_it_for#33"
         },
         {
             "type": "Feature",
@@ -449,14 +416,14 @@
                 "type": "Interview",
                 "start_date": "2017-03-16T17:00:00.000-07:00",
                 "end_date": "",
-                "description": "Interview with Karin Lücker - Café MaDaMe. Recorded 17.03.2017  by Vicky Kiefer and Laura Colini\nCamera and editing Manuela Conti - ogino:knauss\nRealised in the frame of EULER - Switch On Mehringplatz Erasmus plus program.",
+                "description": "Interview mit Karin Lücker - Café MaDaMe. Aufgenommen 17.03.2017  von Vicky Kiefer, Laura Colini\nKamera und Bearbeitung Manuela Conti - ogino:knauss\n\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.",
                 "image": "",
                 "category": "Narrative",
                 "sub-category": "Stakeholder interviews",
                 "tags": [
                     "social inclusion",
                     "feminism",
-                    "culture",
+                    "kultur",
                     "cooking"
                 ],
                 "category-description": "Persönliche Perspektiven, Interviews, Überlieferungen, Dokumente zum Gebiet",
@@ -473,7 +440,7 @@
                     "ca/die_globale_e_v_#27"
                 ],
                 "created_date": "2019-10-30T04:32:12.500-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2020-02-16T13:02:34.592-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -498,8 +465,8 @@
                 "category": "Akteur:innen",
                 "sub-category": "Public cultural institutions",
                 "tags": [
-                    "culture",
-                    "architecture",
+                    "kultur",
+                    "architektur",
                     "media",
                     "workspace",
                     "commons",
@@ -776,6 +743,52 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Ela Kagel - Supermarkt",
+                "type": "Interview",
+                "start_date": "2017-03-12T17:00:00.000-07:00",
+                "end_date": "",
+                "description": "Interview mit Ela Kagel, cofounder of Supermarkt.  Aufgenommen 13.03.2017  von Vicky Kiefer, Lorenzo Tripodi.\nKamera und Bearbeitung Manuela Conti - ogino:knauss\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.\n",
+                "image": "",
+                "category": "Narrative",
+                "sub-category": "Stakeholder interviews",
+                "tags": [
+                    "kultur",
+                    "media",
+                    "workspace",
+                    "digital ",
+                    "commons",
+                    "platform",
+                    "coop"
+                ],
+                "category-description": "Persönliche Perspektiven, Interviews, Überlieferungen, Dokumente zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/215396718",
+                        "title": "",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/supermarkt#12"
+                ],
+                "created_date": "2019-09-25T09:10:51.974-07:00",
+                "updated_date": "2020-02-16T13:28:43.449-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39265,
+                    52.4996
+                ]
+            },
+            "id": "ca/ela_kagel_supermarkt#13"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Besselpark Sanierung",
                 "type": "Program",
                 "start_date": "2019-08-14T16:00:00.000-07:00",
@@ -856,7 +869,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-02-07T12:54:17.752Z",
+        "published": "2020-02-16T21:48:57.329Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -866,7 +879,7 @@
                 "type": "translation"
             }
         ],
-        "version": 17,
+        "version": 19,
         "taxonomy": [
             {
                 "category": "Rundgang",

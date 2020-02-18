@@ -74,7 +74,7 @@
                 "type": "Progetto",
                 "start_date": "",
                 "end_date": "",
-                "description": "L'idea del cinema all'aperto é una delle proposte emerse nelle discussioni con i cittadini a piazzetta saponeria (febbraio 2019). Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato il quartiere aveva due cinema (es. arena trinacria in Via del Celso) ormai completamente abbandonati .",
+                "description": "L'idea del cinema all'aperto é una delle proposte emerse nelle discussioni con i cittadini a piazzetta saponeria (febbraio 2019). Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato il quartiere aveva due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati .",
                 "image": "https://i.postimg.cc/fbYFCRdy/161643390-20caf882-d668-4e45-9d5c-0209eb2e3385.jpg",
                 "category": "Idee e Proposte",
                 "sub-category": "",
@@ -83,14 +83,14 @@
                 "links": [
                     {
                         "url": "https://i.postimg.cc/nc4fTTtp/DSC03599.jpg",
-                        "title": "Arena Trinacria",
+                        "title": "Ex Arena Trinacria",
                         "description": "Il vecchio ingresso dell'Arena Trinacria",
                         "type": "image"
                     }
                 ],
                 "relationships": [],
                 "created_date": "2020-02-14T08:29:46.329-08:00",
-                "updated_date": "2020-02-17T02:28:44.628-08:00",
+                "updated_date": "2020-02-18T03:40:46.804-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -435,7 +435,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-02-17T10:29:47.374Z",
+        "published": "2020-02-18T11:42:03.810Z",
         "links": [
             {
                 "title": "The Comensi project",

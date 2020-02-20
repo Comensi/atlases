@@ -1,5 +1,91 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Testing live mode",
+                "type": "Organization",
+                "start_date": "",
+                "description": "Live!!!",
+                "image": "",
+                "category": "Transformations",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-10T08:40:29.658-08:00",
+                "updated_date": "2019-12-10T08:40:45.725-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "play/testing_live_mode#67"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Retry!!",
+                "type": "",
+                "start_date": "",
+                "description": "Try again",
+                "image": "",
+                "category": "Simple",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-10T08:05:37.273-08:00",
+                "updated_date": "2019-12-10T08:05:56.065-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "play/retry_#66"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "This is a new feature",
+                "type": "Place",
+                "start_date": "",
+                "description": "A feature",
+                "image": "",
+                "category": "Places",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-10T07:11:43.207-08:00",
+                "updated_date": "2019-12-10T07:12:08.909-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "play/this_is_a_new_feature#65"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "One more time",
+                "type": "",
+                "start_date": "",
+                "description": "yip. Another test",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-11-26T08:37:53.523-08:00",
+                "updated_date": "2019-11-26T08:38:10.483-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "play/one_more_time#62"
+        }
+    ],
     "features": [
         {
             "type": "Feature",
@@ -521,7 +607,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2020-02-20T21:18:52.143Z",
+        "published": "2020-02-20T21:25:00.889Z",
         "links": [
             {
                 "title": "The Comensi project",

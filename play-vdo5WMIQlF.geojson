@@ -1,13 +1,110 @@
 {
     "type": "FeatureCollection",
-    "nonGeoFeatures": [
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "test geometry",
+                "type": "",
+                "start_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-02-18T13:26:50.101-08:00",
+                "updated_date": "2020-02-18T13:27:20.730-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        13.385811,
+                        52.484976
+                    ],
+                    [
+                        13.395851,
+                        52.483982
+                    ],
+                    [
+                        13.403403,
+                        52.483251
+                    ],
+                    [
+                        13.418679,
+                        52.480062
+                    ],
+                    [
+                        13.421339,
+                        52.465318
+                    ],
+                    [
+                        13.403232,
+                        52.463697
+                    ],
+                    [
+                        13.39937,
+                        52.46558
+                    ],
+                    [
+                        13.392419,
+                        52.467933
+                    ],
+                    [
+                        13.384352,
+                        52.470077
+                    ],
+                    [
+                        13.385811,
+                        52.484976
+                    ],
+                    [
+                        13.385553,
+                        52.48508
+                    ],
+                    [
+                        13.406493,
+                        52.482832
+                    ],
+                    [
+                        13.41353,
+                        52.480846
+                    ],
+                    [
+                        13.411345,
+                        52.478154
+                    ],
+                    [
+                        13.40302,
+                        52.480127
+                    ],
+                    [
+                        13.396802,
+                        52.483617
+                    ],
+                    [
+                        13.38719,
+                        52.477762
+                    ],
+                    [
+                        13.385553,
+                        52.48508
+                    ]
+                ]
+            },
+            "id": "play/test_geometry#69"
+        },
         {
             "type": "Feature",
             "properties": {
                 "title": "Test 2",
                 "type": "Monument",
                 "start_date": "2019-12-12T16:00:00.000-08:00",
-                "end_date": "2019-12-12T16:00:00.000-08:00",
                 "description": "test",
                 "image": "",
                 "category": "Places",
@@ -27,95 +124,42 @@
                 "weight": 0,
                 "image_credit": ""
             },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.703125,
+                            53.644638
+                        ],
+                        [
+                            -4.350586,
+                            49.979488
+                        ],
+                        [
+                            0.219727,
+                            46.042736
+                        ],
+                        [
+                            7.77832,
+                            49.009051
+                        ],
+                        [
+                            10.151367,
+                            52.187405
+                        ],
+                        [
+                            6.020508,
+                            54.927142
+                        ],
+                        [
+                            -0.703125,
+                            53.644638
+                        ]
+                    ]
+                ]
+            },
             "id": "play/test_2#68"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Testing live mode",
-                "type": "Organization",
-                "start_date": "",
-                "end_date": "",
-                "description": "Live!!!",
-                "image": "",
-                "category": "Transformations",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-12-10T08:40:29.658-08:00",
-                "updated_date": "2019-12-10T08:40:45.725-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "play/testing_live_mode#67"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Retry!!",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "Try again",
-                "image": "",
-                "category": "Simple",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-12-10T08:05:37.273-08:00",
-                "updated_date": "2019-12-10T08:05:56.065-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "play/retry_#66"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "This is a new feature",
-                "type": "Place",
-                "start_date": "",
-                "end_date": "",
-                "description": "A feature",
-                "image": "",
-                "category": "Places",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-12-10T07:11:43.207-08:00",
-                "updated_date": "2019-12-10T07:12:08.909-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "play/this_is_a_new_feature#65"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "One more time",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "yip. Another test",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-11-26T08:37:53.523-08:00",
-                "updated_date": "2019-11-26T08:38:10.483-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "play/one_more_time#62"
         },
         {
             "type": "Feature",
@@ -123,7 +167,6 @@
                 "title": "A new example",
                 "type": "Project",
                 "start_date": "",
-                "end_date": "",
                 "description": "Something else",
                 "image": "",
                 "category": "Memories",
@@ -137,17 +180,49 @@
                 "weight": 0,
                 "image_credit": ""
             },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.921875,
+                            51.563412
+                        ],
+                        [
+                            8.173828,
+                            50.035974
+                        ],
+                        [
+                            5.844727,
+                            46.164614
+                        ],
+                        [
+                            1.889648,
+                            46.709736
+                        ],
+                        [
+                            0.527344,
+                            49.296472
+                        ],
+                        [
+                            2.856445,
+                            51.344339
+                        ],
+                        [
+                            4.921875,
+                            51.563412
+                        ]
+                    ]
+                ]
+            },
             "id": "play/a_new_example#61"
-        }
-    ],
-    "features": [
+        },
         {
             "type": "Feature",
             "properties": {
                 "title": "BOU test",
                 "type": "Place",
                 "start_date": "",
-                "end_date": "",
                 "description": "BOU office",
                 "image": "",
                 "category": "Places",
@@ -176,7 +251,6 @@
                 "title": "MCP (María's test)",
                 "type": "Organization",
                 "start_date": "2019-12-03T16:00:00.000-08:00",
-                "end_date": "2020-07-28T16:00:00.000-07:00",
                 "description": "That's exactly where we work!",
                 "image": "https://mildmaycp.org.uk/wp-content/uploads/2019/07/header-5.jpg",
                 "category": "Places",
@@ -244,7 +318,6 @@
                 "title": "Ajuda Jovem",
                 "type": "Project",
                 "start_date": "2020-01-05T16:00:00.000-08:00",
-                "end_date": "2020-09-10T16:00:00.000-07:00",
                 "description": "A map of young people's initiatives in Ajuda's territory",
                 "image": "https://www.facebook.com/ajuda.juntadefreguesia/photos/rpp.237830389733250/1338152153034396/?type=3&theater ",
                 "category": "Itineraries",
@@ -301,7 +374,6 @@
                 "title": "Something",
                 "type": "",
                 "start_date": "",
-                "end_date": "",
                 "description": "An example feature that we will delete. ",
                 "image": "https://i.postimg.cc/4yZZhR0z/comensi-logo-icon-heavy-4x.png",
                 "category": "Delimitations",
@@ -342,7 +414,6 @@
                 "title": "Limehouse Hackspace",
                 "type": "Project",
                 "start_date": "",
-                "end_date": "",
                 "description": "A hackspace. You can make things. ",
                 "image": "",
                 "category": "Places",
@@ -382,7 +453,6 @@
                 "title": "Limehouse town hall",
                 "type": "Building",
                 "start_date": "2001-11-24T16:00:00.000-08:00",
-                "end_date": "",
                 "description": "Limehouse Town Hall is a place where working artists and cultural producers, audiences and communities are supported to share ideas, try out new things, and imagine a better here and now.",
                 "image": "https://i0.wp.com/www.limehousetownhall.co.uk/wp-content/uploads/2015/04/workshop1.jpg?w=1000&ssl=1",
                 "category": "Places",
@@ -451,7 +521,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2020-02-05T16:53:46.057Z",
+        "published": "2020-02-20T21:18:52.143Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -468,7 +538,7 @@
                 "type": "email"
             }
         ],
-        "version": 19,
+        "version": 21,
         "taxonomy": [
             {
                 "category": "Itineraries",
@@ -561,5 +631,27 @@
                 "id": 1
             }
         ]
-    }
+    },
+    "relationships": [
+        {
+            "from": "play/test_2#68",
+            "to": "play/mcp_mar_a_s_test_#57"
+        },
+        {
+            "from": "play/mcp_mar_a_s_test_#57",
+            "to": "play/ajuda_jovem#56"
+        },
+        {
+            "from": "play/ajuda_jovem#56",
+            "to": "play/something#55"
+        },
+        {
+            "from": "play/something#55",
+            "to": "play/limehouse_hackspace#53"
+        },
+        {
+            "from": "play/limehouse_hackspace#53",
+            "to": "play/limehouse_town_hall#47"
+        }
+    ]
 }

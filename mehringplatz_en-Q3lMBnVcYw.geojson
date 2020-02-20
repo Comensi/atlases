@@ -25,7 +25,8 @@
                 ],
                 "created_date": "2019-12-08T09:29:03.261-08:00",
                 "updated_date": "2019-12-08T09:36:09.571-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/kunstwelt_e_v_#48"
         },
@@ -52,7 +53,8 @@
                 ],
                 "created_date": "2019-12-05T09:40:58.990-08:00",
                 "updated_date": "2019-12-05T11:41:14.873-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/wwii_air_raid#47"
         },
@@ -73,7 +75,8 @@
                 "relationships": [],
                 "created_date": "2019-11-23T04:19:54.664-08:00",
                 "updated_date": "2019-12-05T09:40:37.514-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/die_rondell#45"
         },
@@ -82,7 +85,7 @@
             "properties": {
                 "title": "Friedrichstadt Incorporation",
                 "type": "Event",
-                "start_date": "",
+                "start_date": "1709-12-10T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "in 1709 is decreed and in  1710 happens the  effectively incorporation of the Friedrichstadt in the city of Berlin. The town is then integrated in the city as a district.",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Map_de_berlin_1710.jpg",
@@ -95,8 +98,9 @@
                     "mehringplatz-community-atlas/friedrichstadt_foundation#42"
                 ],
                 "created_date": "2019-11-23T03:48:48.433-08:00",
-                "updated_date": "2019-11-26T06:35:53.588-08:00",
-                "weight": 0
+                "updated_date": "2019-12-11T10:27:57.773-08:00",
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/friedrichstadt_incorporation#44"
         },
@@ -121,7 +125,8 @@
                 "relationships": [],
                 "created_date": "2019-11-22T03:36:17.608-08:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/friedrichstadt_foundation#42"
         },
@@ -158,7 +163,8 @@
                 ],
                 "created_date": "2019-11-21T03:30:20.027-08:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41"
         },
@@ -186,7 +192,8 @@
                 ],
                 "created_date": "2019-11-21T03:11:07.402-08:00",
                 "updated_date": "2019-12-05T09:40:32.587-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/belle_alliance_platz#40"
         },
@@ -217,7 +224,8 @@
                 "relationships": [],
                 "created_date": "2019-11-09T03:07:33.603-08:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/urban_sketches_alienation#36"
         },
@@ -250,7 +258,8 @@
                 "relationships": [],
                 "created_date": "2019-11-09T02:27:23.642-08:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/urban_sketches_places_for_all_times#34"
         },
@@ -282,7 +291,8 @@
                 "relationships": [],
                 "created_date": "2019-11-07T07:23:13.358-08:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/urban_sketches_development_who_is_it_for#33"
         },
@@ -317,7 +327,8 @@
                 ],
                 "created_date": "2019-11-01T11:26:35.150-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
         },
@@ -347,7 +358,8 @@
                 "relationships": [],
                 "created_date": "2019-09-26T13:52:54.348-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/gewobag#23"
         },
@@ -377,7 +389,8 @@
                 ],
                 "created_date": "2019-09-26T06:24:58.508-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
         },
@@ -413,7 +426,8 @@
                 ],
                 "created_date": "2019-09-26T03:56:46.512-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/erz_hlcaf_#18"
         },
@@ -445,7 +459,8 @@
                 ],
                 "created_date": "2019-09-26T03:29:19.999-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
         },
@@ -481,7 +496,8 @@
                 ],
                 "created_date": "2019-09-26T03:07:19.608-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/bauhutte#16"
         }
@@ -510,7 +526,8 @@
                 ],
                 "created_date": "2019-12-10T01:35:42.660-08:00",
                 "updated_date": "2019-12-10T01:47:16.639-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -609,7 +626,8 @@
                 "relationships": [],
                 "created_date": "2019-11-22T15:22:50.574-08:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -645,7 +663,8 @@
                 ],
                 "created_date": "2019-11-21T02:25:33.651-08:00",
                 "updated_date": "2019-12-05T09:37:42.531-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -688,7 +707,8 @@
                 ],
                 "created_date": "2019-11-20T10:18:28.481-08:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -823,7 +843,8 @@
                 "relationships": [],
                 "created_date": "2019-11-09T02:38:47.634-08:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -866,7 +887,8 @@
                 ],
                 "created_date": "2019-10-30T04:32:12.500-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -909,7 +931,8 @@
                 "relationships": [],
                 "created_date": "2019-10-30T03:56:51.891-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -939,7 +962,8 @@
                 "relationships": [],
                 "created_date": "2019-10-17T14:07:18.473-07:00",
                 "updated_date": "2019-12-08T14:40:26.756-08:00",
-                "weight": -10
+                "weight": -10,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "LineString",
@@ -1090,7 +1114,8 @@
                 ],
                 "created_date": "2019-09-27T02:10:08.037-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1124,7 +1149,8 @@
                 ],
                 "created_date": "2019-09-27T01:50:32.870-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1159,7 +1185,8 @@
                 ],
                 "created_date": "2019-09-27T01:27:56.456-07:00",
                 "updated_date": "2019-11-27T02:19:55.455-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1196,7 +1223,8 @@
                 ],
                 "created_date": "2019-09-27T01:02:35.669-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1244,7 +1272,8 @@
                 ],
                 "created_date": "2019-09-26T06:31:05.747-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -1359,7 +1388,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Large sculpture  donated in 2010 to the city of Berlin by the San Francisco based artist Fletcher Benton . ",
-                "image": "https://www.berlinischegalerie.de/fileadmin/_processed_/csm_kunst_museum-berlin_Benton_donut_ae8c0b5e68.jpg",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg/800px-Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg",
                 "category": "Memories",
                 "sub-category": "Statues",
                 "tags": [
@@ -1381,8 +1410,9 @@
                     "mehringplatz-community-atlas/taz_neubau#10"
                 ],
                 "created_date": "2019-09-26T06:05:41.401-07:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "updated_date": "2019-12-11T01:40:38.682-08:00",
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1423,7 +1453,8 @@
                 ],
                 "created_date": "2019-09-26T04:08:36.760-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -1520,7 +1551,8 @@
                 ],
                 "created_date": "2019-09-25T10:32:11.919-07:00",
                 "updated_date": "2019-12-10T00:12:47.614-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -1621,7 +1653,8 @@
                 ],
                 "created_date": "2019-09-25T09:10:51.974-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1662,7 +1695,8 @@
                 ],
                 "created_date": "2019-09-25T09:07:25.368-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1701,7 +1735,8 @@
                 "relationships": [],
                 "created_date": "2019-09-25T08:52:03.678-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -1776,7 +1811,8 @@
                 "relationships": [],
                 "created_date": "2019-09-25T07:59:09.170-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1807,7 +1843,8 @@
                 "relationships": [],
                 "created_date": "2019-09-25T07:58:48.148-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1839,7 +1876,8 @@
                 ],
                 "created_date": "2019-09-25T07:57:02.813-07:00",
                 "updated_date": "2019-12-10T00:52:58.011-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1878,7 +1916,8 @@
                 "relationships": [],
                 "created_date": "2019-09-25T07:36:57.647-07:00",
                 "updated_date": "2019-11-25T04:59:00.005-08:00",
-                "weight": 0
+                "weight": 0,
+                "image_credit": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1894,9 +1933,9 @@
         "title": "Mehringplatz Anknipsen",
         "url": "http://mehringplatz-en.community-atlas.net",
         "id": "mehringplatz_en",
-        "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
+        "description": "Mehringplatz Anknipsen is a digital atlas dedicated to the Südliche Friedrichstadt and the surrounding territories of Kreuzberg and Mitte. It collects and makes accessible informations, memories and visions about the neighbourhood, mapping local initiatives, actors, plans and policies. It aims at combining qualitative and quantitative data, personal narratives and public documents to provide a complex  and nuanced representation of the local identity. It focuses on processes of civic engagement, cooperation and social inclusion. Its elaboration started in 2016 through the EU funded Erasmus+ project EULER , as the outcome of laboratories dedicated to urban reconnaissance, collaborative mapping and digital storytelling. It is currently implemented through the COMENSI project testing the digital atlas prototype to publish the content co-created with local communities.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2019-12-10T21:46:52.553Z",
+        "published": "2020-02-20T14:12:16.975Z",
         "links": [
             {
                 "title": "Mehringplats - German",
@@ -1906,7 +1945,7 @@
                 "type": "translation"
             }
         ],
-        "version": 5,
+        "version": 7,
         "taxonomy": [
             {
                 "category": "Itineraries",

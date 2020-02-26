@@ -4,39 +4,89 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Delete me",
-                "type": "",
-                "start_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
+                "title": "Mildmay Community Centre Interior",
+                "type": "Places",
+                "start_date": "2013-08-23T16:00:00.000-07:00",
+                "description": "Photos of the interior of Mildmay Community Centre in 2013 having recently been retrobuilt as a Passive House",
+                "image": "https://www.flickr.com/photos/ceisenhart/9716583249/",
+                "category": "Then",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community used to be",
                 "links": [],
-                "relationships": [],
-                "created_date": "2019-12-11T05:30:08.220-08:00",
-                "updated_date": "2019-12-11T05:30:13.954-08:00",
+                "relationships": [
+                    "ca/mildmay_community_centre_interior#73"
+                ],
+                "created_date": "2020-02-26T07:33:46.063-08:00",
+                "updated_date": "2020-02-26T07:45:15.151-08:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "CEisenhart"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0,
-                    0
+                    -0.0825,
+                    51.5508
                 ]
             },
-            "id": "ca/delete_me#68"
+            "id": "ca/mildmay_community_centre_interior#73"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Boundaries",
+                "type": "Places",
+                "start_date": "",
+                "description": "",
+                "image": "",
+                "category": "Now",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "How our community is now",
+                "links": [],
+                "relationships": [
+                    "ca/boundaries#71"
+                ],
+                "created_date": "2020-02-26T05:31:34.970-08:00",
+                "updated_date": "2020-02-26T08:01:11.359-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.084468,
+                        51.552033
+                    ],
+                    [
+                        -0.083406,
+                        51.552159
+                    ],
+                    [
+                        -0.08096,
+                        51.551906
+                    ],
+                    [
+                        -0.082076,
+                        51.550191
+                    ],
+                    [
+                        -0.084822,
+                        51.550878
+                    ]
+                ]
+            },
+            "id": "ca/boundaries#71"
         }
     ],
     "properties": {
-        "title": "Mildmay",
+        "title": "Mildmay Community",
         "url": "https://mildmay.community-atlas.net",
         "id": "mildmay",
-        "description": "",
+        "description": "This atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community. ",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-02-26T13:23:37.871Z",
+        "published": "2020-02-26T16:34:59.776Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -46,11 +96,11 @@
                 "type": "homepage"
             }
         ],
-        "version": 21,
+        "version": 33,
         "taxonomy": [
             {
                 "category": "Next",
-                "description": "How you would like your community to be",
+                "description": "How you would like our community to be in future",
                 "sub-categories": [],
                 "weight": 0,
                 "id": 14
@@ -71,5 +121,14 @@
             }
         ]
     },
-    "relationships": []
+    "relationships": [
+        {
+            "from": "ca/mildmay_community_centre_interior#73",
+            "to": "ca/mildmay_community_centre_interior#73"
+        },
+        {
+            "from": "ca/boundaries#71",
+            "to": "ca/boundaries#71"
+        }
+    ]
 }

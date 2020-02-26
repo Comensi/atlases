@@ -1,0 +1,127 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Boundaries",
+                "type": "Places",
+                "start_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-02-26T05:31:34.970-08:00",
+                "updated_date": "2020-02-26T05:32:05.510-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.08449,
+                            51.552026
+                        ],
+                        [
+                            -0.08347,
+                            51.552166
+                        ],
+                        [
+                            -0.080949,
+                            51.551953
+                        ],
+                        [
+                            -0.082097,
+                            51.550191
+                        ],
+                        [
+                            -0.084747,
+                            51.550858
+                        ],
+                        [
+                            -0.08449,
+                            51.552026
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/#boundaries"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Delete me",
+                "type": "",
+                "start_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-11T05:30:08.220-08:00",
+                "updated_date": "2019-12-11T05:30:13.954-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "id": "ca/#delete_me"
+        }
+    ],
+    "properties": {
+        "title": "",
+        "url": "",
+        "id": "",
+        "description": "",
+        "image": "",
+        "published": "2020-02-26T13:47:59.809Z",
+        "links": [
+            {
+                "title": "The Comensi project",
+                "url": "http://community-atlas.net",
+                "description": "The Comensi Project homepage",
+                "lang": "en",
+                "type": "homepage"
+            }
+        ],
+        "version": 23,
+        "taxonomy": [
+            {
+                "category": "Next",
+                "description": "How you would like our community to be in future",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 14
+            },
+            {
+                "category": "Now",
+                "description": "How our community is now",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 13
+            },
+            {
+                "category": "Then",
+                "description": "How our community used to be",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 12
+            }
+        ]
+    },
+    "relationships": []
+}

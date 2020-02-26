@@ -88,7 +88,7 @@
         "id": "",
         "description": "",
         "image": "",
-        "published": "2020-02-26T13:47:59.809Z",
+        "published": "2020-02-26T13:52:33.192Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -98,7 +98,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 23,
+        "version": 24,
         "taxonomy": [
             {
                 "category": "Next",

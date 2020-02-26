@@ -36,7 +36,7 @@
         "id": "mildmay",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-02-26T13:20:33.690Z",
+        "published": "2020-02-26T13:23:37.871Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -46,7 +46,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 19,
+        "version": 21,
         "taxonomy": [
             {
                 "category": "Next",

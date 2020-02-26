@@ -1,5 +1,28 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Second floor view Feb 2020",
+                "type": "Places",
+                "start_date": "",
+                "description": "Recreating 1980s photo from second floor balcony overlooking the playground",
+                "image": "https://www.flickr.com/photos/187167232@N07/49588612352/in/dateposted-public/",
+                "category": "Now",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "How our community is now",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-02-26T08:43:00.313-08:00",
+                "updated_date": "2020-02-26T08:45:37.365-08:00",
+                "weight": 0,
+                "image_credit": "Carla Mildmay"
+            },
+            "id": "ca/second_floor_view_feb_2020#75"
+        }
+    ],
     "features": [
         {
             "type": "Feature",
@@ -86,7 +109,7 @@
         "id": "mildmay",
         "description": "This atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community. ",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-02-26T16:37:17.054Z",
+        "published": "2020-02-26T16:47:11.114Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -96,7 +119,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 34,
+        "version": 35,
         "taxonomy": [
             {
                 "category": "Next",

@@ -1,5 +1,28 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mildmay Community Centre Interior",
+                "type": "Places",
+                "start_date": "",
+                "description": "Photos of the interior of Mildmay Community Centre in 2013",
+                "image": "https://www.flickr.com/photos/ceisenhart/9716583249/",
+                "category": "Then",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "How our community used to be",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-02-26T07:33:46.063-08:00",
+                "updated_date": "2020-02-26T07:37:36.247-08:00",
+                "weight": 0,
+                "image_credit": "CEisenhart"
+            },
+            "id": "ca/#mildmay_community_centre_interior"
+        }
+    ],
     "features": [
         {
             "type": "Feature",
@@ -25,28 +48,28 @@
                 "coordinates": [
                     [
                         [
-                            -0.08449,
-                            51.552026
+                            -0.084468,
+                            51.552033
                         ],
                         [
-                            -0.08347,
-                            51.552166
+                            -0.083406,
+                            51.552159
                         ],
                         [
-                            -0.080949,
-                            51.551953
+                            -0.08096,
+                            51.551906
                         ],
                         [
-                            -0.082097,
+                            -0.082076,
                             51.550191
                         ],
                         [
-                            -0.084747,
-                            51.550858
+                            -0.084822,
+                            51.550878
                         ],
                         [
-                            -0.08449,
-                            51.552026
+                            -0.084468,
+                            51.552033
                         ]
                     ]
                 ]
@@ -88,7 +111,7 @@
         "id": "",
         "description": "",
         "image": "",
-        "published": "2020-02-26T13:52:33.192Z",
+        "published": "2020-02-26T15:38:56.583Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -98,7 +121,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 24,
+        "version": 28,
         "taxonomy": [
             {
                 "category": "Next",

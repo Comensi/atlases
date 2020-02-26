@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "nonGeoFeatures": [
+    "features": [
         {
             "type": "Feature",
             "properties": {
@@ -20,10 +20,15 @@
                 "weight": 0,
                 "image_credit": "Carla Mildmay"
             },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0821,
+                    51.5514
+                ]
+            },
             "id": "ca/second_floor_view_feb_2020#75"
-        }
-    ],
-    "features": [
+        },
         {
             "type": "Feature",
             "properties": {
@@ -109,7 +114,7 @@
         "id": "mildmay",
         "description": "This atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community. ",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-02-26T17:42:06.825Z",
+        "published": "2020-02-26T18:12:31.396Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -119,7 +124,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 39,
+        "version": 45,
         "taxonomy": [
             {
                 "category": "Next",

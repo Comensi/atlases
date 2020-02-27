@@ -1,6 +1,115 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "človekINJE",
+                "type": "Project",
+                "start_date": "2016-02-26T16:00:00.000-08:00",
+                "description": "ČlovekINJE so skupina strokovnih sodelavk, ki v okviru Zavoda BOB izvajajo preventivno terensko delo, usmerjeno v skupnost. V lepem vremenu jih najdete vsak torek na Šerkcu, kjer organizirajo različne aktivnosti za otroke in mlade ter občanso skrbijo za skupnostne vrtove.",
+                "image": "https://bit.ly/384YGD9",
+                "category": "Stakeholders",
+                "sub-category": "NGO/Social work",
+                "tags": [
+                    "javni prostor",
+                    "mladi",
+                    "skupnost"
+                ],
+                "category-description": "identifying formal and informal actors in the area",
+                "links": [
+                    {
+                        "url": "http://www.zavod-bob.si/clovekinje/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/knji_nica_re_i#72,ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76,ca/dom_skupnosti_savsko_naselje#78"
+                ],
+                "created_date": "2020-02-27T01:23:32.605-08:00",
+                "updated_date": "2020-02-27T01:31:33.445-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/_lovekinje#79"
+        }
+    ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Dom skupnosti Savsko naselje",
+                "type": "Place",
+                "start_date": "",
+                "description": "Dom skupnosti je prostor, ki ga upravlja ČS Bežigrad in je namenjen uporabi lokalnim društvom za njihove aktivnosti.",
+                "image": "https://ibb.co/z2VmZvt",
+                "category": "Places",
+                "sub-category": "Community hub",
+                "tags": [
+                    "skupnost",
+                    "društvo"
+                ],
+                "category-description": "",
+                "links": [],
+                "relationships": [
+                    "ca/knji_nica_re_i#72"
+                ],
+                "created_date": "2020-02-27T00:46:16.731-08:00",
+                "updated_date": "2020-02-27T01:17:44.915-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5238,
+                    46.0637
+                ]
+            },
+            "id": "ca/dom_skupnosti_savsko_naselje#78"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Šent - slovensko združenje za duševno Zdravje",
+                "type": "Organization",
+                "start_date": "1992-12-31T16:00:00.000-08:00",
+                "description": "Namen društva je varovanje človekovih pravic in dostojanstva oseb s težavami v duševnem zdravju, doseči višjo stopnjo njihove vključitve v družbo in povečati njihovo zaposljivost. Društvo izvaja dejavnosti na področjih zagovorništva, psihosocialne in zaposlitvene rehabilitacije ter ustvarjanja novih delovnih mest za osebe s težavami v duševnem zdravju, socialno izključene in druge težje zaposljive osebe ter njihove svojce.",
+                "image": "https://www.sent.si/fck_files/image/ZA%20VAS/dnevni.centeri.simoblna.jpg",
+                "category": "Stakeholders",
+                "sub-category": "NGO/Social work",
+                "tags": [
+                    "društvo",
+                    "skupnost"
+                ],
+                "category-description": "identifying formal and informal actors in the area",
+                "links": [
+                    {
+                        "url": "http://www.sent.si/index.php",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/knji_nica_re_i#72"
+                ],
+                "created_date": "2019-12-24T01:09:12.737-08:00",
+                "updated_date": "2020-02-27T01:06:17.195-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5242,
+                    46.0639
+                ]
+            },
+            "id": "ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -209,8 +318,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.5238,
-                    46.0637
+                    14.5223,
+                    46.0619
                 ]
             },
             "id": "ca/knji_nica_re_i#72"
@@ -222,7 +331,7 @@
         "id": "savskonaselje",
         "description": "Lokalci za lokalce - zbirka uporabnih informacij, kul placev in storitev v Savskem naselju",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-02-27T08:59:45.802Z",
+        "published": "2020-02-27T09:33:19.706Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -232,7 +341,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 24,
+        "version": 27,
         "taxonomy": [
             {
                 "category": "Simple",
@@ -334,6 +443,18 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/_lovekinje#79",
+            "to": "ca/knji_nica_re_i#72,ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76,ca/dom_skupnosti_savsko_naselje#78"
+        },
+        {
+            "from": "ca/dom_skupnosti_savsko_naselje#78",
+            "to": "ca/knji_nica_re_i#72"
+        },
+        {
+            "from": "ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76",
+            "to": "ca/knji_nica_re_i#72"
+        },
         {
             "from": "ca/superhi_ka#75",
             "to": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"

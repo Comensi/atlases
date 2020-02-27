@@ -7,7 +7,6 @@
                 "title": "Superhiška",
                 "type": "Project",
                 "start_date": "",
-                "end_date": "",
                 "description": "Superhiška je bil primer skupnostnega načrtovanja in financiranja, ki ga je društvo Smetumet in prostoRož načrtovalo skupaj z učenci OŠ Savsko naselje, otroci iz vrtca Mladi rod in varovanci Rehabilitacijskega inštituta Soča. Otroci so na delavnicah ustvarjali nove ideje za igrišče in se na koncu odločili za hišico, ki združuje predloge različnih starostnih skupin. Stroške gradnje se je pokrilo s pomočjo lokalnih podjetij in preko nabirke v posebnih \"šparovčkih\", ki so bili postavljeni v lokalne bare. Po postavitvi se je obisk na igrišču povečal, ljudje so preživeli več časa zunaj in bolj skrbeli za prostor. ",
                 "image": "http://prostoroz.org/wp-content/uploads/2015/02/IMG_5336.jpg",
                 "category": "Places",
@@ -52,8 +51,7 @@
                 "title": "Vizija za javni prostor soseske",
                 "type": "Project",
                 "start_date": "2013-01-12T16:00:00.000-08:00",
-                "end_date": "2014-12-12T16:00:00.000-08:00",
-                "description": "Vizija za javni prostor soseske je bil del širšega projekta Celovite urbane prenove Savskega naselja v Ljubljani, ki se je začel izvajati leta 2013 na povabilo Oddelka za urejanje prostora MOL. Vloga javnega prostora se je od izgradnje soseske (leta 1961) bistveno spremenila. Skrb zanj je danes omejena zgolj na boj za parkirna mesta, kar izhaja iz dejstva, da je bila soseska grajena za 500 avtomobilov, danes pa jih na ulicah, pločnikih, travnikih, igriščih in dvoriščih naštejemo preko štiri tisoč. Da bi urbana prenova soseske resnično reševala probleme soseske in odgovarjala na pereča vprašanja, se je za posamezna področja oblikovalo delovne skupine, v katere so se vključili zainteresirani prebivalci. Formirala se je tudi skupina za javni prostor. Tej so se pridružili študenti dveh arhitekturnih šol in strokovnjaki na področju urejanja prostora. ",
+                "description": "Vizija za javni prostor soseske je bil del širšega projekta Celovite urbane prenove Savskega naselja v Ljubljani, ki se je začel izvajati leta 2013 na povabilo Oddelka za urejanje prostora MOL. Vloga javnega prostora se je od izgradnje soseske (leta 1961) bistveno spremenila. Skrb zanj je danes omejena zgolj na boj za parkirna mesta, kar izhaja iz dejstva, da je bila soseska grajena za 500 avtomobilov, danes pa jih na ulicah, pločnikih, travnikih, igriščih in dvoriščih naštejemo preko štiri tisoč. Da bi urbana prenova soseske resnično reševala probleme soseske in odgovarjala na pereča vprašanja, se je za posamezna področja oblikovalo delovne skupine, v katere so se vključili zainteresirani prebivalci.",
                 "image": "http://prostoroz.org/wp-content/uploads/2016/12/PJP_14-2.jpg",
                 "category": "Delimitations",
                 "sub-category": "Spatial planning",
@@ -75,7 +73,7 @@
                     "ca/knji_nica_re_i#72,ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
                 ],
                 "created_date": "2019-12-13T05:00:46.277-08:00",
-                "updated_date": "2019-12-24T00:42:07.511-08:00",
+                "updated_date": "2019-12-24T01:00:47.667-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -83,32 +81,36 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        14.518276,
-                        46.064924
+                        14.518235,
+                        46.064938
                     ],
                     [
-                        14.526168,
-                        46.066472
+                        14.52602,
+                        46.066487
                     ],
                     [
-                        14.52426,
-                        46.062318
+                        14.526299,
+                        46.066293
                     ],
                     [
-                        14.522051,
-                        46.059995
+                        14.524261,
+                        46.062288
                     ],
                     [
-                        14.520785,
-                        46.059921
+                        14.522074,
+                        46.059966
                     ],
                     [
-                        14.520206,
-                        46.061737
+                        14.520852,
+                        46.059966
                     ],
                     [
-                        14.518298,
-                        46.064819
+                        14.519779,
+                        46.062303
+                    ],
+                    [
+                        14.518214,
+                        46.064953
                     ]
                 ]
             },
@@ -120,7 +122,6 @@
                 "title": "Urbani sadovnjak in otroško igrišče",
                 "type": "Place",
                 "start_date": "",
-                "end_date": "",
                 "description": "Savsko naselje je leta 2016 dobilo urbani sadovnjak in prenovljeno otroško igrišče",
                 "image": "http://prostoroz.org/wp-content/uploads/2016/11/ROK4141_mala.jpg",
                 "category": "Places",
@@ -179,7 +180,6 @@
                 "title": "Knjižnica REČI",
                 "type": "Place",
                 "start_date": "2015-01-20T16:00:00.000-08:00",
-                "end_date": "",
                 "description": "Knjižnica REČI je neprofitna izposojevalnica najrazličnejših reči za prosti čas, ki deluje po vzoru klasične knjižnične izposoje.",
                 "image": "http://prostoroz.org/wp-content/uploads/2019/11/ROK4049.jpg",
                 "category": "Stakeholders",
@@ -217,12 +217,12 @@
         }
     ],
     "properties": {
-        "title": "Savskonaselje",
+        "title": "Savsko naselje",
         "url": "https://savskonaselje.community-atlas.net",
         "id": "savskonaselje",
         "description": "Lokalci za lokalce - zbirka uporabnih informacij, kul placev in storitev v Savskem naselju",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2019-12-24T08:57:48.729Z",
+        "published": "2020-02-27T08:59:45.802Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -239,7 +239,7 @@
                 "description": "",
                 "sub-categories": [],
                 "weight": 0,
-                "id": 10
+                "id": 9
             },
             {
                 "category": "Itineraries",
@@ -248,7 +248,7 @@
                     "H-Town Lab (URBEX Youth Lab)"
                 ],
                 "weight": 0,
-                "id": 6
+                "id": 8
             },
             {
                 "category": "Imaginations",
@@ -265,7 +265,7 @@
                     "Stakeholder interviews"
                 ],
                 "weight": 0,
-                "id": 5
+                "id": 6
             },
             {
                 "category": "Memories",
@@ -278,7 +278,7 @@
                     "Architecture "
                 ],
                 "weight": 0,
-                "id": 3
+                "id": 5
             },
             {
                 "category": "Stakeholders",
@@ -303,7 +303,7 @@
                     "Commons oriented"
                 ],
                 "weight": 0,
-                "id": 2
+                "id": 3
             },
             {
                 "category": "Places",
@@ -317,7 +317,7 @@
                     "Housing"
                 ],
                 "weight": 1,
-                "id": 9
+                "id": 2
             },
             {
                 "category": "Delimitations",
@@ -332,5 +332,15 @@
                 "id": 1
             }
         ]
-    }
+    },
+    "relationships": [
+        {
+            "from": "ca/superhi_ka#75",
+            "to": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
+        },
+        {
+            "from": "ca/vizija_za_javni_prostor_soseske#74",
+            "to": "ca/knji_nica_re_i#72,ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
+        }
+    ]
 }

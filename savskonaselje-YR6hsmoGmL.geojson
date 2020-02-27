@@ -40,6 +40,89 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Filipovo igrišče",
+                "type": "Organization",
+                "start_date": "",
+                "description": "Filipovo igrišče je dobilo ime prebivalcu Savskega naselja in po nekdanjem košarkarju, Filipu Štembergerju (1979 – 2013). Bil je znan tudi kapetan ekipe Bwin, ki je jeseni 2011 postala evropski prvak v ulični košarki. Od leta 2014 na njem v spomin na Filipa poteka vsakoletni košarkaški turnir - Filipov turnir. \nObnova in poslikava Filipovega dvorišča se je zgodila l. 2014 v sodelovanju prostoRož, Milese Štemberger, lokalne skupnosti in grafitarska skupina 1107.",
+                "image": "https://prostoroz.org/wp-content/uploads/2016/09/DSC_4655-e1520948547507.jpg",
+                "category": "Places",
+                "sub-category": "Public space",
+                "tags": [
+                    "javni prostor"
+                ],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=NnI-Eae8mJ8",
+                        "title": "2. Filipov turnir",
+                        "description": "",
+                        "type": "audio"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-02-27T02:29:46.537-08:00",
+                "updated_date": "2020-02-27T02:38:38.015-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5242,
+                    46.0648
+                ]
+            },
+            "id": "ca/filipovo_igri_e#81"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Osnovna šola Savsko naselje",
+                "type": "Organization",
+                "start_date": "1958-09-30T15:00:00.000-08:00",
+                "description": "Osnovna šola Savsko naselje deluje od leta 1958, ko so jo obiskali prvi učenci. Pred vhodom se nahaja tabla z dogodki v Domu skupnosti in Knjižnici REČI.",
+                "image": "https://ibb.co/5hVdBcR",
+                "category": "Stakeholders",
+                "sub-category": "Public cultural institutions",
+                "tags": [
+                    "otroci",
+                    "skupnost"
+                ],
+                "category-description": "identifying formal and informal actors in the area",
+                "links": [
+                    {
+                        "url": "https://www.facebook.com/ossavskonaselje/",
+                        "title": "",
+                        "description": "",
+                        "type": "video"
+                    },
+                    {
+                        "url": "https://vimeo.com/105231993",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/knji_nica_re_i#72"
+                ],
+                "created_date": "2020-02-27T02:03:06.185-08:00",
+                "updated_date": "2020-02-27T02:15:49.101-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5201,
+                    46.0641
+                ]
+            },
+            "id": "ca/osnovna_ola_savsko_naselje#80"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Dom skupnosti Savsko naselje",
                 "type": "Place",
                 "start_date": "",
@@ -330,8 +413,8 @@
         "url": "https://savskonaselje.community-atlas.net",
         "id": "savskonaselje",
         "description": "Lokalci za lokalce - zbirka uporabnih informacij, kul placev in storitev v Savskem naselju",
-        "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-02-27T09:33:19.706Z",
+        "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t31.0-8/28515136_1601555589960135_3369719488193653923_o.jpg?_nc_cat=101&_nc_sid=a61e81&_nc_oc=AQlkCOAOJZNwb7iFYu-qUp727saH1fHXw5n2s4t_v8YEIN9tzGHscJaDs_G8IqmHJw0&_nc_ht=scontent.flju2-1.fna&oh=3c3f7849e1a33d322f630c0999496698&oe=5EB679F8",
+        "published": "2020-02-27T10:42:45.865Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -341,7 +424,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 27,
+        "version": 30,
         "taxonomy": [
             {
                 "category": "Simple",
@@ -443,6 +526,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/osnovna_ola_savsko_naselje#80",
+            "to": "ca/knji_nica_re_i#72"
+        },
         {
             "from": "ca/_lovekinje#79",
             "to": "ca/knji_nica_re_i#72,ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76,ca/dom_skupnosti_savsko_naselje#78"

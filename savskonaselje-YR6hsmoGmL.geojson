@@ -426,260 +426,6 @@
                 ]
             },
             "id": "ca/dom_skupnosti_savsko_naselje#78"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Šent - slovensko združenje za duševno Zdravje",
-                "type": "Organization",
-                "start_date": "1992-12-31T16:00:00.000-08:00",
-                "description": "Namen društva je varovanje človekovih pravic in dostojanstva oseb s težavami v duševnem zdravju, doseči višjo stopnjo njihove vključitve v družbo in povečati njihovo zaposljivost. Društvo izvaja dejavnosti na področjih zagovorništva, psihosocialne in zaposlitvene rehabilitacije ter ustvarjanja novih delovnih mest za osebe s težavami v duševnem zdravju, socialno izključene in druge težje zaposljive osebe ter njihove svojce.",
-                "image": "https://www.sent.si/fck_files/image/ZA%20VAS/dnevni.centeri.simoblna.jpg",
-                "category": "Stakeholders",
-                "sub-category": "NGO/Social work",
-                "tags": [
-                    "društvo",
-                    "skupnost"
-                ],
-                "category-description": "identifying formal and informal actors in the area",
-                "links": [
-                    {
-                        "url": "http://www.sent.si/index.php",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/knji_nica_re_i#72"
-                ],
-                "created_date": "2019-12-24T01:09:12.737-08:00",
-                "updated_date": "2020-02-27T01:06:17.195-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5242,
-                    46.0639
-                ]
-            },
-            "id": "ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Superhiška",
-                "type": "Project",
-                "start_date": "",
-                "description": "Superhiška je bil primer skupnostnega načrtovanja in financiranja, ki ga je društvo Smetumet in prostoRož načrtovalo skupaj z učenci OŠ Savsko naselje, otroci iz vrtca Mladi rod in varovanci Rehabilitacijskega inštituta Soča. Otroci so na delavnicah ustvarjali nove ideje za igrišče in se na koncu odločili za hišico, ki združuje predloge različnih starostnih skupin. Stroške gradnje se je pokrilo s pomočjo lokalnih podjetij in preko nabirke v posebnih \"šparovčkih\", ki so bili postavljeni v lokalne bare. Po postavitvi se je obisk na igrišču povečal, ljudje so preživeli več časa zunaj in bolj skrbeli za prostor. ",
-                "image": "http://prostoroz.org/wp-content/uploads/2015/02/IMG_5336.jpg",
-                "category": "Places",
-                "sub-category": "Public space",
-                "tags": [
-                    "park",
-                    "skupnost",
-                    "otroci",
-                    "otroško igrišče",
-                    "mladi",
-                    "javni prostor"
-                ],
-                "category-description": "",
-                "links": [
-                    {
-                        "url": "http://prostoroz.org/portfolio/items/superhiska/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
-                ],
-                "created_date": "2019-12-24T00:47:21.852-08:00",
-                "updated_date": "2019-12-24T00:52:53.667-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.525,
-                    46.0655
-                ]
-            },
-            "id": "ca/superhi_ka#75"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Vizija za javni prostor soseske",
-                "type": "Project",
-                "start_date": "2013-01-12T16:00:00.000-08:00",
-                "description": "Vizija za javni prostor soseske je bil del širšega projekta Celovite urbane prenove Savskega naselja v Ljubljani, ki se je začel izvajati leta 2013 na povabilo Oddelka za urejanje prostora MOL. Vloga javnega prostora se je od izgradnje soseske (leta 1961) bistveno spremenila. Skrb zanj je danes omejena zgolj na boj za parkirna mesta, kar izhaja iz dejstva, da je bila soseska grajena za 500 avtomobilov, danes pa jih na ulicah, pločnikih, travnikih, igriščih in dvoriščih naštejemo preko štiri tisoč. Da bi urbana prenova soseske resnično reševala probleme soseske in odgovarjala na pereča vprašanja, se je za posamezna področja oblikovalo delovne skupine, v katere so se vključili zainteresirani prebivalci.",
-                "image": "http://prostoroz.org/wp-content/uploads/2016/12/PJP_14-2.jpg",
-                "category": "Delimitations",
-                "sub-category": "Spatial planning",
-                "tags": [
-                    "promet",
-                    "javni prostor",
-                    "parkiranje"
-                ],
-                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
-                "links": [
-                    {
-                        "url": "http://prostoroz.org/wp-content/uploads/2017/01/Prenova-javnega-prostora-Savsko-naselje.pdf",
-                        "title": "",
-                        "description": "",
-                        "type": "document"
-                    }
-                ],
-                "relationships": [
-                    "ca/knji_nica_re_i#72,ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
-                ],
-                "created_date": "2019-12-13T05:00:46.277-08:00",
-                "updated_date": "2019-12-24T01:00:47.667-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        14.518235,
-                        46.064938
-                    ],
-                    [
-                        14.52602,
-                        46.066487
-                    ],
-                    [
-                        14.526299,
-                        46.066293
-                    ],
-                    [
-                        14.524261,
-                        46.062288
-                    ],
-                    [
-                        14.522074,
-                        46.059966
-                    ],
-                    [
-                        14.520852,
-                        46.059966
-                    ],
-                    [
-                        14.519779,
-                        46.062303
-                    ],
-                    [
-                        14.518214,
-                        46.064953
-                    ]
-                ]
-            },
-            "id": "ca/vizija_za_javni_prostor_soseske#74"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Urbani sadovnjak in otroško igrišče",
-                "type": "Place",
-                "start_date": "",
-                "description": "Savsko naselje je leta 2016 dobilo urbani sadovnjak in prenovljeno otroško igrišče",
-                "image": "http://prostoroz.org/wp-content/uploads/2016/11/ROK4141_mala.jpg",
-                "category": "Places",
-                "sub-category": "Public space",
-                "tags": [
-                    "otroško igrišče",
-                    "mladi",
-                    "park",
-                    "skupnost"
-                ],
-                "category-description": "",
-                "links": [
-                    {
-                        "url": "http://prostoroz.org/portfolio/items/urbani-sadovnjak-in-igrisce-v-savskem-naselju/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-12-13T04:47:16.081-08:00",
-                "updated_date": "2019-12-13T04:56:15.785-08:00",
-                "weight": 0,
-                "image_credit": "Rok Oblak"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        14.52469,
-                        46.065372
-                    ],
-                    [
-                        14.525006,
-                        46.065677
-                    ],
-                    [
-                        14.525376,
-                        46.06559
-                    ],
-                    [
-                        14.525266,
-                        46.065262
-                    ],
-                    [
-                        14.524701,
-                        46.065374
-                    ]
-                ]
-            },
-            "id": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Knjižnica REČI",
-                "type": "Place",
-                "start_date": "2015-01-20T16:00:00.000-08:00",
-                "description": "Knjižnica REČI je neprofitna izposojevalnica najrazličnejših reči za prosti čas, ki deluje po vzoru klasične knjižnične izposoje.",
-                "image": "http://prostoroz.org/wp-content/uploads/2019/11/ROK4049.jpg",
-                "category": "Stakeholders",
-                "sub-category": "NGO/Social work",
-                "tags": [
-                    "knjižnica",
-                    "kultura",
-                    "mladi",
-                    "skupnost",
-                    "ekologija"
-                ],
-                "category-description": "identifying formal and informal actors in the area",
-                "links": [
-                    {
-                        "url": "https://www.knjiznicareci.si/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-12-13T03:33:00.661-08:00",
-                "updated_date": "2019-12-13T04:55:40.635-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5223,
-                    46.0619
-                ]
-            },
-            "id": "ca/knji_nica_re_i#72"
         }
     ],
     "properties": {
@@ -688,7 +434,7 @@
         "id": "savskonaselje",
         "description": "Lokalci za lokalce - zbirka uporabnih informacij, kul placev in storitev v Savskem naselju",
         "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t31.0-8/28515136_1601555589960135_3369719488193653923_o.jpg?_nc_cat=101&_nc_sid=a61e81&_nc_oc=AQlkCOAOJZNwb7iFYu-qUp727saH1fHXw5n2s4t_v8YEIN9tzGHscJaDs_G8IqmHJw0&_nc_ht=scontent.flju2-1.fna&oh=3c3f7849e1a33d322f630c0999496698&oe=5EB679F8",
-        "published": "2020-02-27T13:38:13.578Z",
+        "published": "2020-02-27T14:09:34.792Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -696,6 +442,20 @@
                 "description": "The Comensi Project homepage",
                 "lang": "en",
                 "type": "homepage"
+            },
+            {
+                "title": "prostoRož",
+                "url": "https://prostoroz.org/",
+                "description": "",
+                "lang": "slo",
+                "type": "homepage"
+            },
+            {
+                "title": "FB skupina Savsko naselje",
+                "url": "https://www.facebook.com/groups/152302508163489/",
+                "description": "",
+                "lang": "slo",
+                "type": ""
             }
         ],
         "version": 34,
@@ -831,18 +591,6 @@
         {
             "from": "ca/dom_skupnosti_savsko_naselje#78",
             "to": "ca/knji_nica_re_i#72"
-        },
-        {
-            "from": "ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76",
-            "to": "ca/knji_nica_re_i#72"
-        },
-        {
-            "from": "ca/superhi_ka#75",
-            "to": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
-        },
-        {
-            "from": "ca/vizija_za_javni_prostor_soseske#74",
-            "to": "ca/knji_nica_re_i#72,ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
         }
     ]
 }

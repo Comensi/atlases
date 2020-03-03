@@ -471,14 +471,14 @@
                 "start_date": "2013-12-31T16:00:00.000-08:00",
                 "description": "Filipovo igrišče je dobilo po pokojnem košarkarju, Filipu Štembergerju iz Savskega naselja. Od leta 2014 na njem v spomin na Filipa poteka vsakoletni košarkaški turnir - Filipov turnir. Obnova in poslikava Filipovega dvorišča se je zgodila na pobudo in s podporo mame pokojnega košarkaša Filipa Štembergerja iz Savskega naselja.\r Prenova se je načrtovala skupaj z glasbenikom Rokom Terkajem in otroci sedmega razreda OŠ Savsko naselje. Poslikava je delo Klana 1107. ",
                 "image": "https://prostoroz.org/wp-content/uploads/2016/09/DSC_4655-e1520948547507.jpg",
-                "category": "Places",
+                "category": "Transformations",
                 "sub-category": "Public space",
                 "tags": [
                     "javni prostor",
                     "otroci",
                     "šport"
                 ],
-                "category-description": "",
+                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
                 "links": [
                     {
                         "url": "https://www.youtube.com/watch?v=NnI-Eae8mJ8",
@@ -489,7 +489,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-02-27T02:29:46.537-08:00",
-                "updated_date": "2020-02-28T05:08:53.914-08:00",
+                "updated_date": "2020-03-03T02:30:02.142-08:00",
                 "weight": 0,
                 "image_credit": "Matjaz Tancic"
             },
@@ -842,7 +842,7 @@
         "id": "savskonaselje",
         "description": "Lokalci za lokalce - zbirka uporabnih informacij, kul placev in storitev v Savskem naselju",
         "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t31.0-8/28515136_1601555589960135_3369719488193653923_o.jpg?_nc_cat=101&_nc_sid=a61e81&_nc_oc=AQlkCOAOJZNwb7iFYu-qUp727saH1fHXw5n2s4t_v8YEIN9tzGHscJaDs_G8IqmHJw0&_nc_ht=scontent.flju2-1.fna&oh=3c3f7849e1a33d322f630c0999496698&oe=5EB679F8",
-        "published": "2020-03-03T10:30:21.970Z",
+        "published": "2020-03-03T12:00:00.572Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -866,7 +866,7 @@
                 "type": ""
             }
         ],
-        "version": 43,
+        "version": 44,
         "taxonomy": [
             {
                 "category": "Simple",
@@ -874,13 +874,6 @@
                 "sub-categories": [],
                 "weight": 0,
                 "id": 8
-            },
-            {
-                "category": "Itineraries",
-                "description": "",
-                "sub-categories": [],
-                "weight": "",
-                "id": ""
             },
             {
                 "category": "Imaginations",

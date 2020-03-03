@@ -1,29 +1,5 @@
 {
     "type": "FeatureCollection",
-    "nonGeoFeatures": [
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Vicolo degli Orfani",
-                "type": "Luogo",
-                "start_date": "",
-                "end_date": "",
-                "description": "Vicolo degli Orfani è un vicolo che collega Piazza Beati Paoli e Via Sant'Agostino. Nel vicolo si trova la sede operativa di Bond of Union",
-                "image": "https://i.postimg.cc/BQKwD3b0/IMG-1402.jpg",
-                "category": "Spazi di quartiere",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "luoghi di interesse pubblici e privati del quartiere",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-12-12T03:28:00.260-08:00",
-                "updated_date": "2019-12-18T02:58:16.630-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "ca/vicolo_degli_orfani#75"
-        }
-    ],
     "features": [
         {
             "type": "Feature",
@@ -31,7 +7,6 @@
                 "title": "La Bottegaga del Fabbro",
                 "type": "Persona",
                 "start_date": "",
-                "end_date": "",
                 "description": "Il Fabbro e Artista Gianni Conigliaro é nato e lavora nel quartiere con splendide insegne grafiche e luminarie artigianali create anche per le feste patronali. Attivissimo del quartiere da anni ha fornito idee da sviluppare insieme agli altri abitanti.",
                 "image": "https://i.postimg.cc/y8h91q4t/IMG-20200212-110903.jpg",
                 "category": "Commercianti",
@@ -73,7 +48,6 @@
                 "title": "Cinema all'aperto",
                 "type": "Progetto",
                 "start_date": "",
-                "end_date": "",
                 "description": "L'idea del cinema all'aperto é una delle proposte emerse nelle discussioni con i cittadini a piazzetta saponeria (febbraio 2019). Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato il quartiere aveva due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati .",
                 "image": "https://i.postimg.cc/fbYFCRdy/161643390-20caf882-d668-4e45-9d5c-0209eb2e3385.jpg",
                 "category": "Idee e Proposte",
@@ -109,7 +83,6 @@
                 "title": "Cartello informativo Capo",
                 "type": "Progetto",
                 "start_date": "",
-                "end_date": "",
                 "description": "Cartello informativo in Piazza Beati Paoli proposto da quartiere in una raccolta di idee per il mercato Capo",
                 "image": "https://i.postimg.cc/kXjPBbcz/IMG-20200205-123444.jpg",
                 "category": "Idee e Proposte",
@@ -138,7 +111,6 @@
                 "title": "Laboratori di Quartiere",
                 "type": "Evento",
                 "start_date": "2020-01-13T16:00:00.000-08:00",
-                "end_date": "2020-03-31T16:00:00.000-07:00",
                 "description": "Laboratorio di progettazione di idee e proposte nello spazio di quartiere di Bond of Union",
                 "image": "https://i.postimg.cc/qvT0KB9d/UNADJUSTEDNONRAW-thumb-6b6.jpg",
                 "category": "Idee e Proposte",
@@ -164,10 +136,37 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Vicolo degli Orfani",
+                "type": "Luogo",
+                "start_date": "",
+                "description": "Vicolo degli Orfani è un vicolo che collega Piazza Beati Paoli e Via Sant'Agostino. Nel vicolo si trova la sede operativa di Bond of Union",
+                "image": "https://i.postimg.cc/BQKwD3b0/IMG-1402.jpg",
+                "category": "Spazi di quartiere",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "luoghi di interesse pubblici e privati del quartiere",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-12T03:28:00.260-08:00",
+                "updated_date": "2019-12-18T02:58:16.630-08:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3554,
+                    38.1171
+                ]
+            },
+            "id": "ca/vicolo_degli_orfani#75"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Teatro Massimo",
                 "type": "Luogo",
                 "start_date": "",
-                "end_date": "",
                 "description": "Il principale Teatro d'opera della città delimita il quartiere Capo. Per costruirlo è stato necessario demolire parte dell'antico tessuto urbano.",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Palermo_-_Teatro_Massimo_Vittorio_Emanuele.jpg",
                 "category": "Memorie del quartiere",
@@ -196,7 +195,6 @@
                 "title": "Madonna della Mercede al Capo 2019",
                 "type": "Evento",
                 "start_date": "2019-09-27T16:00:00.000-07:00",
-                "end_date": "2019-09-28T16:00:00.000-07:00",
                 "description": "",
                 "image": "https://i.postimg.cc/85R2jfLx/45026980262-5bacd1d3f9-z.jpg",
                 "category": "Memorie del quartiere",
@@ -232,7 +230,6 @@
                 "title": "Spazi Di Quartiere",
                 "type": "Evento",
                 "start_date": "2019-11-07T16:00:00.000-08:00",
-                "end_date": "2019-11-28T16:00:00.000-08:00",
                 "description": "Discussioni pubbliche su idee e proposte di rinnovamento urbano dei cittadini del Capo gestite da Bond of Union",
                 "image": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
                 "category": "Idee e Proposte",
@@ -291,7 +288,6 @@
                 "title": "Quartiere Capo - Monte di Pietà",
                 "type": "",
                 "start_date": "",
-                "end_date": "",
                 "description": "Il Capo è un antico e noto quartiere del centro storico di Palermo. Con lo stesso termine i palermitani indicano indifferentemente anche il mercato che vi si tiene e con cui il quartiere si identifica.",
                 "image": "https://i.postimg.cc/76MDVzmg/DSCF1683.jpg",
                 "category": "Confini",
@@ -376,7 +372,6 @@
                 "title": "Piazza Papireto",
                 "type": "Luogo",
                 "start_date": "",
-                "end_date": "",
                 "description": "Piazza del quartiere capo in via di ristrutturazione",
                 "image": "https://i.postimg.cc/76mtZBpM/UNADJUSTEDNONRAW-thumb-6ad.jpg",
                 "category": "Spazi di quartiere",
@@ -405,7 +400,6 @@
                 "title": "Cortile Mangano",
                 "type": "Luogo",
                 "start_date": "",
-                "end_date": "",
                 "description": "Piazza del quartiere capo",
                 "image": "https://i.postimg.cc/PrJK25Yy/UNADJUSTEDNONRAW-thumb-6af.jpg",
                 "category": "Spazi di quartiere",
@@ -435,7 +429,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-02-18T11:42:03.810Z",
+        "published": "2020-03-03T14:47:30.244Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -445,7 +439,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 64,
+        "version": 66,
         "taxonomy": [
             {
                 "category": "Commercianti",
@@ -530,5 +524,11 @@
                 "id": 1
             }
         ]
-    }
+    },
+    "relationships": [
+        {
+            "from": "ca/spazi_di_quartiere#72",
+            "to": "ca/cortile_mangano#68,ca/piazza_papireto#70"
+        }
+    ]
 }

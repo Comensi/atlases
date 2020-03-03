@@ -673,14 +673,14 @@
                 "start_date": "2013-01-12T16:00:00.000-08:00",
                 "description": "Vizija za javni prostor soseske je bil del širšega projekta Celovite urbane prenove Savskega naselja v Ljubljani, ki se je začel izvajati leta 2013 na povabilo Oddelka za urejanje prostora MOL. Vloga javnega prostora se je od izgradnje soseske (leta 1961) bistveno spremenila. Skrb zanj je danes omejena zgolj na boj za parkirna mesta, kar izhaja iz dejstva, da je bila soseska grajena za 500 avtomobilov, danes pa jih na ulicah, pločnikih, travnikih, igriščih in dvoriščih naštejemo preko štiri tisoč. Da bi urbana prenova soseske resnično reševala probleme soseske in odgovarjala na pereča vprašanja, se je za posamezna področja oblikovalo delovne skupine, v katere so se vključili zainteresirani prebivalci.",
                 "image": "http://prostoroz.org/wp-content/uploads/2016/12/PJP_14-2.jpg",
-                "category": "Delimitations",
-                "sub-category": "Spatial planning",
+                "category": "Transformations",
+                "sub-category": "Public space",
                 "tags": [
                     "promet",
                     "javni prostor",
                     "parkiranje"
                 ],
-                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
                 "links": [
                     {
                         "url": "http://prostoroz.org/wp-content/uploads/2017/01/Prenova-javnega-prostora-Savsko-naselje.pdf",
@@ -693,7 +693,7 @@
                     "ca/knji_nica_re_i#72,ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
                 ],
                 "created_date": "2019-12-13T05:00:46.277-08:00",
-                "updated_date": "2019-12-24T01:00:47.667-08:00",
+                "updated_date": "2020-03-03T02:29:48.876-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -842,7 +842,7 @@
         "id": "savskonaselje",
         "description": "Lokalci za lokalce - zbirka uporabnih informacij, kul placev in storitev v Savskem naselju",
         "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t31.0-8/28515136_1601555589960135_3369719488193653923_o.jpg?_nc_cat=101&_nc_sid=a61e81&_nc_oc=AQlkCOAOJZNwb7iFYu-qUp727saH1fHXw5n2s4t_v8YEIN9tzGHscJaDs_G8IqmHJw0&_nc_ht=scontent.flju2-1.fna&oh=3c3f7849e1a33d322f630c0999496698&oe=5EB679F8",
-        "published": "2020-03-02T16:48:32.735Z",
+        "published": "2020-03-03T10:30:21.970Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -873,16 +873,14 @@
                 "description": "",
                 "sub-categories": [],
                 "weight": 0,
-                "id": 9
+                "id": 8
             },
             {
                 "category": "Itineraries",
-                "description": "to connect different elements in the territory in a geo-spatial experience, e.g. guided tours",
-                "sub-categories": [
-                    "H-Town Lab (URBEX Youth Lab)"
-                ],
-                "weight": 0,
-                "id": 8
+                "description": "",
+                "sub-categories": [],
+                "weight": "",
+                "id": ""
             },
             {
                 "category": "Imaginations",

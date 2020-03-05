@@ -84,7 +84,7 @@
                 "type": "Progetto",
                 "start_date": "",
                 "description": "Cartello informativo in Piazza Beati Paoli proposto da quartiere in una raccolta di idee per il mercato Capo",
-                "image": "https://i.postimg.cc/kXjPBbcz/IMG-20200205-123444.jpg",
+                "image": "https://i.postimg.cc/Kz65WgGX/benvenuti-capo-01.png",
                 "category": "Idee e Proposte",
                 "sub-category": "",
                 "tags": [],
@@ -92,7 +92,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
-                "updated_date": "2020-02-05T06:01:08.231-08:00",
+                "updated_date": "2020-03-05T04:32:21.362-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -429,7 +429,7 @@
         "id": "palermo",
         "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-03-03T14:47:30.244Z",
+        "published": "2020-03-05T12:33:15.100Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -439,7 +439,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 66,
+        "version": 67,
         "taxonomy": [
             {
                 "category": "Commercianti",

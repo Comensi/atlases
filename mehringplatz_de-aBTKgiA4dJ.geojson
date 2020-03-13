@@ -4,31 +4,66 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "GEWOBAG",
-                "type": "Organization",
-                "start_date": "",
-                "end_date": "",
+                "title": "Baustadtrat Kreuzberg-Friedrichshain - Florian Schmidt",
+                "type": "Interview",
+                "start_date": "2017-09-13T16:00:00.000-07:00",
                 "description": "",
-                "image": "https://www.gewobag.de/wp-content/themes/gewobag/assets/svg/gewobag-logo.svg",
+                "image": "",
+                "category": "Narrative",
+                "sub-category": "Interviews",
+                "tags": [
+                    "Urban Policy",
+                    "Urban regeneration",
+                    "Creative industries"
+                ],
+                "category-description": "Persönliche Perspektiven, Interviews, Überlieferungen, Dokumente zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/manage/350616264/general",
+                        "title": "H-Town Tour",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/kma_e_v_#7"
+                ],
+                "created_date": "2020-03-10T09:03:33.066-07:00",
+                "updated_date": "2020-03-13T08:39:25.755-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Bezirksstadtrat für Stadtentwicklung - Florian Schmidt",
+                "type": "People",
+                "start_date": "2016-11-30T16:00:00.000-08:00",
+                "description": "Florian Schmidt ist ein deutscher Politiker (Bündnis 90/Die Grünen) und Bezirksstadtrat in Berlin-Friedrichshain-Kreuzberg. Studierte er Soziologie (Hauptfach), Kunstgeschichte und Volkswirtschaftslehre (Nebenfächer) an den Universitäten Hamburg, Barcelona und der Humboldt-Universität zu Berlin mit dem Abschluss Magister (M.A.) mit einer Arbeit zur Raumsoziologie. Noch während seines Studiums begann Schmidt 2007, den Bereich nachhaltige Stadtentwicklung (Arbeitskreis Stadtentwicklung) beim Bildungswerk Berlin der Heinrich-Böll-Stiftung zu koordinieren (bis 2013). Zwischen 2008 und 2010 arbeitete er darüber hinaus als Pressesprecher der Initiative Temporäre Kunsthalle Berlin.[8] Von 2009 an leitete Schmidt zudem das von ihm im selben Jahr mitgegründete Projektbüro Kreativquartier Südliche Friedrichstadt[9] (bis 2016).  2006 trat Schmidt den Grünen bei. Seit 2007 ist er Initiator und Leiter der Arbeitsgemeinschaft Kreative Stadt Berlin von Bündnis 90/Die Grünen im Abgeordnetenhaus von Berlin. Von 2007 bis 2009 war er Mitglied der Bundesarbeitsgemeinschaft Planen, Bauen, Wohnen von Bündnis 90/Die Grünen, von 2011 bis 2016 Koordinator und Sprecher der Initiative Stadt Neudenken sowie von 2012 bis 2016 Koordinator des runden Tischs im Berliner Abgeordnetenhaus für die Neuausrichtung der Berliner Liegenschaftspolitik. Seit 2016 ist er Bezirksstadtrat für Friedrichshain-Kreuzberg in Berlin und leitet die Abteilung für Bauen, Planen und Facilitymanagement.",
+                "image": "https://www.berliner-kurier.de/image/31527734/2x1/940/470/cde72a109ddc357b74fd58d290531a7e/wI/k10-02-71-138970279-rgb-ori.jpg",
                 "category": "Akteur:innen",
-                "sub-category": "Developers and enterprises",
-                "tags": [],
+                "sub-category": "Administration",
+                "tags": [
+                    "Urban Policy"
+                ],
                 "category-description": "(In-)Formelle Akteur:innen des Gebietes",
                 "links": [
                     {
-                        "url": "https://www.gewobag.de",
+                        "url": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksamt/florian-schmidt/",
                         "title": "",
                         "description": "",
                         "type": "website"
                     }
                 ],
                 "relationships": [],
-                "created_date": "2020-01-18T09:44:19.885-08:00",
-                "updated_date": "2020-01-18T09:50:43.021-08:00",
+                "created_date": "2020-02-26T00:51:13.578-08:00",
+                "updated_date": "2020-02-26T01:21:08.800-08:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": " Foto:  Gerd Engelsmann - Berliner Kourier"
             },
-            "id": "ca/gewobag#54"
+            "id": "ca/bezirksstadtrat_f_r_stadtentwicklung_florian_schmidt#55"
         },
         {
             "type": "Feature",
@@ -36,7 +71,6 @@
                 "title": "GEWOBAG",
                 "type": "",
                 "start_date": "",
-                "end_date": "",
                 "description": "",
                 "image": "",
                 "category": "",
@@ -62,34 +96,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Repair Cafe",
-                "type": "Organization",
-                "start_date": "2013-01-16T16:00:00.000-08:00",
-                "end_date": "",
-                "description": "",
-                "image": "https://i.ibb.co/YNvHyBS/Repair-Cafe.png ",
-                "category": "Akteur:innen",
-                "sub-category": "",
-                "tags": [
-                    "Umwelt"
-                ],
-                "category-description": "(In-)Formelle Akteur:innen des Gebietes",
-                "links": [],
-                "relationships": [],
-                "created_date": "2020-01-17T05:53:12.876-08:00",
-                "updated_date": "2020-01-24T08:01:03.237-08:00",
-                "weight": 0,
-                "image_credit": "www.123RF.com"
-            },
-            "id": "ca/repair_cafe#52"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Weltkrieg II - Luftangriff",
                 "type": "Event",
                 "start_date": "1945-03-02T16:00:00.000-07:00",
-                "end_date": "",
                 "description": "Das Gebiet wurde im Zweiten Weltkrieg vollständig zerstört, insbesondere bei einem Luftangriff am 3. Februar 1945 und der darauffolgenden Schlacht um Berlin. Der Luftangriff führte zu einer fast vollständigen Zerstörung der Innenstadt, stark getroffen war das Regierungsviertel nahe der Wilhelmstraße. Aufgrund des Luftangriffes wurden über 120.000 Menschen obdachlos, knapp 2.300 Gebäude wurden vollständig zerstört und weitere etwa 900 Gebäuden waren schwer beschädigt. Viele der zerstörten Häuser wurden aufgrund der Einsturzgefahr evakuiert. Der Belle Alliance Platz ist völlig zerstört und wird für die nächsten 20 Jahre ein leeres Grundstück bleiben.",
                 "image": "https://www.welt.de/img/geschichte/zweiter-weltkrieg/mobile140131885/6362507847-ci102l-w1024/2-WK-Berlin-1945-Strassenkampf.jpg",
                 "category": "Erinnerungen",
@@ -117,7 +126,6 @@
                 "title": "Die Rondell",
                 "type": "Place",
                 "start_date": "1720-11-22T16:00:00.000-08:00",
-                "end_date": "1815-11-22T16:00:00.000-08:00",
                 "description": "Originally named Rondell for its circular shape, this baroque square  was s laid out and completed around 1720 inspired by the urban model od piazza del Popolo in Rome. It is realized in the context of the city's extension under King Frederick William I of Prussia, along with Pariser Platz (former Karree) and Leipziger Platz (Octagon), as southern end of the Friedrichstraße. ",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mehringplatz_um1730.jpg",
                 "category": "",
@@ -139,7 +147,6 @@
                 "title": "Eingemeindung Friedrichstadt ",
                 "type": "Event",
                 "start_date": "1709-12-10T16:00:00.000-08:00",
-                "end_date": "",
                 "description": "Im Jahr 1709 wird die Eingemeindung von Friedrichstadt in die Stadt Berlin verordnet und im darauffolgenden Jahr umgesetzt. Seitdem ist die Friedrichstadt als fester Stadtteil in der Hauptstadt integriert.\n",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Map_de_berlin_1710.jpg",
                 "category": "Erinnerungen",
@@ -163,7 +170,6 @@
                 "title": "Gründung Friedrichstadt ",
                 "type": "Event",
                 "start_date": "1691-11-22T16:00:00.000-08:00",
-                "end_date": "",
                 "description": "Im Jahr 1688 gründete König Friedrich I. - seinen Namen zur Vorbild nehmend - Friedrichstadt. Geplant und baulich realisiert wurde Friedrichstadt nach schachbrettartigem System und wies somit klare Strukturen auf. Nur drei Jahre nach der Gründung erhielt Friedrichstadt bereits das Stadtrecht.",
                 "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/FriedrichstadtEarlyStreetPlan.jpg",
                 "category": "Erinnerungen",
@@ -186,10 +192,47 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Kreative Raumpioniere am Mehringplatz",
+                "type": "Project",
+                "start_date": "2009-02-24T16:00:00.000-08:00",
+                "description": " Das Konzept „Kreative Raumpioniere am Mehringplatz“ geht aus dem Leitbildprozesses “Kreativquartier Südliche Friedrichstadt” hervor, der mit Unterstützung der bezirklichen Wirtschaftsförderung von Friedrichshain-Kreuzberg in den Jahren 2009 und 2010 durchgeführt wurde. Die Konzeption erfolgte in Kooperation mit dem Quartiersmanagement am Mehringplatz und unter Berücksichtigung der wohnungswirtschaftlichen Expertise der KUB Unternehmensberatung. \nZiele des Ansatzes „Kreative Raumpioniere am Mehringplatz“ sind:\n1. Die Schaffung von Wirkungsräumen für Kreativwirtschaft, Kultur und impulsgebende Gewerben\n2. Förderung von sozialer Vielfalt und Nutzungsvielfalt im Sozialraum Mehringplatz \n3. Etablierung von Begegnungsorten zwischen Kreatiwirtschaft und Bewohnern.",
+                "image": "https://i.ibb.co/sQJbBbz/Kreativ-quartier.png",
+                "category": "Imaginationen",
+                "sub-category": "Study",
+                "tags": [
+                    "Urban regeneration",
+                    "social inclusion",
+                    "kunst",
+                    "kultur",
+                    "Creative industries"
+                ],
+                "category-description": "Zukunftsvisionen zum Gebiet - Ideen und Ansätze für z.B. nicht realisierte Projekte",
+                "links": [
+                    {
+                        "url": "http://kreativ-quartier-berlin.de/Raumpioniere_web.pdf",
+                        "title": "",
+                        "description": "",
+                        "type": "document"
+                    }
+                ],
+                "relationships": [
+                    "ca/projektgruppe_x_blumenmarkt#17",
+                    "ca/quartiersmanagement_am_mehringplatz_#14",
+                    "ca/gewobag#53"
+                ],
+                "created_date": "2019-11-21T03:30:20.027-08:00",
+                "updated_date": "2020-02-26T00:50:56.189-08:00",
+                "weight": 0,
+                "image_credit": "Urbanitas  - Projektbüro Kreativquartier S[dliche Friedrichstadt, Berlin 2011"
+            },
+            "id": "ca/kreative_raumpioniere_am_mehringplatz#41"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Belle Alliance Platz",
                 "type": "Place",
                 "start_date": "1815-11-20T16:00:00.000-08:00",
-                "end_date": "1945-02-02T16:00:00.000-07:00",
                 "description": "Der Zirkus/Runde Platz wurde nach der Schlacht von Waterloo in Belle Alliance Platz umbenannt, nachdem die Engländer und Preußen am 18. Juni 1815 Napoleons Armee besiegten. \"Belle Alliance\" hieß ebenfalls jenes Gasthaus, in dem Napoleon während der Schlacht von Waterloo nächtigte.",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/800px-Berlin_Friedenssaeule.jpg",
                 "category": "Erinnerungen",
@@ -218,7 +261,6 @@
                 "title": "Urban Sketches: Alienation",
                 "type": "Video",
                 "start_date": "2017-09-08T16:00:00.000-07:00",
-                "end_date": "",
                 "description": "Urban Sketches is a series of short video postcards from Mehringplatz. These audiovisual fragments are realised by the participants to the EULER - Mehringplatz Anknipsen laboratory in 2017. They experiment a simple and accessible format to capture an impression, report an observation or tell a story about the local identity. Complementing the collection of historical and analytical materials, they provide a layer of personal interpretation to the representation of the socio-spatial milieu.\n",
                 "image": "https://i.vimeocdn.com/video/651039369.jpg",
                 "category": "Narrative",
@@ -250,7 +292,6 @@
                 "title": "Candy Hartmann - Quartiersmanagement ",
                 "type": "Interview",
                 "start_date": "2017-08-13T16:00:00.000-07:00",
-                "end_date": "",
                 "description": "Interview mit Candy Hartmann\nQM Mehringplatz // Kunstwelt e.V.\n\nAufgenommen am 14.08.2017 beim Quartiermanagement \nvon Daniele Tognozzi, Paula Mangold\nKamera und Bearbeitung Manuela Conti - ogino:knauss\n\n\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.",
                 "image": "",
                 "category": "Narrative",
@@ -286,7 +327,6 @@
                 "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
                 "type": "Organization",
                 "start_date": "",
-                "end_date": "",
                 "description": "\nAdvisory and exchange committee between the local authority and other stakeholders.\nInfluencing important decision-making processes and goals of redevelopment. In particular:\n- information and advice on construction measures to be developed and implemented with funding for urban regeneration to improve public infrastructure and public space;\n- participation in the design of concepts and formulation and modification of reconstruction targets structure.\nIt consists of: Territorial Representation and the employees of the District and Senate Administration responsible for the redevelopment area and their representatives. Aditionally, the Quartiersmanagement of Mehringplatz and Gewobag take part of the advisory council.",
                 "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/01/logo_SanSF_mHintergrundklein.png",
                 "category": "",
@@ -319,7 +359,6 @@
                 "title": "Friedrichstadt ",
                 "type": "Place",
                 "start_date": "",
-                "end_date": "",
                 "description": "Die Friedrichstadt ist ein historischer Stadtteil der heute zum Teil im Berliner Ortsteil Mitte liegt und sich jenseits der Bezirksgrenze in den Ortsteil Kreuzberg erstreckt. Die Friedrichstadt war eine ab 1688 angelegte selbstständige Vorstadt Berlins, die 1710 eingemeindet wurde. Benannt wurde die Friedrichstadt nach dem preußischen König Friedrich I. Heute liegt der nördliche Teil der Friedrichstadt im Bezirk Mitte und der südliche Teil im Bezirk Friedrichshain-Kreuzberg. Die Grenze zwischen beiden Bezirken verläuft entlang der südlichen Seite der Niederkirchner- und Zimmerstraße.\n",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Map_de-be_friedrichstadt.png",
                 "category": "Begrenzungen",
@@ -415,7 +454,6 @@
                 "title": "Karin Lücker - Café MaDaMe ",
                 "type": "Interview",
                 "start_date": "2017-03-16T17:00:00.000-07:00",
-                "end_date": "",
                 "description": "Interview mit Karin Lücker - Café MaDaMe. Aufgenommen 17.03.2017  von Vicky Kiefer, Laura Colini\nKamera und Bearbeitung Manuela Conti - ogino:knauss\n\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.",
                 "image": "",
                 "category": "Narrative",
@@ -459,7 +497,6 @@
                 "title": "ZLB - Amerika-Gedenkbibliothek",
                 "type": "Organization",
                 "start_date": "",
-                "end_date": "",
                 "description": "Die Zentral- und Landesbibliothek Berlin (ZLB) hat mit der Amerika-Gedenkbibliothek (AGB) einen ihrer beiden Sitze nahe des Mehringplatzes. An diesem Standort wird Wissen über diverse Medien beispielsweise aus den Abteilungen Geisteswissenschaften oder Bildende Kunst zugänglich gemacht. Neben der Wissensvermittlung versteht sich die AGB auch als einen Bildungsort, weswegen es auch ein Lernzentrum, eine Kinder- und Jugendbibliothek oder eine Musikbibliothek beherbergt.\n\nVorschlag (Arthur 07.02):                                                                                                                                                                                                                                                                                                        Die Stiftung Zentral- und Landesbibliothek Berlin (ZLB) ist die größte Öffentliche Bibliothek Deutschlands. Ihre beiden Standorte sind die Amerika-Gedenkbibliothek (AGB) in Berlin-Kreuzberg und die Berliner Stadtbibliothek (BStB) in Berlin-Mitte.  \n\nDie Amerika-Gedenkbibliothek - wochentags von 10.00 bis 21.00 Uhr geöffnet - konzentriert sich auf die geisteswissenschaftlichen Fachgebiete und die „schönen“ Künste. Sie besteht auch viele Bücher oder Medien auf Belletristik, Filme, Musik und eine Artothek. Hier ist auch die Kinder- und Jugendbibliothek mit dem Lernzentrum angesiedelt.\n\nJeden Sonntag von 11.00 – 17.00 Uhr ist die Amerika-Gedenkbibliothek geöffnet und biet eines wöchentlich wechselnden Veranstaltungsprogramms: https://www.zlb.de/veranstaltungen/agbsonntagsoffen.html. Wenn Sie auch Ideen für das Programm haben oder selbst einen Veranstaltungspunkt anbieten möchten, können Sie eine E-mail schicken an: sonntagsbureau@berlin.de\n\nIn Zukunft werden die beiden Standorte der ZLB zusammengelegt und die neue Bibliothek am heutigen Standort die Amerika-Gedenkbibliothek untergebracht wird. Die neue Bibliothek wird ein öffentlicher Raum, frei von kommerziellen Interessen und der Baubeginn wird im 2026 anfangen.",
                 "image": "https://i.postimg.cc/28sSnvr9/agb.jpg",
                 "category": "Akteur:innen",
@@ -503,7 +540,6 @@
                 "title": "Sanierungsgebiet Südliche Friedrichstadt",
                 "type": "Program",
                 "start_date": "2011-04-01T06:00:00.000-07:00",
-                "end_date": "",
                 "description": "Das Gebiet der Südlichen Friedrichstadt wurde mit Rechtsverordnung vom 15. März 2011 mit Rechtskraft am 1. April 2011 förmlich als Sanierungsgebiet festgesetzt. Die zuvor im Gebiet durchgeführten Vorbereitenden Untersuchungen kamen zu dem Ergebnis, dass die Südliche Friedrichstadt durch erhebliche städtebauliche und funktionale Schwächen gekennzeichnet ist. Das Gebiet wird seiner Lage und Bedeutung in der Innenstadt nicht gerecht, wichtige Areale und öffentliche Standorte sind städtebaulich nicht eingebunden. Darüber hinaus bestehen funktionale und gestalterische Mängel bei den Einrichtungen der sozialen Infrastruktur und im öffentlichen Raum.\nIm Gebiet gilt nun für den Zeitraum der Sanierungsdurchführung das „Besondere Städtebaurecht” gemäß §§ 136-191 BauGB. Die Sanierung erfolgt im „vereinfachten Verfahren” in dem die besonderen sanierungsrechtlichen Vorschriften (Kaufpreisprüfung, Ausgleichsbetrag des Eigentümers, §§ 152-156a BauGB) nicht angewendet werden.",
                 "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
                 "category": "Begrenzungen",
@@ -648,7 +684,6 @@
                 "title": "Quartiersmanagement am Mehringplatz  ",
                 "type": "Program",
                 "start_date": "2005-09-26T00:00:00.000-07:00",
-                "end_date": "",
                 "description": "Im Jahr 2005 wurde das Gebiet um den Mehringplatz Teil des nationalen Programms „Soziale Stadt“, welches aus dem Europäischen Fonds für regionale Entwicklung (EFRE) und nationalen Fonds finanziert wird. Im Rahmen dieses Programms werden benachteiligte Gebiete gefördert, indem gemäß den auf Bundesebene festgelegten Standards spezifische soziale Unterstützungsmaßnahmen umgesetzt werden. Das Entwicklungsprogramm Soziale Stadt setzt einen engen räumlichen Fokus und stärkt die lokale Beteiligung. Dies geschieht, indem die Entscheidungsfindung dezentralisiert wird, da die Verantwortung für kleine Projekte auf Bewohner:innen vor Ort übertragen wird. Das Programm richtet ein lokales Quartiersmanagement ein, das verschiedene Arten von Nachbarschaftsfonds verwaltet, die jeweils unterschiedliche Projektarten abdecken und unter direkter Einbeziehung der Bewohner:innen arbeiten. Die Teams des Quartiersmanagements bieten eine Plattform fürs Netzwerken und Austauschen an, auf der Gruppen und Akteur:innen lokale Bedürfnisse, Werte und Visionen erörtern und identifizieren können.",
                 "image": "https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg",
                 "category": "Begrenzungen",
@@ -746,7 +781,6 @@
                 "title": "Ela Kagel - Supermarkt",
                 "type": "Interview",
                 "start_date": "2017-03-12T17:00:00.000-07:00",
-                "end_date": "",
                 "description": "Interview mit Ela Kagel, cofounder of Supermarkt.  Aufgenommen 13.03.2017  von Vicky Kiefer, Lorenzo Tripodi.\nKamera und Bearbeitung Manuela Conti - ogino:knauss\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.\n",
                 "image": "",
                 "category": "Narrative",
@@ -792,7 +826,6 @@
                 "title": "Besselpark Sanierung",
                 "type": "Program",
                 "start_date": "2019-08-14T16:00:00.000-07:00",
-                "end_date": "",
                 "description": "Der Besselpark wurde im Zuge des Sanierungsgebiet neu gestaltet. Die Entscheidung über die Art der Umgestaltung wurde im Rahmen eines Wettbewerbs getroffen, an der auch die Öffentlichkeit teilgenommen hat.",
                 "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/03/Besselpark-Perspektive-komp-768x402.jpg",
                 "category": "Transformationen",
@@ -861,6 +894,45 @@
                 ]
             },
             "id": "ca/besselpark_sanierung#11"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "KMA E.V.",
+                "type": "Organization",
+                "start_date": "1987-03-12T16:00:00.000-08:00",
+                "description": "Die Kreuzberger Musikalische Aktion e.V. ist eine gemeinnützige Initiative und anerkannter freier Träger der Kinder- und Jugendhilfe. Gegründet von Künstlerinnen und Künstlern, Sozialarbeiterinnen und Sozialarbeitern, Lehrerinnen und Lehrern und vielen anderen, die mit ihrer jeweiligen Kompetenz präventiv gegen Gewalt, Kinder- und Jugendkriminalität, Drogensucht und sexuellen Missbrauch von Kindern und Jugendlichen arbeiten.    ",
+                "image": "https://kma-ev.de/typo3conf/ext/template_provider/Resources/Public/Images/logo_orange.png",
+                "category": "Akteur:innen",
+                "sub-category": "NGO/Social work",
+                "tags": [
+                    "youths",
+                    "kultur",
+                    "social inclusion"
+                ],
+                "category-description": "(In-)Formelle Akteur:innen des Gebietes",
+                "links": [
+                    {
+                        "url": "http://kma-ev.de/index.php?id=5",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-09-25T07:36:57.647-07:00",
+                "updated_date": "2020-03-13T09:30:10.349-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39179,
+                    52.50062
+                ]
+            },
+            "id": "ca/kma_e_v_#7"
         }
     ],
     "properties": {
@@ -869,7 +941,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-02-16T21:48:57.329Z",
+        "published": "2020-03-13T16:30:46.883Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -879,7 +951,7 @@
                 "type": "translation"
             }
         ],
-        "version": 19,
+        "version": 21,
         "taxonomy": [
             {
                 "category": "Rundgang",
@@ -888,7 +960,7 @@
                     "H-Town Lab (URBEX Youth Lab)"
                 ],
                 "weight": 6,
-                "id": 6
+                "id": 8
             },
             {
                 "category": "Imaginationen",
@@ -910,7 +982,7 @@
                     "Biographies"
                 ],
                 "weight": 3,
-                "id": 5
+                "id": 6
             },
             {
                 "category": "Erinnerungen",
@@ -923,7 +995,7 @@
                     "Architecture "
                 ],
                 "weight": -6,
-                "id": 3
+                "id": 5
             },
             {
                 "category": "Akteur:innen",
@@ -949,7 +1021,7 @@
                     "Commons oriented"
                 ],
                 "weight": -5,
-                "id": 2
+                "id": 3
             },
             {
                 "category": "Orte",
@@ -963,7 +1035,7 @@
                     "Housing"
                 ],
                 "weight": -7,
-                "id": 9
+                "id": 2
             },
             {
                 "category": "Begrenzungen",
@@ -978,5 +1050,91 @@
                 "id": 1
             }
         ]
-    }
+    },
+    "relationships": [
+        {
+            "from": "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57",
+            "to": "ca/kma_e_v_#7"
+        },
+        {
+            "from": "ca/friedrichstadt_#50",
+            "to": "ca/gr_ndung_friedrichstadt_#42"
+        },
+        {
+            "from": "ca/friedrichstadt_#50",
+            "to": "ca/eingemeindung_friedrichstadt_#44"
+        },
+        {
+            "from": "ca/weltkrieg_ii_luftangriff#47",
+            "to": "ca/belle_alliance_platz#40"
+        },
+        {
+            "from": "ca/weltkrieg_ii_luftangriff#47",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/eingemeindung_friedrichstadt_#44",
+            "to": "ca/gr_ndung_friedrichstadt_#42"
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "ca/projektgruppe_x_blumenmarkt#17"
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "ca/gewobag#53"
+        },
+        {
+            "from": "ca/belle_alliance_platz#40",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/candy_hartmann_quartiersmanagement_#32",
+            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
+            "from": "ca/candy_hartmann_quartiersmanagement_#32",
+            "to": ""
+        },
+        {
+            "from": "ca/karin_l_cker_caf_madame_#31",
+            "to": "ca/caf_madame#26"
+        },
+        {
+            "from": "ca/karin_l_cker_caf_madame_#31",
+            "to": "ca/die_globale_e_v_#27"
+        },
+        {
+            "from": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+        },
+        {
+            "from": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+            "to": ""
+        },
+        {
+            "from": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+            "to": "ca/besselpark_sanierung#11"
+        },
+        {
+            "from": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
+            "from": "ca/quartiersmanagement_am_mehringplatz_#14",
+            "to": "ca/candy_hartmann_quartiersmanagement_#32"
+        },
+        {
+            "from": "ca/quartiersmanagement_am_mehringplatz_#14",
+            "to": "ca/kunstwelt_e_v_#48"
+        },
+        {
+            "from": "ca/ela_kagel_supermarkt#13",
+            "to": "ca/supermarkt#12"
+        }
+    ]
 }

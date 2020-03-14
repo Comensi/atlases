@@ -295,7 +295,7 @@
                 "type": "Interview",
                 "start_date": "2017-08-13T16:00:00.000-07:00",
                 "description": "Interview mit Candy Hartmann\nQM Mehringplatz // Kunstwelt e.V.\n\nAufgenommen am 14.08.2017 beim Quartiermanagement \nvon Daniele Tognozzi, Paula Mangold\nKamera und Bearbeitung Manuela Conti - ogino:knauss\n\n\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.",
-                "image": "",
+                "image": "https://i.vimeocdn.com/video/669555605_260x146.jpg",
                 "category": "Narrative",
                 "sub-category": "Stakeholder interviews",
                 "tags": [
@@ -317,7 +317,7 @@
                     ""
                 ],
                 "created_date": "2019-11-01T11:26:35.150-07:00",
-                "updated_date": "2019-12-16T15:45:38.076-08:00",
+                "updated_date": "2020-03-14T10:11:47.946-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -494,7 +494,7 @@
                 "type": "Interview",
                 "start_date": "2017-03-16T17:00:00.000-07:00",
                 "description": "Interview mit Karin Lücker - Café MaDaMe. Aufgenommen 17.03.2017  von Vicky Kiefer, Laura Colini\nKamera und Bearbeitung Manuela Conti - ogino:knauss\n\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.",
-                "image": "",
+                "image": "https://i.vimeocdn.com/video/669771616_260x146.jpg",
                 "category": "Narrative",
                 "sub-category": "Stakeholder interviews",
                 "tags": [
@@ -517,7 +517,7 @@
                     "ca/die_globale_e_v_#27"
                 ],
                 "created_date": "2019-10-30T04:32:12.500-07:00",
-                "updated_date": "2020-02-16T13:02:34.592-08:00",
+                "updated_date": "2020-03-14T10:12:21.076-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -980,7 +980,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-03-14T17:07:03.745Z",
+        "published": "2020-03-14T17:18:10.593Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -990,7 +990,7 @@
                 "type": "translation"
             }
         ],
-        "version": 23,
+        "version": 24,
         "taxonomy": [
             {
                 "category": "Rundgang",

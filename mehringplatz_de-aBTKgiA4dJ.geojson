@@ -821,7 +821,7 @@
                 "type": "Interview",
                 "start_date": "2017-03-12T17:00:00.000-07:00",
                 "description": "Interview mit Ela Kagel, cofounder of Supermarkt.  Aufgenommen 13.03.2017  von Vicky Kiefer, Lorenzo Tripodi.\nKamera und Bearbeitung Manuela Conti - ogino:knauss\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.\n",
-                "image": "",
+                "image": "https://i.vimeocdn.com/video/669771730_260x146.jpg",
                 "category": "Narrative",
                 "sub-category": "Stakeholder interviews",
                 "tags": [
@@ -846,7 +846,7 @@
                     "ca/supermarkt#12"
                 ],
                 "created_date": "2019-09-25T09:10:51.974-07:00",
-                "updated_date": "2020-02-16T13:28:43.449-08:00",
+                "updated_date": "2020-03-14T10:06:07.909-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -980,7 +980,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-03-13T17:10:38.408Z",
+        "published": "2020-03-14T17:07:03.745Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -990,7 +990,7 @@
                 "type": "translation"
             }
         ],
-        "version": 22,
+        "version": 23,
         "taxonomy": [
             {
                 "category": "Rundgang",

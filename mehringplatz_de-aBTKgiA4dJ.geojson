@@ -26,10 +26,14 @@
                     }
                 ],
                 "relationships": [
-                    "ca/kma_e_v_#7"
+                    "ca/projektgruppe_x_blumenmarkt#17",
+                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+                    "ca/kreative_raumpioniere_am_mehringplatz#41",
+                    "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57"
                 ],
                 "created_date": "2020-03-10T09:03:33.066-07:00",
-                "updated_date": "2020-03-13T08:39:25.755-07:00",
+                "updated_date": "2020-03-14T10:24:07.307-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -42,7 +46,7 @@
                 "type": "People",
                 "start_date": "2016-11-30T16:00:00.000-08:00",
                 "description": "Florian Schmidt ist ein deutscher Politiker (Bündnis 90/Die Grünen) und Bezirksstadtrat in Berlin-Friedrichshain-Kreuzberg. Studierte er Soziologie (Hauptfach), Kunstgeschichte und Volkswirtschaftslehre (Nebenfächer) an den Universitäten Hamburg, Barcelona und der Humboldt-Universität zu Berlin mit dem Abschluss Magister (M.A.) mit einer Arbeit zur Raumsoziologie. Noch während seines Studiums begann Schmidt 2007, den Bereich nachhaltige Stadtentwicklung (Arbeitskreis Stadtentwicklung) beim Bildungswerk Berlin der Heinrich-Böll-Stiftung zu koordinieren (bis 2013). Zwischen 2008 und 2010 arbeitete er darüber hinaus als Pressesprecher der Initiative Temporäre Kunsthalle Berlin.[8] Von 2009 an leitete Schmidt zudem das von ihm im selben Jahr mitgegründete Projektbüro Kreativquartier Südliche Friedrichstadt[9] (bis 2016).  2006 trat Schmidt den Grünen bei. Seit 2007 ist er Initiator und Leiter der Arbeitsgemeinschaft Kreative Stadt Berlin von Bündnis 90/Die Grünen im Abgeordnetenhaus von Berlin. Von 2007 bis 2009 war er Mitglied der Bundesarbeitsgemeinschaft Planen, Bauen, Wohnen von Bündnis 90/Die Grünen, von 2011 bis 2016 Koordinator und Sprecher der Initiative Stadt Neudenken sowie von 2012 bis 2016 Koordinator des runden Tischs im Berliner Abgeordnetenhaus für die Neuausrichtung der Berliner Liegenschaftspolitik. Seit 2016 ist er Bezirksstadtrat für Friedrichshain-Kreuzberg in Berlin und leitet die Abteilung für Bauen, Planen und Facilitymanagement.",
-                "image": "https://taz.de/picture/3931943/624/117707034-1.jpeg",
+                "image": "https://i.vimeocdn.com/video/669554989_520x294.jpg",
                 "category": "Akteur:innen",
                 "sub-category": "Administration",
                 "tags": [
@@ -55,15 +59,21 @@
                         "title": "",
                         "description": "",
                         "type": "website"
+                    },
+                    {
+                        "url": "https://vimeo.com/244994296",
+                        "title": "Interview with Florian Schmidt",
+                        "description": "",
+                        "type": "video"
                     }
                 ],
                 "relationships": [
                     "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57"
                 ],
                 "created_date": "2020-02-26T00:51:13.578-08:00",
-                "updated_date": "2020-03-13T10:09:27.012-07:00",
+                "updated_date": "2020-03-14T10:28:01.698-07:00",
                 "weight": 0,
-                "image_credit": " Foto: dpa  TAZ"
+                "image_credit": ""
             },
             "id": "ca/bezirksstadtrat_f_r_stadtentwicklung_florian_schmidt#55"
         },
@@ -980,7 +990,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-03-14T17:18:10.593Z",
+        "published": "2020-03-14T17:28:16.868Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -990,7 +1000,7 @@
                 "type": "translation"
             }
         ],
-        "version": 24,
+        "version": 25,
         "taxonomy": [
             {
                 "category": "Rundgang",
@@ -1097,7 +1107,23 @@
         },
         {
             "from": "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57",
-            "to": "ca/kma_e_v_#7"
+            "to": "ca/projektgruppe_x_blumenmarkt#17"
+        },
+        {
+            "from": "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57",
+            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "from": "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57",
+            "to": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
+        },
+        {
+            "from": "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57",
+            "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
+        },
+        {
+            "from": "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57",
+            "to": "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57"
         },
         {
             "from": "ca/bezirksstadtrat_f_r_stadtentwicklung_florian_schmidt#55",

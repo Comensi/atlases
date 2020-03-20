@@ -363,8 +363,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.39179,
-                    52.50062
+                    13.3919,
+                    52.5002
                 ]
             },
             "id": "ca/kmantenne#59"
@@ -957,7 +957,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-03-20T17:45:15.396Z",
+        "published": "2020-03-20T17:49:19.845Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -967,7 +967,7 @@
                 "type": "translation"
             }
         ],
-        "version": 27,
+        "version": 28,
         "taxonomy": [
             {
                 "category": "Rundgang",

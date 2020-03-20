@@ -333,11 +333,16 @@
                 "title": "KMAntenne",
                 "type": "Ort",
                 "start_date": "",
-                "description": "",
-                "image": "",
+                "description": "KMAntenne  ist ein  Kinder- und Jugendzentrum  in der Friedrichstraße 2/3. Im Erdgeschoss der Einrichtung befindet sich der „Offene Treff“ mit seinem vielfältigen Angebot für Kinder und Jugendliche. Neben dem offenen Bereich gibt es in der KMAntenne auch täglich wechselnde Kurse und Workshop-Angebote, die Kinder und Jugendliche kostenlos wahrnehmen können. Angeboten werden z.B. Tanz- und Musikworkshops, Fahrradwerkstatt oder Hausaufgabenhilfe.\nDie KMAntenne bietet außerdem Schulklassen aus dem Bezirk Friedrichshain-Kreuzberg die kostenlose Teilnahme an Projektwochen an.",
+                "image": "https://i.ibb.co/GT0TwgN/KMAntenne-Photo-Manuela-Conti.jpg",
                 "category": "Orte",
                 "sub-category": "Community hub",
-                "tags": [],
+                "tags": [
+                    "youths",
+                    "kultur",
+                    "kunst",
+                    "music"
+                ],
                 "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
                 "links": [
                     {
@@ -351,7 +356,7 @@
                     "ca/kma_e_v_#7"
                 ],
                 "created_date": "2020-03-13T09:34:25.393-07:00",
-                "updated_date": "2020-03-13T09:38:54.021-07:00",
+                "updated_date": "2020-03-20T10:44:07.377-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -952,7 +957,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-03-20T14:05:36.889Z",
+        "published": "2020-03-20T17:45:15.396Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -962,7 +967,7 @@
                 "type": "translation"
             }
         ],
-        "version": 26,
+        "version": 27,
         "taxonomy": [
             {
                 "category": "Rundgang",

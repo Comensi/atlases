@@ -472,19 +472,19 @@
                 "start_date": "2017-03-16T17:00:00.000-07:00",
                 "description": "Interview mit Karin Lücker - Café MaDaMe. Aufgenommen 17.03.2017  von Vicky Kiefer, Laura Colini\nKamera und Bearbeitung Manuela Conti - ogino:knauss\n\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.",
                 "image": "https://i.vimeocdn.com/video/669771616_260x146.jpg",
-                "category": "Geschichten",
-                "sub-category": "Stakeholder interviews",
+                "category": "Personen",
+                "sub-category": "Vereine/ NGO",
                 "tags": [
                     "social inclusion",
                     "feminism",
                     "kultur",
                     "cooking"
                 ],
-                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
                     {
                         "url": "https://vimeo.com/232820289",
-                        "title": "",
+                        "title": "Interview mit Karin Lücker",
                         "description": "",
                         "type": "video"
                     }
@@ -494,9 +494,9 @@
                     "ca/die_globale_e_v_#27"
                 ],
                 "created_date": "2019-10-30T04:32:12.500-07:00",
-                "updated_date": "2020-03-14T10:12:21.076-07:00",
+                "updated_date": "2020-03-21T12:49:58.639-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "Karin Lücker - Photo Manuela Conti"
             },
             "geometry": {
                 "type": "Point",
@@ -549,6 +549,49 @@
                 ]
             },
             "id": "ca/zlb_amerika_gedenkbibliothek#30"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Die Globale e.V.",
+                "type": "Organisation",
+                "start_date": "2007-09-29T16:00:00.000-07:00",
+                "description": "\t\tDie Globale e.V. wurde 2007 gegründet und arbeitet schwerpunktmäßig im Bereich frühkindlicher Bildung sowie zu den Themen gesellschaftliche Integration und Gemeinwesenarbeit.  Der Verein ist am Mehringplatz und im Donaukiez aktiv. Im Bereich der Bildungsarbeit betreibt der Verein zwei Lernwerkstätten in Kreuzberg und Neukölln sowie drei Kitas, die mit dem Konzept des entdeckenden Lernens arbeiten. Das Angebot der Lernwerkstätten richtet sich an Kinder im Alter von vier bis 12 Jahren. Es zielt darauf ab, das Lerninteresse und die Lernmotivation der Heranwachsenden und ihr Interesse an der Erforschung ihrer natürlichen und sozialen Umwelt als wesentliche Voraussetzung für einen gelingenden Bildungsprozess zu unterstützen. Bei den unterschiedlichen Angeboten werden die unterschiedlichen Lebensverhältnisse und Lebensentwürfe der Familien berücksichtigt um den Kindern vielfältige Zugänge zu Bildungsprozessen zu ermöglicht. In der Arbeit werden die besonderen Interessen und Fähigkeiten der Kinder gefördert und die Familien als wichtige Bildungspartner ihrer Kinder gestärkt.\nDer zweite Schwerpunkt  liegt in der Entwicklung von Kiezstrukturen am Mehringplatz. Im Rahmen seiner Angebote hat der Verein einen guten Kontakt zur Nachbarschaft aufgebaut. Durch vielfältige Aktivitäten (Feste, Flohmarkt, Bücherverleih) ist der Verein im Gebiet bekannt und hat bereits zu zahlreichen Gelegenheiten Bewohner unterstützt, Angebote für ein nachbarschaftliches Zusammensein zu entwickeln und umzusetzen. Das Nachbarschaftscafé am Mehringplatz 7 bietet zudem einen öffentlichen Ort, an dem sich Menschen des Quartiers treffen, ihre Bedürfnisse und Interessen artikulieren und den Ort für Begegnungen nutzen. Der Verein ist gut vernetzt mit anderen sozialen und kulturellen Einrichtungen und sonstigen Organisationen (Gewobag, Mieterbeirat, Bildungsnetz, Gewerbetreibende, AOK, Platzgärtner etc.) im Quartier. \n",
+                "image": "http://dieglobale.org/wp-content/uploads/2015/04/globale_logo-web_header.png",
+                "category": "Personen",
+                "sub-category": "NGO/Social work",
+                "tags": [
+                    "cooking",
+                    "social inclusion",
+                    "kultur",
+                    "youths"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [
+                    {
+                        "url": "http://dieglobale.org/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/caf_madame#26",
+                    "ca/karin_l_cker_caf_madame_#31"
+                ],
+                "created_date": "2019-09-27T02:10:08.037-07:00",
+                "updated_date": "2020-03-21T12:45:12.273-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39248,
+                    52.49974
+                ]
+            },
+            "id": "ca/die_globale_e_v_#27"
         },
         {
             "type": "Feature",
@@ -814,15 +857,15 @@
                 "links": [
                     {
                         "url": "https://supermarkt-berlin.net",
-                        "title": "Interview mit Ela Kagel",
-                        "description": "",
-                        "type": "video"
-                    },
-                    {
-                        "url": "https://vimeo.com/215396718",
                         "title": "",
                         "description": "",
                         "type": "website"
+                    },
+                    {
+                        "url": "https://vimeo.com/215396718",
+                        "title": "Interview mit Ela Kagel",
+                        "description": "",
+                        "type": "video"
                     }
                 ],
                 "relationships": [
@@ -963,7 +1006,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-03-21T19:14:48.209Z",
+        "published": "2020-03-21T19:50:40.170Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -973,7 +1016,7 @@
                 "type": "translation"
             }
         ],
-        "version": 28,
+        "version": 29,
         "taxonomy": [
             {
                 "category": "Rundgang",
@@ -1133,6 +1176,14 @@
         {
             "from": "ca/karin_l_cker_caf_madame_#31",
             "to": "ca/die_globale_e_v_#27"
+        },
+        {
+            "from": "ca/die_globale_e_v_#27",
+            "to": "ca/caf_madame#26"
+        },
+        {
+            "from": "ca/die_globale_e_v_#27",
+            "to": "ca/karin_l_cker_caf_madame_#31"
         },
         {
             "from": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",

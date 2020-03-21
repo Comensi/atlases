@@ -794,12 +794,12 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Ela Kagel - Supermarkt",
+                "title": " Supermarkt - Ela Kagel ",
                 "type": "Interview",
                 "start_date": "2017-03-12T17:00:00.000-07:00",
-                "description": "Interview mit Ela Kagel, cofounder of Supermarkt.  Aufgenommen 13.03.2017  von Vicky Kiefer, Lorenzo Tripodi.\nKamera und Bearbeitung Manuela Conti - ogino:knauss\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.\n",
+                "description": "Der SUPERMARKT Platform für digitale Kultur und kollaborative Ökonomien ist ein unabhängiger Projektraum. Der inhaltliche Fokus des SUPERMARKT liegt auf  der Schnittstelle zwischen Technologie, Geld und Gesellschaft.  Der SUPERMARKT wurde im Jahr 2010 von Ela Kagel, David Farine und Zsolt Szentirmai gegründet. Im September 2015 zog der SUPERMARKT dann in seine jetzigen Räume am Mehringplatz in Kreuzberg um. Hier arbeitet das Team an verschiedenen Projekten, organisiert regelmäßig Workshops und Konferenzen und hostet auch diverse Community-Meetups.\n\n\n",
                 "image": "https://i.vimeocdn.com/video/669771730_260x146.jpg",
-                "category": "Geschichten",
+                "category": "Personen",
                 "sub-category": "Stakeholder interviews",
                 "tags": [
                     "kultur",
@@ -810,20 +810,26 @@
                     "platform",
                     "coop"
                 ],
-                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
+                    {
+                        "url": "https://supermarkt-berlin.net",
+                        "title": "Interview mit Ela Kagel",
+                        "description": "",
+                        "type": "video"
+                    },
                     {
                         "url": "https://vimeo.com/215396718",
                         "title": "",
                         "description": "",
-                        "type": "video"
+                        "type": "website"
                     }
                 ],
                 "relationships": [
                     "ca/supermarkt#12"
                 ],
                 "created_date": "2019-09-25T09:10:51.974-07:00",
-                "updated_date": "2020-03-14T10:06:07.909-07:00",
+                "updated_date": "2020-03-20T12:37:41.267-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -834,7 +840,7 @@
                     52.4996
                 ]
             },
-            "id": "ca/ela_kagel_supermarkt#13"
+            "id": "ca/_supermarkt_ela_kagel_#13"
         },
         {
             "type": "Feature",
@@ -957,7 +963,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-03-20T17:49:19.845Z",
+        "published": "2020-03-21T19:14:48.209Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -1153,7 +1159,7 @@
             "to": "ca/kunstwelt_e_v_#48"
         },
         {
-            "from": "ca/ela_kagel_supermarkt#13",
+            "from": "ca/_supermarkt_ela_kagel_#13",
             "to": "ca/supermarkt#12"
         }
     ]

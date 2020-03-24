@@ -4,6 +4,48 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "H-Town Tour",
+                "type": "Video",
+                "start_date": "2019-06-14T16:00:00.000-07:00",
+                "description": "H-Town tour is the final product of the URBEX laboratory with the youths of the KMA Antenne, a training project coordinated by Tesserae in 2018/2019. This EU funded Erasmus+ promoted urban exploration as a tool for the engagement of youths at risk of exclusion. The group of youngsters frequenting the KMA youth center participated to an activity of  international exchange together with participants form other 4 European cities, and worked on  mapping and designing a tour describing their neigbourhood.",
+                "image": "https://i.vimeocdn.com/video/839359588_260x146.jpg",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "youths",
+                    "social inclusion",
+                    "Public space",
+                    "oral history",
+                    "Psychogeography"
+                ],
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/showcase/4256854/video/350616264",
+                        "title": "H-Town Tour",
+                        "description": "",
+                        "type": "video"
+                    },
+                    {
+                        "url": "http://www.tesserae.eu/project/urbex/",
+                        "title": "URBEX",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/kma_antenne#7"
+                ],
+                "created_date": "2020-03-13T08:47:34.776-07:00",
+                "updated_date": "2020-03-13T09:07:03.216-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/h_town_tour#54"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Baustadtrat Kreuzberg-Friedrichshain ",
                 "type": "Interview",
                 "start_date": "2017-09-13T16:00:00.000-07:00",
@@ -966,150 +1008,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "The city of Berlin",
-                "type": "Place",
-                "start_date": "",
-                "description": "The city of Berlin",
-                "image": "",
-                "category": "Delimitations",
-                "sub-category": "Administrative borders",
-                "tags": [
-                    "a test, with comma"
-                ],
-                "category-description": "An area of interest or defining administrative borders or policies",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-10-17T14:07:18.473-07:00",
-                "updated_date": "2019-12-08T14:40:26.756-08:00",
-                "weight": -10,
-                "image_credit": ""
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        13.306961,
-                        52.65806
-                    ],
-                    [
-                        13.275393,
-                        52.661392
-                    ],
-                    [
-                        13.258923,
-                        52.626395
-                    ],
-                    [
-                        13.215003,
-                        52.629729
-                    ],
-                    [
-                        13.129906,
-                        52.583026
-                    ],
-                    [
-                        13.128534,
-                        52.547131
-                    ],
-                    [
-                        13.117554,
-                        52.523742
-                    ],
-                    [
-                        13.158729,
-                        52.502848
-                    ],
-                    [
-                        13.113436,
-                        52.457683
-                    ],
-                    [
-                        13.120299,
-                        52.410797
-                    ],
-                    [
-                        13.146377,
-                        52.399067
-                    ],
-                    [
-                        13.24108,
-                        52.419173
-                    ],
-                    [
-                        13.282256,
-                        52.401581
-                    ],
-                    [
-                        13.429115,
-                        52.374761
-                    ],
-                    [
-                        13.444213,
-                        52.415823
-                    ],
-                    [
-                        13.533427,
-                        52.394877
-                    ],
-                    [
-                        13.662444,
-                        52.374761
-                    ],
-                    [
-                        13.744795,
-                        52.404095
-                    ],
-                    [
-                        13.622641,
-                        52.48947
-                    ],
-                    [
-                        13.654208,
-                        52.528755
-                    ],
-                    [
-                        13.580092,
-                        52.56216
-                    ],
-                    [
-                        13.534799,
-                        52.593038
-                    ],
-                    [
-                        13.505976,
-                        52.608885
-                    ],
-                    [
-                        13.525192,
-                        52.636397
-                    ],
-                    [
-                        13.471664,
-                        52.673884
-                    ],
-                    [
-                        13.452448,
-                        52.651395
-                    ],
-                    [
-                        13.40441,
-                        52.653062
-                    ],
-                    [
-                        13.335784,
-                        52.625561
-                    ],
-                    [
-                        13.305589,
-                        52.660559
-                    ]
-                ]
-            },
-            "id": "mehringplatz-community-atlas/the_city_of_berlin#28"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Die Globale e.V.",
                 "type": "Organization",
                 "start_date": "2007-09-29T16:00:00.000-07:00",
@@ -1939,7 +1837,7 @@
         "id": "mehringplatz_en",
         "description": "Mehringplatz Anknipsen is a digital atlas dedicated to the Südliche Friedrichstadt and the surrounding territories of Kreuzberg and Mitte. It collects and makes accessible informations, memories and visions about the neighbourhood. mapping local initiatives, actors, plans and policies. It aims at combining qualitative and quantitative data, personal narratives and public documents to provide a complex  and nuanced representation of the local identity. It focuses on processes of civic engagement, cooperation and social inclusion. Its elaboration started in 2016 through the EU funded Erasmus+ project EULER , as the outcome of laboratories dedicated to urban reconnaissance, collaborative mapping and digital storytelling. It is currently implemented through the COMENSI project testing the digital atlas prototype to publish the content co-created with local communities.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-03-10T16:40:37.588Z",
+        "published": "2020-03-24T16:28:42.051Z",
         "links": [
             {
                 "title": "Mehringplats - German",
@@ -1949,7 +1847,7 @@
                 "type": "translation"
             }
         ],
-        "version": 8,
+        "version": 10,
         "taxonomy": [
             {
                 "category": "Itineraries",
@@ -2050,6 +1948,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "mehringplatz-community-atlas/h_town_tour#54",
+            "to": "mehringplatz-community-atlas/kma_antenne#7"
+        },
         {
             "from": "mehringplatz-community-atlas/baustadtrat_kreuzberg_friedrichshain_#53",
             "to": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41"

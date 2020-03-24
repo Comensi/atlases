@@ -1799,14 +1799,14 @@
                 "start_date": "",
                 "description": "KMAntenne is a youth center in Friedrichstrasse 2/3. On the ground floor of the facility is the \"Open Meeting Point\" with its diverse offer for children and young people. In addition to the open area, the KMAntenne also offers free of charge courses and workshops, which include dance and music, bike workshops or school homework help. KMA is a reference point for many youths of the neighbourhood, especially with migration background. ",
                 "image": "https://i.ibb.co/GT0TwgN/KMAntenne-Photo-Manuela-Conti.jpg",
-                "category": "Stakeholders",
+                "category": "Places",
                 "sub-category": "NGO/Social work",
                 "tags": [
                     "youths",
                     "culture",
                     "social inclusion"
                 ],
-                "category-description": "Formal and informal actors in the area",
+                "category-description": "Locations that are recognised by the community or important reference points",
                 "links": [
                     {
                         "url": "http://kma-ev.de/index.php?id=5",
@@ -1817,7 +1817,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-09-25T07:36:57.647-07:00",
-                "updated_date": "2020-03-24T09:43:23.677-07:00",
+                "updated_date": "2020-03-24T09:50:13.543-07:00",
                 "weight": 0,
                 "image_credit": "Photo Manuela Conti - oginoknauss"
             },
@@ -1837,7 +1837,7 @@
         "id": "mehringplatz_en",
         "description": "Mehringplatz Anknipsen is a digital atlas dedicated to the Südliche Friedrichstadt and the surrounding territories of Kreuzberg and Mitte. It collects and makes accessible informations, memories and visions about the neighbourhood. mapping local initiatives, actors, plans and policies. It aims at combining qualitative and quantitative data, personal narratives and public documents to provide a complex  and nuanced representation of the local identity. It focuses on processes of civic engagement, cooperation and social inclusion. Its elaboration started in 2016 through the EU funded Erasmus+ project EULER , as the outcome of laboratories dedicated to urban reconnaissance, collaborative mapping and digital storytelling. It is currently implemented through the COMENSI project testing the digital atlas prototype to publish the content co-created with local communities.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-03-24T16:48:30.469Z",
+        "published": "2020-03-24T16:51:21.138Z",
         "links": [
             {
                 "title": "Mehringplats - German",

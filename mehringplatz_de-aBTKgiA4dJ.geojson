@@ -1006,7 +1006,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-03-21T19:50:40.170Z",
+        "published": "2020-03-25T17:17:57.796Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -1016,7 +1016,7 @@
                 "type": "translation"
             }
         ],
-        "version": 29,
+        "version": 30,
         "taxonomy": [
             {
                 "category": "Rundgang",

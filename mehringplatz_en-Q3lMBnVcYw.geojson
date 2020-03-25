@@ -1874,8 +1874,8 @@
         "url": "http://mehringplatz-en.community-atlas.net",
         "id": "mehringplatz_en",
         "description": "Mehringplatz Anknipsen is a digital atlas dedicated to the Südliche Friedrichstadt and the surrounding territories of Kreuzberg and Mitte. It collects and makes accessible informations, memories and visions about the neighbourhood. mapping local initiatives, actors, plans and policies. It aims at combining qualitative and quantitative data, personal narratives and public documents to provide a complex  and nuanced representation of the local identity. It focuses on processes of civic engagement, cooperation and social inclusion. Its elaboration started in 2016 through the EU funded Erasmus+ project EULER , as the outcome of laboratories dedicated to urban reconnaissance, collaborative mapping and digital storytelling. It is currently implemented through the COMENSI project testing the digital atlas prototype to publish the content co-created with local communities.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-03-25T18:22:41.657Z",
+        "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
+        "published": "2020-03-25T18:44:41.564Z",
         "links": [
             {
                 "title": "Mehringplats - German",
@@ -1885,7 +1885,7 @@
                 "type": "translation"
             }
         ],
-        "version": 12,
+        "version": 13,
         "taxonomy": [
             {
                 "category": "Itineraries",

@@ -330,6 +330,41 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Das Konzentrationslager \"Gutschow-Keller\"",
+                "type": "Monument",
+                "start_date": "1933-02-28T16:00:00.000-08:00",
+                "description": "Auf dem Bild bewacht SA-Mann Gefangene in einem Schuppen des Hinterhofs, 6. März 1933. Hier befand sich das frühe Konzentrationslager \"Gutschow-Keller\"\n\nDie Lebensmittelhändler Hermann und Paul Gutschow, denen auch der gegenüberliegende repräsentative Gründerzeitbau Friedrichstraße 17 gehörte, stellen dem \"SA-Sturmbann III/8\" bereits 1932 Lager und Keller in zweiten Hof ihres Gebäudetraktes in der Friedrichstraße 234 zur Verfügung. Diese Räume waren von März bis Mai 1933 eines der ersten Berliner Konzentrationslager - von Häftlingen auch \"Blutburg\" genaant. Hunderte Gewerkschafter, Kommunisten, Sozialdemokraten und Juden wurden in Wohnungen, Arbeitsstätten und auf offener Straße ergriffen und hierher verschleppt.",
+                "image": "https://i.ibb.co/S0gGzzJ/Kozentrationslager-Gutschow-Keller.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "Gedenk- oder Informationstafeln",
+                "tags": [],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/gedenktafel-anzeige/tid/konzentrationslager/",
+                        "title": "gedenktafel",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-03-25T06:38:06.702-07:00",
+                "updated_date": "2020-03-25T10:51:01.524-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.391,
+                    52.5025
+                ]
+            },
+            "id": "ca/das_konzentrationslager_gutschow_keller_#61"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "KMAntenne",
                 "type": "Ort",
                 "start_date": "",
@@ -1006,7 +1041,7 @@
         "id": "mehringplatz_de",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin_Belle_Alliance_Platz_um_1900.jpg/1280px-Berlin_Belle_Alliance_Platz_um_1900.jpg",
-        "published": "2020-03-25T17:28:59.524Z",
+        "published": "2020-03-25T17:53:38.293Z",
         "links": [
             {
                 "title": "Mehringplats - English",
@@ -1016,7 +1051,7 @@
                 "type": "translation"
             }
         ],
-        "version": 30,
+        "version": 31,
         "taxonomy": [
             {
                 "category": "Rundgang",

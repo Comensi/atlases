@@ -4,6 +4,47 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Laboratório \"Ideias para a década\"_Mercado da Ajuda",
+                "type": "Event",
+                "start_date": "2020-03-09T17:00:00.000-07:00",
+                "description": "No dia 10 de Março seria o nosso último Laboratório das \"Ideias para a década\" de uma série de quatro! Contudo, surgiu a necessidade da população se resguardar e proteger do COVID19, um novo vírus que invadiu as nossas vidas e nos obrigou a reprogramar o nosso modo de estar. Encontramo-nos desde esse dia a reformular as nossas atividades e a sistematizar todas as ideias recebidas nos Labs anteriores. \nAté 17 de Abril recebemos mais sugestões via e-mail omeubairro.ajuda@gmail.com - #Ajuda #COMENSI #Ideiasparaadecada #incubadorapopular #Erasmus+#fiqueemcasa ",
+                "image": "https://scontent.flis5-1.fna.fbcdn.net/v/t1.0-9/88969245_2780870432000031_924760626956337152_o.png?_nc_cat=100&_nc_sid=8024bb&_nc_ohc=cKVJz4yOuh4AX8_tpf_&_nc_ht=scontent.flis5-1.fna&oh=91a50bdfbe700b71b5342a3c6d64141a&oe=5EA35CF6",
+                "category": "",
+                "sub-category": "",
+                "tags": [
+                    "hackspace",
+                    "Urban regeneration",
+                    "oral history",
+                    "commons",
+                    "Events"
+                ],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "https://www.4change.org/pt/",
+                        "title": "4change",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-03-26T09:40:34.448-07:00",
+                "updated_date": "2020-03-26T09:54:35.725-07:00",
+                "weight": 0,
+                "image_credit": "Daniela Cardoso"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19489,
+                    38.703871
+                ]
+            },
+            "id": "ca/laborat_rio_ideias_para_a_d_cada__mercado_da_ajuda#78"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Laboratório \"Ideias para a década\"_SC Rio Seco",
                 "type": "Event",
                 "start_date": "2020-02-26T16:00:00.000-08:00",
@@ -384,7 +425,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-03-26T16:39:32.132Z",
+        "published": "2020-03-26T17:02:15.050Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -394,7 +435,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 30,
+        "version": 31,
         "taxonomy": [
             {
                 "category": "#r12",

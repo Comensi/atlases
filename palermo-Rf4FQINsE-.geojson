@@ -7,7 +7,7 @@
                 "title": "La Bottega del Fabbro",
                 "type": "Persona",
                 "start_date": "",
-                "description": "Il Fabbro e Artista Gianni Conigliaro é nato e lavora nel quartiere con splendide insegne grafiche e luminarie artigianali create anche per le feste patronali. Attivissimo del quartiere da anni ha fornito idee da sviluppare insieme agli altri abitanti.",
+                "description": "Il Fabbro e Artista Gianni Conigliaro é nato e lavora nel quartiere con splendide insegne grafiche e luminarie artigianali create anche per le feste patronali. Da anni attivissimo del quartiere, ha fornito idee da sviluppare insieme agli altri abitanti nel corso di Comensi.",
                 "image": "https://i.postimg.cc/y8h91q4t/IMG-20200212-110903.jpg",
                 "category": "Commercianti",
                 "sub-category": "",
@@ -29,7 +29,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-02-14T08:48:29.637-08:00",
-                "updated_date": "2020-03-20T07:22:09.265-07:00",
+                "updated_date": "2020-03-20T07:23:17.608-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -427,19 +427,33 @@
         "title": "Atlante di quartiere",
         "url": "https://palermo.community-atlas.net",
         "id": "palermo",
-        "description": "L'Atlante Comunitario Del Quartiere Capo-Monte di Pieta'",
+        "description": "L'Atlante di Palermo è l'atlante comunitario progettato per il quartiere Capo - Monte di pietà. È strutturato per raccogliere ricordi, storie, idee e desideri raccolti con gli abitanti del quartiere in un'azione partecipativa iniziata nel novembre 2019 e tuttora in corso. Il team di Bond of Union guida il processo facilitando la partecipazione, oltre che l'impegno, dei residenti e degli stakeholder locali.",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-03-20T14:23:37.604Z",
+        "published": "2020-03-26T13:07:44.191Z",
         "links": [
             {
                 "title": "The Comensi project",
                 "url": "http://community-atlas.net",
-                "description": "The Comensi Project homepage",
+                "description": "Comensi homepage",
                 "lang": "en",
                 "type": "homepage"
+            },
+            {
+                "title": "Bond of Union",
+                "url": "http://www.bondofunion.eu/",
+                "description": "Bond of Union homepage",
+                "lang": "",
+                "type": "webpage"
+            },
+            {
+                "title": "Bond of Union - FB",
+                "url": "https://www.facebook.com/bondofunion.eu/",
+                "description": "Bond of Union - FB",
+                "lang": "",
+                "type": "webpage"
             }
         ],
-        "version": 67,
+        "version": 69,
         "taxonomy": [
             {
                 "category": "Commercianti",

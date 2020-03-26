@@ -427,14 +427,14 @@
         "title": "Atlante di quartiere",
         "url": "https://palermo.community-atlas.net",
         "id": "palermo",
-        "description": "L'Atlante di Palermo è l'atlante comunitario progettato per il quartiere Capo - Monte di pietà. È strutturato per raccogliere ricordi, storie, idee e desideri raccolti con gli abitanti del quartiere in un'azione partecipativa iniziata nel novembre 2019 e tuttora in corso. Il team di Bond of Union guida il processo facilitando la partecipazione, oltre che l'impegno, dei residenti e degli stakeholder locali.",
+        "description": "L'Atlante di quartiere è una piattaforma di comunità progettata per il quartiere Capo-Monte di Pietà. Raccoglie i servizi pubblici e privati, storie e memorie del quartiere, le idee e le proposte di interventi sul territorio proposte dai suoi abitanti.                     Il team di Bond of Union guida il processo facilitando la partecipazione, oltre che l'impegno, dei residenti e degli stakeholder locali.",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-03-26T13:07:44.191Z",
+        "published": "2020-03-26T16:07:19.612Z",
         "links": [
             {
-                "title": "The Comensi project",
+                "title": "Il progetto COMENSI",
                 "url": "http://community-atlas.net",
-                "description": "Comensi homepage",
+                "description": "COMENSI homepage",
                 "lang": "en",
                 "type": "homepage"
             },
@@ -453,7 +453,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 69,
+        "version": 70,
         "taxonomy": [
             {
                 "category": "Commercianti",

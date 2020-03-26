@@ -4,6 +4,49 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Laboratório \"Ideias para a década\"_Bº 2 Maio",
+                "type": "Event",
+                "start_date": "2020-03-04T16:00:00.000-08:00",
+                "description": "Quem nunca foi ao 2 de Maio? Tem a melhor vista de Lisboa e uma gente franca que gosta do seu bairro. Este foi o nosso terceiro Laboratório de \"Ideias para a década\" na Casa para Todos onde juntamente com a Associação dos Amigos do B2M trabalhamos com a comunidade na partilha de ideias e desejos para melhorar a freguesia da Ajuda.\nEste Lab de iniciativas cívicas ou de economia local foi animado por boas ideias para acompanhar ao longo de 2020. Até 17 de Abril recebemos mais sugestões via e-mail omeubairro.ajuda@gmail.com - #Ajuda #COMENSI #Ideiasparaadecada #incubadorapopular #Erasmus+",
+                "image": "https://scontent.flis5-1.fna.fbcdn.net/v/t1.0-9/p720x720/88228562_2780893718664369_7824926201331318784_o.jpg?_nc_cat=110&_nc_sid=8024bb&_nc_ohc=yVF64sqCIEIAX-DsFgH&_nc_ht=scontent.flis5-1.fna&_nc_tp=6&oh=6c8d74569547206b946d1f6e59af0733&oe=5EA3288B",
+                "category": "",
+                "sub-category": "",
+                "tags": [
+                    "Events",
+                    "commons",
+                    "oral history",
+                    "Urban regeneration",
+                    "hackspace"
+                ],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "https://www.4change.org/pt/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/freguesia_da_ajuda#71,ca/envolver_uma_comunidade#72,ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73,ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76"
+                ],
+                "created_date": "2020-03-26T08:56:58.789-07:00",
+                "updated_date": "2020-03-26T09:13:48.251-07:00",
+                "weight": 0,
+                "image_credit": "Sara Nasi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19736,
+                    38.71097
+                ]
+            },
+            "id": "ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Laboratório \"Ideias para a década\"_Casalinho da Ajuda",
                 "type": "Event",
                 "start_date": "2020-02-19T16:00:00.000-08:00",
@@ -307,7 +350,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-03-26T15:37:08.081Z",
+        "published": "2020-03-26T16:14:45.891Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -317,7 +360,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 28,
+        "version": 29,
         "taxonomy": [
             {
                 "category": "#r12",
@@ -426,6 +469,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76",
+            "to": "ca/freguesia_da_ajuda#71,ca/envolver_uma_comunidade#72,ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73,ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76"
+        },
         {
             "from": "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73",
             "to": "ca/envolver_uma_comunidade#72,ca/freguesia_da_ajuda#71,ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73"

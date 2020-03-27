@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Bezirksstadtrat für Stadtentwicklung - Florian Schmidt",
+                "title": "Baustadtrat - Florian Schmidt",
                 "type": "Personen",
                 "start_date": "2016-11-30T16:00:00.000-08:00",
-                "description": "Florian Schmidt ist ein deutscher Politiker (Bündnis 90/Die Grünen) und Bezirksstadtrat in Berlin-Friedrichshain-Kreuzberg. Studierte er Soziologie (Hauptfach), Kunstgeschichte und Volkswirtschaftslehre (Nebenfächer) an den Universitäten Hamburg, Barcelona und der Humboldt-Universität zu Berlin mit dem Abschluss Magister (M.A.) mit einer Arbeit zur Raumsoziologie. Noch während seines Studiums begann Schmidt 2007, den Bereich nachhaltige Stadtentwicklung (Arbeitskreis Stadtentwicklung) beim Bildungswerk Berlin der Heinrich-Böll-Stiftung zu koordinieren (bis 2013). Zwischen 2008 und 2010 arbeitete er darüber hinaus als Pressesprecher der Initiative Temporäre Kunsthalle Berlin.[8] Von 2009 an leitete Schmidt zudem das von ihm im selben Jahr mitgegründete Projektbüro Kreativquartier Südliche Friedrichstadt[9] (bis 2016).  2006 trat Schmidt den Grünen bei. Seit 2007 ist er Initiator und Leiter der Arbeitsgemeinschaft Kreative Stadt Berlin von Bündnis 90/Die Grünen im Abgeordnetenhaus von Berlin. Von 2007 bis 2009 war er Mitglied der Bundesarbeitsgemeinschaft Planen, Bauen, Wohnen von Bündnis 90/Die Grünen, von 2011 bis 2016 Koordinator und Sprecher der Initiative Stadt Neudenken sowie von 2012 bis 2016 Koordinator des runden Tischs im Berliner Abgeordnetenhaus für die Neuausrichtung der Berliner Liegenschaftspolitik. Seit 2016 ist er Bezirksstadtrat für Friedrichshain-Kreuzberg in Berlin und leitet die Abteilung für Bauen, Planen und Facilitymanagement.",
+                "description": "Florian Schmidt ist ein deutscher Politiker (Bündnis 90/Die Grünen) und leitet seit 2016 als Bezirksstadtrat in Berlin-Friedrichshain-Kreuzberg die Abteilung Bauen, Planen und Facilitymanagement. In den vergangenen Jahren hat er die Stadtentwicklung Berlins entscheidend mitgeprägt: So hat er z.B. als Baustadtrat die LokalBau-Strategie des Bezirkes Friedrichshain-Kreuzberg etabliert. Ziel dieser Strategie ist es, dass Neubauprojekte gemeinwohlorientiert sind, d.h. dass sie sich an den Bedarfen der Nutzer:innen orientieren und die Angebote bezahlbar sind. Vor seiner Tätigkeit als Baustadtrat leitete Schmidt u.a. das Projektbüro \"Kreativquartier Südliche Friedrichstadt\" und koordinierte von 2011 bis 2016 die Initiative \"Stadt Neudenken\".",
                 "image": "https://i.vimeocdn.com/video/669554989_520x294.jpg",
                 "category": "Personen",
                 "sub-category": "Administration",
@@ -18,7 +18,7 @@
                 "links": [
                     {
                         "url": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksamt/florian-schmidt/",
-                        "title": "",
+                        "title": "Bezirksamt FH-KB Website",
                         "description": "",
                         "type": "website"
                     },
@@ -27,17 +27,23 @@
                         "title": "Interview mit Florian Schmidt 2017",
                         "description": "",
                         "type": "video"
+                    },
+                    {
+                        "url": "https://www.berlin.de/lokalbau-fk/",
+                        "title": "LokalBau Strategie",
+                        "description": "",
+                        "type": "website"
                     }
                 ],
                 "relationships": [
                     "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57"
                 ],
                 "created_date": "2020-02-26T00:51:13.578-08:00",
-                "updated_date": "2020-03-14T10:28:01.698-07:00",
+                "updated_date": "2020-03-27T05:22:07.690-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
-            "id": "ca/bezirksstadtrat_f_r_stadtentwicklung_florian_schmidt#55"
+            "id": "ca/baustadtrat_florian_schmidt#55"
         },
         {
             "type": "Feature",
@@ -1002,7 +1008,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-03-27T11:54:32.245Z",
+        "published": "2020-03-27T12:33:43.767Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1012,8 +1018,17 @@
                 "type": "translation"
             }
         ],
-        "version": 32,
+        "version": 35,
         "taxonomy": [
+            {
+                "category": "Rundgang",
+                "description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
+                "sub-categories": [
+                    "#r19"
+                ],
+                "weight": 6,
+                "id": 8
+            },
             {
                 "category": "Visionen",
                 "description": "Ideen und Ansätze zur Weiterentwicklung des Gebietes",
@@ -1109,7 +1124,7 @@
             "to": "ca/kma_e_v_#7"
         },
         {
-            "from": "ca/bezirksstadtrat_f_r_stadtentwicklung_florian_schmidt#55",
+            "from": "ca/baustadtrat_florian_schmidt#55",
             "to": "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57"
         },
         {

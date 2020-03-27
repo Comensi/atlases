@@ -4,29 +4,32 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Baustadtrat - Florian Schmidt",
+                "title": "Florian Schmidt - Baustadtrat Friedrichshain-Kreuzberg",
                 "type": "Personen",
                 "start_date": "2016-11-30T16:00:00.000-08:00",
-                "description": "Florian Schmidt ist ein deutscher Politiker (Bündnis 90/Die Grünen) und leitet seit 2016 als Bezirksstadtrat in Berlin-Friedrichshain-Kreuzberg die Abteilung Bauen, Planen und Facilitymanagement. In den vergangenen Jahren hat er die Stadtentwicklung Berlins entscheidend mitgeprägt: So hat er z.B. als Baustadtrat die LokalBau-Strategie des Bezirkes Friedrichshain-Kreuzberg etabliert. Ziel dieser Strategie ist es, dass Neubauprojekte gemeinwohlorientiert sind, d.h. dass sie sich an den Bedarfen der Nutzer:innen orientieren und die Angebote bezahlbar sind. Vor seiner Tätigkeit als Baustadtrat leitete Schmidt u.a. das Projektbüro \"Kreativquartier Südliche Friedrichstadt\" und koordinierte von 2011 bis 2016 die Initiative \"Stadt Neudenken\".",
+                "description": "Florian Schmidt ist ein deutscher Politiker (Bündnis 90/Die Grünen) und leitet seit Dezember 2016 als Bezirksstadtrat in Berlin-Friedrichshain-Kreuzberg die Abteilung Bauen, Planen und Facilitymanagement. In den vergangenen Jahren hat er die Stadtentwicklung Berlins entscheidend mitgeprägt: So hat er z.B. als Baustadtrat die LokalBau-Strategie des Bezirkes Friedrichshain-Kreuzberg etabliert. Ziel dieser Strategie ist es, dass Neubauprojekte gemeinwohlorientiert sind, d.h. dass sie sich an den Bedarfen der Nutzer:innen orientieren und die Angebote bezahlbar sind. Vor seiner Tätigkeit als Baustadtrat leitete Schmidt u.a. das Projektbüro \"Kreativquartier Südliche Friedrichstadt\" und koordinierte von 2011 bis 2016 die Initiative \"Stadt Neudenken\".                                                                                                                                                                                                                                                  Im Rahmen des EULER Erasmus+ Projektes wurde 2017 ein Videointerview mit Florian Schmidt geführt (s.o.). Für das Projekt wurden lokale soziale, wirtschaftliche und institutionelle Akteur:innen interviewt, um die vorhandenen Ressourcen und Potenziale der Südlichen Friedrichstadt zu eruieren.",
                 "image": "https://i.vimeocdn.com/video/669554989_520x294.jpg",
                 "category": "Personen",
-                "sub-category": "Administration",
+                "sub-category": "Verwaltung",
                 "tags": [
-                    "Stadtpolitik"
+                    "Stadtpolitik",
+                    "Stadterneuerung",
+                    "Kreativwirtschaft",
+                    "gemeinschaftlich"
                 ],
                 "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
                     {
-                        "url": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksamt/florian-schmidt/",
-                        "title": "Bezirksamt FH-KB Website",
+                        "url": "https://vimeo.com/244994296",
+                        "title": "Interview mit Florian Schmidt 2017",
                         "description": "",
                         "type": "website"
                     },
                     {
-                        "url": "https://vimeo.com/244994296",
-                        "title": "Interview mit Florian Schmidt 2017",
+                        "url": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksamt/florian-schmidt/",
+                        "title": "Profil Schmidt Bezirksamt",
                         "description": "",
-                        "type": "video"
+                        "type": "website"
                     },
                     {
                         "url": "https://www.berlin.de/lokalbau-fk/",
@@ -36,14 +39,19 @@
                     }
                 ],
                 "relationships": [
-                    "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57"
+                    "",
+                    "ca/bauh_tte#16",
+                    "ca/pxb_projektgruppe_x_blumenmarkt#17",
+                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+                    "ca/kreative_raumpioniere_am_mehringplatz#41"
                 ],
                 "created_date": "2020-02-26T00:51:13.578-08:00",
-                "updated_date": "2020-03-27T05:22:07.690-07:00",
+                "updated_date": "2020-03-27T08:15:44.123-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
-            "id": "ca/baustadtrat_florian_schmidt#55"
+            "id": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
         },
         {
             "type": "Feature",
@@ -265,41 +273,6 @@
                 "image_credit": ""
             },
             "id": "ca/urban_sketches_alienation#36"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Candy Hartmann - Quartiersmanagement ",
-                "type": "Interview",
-                "start_date": "2017-08-13T16:00:00.000-07:00",
-                "description": "Interview mit Candy Hartmann\nQM Mehringplatz // Kunstwelt e.V.\n\nAufgenommen am 14.08.2017 beim Quartiermanagement \nvon Daniele Tognozzi, Paula Mangold\nKamera und Bearbeitung Manuela Conti - ogino:knauss\n\n\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.",
-                "image": "https://i.vimeocdn.com/video/669555605_260x146.jpg",
-                "category": "Geschichten",
-                "sub-category": "Stakeholder interviews",
-                "tags": [
-                    "Quartiersmanagement",
-                    "Stadterneuerung",
-                    "soziale Inklusion"
-                ],
-                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
-                "links": [
-                    {
-                        "url": "://vimeo.com/230981438",
-                        "title": "",
-                        "description": "",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [
-                    "ca/quartiersmanagement_am_mehringplatz_#14",
-                    ""
-                ],
-                "created_date": "2019-11-01T11:26:35.150-07:00",
-                "updated_date": "2020-03-14T10:11:47.946-07:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "ca/candy_hartmann_quartiersmanagement_#32"
         },
         {
             "type": "Feature",
@@ -540,49 +513,6 @@
                 ]
             },
             "id": "ca/friedrichstadt_#50"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Karin Lücker - Café MaDaMe ",
-                "type": "Interview",
-                "start_date": "2017-03-16T17:00:00.000-07:00",
-                "description": "Interview mit Karin Lücker - Café MaDaMe. Aufgenommen 17.03.2017  von Vicky Kiefer, Laura Colini\nKamera und Bearbeitung Manuela Conti - ogino:knauss\n\nDieses Video ist Teil einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging.",
-                "image": "https://i.vimeocdn.com/video/669771616_260x146.jpg",
-                "category": "Personen",
-                "sub-category": "Vereine/ NGO",
-                "tags": [
-                    "soziale Inklusion",
-                    "Feminismus",
-                    "Kultur",
-                    "Kochen"
-                ],
-                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/232820289",
-                        "title": "Interview mit Karin Lücker",
-                        "description": "",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [
-                    "ca/caf_madame#26",
-                    "ca/die_globale_e_v_#27"
-                ],
-                "created_date": "2019-10-30T04:32:12.500-07:00",
-                "updated_date": "2020-03-21T12:49:58.639-07:00",
-                "weight": 0,
-                "image_credit": "Karin Lücker - Photo Manuela Conti"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39248,
-                    52.49974
-                ]
-            },
-            "id": "ca/karin_l_cker_caf_madame_#31"
         },
         {
             "type": "Feature",
@@ -914,10 +844,10 @@
         {
             "type": "Feature",
             "properties": {
-                "title": " SUPERMARKT - Ela Kagel ",
+                "title": "Ela Kagel - SUPERMARKT",
                 "type": "Interview",
                 "start_date": "2017-03-12T17:00:00.000-07:00",
-                "description": "SUPERMARKT ist ein unabhängiger Projektraum für digitale Kultur und alternative Ökonomien, in dem Workshops, verschiedene Projekte und Konferenzen veranstaltet werden. Der inhaltliche Fokus von SUPERMARKT liegt auf  der Schnittstelle zwischen Technologie und Gesellschaft. SUPERMARKT wurde im Jahr 2010 von Ela Kagel, David Farine und Zsolt Szentirmai gegründet. Im September 2015 zog der SUPERMARKT in seine jetzigen Räumlichkeiten am Mehringplatz in Kreuzberg um.",
+                "description": "SUPERMARKT ist ein unabhängiger Projektraum für digitale Kultur und alternative Ökonomien, in dem Workshops, verschiedene Projekte und Konferenzen veranstaltet werden. Der inhaltliche Fokus von SUPERMARKT liegt auf  der Schnittstelle zwischen Technologie und Gesellschaft. SUPERMARKT wurde im Jahr 2010 von Ela Kagel, David Farine und Zsolt Szentirmai gegründet. Im September 2015 zog der SUPERMARKT in seine jetzigen Räumlichkeiten am Mehringplatz in Kreuzberg um.                           Im Rahmen des EULER Erasmus+ Projektes wurde 2017 ein Videointerview mit Ela Kagel geführt (s.o.). Für das Projekt wurden lokale soziale, wirtschaftliche und institutionelle Akteur:innen interviewt, um die vorhandenen Ressourcen und Potenziale der Südlichen Friedrichstadt zu eruieren.",
                 "image": "https://i.vimeocdn.com/video/669771730_260x146.jpg",
                 "category": "Personen",
                 "sub-category": "Stakeholder interviews",
@@ -933,23 +863,23 @@
                 "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
                     {
-                        "url": "https://supermarkt-berlin.net",
-                        "title": "SUPERMARKT Website",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
                         "url": "https://vimeo.com/215396718",
-                        "title": "Interview mit Ela Kagel",
+                        "title": "Interview mit Ela Kagel 2017",
                         "description": "",
                         "type": "video"
+                    },
+                    {
+                        "url": "https://supermarkt-berlin.net/",
+                        "title": "SUPERMARKT Berlin",
+                        "description": "",
+                        "type": "website"
                     }
                 ],
                 "relationships": [
                     "ca/supermarkt#12"
                 ],
                 "created_date": "2019-09-25T09:10:51.974-07:00",
-                "updated_date": "2020-03-27T04:26:12.235-07:00",
+                "updated_date": "2020-03-27T08:19:32.449-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -960,7 +890,7 @@
                     52.4996
                 ]
             },
-            "id": "ca/_supermarkt_ela_kagel_#13"
+            "id": "ca/ela_kagel_supermarkt#13"
         },
         {
             "type": "Feature",
@@ -1008,7 +938,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-03-27T12:50:26.996Z",
+        "published": "2020-03-27T15:31:17.123Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1018,7 +948,7 @@
                 "type": "translation"
             }
         ],
-        "version": 36,
+        "version": 41,
         "taxonomy": [
             {
                 "category": "Rundgang",
@@ -1124,8 +1054,28 @@
             "to": "ca/kma_e_v_#7"
         },
         {
-            "from": "ca/baustadtrat_florian_schmidt#55",
-            "to": "ca/baustadtrat_kreuzberg_friedrichshain_florian_schmidt#57"
+            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+            "to": ""
+        },
+        {
+            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+            "to": "ca/bauh_tte#16"
+        },
+        {
+            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+            "to": "ca/pxb_projektgruppe_x_blumenmarkt#17"
+        },
+        {
+            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+        },
+        {
+            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+            "to": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
+        },
+        {
+            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+            "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
         },
         {
             "from": "ca/friedrichstadt_#50",
@@ -1164,22 +1114,6 @@
             "to": "ca/mehringplatz#39"
         },
         {
-            "from": "ca/candy_hartmann_quartiersmanagement_#32",
-            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
-        },
-        {
-            "from": "ca/candy_hartmann_quartiersmanagement_#32",
-            "to": ""
-        },
-        {
-            "from": "ca/karin_l_cker_caf_madame_#31",
-            "to": "ca/caf_madame#26"
-        },
-        {
-            "from": "ca/karin_l_cker_caf_madame_#31",
-            "to": "ca/die_globale_e_v_#27"
-        },
-        {
             "from": "ca/die_globale_e_v_#27",
             "to": "ca/caf_madame#26"
         },
@@ -1216,7 +1150,7 @@
             "to": "ca/kunstwelt_e_v_#48"
         },
         {
-            "from": "ca/_supermarkt_ela_kagel_#13",
+            "from": "ca/ela_kagel_supermarkt#13",
             "to": "ca/supermarkt#12"
         }
     ]

@@ -12,7 +12,7 @@
                 "category": "Personen",
                 "sub-category": "Administration",
                 "tags": [
-                    "Urban Policy"
+                    "Stadtpolitik"
                 ],
                 "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
@@ -84,8 +84,8 @@
                 "category": "Erinnerungen",
                 "sub-category": "",
                 "tags": [
-                    "geschichte ",
-                    "demolition"
+                    "Geschichte ",
+                    "Abriss"
                 ],
                 "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
                 "links": [],
@@ -155,9 +155,9 @@
                 "category": "Erinnerungen",
                 "sub-category": "",
                 "tags": [
-                    "ortsname",
-                    "geschichte ",
-                    "urbanism"
+                    "Ortsname",
+                    "Geschichte ",
+                    "Urbanität"
                 ],
                 "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
                 "links": [],
@@ -180,11 +180,11 @@
                 "category": "Visionen",
                 "sub-category": "Study",
                 "tags": [
-                    "Urban regeneration",
-                    "social inclusion",
-                    "kunst",
-                    "kultur",
-                    "Creative industries"
+                    "Stadterneuerung",
+                    "soziale Inklusion",
+                    "Kunst",
+                    "Kultur",
+                    "Kreativwirtschaft"
                 ],
                 "category-description": "Ideen und Ansätze zur Weiterentwicklung des Gebietes",
                 "links": [
@@ -218,10 +218,10 @@
                 "category": "Erinnerungen",
                 "sub-category": "",
                 "tags": [
-                    "architektur",
-                    "Creative industries",
-                    "ortsname",
-                    "geschichte "
+                    "Architektur",
+                    "Kreativwirtschaft",
+                    "Ortsname",
+                    "Geschichte "
                 ],
                 "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
                 "links": [],
@@ -246,8 +246,8 @@
                 "category": "Geschichten",
                 "sub-category": "Place narratives ",
                 "tags": [
-                    "Public space",
-                    "Psychogeography"
+                    "Öffentlicher Raum",
+                    "#r27"
                 ],
                 "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
                 "links": [
@@ -277,9 +277,9 @@
                 "category": "Geschichten",
                 "sub-category": "Stakeholder interviews",
                 "tags": [
-                    "quartiersmanagement",
-                    "Urban regeneration",
-                    "social inclusion"
+                    "Quartiersmanagement",
+                    "Stadterneuerung",
+                    "soziale Inklusion"
                 ],
                 "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
                 "links": [
@@ -342,11 +342,11 @@
                 "category": "Veränderungen",
                 "sub-category": "Private spaces common oriented",
                 "tags": [
-                    "kultur",
-                    "commons",
-                    "social inclusion",
-                    "temporary structure",
-                    "gardening"
+                    "Kultur",
+                    "gemeinschaftlich",
+                    "soziale Inklusion",
+                    "temporäre Nutzung",
+                    "Gärtnern"
                 ],
                 "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
                 "links": [
@@ -415,10 +415,10 @@
                 "category": "Orte",
                 "sub-category": "Community hub",
                 "tags": [
-                    "youths",
-                    "kultur",
-                    "kunst",
-                    "music"
+                    "Jugend",
+                    "Kultur",
+                    "Kunst",
+                    "Musik"
                 ],
                 "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
                 "links": [
@@ -457,9 +457,9 @@
                 "category": "Gebiet",
                 "sub-category": "Administrative borders",
                 "tags": [
-                    "geschichte ",
-                    "geografie",
-                    "ortsname"
+                    "Geschichte ",
+                    "Geografie",
+                    "Ortsname"
                 ],
                 "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
                 "links": [],
@@ -552,10 +552,10 @@
                 "category": "Personen",
                 "sub-category": "Vereine/ NGO",
                 "tags": [
-                    "social inclusion",
-                    "feminism",
-                    "kultur",
-                    "cooking"
+                    "soziale Inklusion",
+                    "Feminismus",
+                    "Kultur",
+                    "Kochen"
                 ],
                 "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
@@ -595,13 +595,13 @@
                 "category": "Personen",
                 "sub-category": "Public cultural institutions",
                 "tags": [
-                    "kultur",
-                    "architektur",
-                    "media",
-                    "workspace",
-                    "commons",
-                    "oral history",
-                    "events"
+                    "Kultur",
+                    "Architektur",
+                    "Medien",
+                    "#r13",
+                    "gemeinschaftlich",
+                    "mündliche Geschichten",
+                    "Veranstaltung"
                 ],
                 "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
@@ -638,10 +638,10 @@
                 "category": "Personen",
                 "sub-category": "NGO/Social work",
                 "tags": [
-                    "cooking",
-                    "social inclusion",
-                    "kultur",
-                    "youths"
+                    "Kochen",
+                    "soziale Inklusion",
+                    "Kultur",
+                    "Jugend"
                 ],
                 "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
@@ -681,8 +681,8 @@
                 "category": "Gebiet",
                 "sub-category": "Public space",
                 "tags": [
-                    "Public space",
-                    "Urban regeneration"
+                    "Öffentlicher Raum",
+                    "Stadterneuerung"
                 ],
                 "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
                 "links": [
@@ -825,8 +825,8 @@
                 "category": "Gebiet",
                 "sub-category": "social policy",
                 "tags": [
-                    "social inclusion",
-                    "quartiersmanagement"
+                    "soziale Inklusion",
+                    "Quartiersmanagement"
                 ],
                 "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
                 "links": [
@@ -922,13 +922,13 @@
                 "category": "Personen",
                 "sub-category": "Stakeholder interviews",
                 "tags": [
-                    "kultur",
-                    "media",
-                    "workspace",
+                    "Kultur",
+                    "Medien",
+                    "#r13",
                     "digital ",
-                    "commons",
-                    "platform",
-                    "coop"
+                    "gemeinschaftlich",
+                    "Plattform",
+                    "Genossenschaft"
                 ],
                 "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
@@ -973,9 +973,9 @@
                 "category": "Personen",
                 "sub-category": "NGO/Social work",
                 "tags": [
-                    "youths",
-                    "kultur",
-                    "social inclusion"
+                    "Jugend",
+                    "Kultur",
+                    "soziale Inklusion"
                 ],
                 "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
@@ -1003,12 +1003,12 @@
         }
     ],
     "properties": {
-        "title": "Einleitung: Mehringplatz Anknipsen",
+        "title": "Mehringplatz Anknipsen",
         "url": "http://mehringplatz-de.community-atlas.net",
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-03-27T12:33:43.767Z",
+        "published": "2020-03-27T12:50:26.996Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1018,7 +1018,7 @@
                 "type": "translation"
             }
         ],
-        "version": 35,
+        "version": 36,
         "taxonomy": [
             {
                 "category": "Rundgang",

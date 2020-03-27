@@ -324,6 +324,42 @@
                 "image_credit": ""
             },
             "id": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "BAUHÜTTE",
+                "type": "Gebäude",
+                "start_date": "2015-04-30T16:00:00.000-07:00",
+                "description": "Die BAUHÜTTE ist ein Ort des Austausches über Prozesse in der Südlichen Friedrichstadt. Entstanden ist die BAUHÜTTE  im Zuge der baulichen Entwicklung des ehemaligen Blumengroßmarktes, die auf der Beteiligung von Bürger:innen beruhte. Die nur 60 Quadratmeter große BAUHÜTTE bietet einen Raum, in dem Nachbar:innen, Bauarbeiter:innen und Architekt:innen über temporäre Nutzungen und bauliche Veränderungen im Gebiet diskutieren können. Hier treffen also die Planer:innen und künftigen Nutzer:innen aufeinander! Ziel ist es, den sozialen Zusammenhalt zu stärken und voneinander zu lernen. Seit dem Sommer 2019 hat die BAUHÜTTE einen neuen Standort neben dem TAZ-Neubau bezogen, der von einem Gemeinschaftsgarten umgeben ist. Zusätzlich lädt ein Café auf dem Gelände alle Interessierten zum Verweilen im Nachbarschaftsgarten ein.",
+                "image": "https://i.ibb.co/pJ4HtCY/SWITCH-ON-MEHRINGPLATZ-45-copia.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Private spaces common oriented",
+                "tags": [
+                    "kultur",
+                    "commons",
+                    "social inclusion",
+                    "temporary structure",
+                    "gardening"
+                ],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "http://www.bauhuette-berlin.de",
+                        "title": "BAUHÜTTE Website",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/pxb_projektgruppe_x_blumenmarkt#17"
+                ],
+                "created_date": "2019-09-26T03:07:19.608-07:00",
+                "updated_date": "2020-03-27T04:53:38.518-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/bauh_tte#16"
         }
     ],
     "features": [
@@ -368,7 +404,7 @@
                 "title": "KMAntenne",
                 "type": "Ort",
                 "start_date": "",
-                "description": "KMAntenne  ist ein  Kinder- und Jugendzentrum  in der Friedrichstraße 2/3. Im Erdgeschoss der Einrichtung befindet sich der „Offene Treff“ mit seinem vielfältigen Angebot für Kinder und Jugendliche. Neben dem offenen Bereich gibt es in der KMAntenne auch täglich wechselnde Kurse und Workshop-Angebote, die Kinder und Jugendliche kostenlos wahrnehmen können. Angeboten werden z.B. Tanz- und Musikworkshops, Fahrradwerkstatt oder Hausaufgabenhilfe.\nDie KMAntenne bietet außerdem Schulklassen aus dem Bezirk Friedrichshain-Kreuzberg die kostenlose Teilnahme an Projektwochen an.",
+                "description": "KMAntenne  ist ein  Kinder- und Jugendzentrum  in der Friedrichstraße 2/3. Im Erdgeschoss der Einrichtung befindet sich der „Offene Treff“ mit seinem vielfältigen Angebot für Kinder und Jugendliche. Neben dem offenen Bereich gibt es in der KMAntenne auch täglich wechselnde Kurse und Workshops, die Kinder und Jugendliche kostenlos nutzen können. Die Angebote umfassen z.B. Tanz- und Musikworkshops, eine Fahrradwerkstatt oder Hausaufgabenhilfe.\nAußerdem arbeitet die KMAntenne mit Schulen aus dem Bezirk Friedrichshain-Kreuzberg zusammen, sodass Schulklassen kostenlos an Projektwochen teilnehmen können.",
                 "image": "https://i.ibb.co/GT0TwgN/KMAntenne-Photo-Manuela-Conti.jpg",
                 "category": "Orte",
                 "sub-category": "Community hub",
@@ -391,7 +427,7 @@
                     "ca/kma_e_v_#7"
                 ],
                 "created_date": "2020-03-13T09:34:25.393-07:00",
-                "updated_date": "2020-03-20T10:44:07.377-07:00",
+                "updated_date": "2020-03-27T04:06:28.184-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -872,10 +908,10 @@
         {
             "type": "Feature",
             "properties": {
-                "title": " Supermarkt - Ela Kagel ",
+                "title": " SUPERMARKT - Ela Kagel ",
                 "type": "Interview",
                 "start_date": "2017-03-12T17:00:00.000-07:00",
-                "description": "Der SUPERMARKT Platform für digitale Kultur und kollaborative Ökonomien ist ein unabhängiger Projektraum. Der inhaltliche Fokus des SUPERMARKT liegt auf  der Schnittstelle zwischen Technologie, Geld und Gesellschaft.  Der SUPERMARKT wurde im Jahr 2010 von Ela Kagel, David Farine und Zsolt Szentirmai gegründet. Im September 2015 zog der SUPERMARKT dann in seine jetzigen Räume am Mehringplatz in Kreuzberg um. Hier arbeitet das Team an verschiedenen Projekten, organisiert regelmäßig Workshops und Konferenzen und hostet auch diverse Community-Meetups.\n\n\n",
+                "description": "SUPERMARKT ist ein unabhängiger Projektraum für digitale Kultur und alternative Ökonomien, in dem Workshops, verschiedene Projekte und Konferenzen veranstaltet werden. Der inhaltliche Fokus von SUPERMARKT liegt auf  der Schnittstelle zwischen Technologie und Gesellschaft. SUPERMARKT wurde im Jahr 2010 von Ela Kagel, David Farine und Zsolt Szentirmai gegründet. Im September 2015 zog der SUPERMARKT in seine jetzigen Räumlichkeiten am Mehringplatz in Kreuzberg um.",
                 "image": "https://i.vimeocdn.com/video/669771730_260x146.jpg",
                 "category": "Personen",
                 "sub-category": "Stakeholder interviews",
@@ -892,7 +928,7 @@
                 "links": [
                     {
                         "url": "https://supermarkt-berlin.net",
-                        "title": "",
+                        "title": "SUPERMARKT Website",
                         "description": "",
                         "type": "website"
                     },
@@ -907,7 +943,7 @@
                     "ca/supermarkt#12"
                 ],
                 "created_date": "2019-09-25T09:10:51.974-07:00",
-                "updated_date": "2020-03-20T12:37:41.267-07:00",
+                "updated_date": "2020-03-27T04:26:12.235-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -923,85 +959,10 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Besselpark Sanierung",
-                "type": "Programm",
-                "start_date": "2019-08-14T16:00:00.000-07:00",
-                "description": "Der Besselpark wurde im Zuge des Sanierungsgebiet neu gestaltet. Die Entscheidung über die Art der Umgestaltung wurde im Rahmen eines Wettbewerbs getroffen, an der auch die Öffentlichkeit teilgenommen hat.",
-                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/03/Besselpark-Perspektive-komp-768x402.jpg",
-                "category": "Veränderungen",
-                "sub-category": "Public space",
-                "tags": [
-                    "Urban regeneration",
-                    "Public space",
-                    "park"
-                ],
-                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
-                "links": [
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/05/BES_LP3_Pr%C3%A4sentation_170523.pdf",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-09-25T08:52:03.678-07:00",
-                "updated_date": "2019-12-16T16:22:45.701-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.390974480686964,
-                            52.504162809150216
-                        ],
-                        [
-                            13.39284129816133,
-                            52.50433913724122
-                        ],
-                        [
-                            13.392894942341627,
-                            52.50400607247558
-                        ],
-                        [
-                            13.39233704286653,
-                            52.50397994964212
-                        ],
-                        [
-                            13.392412144718946,
-                            52.50347708207264
-                        ],
-                        [
-                            13.391682583866896,
-                            52.50342483576153
-                        ],
-                        [
-                            13.391693312702955,
-                            52.50334646617839
-                        ],
-                        [
-                            13.391135413227857,
-                            52.503294219712025
-                        ],
-                        [
-                            13.390974480686964,
-                            52.504162809150216
-                        ]
-                    ]
-                ]
-            },
-            "id": "ca/besselpark_sanierung#11"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "KMA E.V.",
                 "type": "Organisation",
                 "start_date": "1987-03-12T16:00:00.000-08:00",
-                "description": "Die Kreuzberger Musikalische Aktion e.V. ist eine gemeinnützige Initiative und anerkannter freier Träger der Kinder- und Jugendhilfe. Gegründet von Künstlerinnen und Künstlern, Sozialarbeiterinnen und Sozialarbeitern, Lehrerinnen und Lehrern und vielen anderen, die mit ihrer jeweiligen Kompetenz präventiv gegen Gewalt, Kinder- und Jugendkriminalität, Drogensucht und sexuellen Missbrauch von Kindern und Jugendlichen arbeiten.    ",
+                "description": "Die Kreuzberger Musikalische Aktion e.V. ist eine gemeinnützige Initiative und anerkannter freier Träger der Kinder- und Jugendhilfe. Gegründet von Künstlerinnen und Künstlern, Sozialarbeiterinnen und Sozialarbeitern, Lehrerinnen und Lehrern und vielen anderen, die mit ihrer jeweiligen Kompetenz präventiv gegen Gewalt, Kinder- und Jugendkriminalität, Drogensucht und sexuellen Missbrauch von Kindern und Jugendlichen arbeiten.\n\nSeit über dreißig Jahren wollen sie mit ihre Projekten (Musik, Multimedia, Theater, Sport, kreatives Gestalten...) Kinder- und Jugend helfen ihre Potenziale zu entdecken und ihre Fähigkeiten auszuprägen. Sie motivieren auch junge arbeitslose Menschen bei ihrem Berufseinstieg in ihren Werkstätten und Projekträumen.  \n\nDie KMA e.V. besteht aus drei Orte:\nErstens, die KMAntenne in der Friedrichstraße 2-3, an dem es Aktivitäten im Bereich Tanz, Musik, Theater und Multimedia gibt. Zweitens und direkt daneben gibt es das Intihaus. Hier sind zahlreiche Initiativen, Vereine und Projekte, ebenso wie die Kiezküche \"Kantine Kreuzberg\". Drittens und seit 2012 das Statthaus Böcklerpark, liegt direkt am Landwehrkanal, das ein großes Außengelände für Sportakitvitäten und einen großen Veranstaltungssaal und viele Räume für Workshops hat.\n",
                 "image": "https://kma-ev.de/typo3conf/ext/template_provider/Resources/Public/Images/logo_orange.png",
                 "category": "Personen",
                 "sub-category": "NGO/Social work",
@@ -1021,7 +982,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-09-25T07:36:57.647-07:00",
-                "updated_date": "2020-03-13T09:30:10.349-07:00",
+                "updated_date": "2020-03-27T01:45:37.490-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1036,32 +997,23 @@
         }
     ],
     "properties": {
-        "title": "Mehringplatz Anknipsen",
+        "title": "Einleitung: Mehringplatz Anknipsen",
         "url": "http://mehringplatz-de.community-atlas.net",
         "id": "mehringplatz_de",
-        "description": "Mehringplatz Anknipsen ist ein digitaler Atlas, der der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte gewidmet ist. Er sammelt und macht Daten über Erinnerungen und Visionen über die Nachbarschaft zugänglich. Die Aufgabe ist in einem einzigen Atlas lokale Initiativen, die verschiedenen im Viertel tätigen Akteure, die Pläne und politische Ambitionen abzubilden. Ziel ist es, qualitative und quantitative Daten, persönliche Erzählungen und öffentliche Dokumente zu kombinieren, um eine komplexe und vielfältige Darstellung der lokalen Identität vorzustellen. Der Atlas konzentriert sich auf Prozesse des bürgerschaftlichen Engagements, der Zusammenarbeit und der sozialen Eingliederung. Die Ausarbeitung begann 2016 im Rahmen des EU-finanzierten Erasmus + Projekts EULER als Ergebnis von Labore, die sich mit Stadterkundung, kollaborativer Kartierung und digitalem Geschichtenerzählen befassen. Es wird derzeit im Rahmen des COMENSI-Projekts durchgeführt, bei dem der Prototyp des digitalen Atlas getestet wird, um die gemeinsam mit lokalen Gemeinschaften erstellten Inhalte zu veröffentlichen.",
+        "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-03-25T18:23:30.687Z",
+        "published": "2020-03-27T11:54:32.245Z",
         "links": [
             {
-                "title": "Mehringplats - English",
+                "title": "Switch on Mehringplatz - English",
                 "url": "http://mehringplatz-en.community-atlas.net",
                 "description": "English version ",
                 "lang": "en",
                 "type": "translation"
             }
         ],
-        "version": 31,
+        "version": 32,
         "taxonomy": [
-            {
-                "category": "Rundgang",
-                "description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
-                "sub-categories": [
-                    "#r19"
-                ],
-                "weight": 6,
-                "id": 8
-            },
             {
                 "category": "Visionen",
                 "description": "Ideen und Ansätze zur Weiterentwicklung des Gebietes",
@@ -1235,6 +1187,10 @@
         {
             "from": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
             "to": "ca/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
+            "from": "ca/bauh_tte#16",
+            "to": "ca/pxb_projektgruppe_x_blumenmarkt#17"
         },
         {
             "from": "ca/quartiersmanagement_am_mehringplatz_#14",

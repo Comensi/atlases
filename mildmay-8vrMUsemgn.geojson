@@ -4,6 +4,39 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Celebrating Community Centre Week",
+                "type": "Events",
+                "start_date": "2019-06-30T16:00:00.000-07:00",
+                "description": "An afternoon tea provided by volunteers for the local residents to celebrate Community Centre Week 2019",
+                "image": "https://live.staticflickr.com/65535/49723316148_d4182ec666_o_d.jpg",
+                "category": "Now",
+                "sub-category": "",
+                "tags": [
+                    "cooking",
+                    "Events",
+                    "Social inclusion",
+                    "charity"
+                ],
+                "category-description": "How our community is now",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-04-01T07:35:51.564-07:00",
+                "updated_date": "2020-04-01T07:38:42.099-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0825,
+                    51.5508
+                ]
+            },
+            "id": "ca/celebrating_community_centre_week#79"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Community Garden at Mildmay Community Centre",
                 "type": "Places",
                 "start_date": "2019-05-30T16:00:00.000-07:00",
@@ -177,7 +210,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-04-01T14:29:11.039Z",
+        "published": "2020-04-01T14:40:27.364Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -187,7 +220,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 49,
+        "version": 50,
         "taxonomy": [
             {
                 "category": "Next",

@@ -4,11 +4,44 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Community Garden at Mildmay Community Centre",
+                "type": "Places",
+                "start_date": "2019-05-30T16:00:00.000-07:00",
+                "description": "Early summer in the community garden of the Mildmay Community Centre",
+                "image": "https://live.staticflickr.com/65535/49723330898_fe2fa9218e_o_d.jpg",
+                "category": "Now",
+                "sub-category": "",
+                "tags": [
+                    "gardening",
+                    "Public space",
+                    "Social inclusion",
+                    "workspace"
+                ],
+                "category-description": "How our community is now",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-04-01T07:21:30.608-07:00",
+                "updated_date": "2020-04-01T07:24:32.960-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0825,
+                    51.551
+                ]
+            },
+            "id": "ca/community_garden_at_mildmay_community_centre#78"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Mapping for Change team meeting the mayor",
                 "type": "Events",
                 "start_date": "2017-06-30T16:00:00.000-07:00",
                 "description": "An event to celebrate The Great Get Together in memory of Jo Cox",
-                "image": "https://www.flickr.com/photos/187167232@N07/49724171187/sizes/l/",
+                "image": "https://live.staticflickr.com/65535/49724162122_49baf25c96_o_d.jpg",
                 "category": "Now",
                 "sub-category": "",
                 "tags": [
@@ -18,7 +51,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-04-01T07:13:46.253-07:00",
-                "updated_date": "2020-04-01T07:18:10.837-07:00",
+                "updated_date": "2020-04-01T07:27:21.088-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -144,7 +177,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-04-01T14:20:48.702Z",
+        "published": "2020-04-01T14:29:11.039Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -154,7 +187,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 48,
+        "version": 49,
         "taxonomy": [
             {
                 "category": "Next",

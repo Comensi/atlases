@@ -377,6 +377,12 @@
                 "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
                 "links": [
                     {
+                        "url": "https://www.jmberlin.de/w-michael-blumenthal-akademie",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
                         "url": "https://de.wikipedia.org/wiki/Blumengroßmarkthalle_(Berlin-Kreuzberg)",
                         "title": "Wikipedia",
                         "description": "",
@@ -951,6 +957,84 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Besselpark Sanierung",
+                "type": "Projekt",
+                "start_date": "2019-08-14T16:00:00.000-07:00",
+                "description": "Aufgrund seines schlechten Zustands wird der Besselpark in den kommenden Monaten (März bis September 2020) umgestaltet. Dieses Projekt findet im Rahmen der Neugestaltung des Sanierungsgebietes statt. Ziel der Planung ist es, den Besselpark, den Spielplatz, die Besselstraße und die Freiflächen an der Charlottenstraße 98 zusammen zu koordinieren um einen städtischen Gesamtraum herzustellen.   \nIm Rahmen einer Bürger*innenbefragung wurden Wünsche und Anregungen der Bewohner*innen in das landschaftsplanerische Auswahlverfahren aufgenommen. Das Auswahlgremium berücksichtigte die Anmerkungen und das Büro von Rehwaldt Landschaftsarchitekten hat die Verantwortung übernommen, dies in das Projekt hinzuzufügen. Im Mai 2017 wurde der Entwurf im Sanierungsbeirat noch einmal vorgestellt und über Angebote für Jugendliche diskutiert. Dies ist in der weiteren Planung eingeflossen.                                                            ",
+                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/03/Besselpark-Perspektive-komp-768x402.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Öffentlicher Raum",
+                "tags": [
+                    "Stadterneuerung",
+                    "Öffentlicher Raum",
+                    "Park"
+                ],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/05/BES_LP3_Pr%C3%A4sentation_170523.pdf",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+                    "ca/mehringplatz_umbau_im_baustelle_#62"
+                ],
+                "created_date": "2019-09-25T08:52:03.678-07:00",
+                "updated_date": "2020-04-03T09:28:11.077-07:00",
+                "weight": 0,
+                "image_credit": " Rehwaldt Landschaftsarchitekten Mai 2017"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.390974480686964,
+                            52.504162809150216
+                        ],
+                        [
+                            13.39284129816133,
+                            52.50433913724122
+                        ],
+                        [
+                            13.392894942341627,
+                            52.50400607247558
+                        ],
+                        [
+                            13.39233704286653,
+                            52.50397994964212
+                        ],
+                        [
+                            13.392412144718946,
+                            52.50347708207264
+                        ],
+                        [
+                            13.391682583866896,
+                            52.50342483576153
+                        ],
+                        [
+                            13.391693312702955,
+                            52.50334646617839
+                        ],
+                        [
+                            13.391135413227857,
+                            52.503294219712025
+                        ],
+                        [
+                            13.390974480686964,
+                            52.504162809150216
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/besselpark_sanierung#11"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "KMA E.V.",
                 "type": "Organisation",
                 "start_date": "1987-03-12T16:00:00.000-08:00",
@@ -994,7 +1078,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-04-03T13:54:36.649Z",
+        "published": "2020-04-03T16:28:59.610Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1004,7 +1088,7 @@
                 "type": "translation"
             }
         ],
-        "version": 43,
+        "version": 45,
         "taxonomy": [
             {
                 "category": "Rundgang",
@@ -1208,6 +1292,14 @@
         {
             "from": "ca/ela_kagel_supermarkt#13",
             "to": "ca/supermarkt#12"
+        },
+        {
+            "from": "ca/besselpark_sanierung#11",
+            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "from": "ca/besselpark_sanierung#11",
+            "to": "ca/mehringplatz_umbau_im_baustelle_#62"
         }
     ]
 }

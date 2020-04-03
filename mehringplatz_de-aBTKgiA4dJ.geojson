@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Mehringplatz Ankipsen  Interviews",
+                "type": "",
+                "start_date": "",
+                "description": "Diese Sammlung von Video präsentiert einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging, und sind derzeit mit neue Interviews integriert, die Tesserae im Rahmen der Projekte COMENSI und Cocreation erstellt.\nActivity",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-03-27T13:43:16.628-07:00",
+                "updated_date": "2020-03-27T13:56:18.302-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/mehringplatz_ankipsen_interviews#63"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Florian Schmidt - Baustadtrat Friedrichshain-Kreuzberg",
                 "type": "Personen",
                 "start_date": "2016-11-30T16:00:00.000-08:00",
@@ -342,6 +363,41 @@
         }
     ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Ex Blumengroßmarkthalle - Akademie des Jüdischen Museums Berlin",
+                "type": "Gebäude",
+                "start_date": "2009-04-02T16:00:00.000-07:00",
+                "description": "Die Blumengroßmarkthalle in der Berliner Friedrichstadt entstand zuerst 1922 in der unmittelbaren Nachbarschaft der Markthalle II (Lindenhalle), in der seit deren Eröffnung 1886 auch einige Blumengroßhändler ihre Stände unterhielten. 1922 konnte eine eigene Halle für den Blumengroßmarkt erbaut werden. Nach Zerstörung im Zweiten Weltkrieg entstand an gleicher Stelle ein Provisorium, das bis 1965 einem Neubau, der jetzigen Halle, wich. Im Mai 2010 zog der Blumengroßmarkt zur Großmarkthalle Beusselstraße um. Die Halle wurde verkauft und der Umbau für das Jüdische Museum Berlin begonnen. Die Museumsleitung konnte mit Hilfe von Finanzspritzen in Höhe von elf Millionen Euro, von denen 6,6 Millionen durch den Bund bereitgestellt wurden und der Rest aus Privatspenden stammt, die Halle zur Akademie des Jüdischen Museums Berlin umbauen lassen. Sie beherbergt seit ihrer Eröffnung die Bibliothek, das Archiv, die Bildungsabteilung und Akademieprogramme (zu Migration und Diversität sowie Judentum und Islam) des Museums. Die Innengestaltung mit einem U-förmigen Grundriss in der Hülle des bisherigen Gebäudes entwarf Daniel Libeskind, der bereits für den modernen Erweiterungsbau des Museums die Pläne geliefert hatte.\nSource: wikipedia. Edited by Lorenzo Tripodi",
+                "image": "https://i.ibb.co/QchL1WY/mehringp.jpg",
+                "category": "Orte",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://de.wikipedia.org/wiki/Blumengroßmarkthalle_(Berlin-Kreuzberg)",
+                        "title": "Wikipedia",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-04-03T06:18:05.316-07:00",
+                "updated_date": "2020-04-03T06:51:17.675-07:00",
+                "weight": 0,
+                "image_credit": "Photo Manuela Conti - oginoknauss"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3929,
+                    52.502891
+                ]
+            },
+            "id": "ca/ex_blumengro_markthalle_akademie_des_j_dischen_museums_berlin#65"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -938,7 +994,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-03-27T15:31:17.123Z",
+        "published": "2020-04-03T13:54:36.649Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -948,7 +1004,7 @@
                 "type": "translation"
             }
         ],
-        "version": 41,
+        "version": 43,
         "taxonomy": [
             {
                 "category": "Rundgang",

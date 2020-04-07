@@ -197,10 +197,10 @@
                 "start_date": "2019-09-27T16:00:00.000-07:00",
                 "description": "",
                 "image": "https://i.postimg.cc/85R2jfLx/45026980262-5bacd1d3f9-z.jpg",
-                "category": "Memorie del quartiere",
+                "category": "Storie del quartiere",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "documentare il patrimonio materiale ed immateriale del quartiere\n",
+                "category-description": "collezionare prospettive personali e voci, storie orali, interviste e documentazione",
                 "links": [
                     {
                         "url": "https://www.youtube.com/watch?v=mUUsUQEwjtY",
@@ -211,7 +211,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-12-12T02:55:40.353-08:00",
-                "updated_date": "2019-12-12T03:17:58.267-08:00",
+                "updated_date": "2020-04-07T03:47:55.357-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -429,7 +429,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-04-07T10:47:40.092Z",
+        "published": "2020-04-07T10:48:27.768Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -467,7 +467,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 76,
+        "version": 77,
         "taxonomy": [
             {
                 "category": "Commercianti",
@@ -505,20 +505,6 @@
                 ],
                 "weight": 0,
                 "id": 3
-            },
-            {
-                "category": "Servizi pubblici e privati",
-                "description": "",
-                "sub-categories": [],
-                "weight": "",
-                "id": ""
-            },
-            {
-                "category": "Trasformazioni",
-                "description": "",
-                "sub-categories": [],
-                "weight": "",
-                "id": ""
             },
             {
                 "category": "Spazi di quartiere",

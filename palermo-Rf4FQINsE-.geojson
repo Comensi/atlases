@@ -424,12 +424,12 @@
         }
     ],
     "properties": {
-        "title": "Atlante di quartiere",
+        "title": "ATLANTE DI QUARTIERE",
         "url": "https://palermo.community-atlas.net",
         "id": "palermo",
-        "description": "L'Atlante di quartiere è una piattaforma di comunità progettata per il quartiere Capo-Monte di Pietà. Raccoglie i servizi pubblici e privati, storie e memorie del quartiere, le idee e le proposte di interventi sul territorio proposte dai suoi abitanti.                     Il team di Bond of Union guida il processo facilitando la partecipazione, oltre che l'impegno, dei residenti e degli stakeholder locali.",
+        "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-03-26T16:07:19.612Z",
+        "published": "2020-04-07T10:08:01.023Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -439,17 +439,31 @@
                 "type": "homepage"
             },
             {
-                "title": "Bond of Union",
-                "url": "http://www.bondofunion.eu/",
-                "description": "Bond of Union homepage",
-                "lang": "",
+                "title": "Atlas Bairro da Ajuda ",
+                "url": "https://bairrodaajuda.community-atlas.net/",
+                "description": "Atlas 4Change",
+                "lang": "pt",
                 "type": "webpage"
             },
             {
-                "title": "Bond of Union - FB",
-                "url": "https://www.facebook.com/bondofunion.eu/",
-                "description": "Bond of Union - FB",
-                "lang": "",
+                "title": "Atlas Mehringplatz",
+                "url": "https://mehringplatz-de.community-atlas.net/",
+                "description": "Atlas Tesserae",
+                "lang": "de/en",
+                "type": "webpage"
+            },
+            {
+                "title": "Atlas Mildmay",
+                "url": "https://mildmay.community-atlas.net/",
+                "description": "Atlas Mapping For Change",
+                "lang": "en",
+                "type": "webpage"
+            },
+            {
+                "title": "Atlas Savsko naselje",
+                "url": "https://savskonaselje.community-atlas.net/",
+                "description": "Atlas Prostoroz",
+                "lang": "sl",
                 "type": "webpage"
             }
         ],

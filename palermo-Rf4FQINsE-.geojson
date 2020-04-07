@@ -111,7 +111,7 @@
                 "title": "Laboratori di Quartiere",
                 "type": "Evento",
                 "start_date": "2020-01-13T16:00:00.000-08:00",
-                "description": "Laboratorio di progettazione di idee e proposte nello spazio di quartiere di Bond of Union",
+                "description": "Laboratorio di raccolta e progettazione di idee e proposte dei residenti in significativi spazi del quartiere Capo.",
                 "image": "https://i.postimg.cc/qvT0KB9d/UNADJUSTEDNONRAW-thumb-6b6.jpg",
                 "category": "Iniziative",
                 "sub-category": "",
@@ -120,7 +120,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-12T04:32:10.764-08:00",
-                "updated_date": "2020-04-07T05:34:44.544-07:00",
+                "updated_date": "2020-04-07T06:47:59.318-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -401,7 +401,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-04-07T12:46:48.136Z",
+        "published": "2020-04-07T13:55:05.787Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -439,7 +439,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 86,
+        "version": 92,
         "taxonomy": [
             {
                 "category": "Iniziative",

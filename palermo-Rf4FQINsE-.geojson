@@ -429,12 +429,12 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-04-07T10:14:45.467Z",
+        "published": "2020-04-07T10:24:36.909Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
                 "url": "http://community-atlas.net",
-                "description": "COMENSI homepage",
+                "description": "",
                 "lang": "en",
                 "type": "homepage"
             },
@@ -448,26 +448,26 @@
             {
                 "title": "Atlas Mehringplatz",
                 "url": "https://mehringplatz-de.community-atlas.net/",
-                "description": "Atlas Tesserae",
+                "description": "",
                 "lang": "de/en",
                 "type": "webpage"
             },
             {
                 "title": "Atlas Mildmay",
                 "url": "https://mildmay.community-atlas.net/",
-                "description": "Atlas Mapping For Change",
+                "description": "",
                 "lang": "en",
                 "type": "webpage"
             },
             {
                 "title": "Atlas Savsko naselje",
                 "url": "https://savskonaselje.community-atlas.net/",
-                "description": "Atlas Prostoroz",
+                "description": "",
                 "lang": "sl",
                 "type": "webpage"
             }
         ],
-        "version": 71,
+        "version": 74,
         "taxonomy": [
             {
                 "category": "Commercianti",

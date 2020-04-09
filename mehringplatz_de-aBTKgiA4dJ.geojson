@@ -648,7 +648,7 @@
                 "start_date": "2007-09-29T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "\t\tDie Globale e.V. wurde 2007 gegründet und arbeitet schwerpunktmäßig im Bereich frühkindlicher Bildung sowie zu den Themen gesellschaftliche Integration und Gemeinwesenarbeit.  Der Verein ist am Mehringplatz und im Donaukiez aktiv. Im Bereich der Bildungsarbeit betreibt der Verein zwei Lernwerkstätten in Kreuzberg und Neukölln sowie drei Kitas, die mit dem Konzept des entdeckenden Lernens arbeiten. Das Angebot der Lernwerkstätten richtet sich an Kinder im Alter von vier bis 12 Jahren. Es zielt darauf ab, das Lerninteresse und die Lernmotivation der Heranwachsenden und ihr Interesse an der Erforschung ihrer natürlichen und sozialen Umwelt als wesentliche Voraussetzung für einen gelingenden Bildungsprozess zu unterstützen. Bei den unterschiedlichen Angeboten werden die unterschiedlichen Lebensverhältnisse und Lebensentwürfe der Familien berücksichtigt um den Kindern vielfältige Zugänge zu Bildungsprozessen zu ermöglicht. In der Arbeit werden die besonderen Interessen und Fähigkeiten der Kinder gefördert und die Familien als wichtige Bildungspartner ihrer Kinder gestärkt.\nDer zweite Schwerpunkt  liegt in der Entwicklung von Kiezstrukturen am Mehringplatz. Im Rahmen seiner Angebote hat der Verein einen guten Kontakt zur Nachbarschaft aufgebaut. Durch vielfältige Aktivitäten (Feste, Flohmarkt, Bücherverleih) ist der Verein im Gebiet bekannt und hat bereits zu zahlreichen Gelegenheiten Bewohner unterstützt, Angebote für ein nachbarschaftliches Zusammensein zu entwickeln und umzusetzen. Das Nachbarschaftscafé am Mehringplatz 7 bietet zudem einen öffentlichen Ort, an dem sich Menschen des Quartiers treffen, ihre Bedürfnisse und Interessen artikulieren und den Ort für Begegnungen nutzen. Der Verein ist gut vernetzt mit anderen sozialen und kulturellen Einrichtungen und sonstigen Organisationen (Gewobag, Mieterbeirat, Bildungsnetz, Gewerbetreibende, AOK, Platzgärtner etc.) im Quartier. \n",
-                "image": "http://dieglobale.org/wp-content/uploads/2015/04/globale_logo-web_header.png",
+                "image": "https://i.ibb.co/BydwNWY/globale-logo-web-header.png",
                 "category": "Personen",
                 "sub-category": "NGO/Social work",
                 "tags": [
@@ -671,7 +671,7 @@
                     "ca/karin_l_cker_caf_madame_#31"
                 ],
                 "created_date": "2019-09-27T02:10:08.037-07:00",
-                "updated_date": "2020-03-21T12:45:12.273-07:00",
+                "updated_date": "2020-04-09T08:35:36.805-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1154,7 +1154,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-04-09T14:53:40.541Z",
+        "published": "2020-04-09T15:38:26.502Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1164,7 +1164,7 @@
                 "type": "translation"
             }
         ],
-        "version": 51,
+        "version": 53,
         "taxonomy": [
             {
                 "category": "Rundgang",

@@ -4,6 +4,35 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Mehringplatz Anknipsen Interviews",
+                "type": "Interview",
+                "start_date": "2017-05-04T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Diese Sammlung von Video präsentiert einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmusplus-Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging, und sind derzeit mit neue Interviews integriert, die Tesserae im Rahmen der Projekte COMENSI und Cocreation erstellt.\n",
+                "image": "https://i.ibb.co/XytyGBF/Screenshot-2020-03-27-at-22-05-16.png",
+                "category": "Geschichten",
+                "sub-category": "Interviews",
+                "tags": [],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/showcase/4678972",
+                        "title": "Stakeholders Interviews showcase",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-03-27T13:57:16.075-07:00",
+                "updated_date": "2020-04-09T09:56:19.307-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/mehringplatz_anknipsen_interviews#64"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Mehringplatz Ankipsen  Interviews",
                 "type": "",
                 "start_date": "",
@@ -108,6 +137,30 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Repair Cafe ",
+                "type": "Organisation",
+                "start_date": "2013-01-16T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Unter dem Motto \"Reparieren statt Wegwerfen\" laden jeden 1. Montag im Monat Ehrenamtliche zum sogenannten Repair Café ein. Es können technische Geräte oder andere Gegenstände mit in die Kiezstube (Mehringplatz 7) gebracht werden, denen wieder Leben eingehaucht werden. Die Reperatur erfolgt mit Beratung und Unterstützung der technisch begabten Ehrenamtlichen vor Ort, um dem Ansatz \"Hilfe zur Selbsthilfe\" gerecht zu werden. Das Angebot ist kostenlos.",
+                "image": "https://i.ibb.co/YNvHyBS/Repair-Cafe.png ",
+                "category": "Personen",
+                "sub-category": "",
+                "tags": [
+                    "Umwelt"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-01-17T05:53:12.876-08:00",
+                "updated_date": "2020-04-09T09:59:15.347-07:00",
+                "weight": 0,
+                "image_credit": "www.123RF.com"
+            },
+            "id": "ca/repair_cafe_#52"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Weltkrieg II - Luftangriff",
                 "type": "Veranstaltung",
                 "start_date": "1945-03-02T16:00:00.000-07:00",
@@ -132,6 +185,38 @@
                 "image_credit": ""
             },
             "id": "ca/weltkrieg_ii_luftangriff#47"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Der Belle Alliance Platz - \"Die Rondell\"",
+                "type": "Ort",
+                "start_date": "1730-01-31T16:00:00.000-08:00",
+                "end_date": "1944-12-31T16:00:00.000-07:00",
+                "description": "In der ersten Hälfte des 18. Jahrhunderts wuchs Berlin rasant. Die Stadt wurde vergrößert und neue Tore gebaut. Eines der insgesamt Stadttore war das Hallesche Tor. Um 1730 - unter König Friedrich Wilhelm I. von Preußen - wurden drei neue repräsentative Plätze vor 3 wichtigen Stadttoren gebaut, die zunächst nach Ihrer Form genannt wurden: \"Karree\" für den Pariser Platz, \"Oktogon\" für den Leipziger Platz und \"Rondell\" für Mehringplatz. \n\nDieser als \"Rondell\" bekannte Platz  war vom Stadtmodell der Piazza del Popolo in Rom inspiriert und war mit zweistöckigen Bürgerhäusern umgeben. 1815 erfolgte die Benennung in Belle-Alliance-Platz in Erinnerung an den Sieg über Napoleon in Waterloo. Die Friedenssäule wurde nur zwanzig Jahre später im Mitte des Platz errichtet und die Landschaftsgestaltung vom Direktor des königlichen Gartens Peter Joseph Lenné übernommen. Der Platz blieb im Laufe des 19. Jahrhunderts gleich, bis er 1879, nach dem Abriss der Akzisemauer und noch später durch die Ankunft der Eisenbahn dann die U-Bahn verändert wurde. Der Belle-Alliance-Platz wurde im Krieg stark zerstört und unmittelbar nach dem Krieg nach Franz Mehring umbenannt.",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mehringplatz_um1730.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://www.stadtentwicklung.berlin.de/denkmal/liste_karte_datenbank/de/denkmaldatenbank/daobj.php?obj_dok_nr=09097784",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/mehringplatz#39",
+                    "ca/weltkrieg_ii_luftangriff#47"
+                ],
+                "created_date": "2019-11-23T04:19:54.664-08:00",
+                "updated_date": "2020-04-09T09:45:42.762-07:00",
+                "weight": 0,
+                "image_credit": "Wikimedia"
+            },
+            "id": "ca/der_belle_alliance_platz_die_rondell_#45"
         },
         {
             "type": "Feature",
@@ -1154,7 +1239,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-04-09T15:38:26.502Z",
+        "published": "2020-04-09T17:00:21.412Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1164,7 +1249,7 @@
                 "type": "translation"
             }
         ],
-        "version": 53,
+        "version": 55,
         "taxonomy": [
             {
                 "category": "Rundgang",
@@ -1308,6 +1393,14 @@
         {
             "from": "ca/weltkrieg_ii_luftangriff#47",
             "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/der_belle_alliance_platz_die_rondell_#45",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/der_belle_alliance_platz_die_rondell_#45",
+            "to": "ca/weltkrieg_ii_luftangriff#47"
         },
         {
             "from": "ca/eingemeindung_friedrichstadt_#44",

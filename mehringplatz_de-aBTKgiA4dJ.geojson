@@ -163,8 +163,8 @@
             "properties": {
                 "title": "Weltkrieg II - Luftangriff",
                 "type": "Veranstaltung",
-                "start_date": "1945-03-02T16:00:00.000-07:00",
-                "end_date": "",
+                "start_date": "1945-02-02T16:00:00.000-07:00",
+                "end_date": "1945-02-03T16:00:00.000-07:00",
                 "description": "Das Gebiet wurde im Zweiten Weltkrieg vollständig zerstört, insbesondere bei einem Luftangriff am 3. Februar 1945 und der darauffolgenden Schlacht um Berlin. Der Luftangriff führte zu einer fast vollständigen Zerstörung der Innenstadt, stark getroffen war das Regierungsviertel nahe der Wilhelmstraße. Aufgrund des Luftangriffes wurden über 120.000 Menschen obdachlos, knapp 2.300 Gebäude wurden vollständig zerstört und weitere etwa 900 Gebäuden waren schwer beschädigt. Viele der zerstörten Häuser wurden aufgrund der Einsturzgefahr evakuiert. Der Belle Alliance Platz ist völlig zerstört und wird für die nächsten 20 Jahre ein leeres Grundstück bleiben.",
                 "image": "https://www.welt.de/img/geschichte/zweiter-weltkrieg/mobile140131885/6362507847-ci102l-w1024/2-WK-Berlin-1945-Strassenkampf.jpg",
                 "category": "Erinnerungen",
@@ -180,7 +180,7 @@
                     "ca/mehringplatz#39"
                 ],
                 "created_date": "2019-12-05T09:40:58.990-08:00",
-                "updated_date": "2019-12-16T15:53:15.521-08:00",
+                "updated_date": "2020-04-09T10:12:13.576-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -300,7 +300,7 @@
                     "ca/quartiersmanagement_am_mehringplatz_#14",
                     "ca/pxb_projektgruppe_x_blumenmarkt#17",
                     "ca/gewobag#53",
-                    "ca/ex_blumengro_markthalle_akademie_des_j_dischen_museums_berlin#65"
+                    "ca/ehemalige_blumengro_markthalle_#65"
                 ],
                 "created_date": "2019-11-21T03:30:20.027-08:00",
                 "updated_date": "2020-04-06T10:42:46.131-07:00",
@@ -335,7 +335,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-09T03:07:33.603-08:00",
-                "updated_date": "2019-11-25T04:59:00.005-08:00",
+                "updated_date": "2020-04-09T11:13:27.150-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -414,7 +414,7 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Ex Blumengroßmarkthalle - Akademie des Jüdischen Museums Berlin",
+                "title": "Ehemalige Blumengroßmarkthalle  ",
                 "type": "Gebäude",
                 "start_date": "2009-04-02T16:00:00.000-07:00",
                 "end_date": "",
@@ -438,9 +438,12 @@
                         "type": "website"
                     }
                 ],
-                "relationships": [],
+                "relationships": [
+                    "ca/pxb_projektgruppe_x_blumenmarkt#17",
+                    "ca/kreative_raumpioniere_am_mehringplatz#41"
+                ],
                 "created_date": "2020-04-03T06:18:05.316-07:00",
-                "updated_date": "2020-04-03T06:51:17.675-07:00",
+                "updated_date": "2020-04-09T13:40:34.798-07:00",
                 "weight": 0,
                 "image_credit": "Photo Manuela Conti - oginoknauss"
             },
@@ -451,7 +454,7 @@
                     52.502891
                 ]
             },
-            "id": "ca/ex_blumengro_markthalle_akademie_des_j_dischen_museums_berlin#65"
+            "id": "ca/ehemalige_blumengro_markthalle_#65"
         },
         {
             "type": "Feature",
@@ -1239,7 +1242,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-04-09T17:04:29.867Z",
+        "published": "2020-04-09T21:13:50.881Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1249,7 +1252,7 @@
                 "type": "translation"
             }
         ],
-        "version": 55,
+        "version": 56,
         "taxonomy": [
             {
                 "category": "Rundgang",
@@ -1351,6 +1354,14 @@
     },
     "relationships": [
         {
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/pxb_projektgruppe_x_blumenmarkt#17"
+        },
+        {
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
+        },
+        {
             "from": "ca/kmantenne#59",
             "to": "ca/kma_e_v_#7"
         },
@@ -1424,7 +1435,7 @@
         },
         {
             "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "ca/ex_blumengro_markthalle_akademie_des_j_dischen_museums_berlin#65"
+            "to": "ca/ehemalige_blumengro_markthalle_#65"
         },
         {
             "from": "ca/mehringplatz#39",

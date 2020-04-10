@@ -4,6 +4,39 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Switch On Mehringplatz",
+                "type": "Projekt",
+                "start_date": "2016-08-31T16:00:00.000-07:00",
+                "end_date": "2017-06-29T16:00:00.000-07:00",
+                "description": "Switch On Mehringplatz",
+                "image": "https://ibb.co/DfzLQTb",
+                "category": "Visionen",
+                "sub-category": "Projekt",
+                "tags": [
+                    "soziale Inklusion",
+                    "Medien",
+                    "Ausbildung"
+                ],
+                "category-description": "Ideen und Ansätze zur Weiterentwicklung des Gebietes",
+                "links": [
+                    {
+                        "url": "http://www.tesserae.eu/project/euler/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-04-09T14:36:06.733-07:00",
+                "updated_date": "2020-04-09T14:46:46.306-07:00",
+                "weight": 0,
+                "image_credit": "graphic project: Manuela Conti"
+            },
+            "id": "ca/switch_on_mehringplatz#68"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Whenever the Heart Skips a Beat",
                 "type": "Veranstaltung",
                 "start_date": "2017-08-31T16:00:00.000-07:00",
@@ -52,7 +85,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Mehringplatz Anknipsen Interviews",
-                "type": "Interview",
+                "type": "Mediensammlung",
                 "start_date": "2017-05-04T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "Diese Sammlung von Video präsentiert einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmusplus-Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging, und sind derzeit mit neue Interviews integriert, die Tesserae im Rahmen der Projekte COMENSI und Cocreation erstellt.\n",
@@ -71,7 +104,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-03-27T13:57:16.075-07:00",
-                "updated_date": "2020-04-09T09:56:19.307-07:00",
+                "updated_date": "2020-04-09T14:50:40.823-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -140,7 +173,7 @@
                 "relationships": [
                     "",
                     "ca/bauh_tte#16",
-                    "ca/pxb_projektgruppe_x_blumenmarkt#17",
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
                     "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
                     "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
                     "ca/kreative_raumpioniere_am_mehringplatz#41"
@@ -236,11 +269,11 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Der Belle Alliance Platz - \"Die Rondell\"",
+                "title": "Der Belle Alliance Platz - \"Das Rondell\"",
                 "type": "Ort",
                 "start_date": "1730-01-31T16:00:00.000-08:00",
                 "end_date": "1944-12-31T16:00:00.000-07:00",
-                "description": "In der ersten Hälfte des 18. Jahrhunderts wuchs Berlin rasant. Die Stadt wurde vergrößert und neue Tore gebaut. Eines der insgesamt Stadttore war das Hallesche Tor. Um 1730 - unter König Friedrich Wilhelm I. von Preußen - wurden drei neue repräsentative Plätze vor 3 wichtigen Stadttoren gebaut, die zunächst nach Ihrer Form genannt wurden: \"Karree\" für den Pariser Platz, \"Oktogon\" für den Leipziger Platz und \"Rondell\" für Mehringplatz. \n\nDieser als \"Rondell\" bekannte Platz  war vom Stadtmodell der Piazza del Popolo in Rom inspiriert und war mit zweistöckigen Bürgerhäusern umgeben. 1815 erfolgte die Benennung in Belle-Alliance-Platz in Erinnerung an den Sieg über Napoleon in Waterloo. Die Friedenssäule wurde nur zwanzig Jahre später im Mitte des Platz errichtet und die Landschaftsgestaltung vom Direktor des königlichen Gartens Peter Joseph Lenné übernommen. Der Platz blieb im Laufe des 19. Jahrhunderts gleich, bis er 1879, nach dem Abriss der Akzisemauer und noch später durch die Ankunft der Eisenbahn dann die U-Bahn verändert wurde. Der Belle-Alliance-Platz wurde im Krieg stark zerstört und unmittelbar nach dem Krieg nach Franz Mehring umbenannt.",
+                "description": "In der ersten Hälfte des 18. Jahrhunderts wuchs Berlin rasant. Die Stadt wurde vergrößert und neue Stadttore wurden gebaut. Eines dieser Tore war das Hallesche Tor. Um 1730 - unter König Friedrich Wilhelm I. von Preußen - wurden drei neue repräsentative Plätze vor drei wichtigen Stadttoren erbaut, die zunächst nach ihrer Form benannt wurden: \"Karree\" für den Pariser Platz, \"Oktogon\" für den Leipziger Platz sowie \"Rondell\" für den Mehringplatz. \n\nDieser als \"Rondell\" bekannte Platz  war vom Stadtmodell der Piazza del Popolo in Rom inspiriert und war von zweistöckigen Bürgerhäusern umgeben. Im Jahr 1815 erfolgte die Umbenennung in Belle-Alliance-Platz als Erinnerung an den Sieg über Napoleon in Waterloo. Die Friedenssäule wurde nur zwanzig Jahre später in der Mitte des Platzes errichtet und die Landschaftsgestaltung vom Direktor des königlichen Gartens Lenné übernommen. Der Platz blieb zunächst unverändert, bis mit dem Abriss der Akzisemauer 1879 und mit der späteren Erschließung durch die Eisenbahn und die U-Bahn das Erscheinungsbild des Platzes stark verändert wurde. Der Belle-Alliance-Platz wurde im II. Weltkrieg stark zerstört und unmittelbar danach in Mehringplatz (nach Franz Mehring) umbenannt.",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mehringplatz_um1730.jpg",
                 "category": "Erinnerungen",
                 "sub-category": "",
@@ -249,7 +282,7 @@
                 "links": [
                     {
                         "url": "https://www.stadtentwicklung.berlin.de/denkmal/liste_karte_datenbank/de/denkmaldatenbank/daobj.php?obj_dok_nr=09097784",
-                        "title": "",
+                        "title": "Historie Mehringplatz",
                         "description": "",
                         "type": "website"
                     }
@@ -259,11 +292,11 @@
                     "ca/weltkrieg_ii_luftangriff#47"
                 ],
                 "created_date": "2019-11-23T04:19:54.664-08:00",
-                "updated_date": "2020-04-09T09:45:42.762-07:00",
+                "updated_date": "2020-04-10T04:03:37.017-07:00",
                 "weight": 0,
-                "image_credit": "Wikimedia"
+                "image_credit": "https://de.wikipedia.org/wiki/Mehringplatz#/media/Datei:Mehringplatz_um1730.jpg"
             },
-            "id": "ca/der_belle_alliance_platz_die_rondell_#45"
+            "id": "ca/der_belle_alliance_platz_das_rondell_#45"
         },
         {
             "type": "Feature",
@@ -322,7 +355,7 @@
                 "type": "Projekt",
                 "start_date": "2009-02-24T16:00:00.000-08:00",
                 "end_date": "2011-01-25T16:00:00.000-08:00",
-                "description": " Das Konzept „Kreative Raumpioniere am Mehringplatz“ geht aus dem Leitbildprozesses “Kreativquartier Südliche Friedrichstadt” hervor, der mit Unterstützung der bezirklichen Wirtschaftsförderung von Friedrichshain-Kreuzberg in den Jahren 2009 und 2010 durchgeführt wurde. Die Konzeption erfolgte in Kooperation mit dem Quartiersmanagement am Mehringplatz und unter Berücksichtigung der wohnungswirtschaftlichen Expertise der KUB Unternehmensberatung. \nZiele des Ansatzes „Kreative Raumpioniere am Mehringplatz“ sind:\n1. Die Schaffung von Wirkungsräumen für Kreativwirtschaft, Kultur und impulsgebende Gewerben\n2. Förderung von sozialer Vielfalt und Nutzungsvielfalt im Sozialraum Mehringplatz \n3. Etablierung von Begegnungsorten zwischen Kreatiwirtschaft und Bewohnern.",
+                "description": "Die Projektstudie „Kreative Raumpioniere am Mehringplatz“ geht aus dem Leitbildprozess “Kreativquartier Südliche Friedrichstadt” hervor, der mit Unterstützung der bezirklichen Wirtschaftsförderung von Friedrichshain-Kreuzberg in den Jahren 2009 und 2010 durchgeführt wurde. Beauftragt wurde die Projektstudie von der Wohnungsbaugesellschaft GEWOBAG. \n \nZiele der Projektstudie „Kreative Raumpioniere am Mehringplatz“ sind:\n1. Die Schaffung von Wirkungsräumen für Kreativwirtschaft, Kultur und impulsgebendem Gewerbe\n2. Förderung von sozialer Vielfalt und Nutzungsvielfalt im Sozialraum Mehringplatz \n3. Etablierung von Begegnungsorten zwischen Kreativwirtschaft und Bewohner:innen.",
                 "image": "https://i.ibb.co/sQJbBbz/Kreativ-quartier.png",
                 "category": "Visionen",
                 "sub-category": "Study",
@@ -345,12 +378,12 @@
                 "relationships": [
                     "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
                     "ca/quartiersmanagement_am_mehringplatz_#14",
-                    "ca/pxb_projektgruppe_x_blumenmarkt#17",
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
                     "ca/gewobag#53",
                     "ca/ehemalige_blumengro_markthalle_#65"
                 ],
                 "created_date": "2019-11-21T03:30:20.027-08:00",
-                "updated_date": "2020-04-06T10:42:46.131-07:00",
+                "updated_date": "2020-04-10T04:35:14.919-07:00",
                 "weight": 0,
                 "image_credit": "Urbanitas  - Projektbüro Kreativquartier S[dliche Friedrichstadt, Berlin 2011"
             },
@@ -415,7 +448,7 @@
                     }
                 ],
                 "relationships": [
-                    "ca/pxb_projektgruppe_x_blumenmarkt#17"
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
                 ],
                 "created_date": "2019-09-26T03:07:19.608-07:00",
                 "updated_date": "2020-03-27T04:53:38.518-07:00",
@@ -454,12 +487,12 @@
                     }
                 ],
                 "relationships": [
-                    "ca/pxb_projektgruppe_x_blumenmarkt#17",
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
                     "ca/kreative_raumpioniere_am_mehringplatz#41"
                 ],
                 "created_date": "2020-04-03T06:18:05.316-07:00",
-                "updated_date": "2020-04-09T13:40:34.798-07:00",
-                "weight": 0,
+                "updated_date": "2020-04-10T05:05:27.125-07:00",
+                "weight": -3,
                 "image_credit": "Photo Manuela Conti - oginoknauss"
             },
             "geometry": {
@@ -537,7 +570,7 @@
                     "ca/kma_e_v_#7"
                 ],
                 "created_date": "2020-03-13T09:34:25.393-07:00",
-                "updated_date": "2020-04-09T07:32:47.487-07:00",
+                "updated_date": "2020-04-10T04:07:28.448-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -680,7 +713,7 @@
                     }
                 ],
                 "relationships": [
-                    "ca/der_belle_alliance_platz_die_rondell_#45",
+                    "ca/der_belle_alliance_platz_das_rondell_#45",
                     "ca/gewobag#53",
                     "ca/kiezstube_mehringplatz#25",
                     "ca/caf_madame#26"
@@ -702,11 +735,158 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Milieuschutzgebiet - Soziales Erhaltungsgebiet Südliche Friedrichstadt",
+                "type": "Programm",
+                "start_date": "2017-06-15T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Die Mietpreise sind aufgrund des Bevölkerungszuwachses und der verstärkten Ansiedlung ausländischer Investor:innen deutlich gestiegen. Deswegen sind viele Bewohner:innen bedroht, ihren Haushalt zu verlieren, was insbesondere für Menschen mit geringem Einkommen gilt. Das hat auch zur Folge, dass sich die Bevölkerungszusammensetzung eines Quartiers verändert und tendenziell homogener wird. Deshalb hat die Stadt das Förderprogramm \"Soziale Erhaltungsverordnungen\" - auch \"Milieuschutzgebiet\" genannt - eingeführt. Ziel dieser Regelung ist es, zu verhindern, dass ärmere Bewohner:innen durch Luxusmodernisierungen oder durch Umwandlung von Miet- in Eigentumswohnungen aus ihrem Kiez verdrängt werden. So soll die durchmischte Zusammensetzung der Nachbarschaft geschützt und erhalten werden.\n\nIm Baugesetzbuch § 172 ist geregelt, unter welchen Voraussetzungen ein Antrag zum \"Milieuschutzgebiet\" stattgegeben wird.\nDie \"Südliche Friedrichstadt\" wurde 2017 zum Milieuschutzgebiet erklärt und ist somit 1 von 61 in Berlin geschützten Gebieten. ",
+                "image": "https://i.ibb.co/hgkZv1p/Milieuschutzgebiet-SF.png",
+                "category": "Gebiet",
+                "sub-category": "social policy",
+                "tags": [
+                    "soziale Inklusion",
+                    "Stadterneuerung",
+                    "Urbanität",
+                    "Stadtpolitik",
+                    "Erbe"
+                ],
+                "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
+                "links": [
+                    {
+                        "url": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/gruppe-infrastruktur-und-staedtebaufoerderung/aktuelles/suedliche-friedrichstadt-erhaltungsgebiet-gem-172-abs-1-nr-2-baugb-milieuschutz-600453.php",
+                        "title": "Südliche Friedrichstadt Erhaltungsverordnung ",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/staedtebaufoerderung/erhaltungsgebiete/milieuschutzgebiete-492487.php",
+                        "title": "Erhaltungsverordnung Wissenswertes",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
+                ],
+                "created_date": "2019-11-20T10:18:28.481-08:00",
+                "updated_date": "2020-04-10T03:31:56.855-07:00",
+                "weight": 0,
+                "image_credit": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/gruppe-infrastruktur-und-staedtebaufoerderung/aktuelles/suedliche-friedrichstadt-erhaltungsgebiet-gem-172-abs-1-nr-2-baugb-milieuschutz-600453.php"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.388535,
+                            52.49415
+                        ],
+                        [
+                            13.395292,
+                            52.494459
+                        ],
+                        [
+                            13.395058,
+                            52.496312
+                        ],
+                        [
+                            13.396425,
+                            52.495979
+                        ],
+                        [
+                            13.396972,
+                            52.496692
+                        ],
+                        [
+                            13.395175,
+                            52.497
+                        ],
+                        [
+                            13.395917,
+                            52.49833
+                        ],
+                        [
+                            13.395761,
+                            52.498995
+                        ],
+                        [
+                            13.396503,
+                            52.49928
+                        ],
+                        [
+                            13.399511,
+                            52.504672
+                        ],
+                        [
+                            13.396855,
+                            52.505526
+                        ],
+                        [
+                            13.395214,
+                            52.503294
+                        ],
+                        [
+                            13.39498,
+                            52.503508
+                        ],
+                        [
+                            13.394589,
+                            52.504861
+                        ],
+                        [
+                            13.39166,
+                            52.504529
+                        ],
+                        [
+                            13.391777,
+                            52.504292
+                        ],
+                        [
+                            13.390957,
+                            52.504173
+                        ],
+                        [
+                            13.390996,
+                            52.503175
+                        ],
+                        [
+                            13.388769,
+                            52.503128
+                        ],
+                        [
+                            13.385176,
+                            52.502297
+                        ],
+                        [
+                            13.389004,
+                            52.499138
+                        ],
+                        [
+                            13.389551,
+                            52.495623
+                        ],
+                        [
+                            13.388926,
+                            52.494269
+                        ],
+                        [
+                            13.388535,
+                            52.49415
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "ZLB - Amerika-Gedenkbibliothek",
                 "type": "Organisation",
                 "start_date": "",
                 "end_date": "",
-                "description": "Die Zentral- und Landesbibliothek Berlin (ZLB) hat mit der Amerika-Gedenkbibliothek (AGB) einen ihrer beiden Sitze nahe des Mehringplatzes. An diesem Standort wird Wissen über diverse Medien beispielsweise aus den Abteilungen Geisteswissenschaften oder Bildende Kunst zugänglich gemacht. Neben der Wissensvermittlung versteht sich die AGB auch als einen Bildungsort, weswegen es auch ein Lernzentrum, eine Kinder- und Jugendbibliothek oder eine Musikbibliothek beherbergt.\n\nVorschlag (Arthur 07.02):                                                                                                                                                                                                                                                                                                        Die Stiftung Zentral- und Landesbibliothek Berlin (ZLB) ist die größte Öffentliche Bibliothek Deutschlands. Ihre beiden Standorte sind die Amerika-Gedenkbibliothek (AGB) in Berlin-Kreuzberg und die Berliner Stadtbibliothek (BStB) in Berlin-Mitte.  \n\nDie Amerika-Gedenkbibliothek - wochentags von 10.00 bis 21.00 Uhr geöffnet - konzentriert sich auf die geisteswissenschaftlichen Fachgebiete und die „schönen“ Künste. Sie besteht auch viele Bücher oder Medien auf Belletristik, Filme, Musik und eine Artothek. Hier ist auch die Kinder- und Jugendbibliothek mit dem Lernzentrum angesiedelt.\n\nJeden Sonntag von 11.00 – 17.00 Uhr ist die Amerika-Gedenkbibliothek geöffnet und biet eines wöchentlich wechselnden Veranstaltungsprogramms: https://www.zlb.de/veranstaltungen/agbsonntagsoffen.html. Wenn Sie auch Ideen für das Programm haben oder selbst einen Veranstaltungspunkt anbieten möchten, können Sie eine E-mail schicken an: sonntagsbureau@berlin.de\n\nIn Zukunft werden die beiden Standorte der ZLB zusammengelegt und die neue Bibliothek am heutigen Standort die Amerika-Gedenkbibliothek untergebracht wird. Die neue Bibliothek wird ein öffentlicher Raum, frei von kommerziellen Interessen und der Baubeginn wird im 2026 anfangen.",
+                "description": "Die Stiftung Zentral- und Landesbibliothek Berlin (ZLB) ist die größte Öffentliche Bibliothek Deutschlands. Ihre beiden Standorte sind die Amerika-Gedenkbibliothek (AGB) in Berlin-Kreuzberg nahe des Mehringplatzes und die Berliner Stadtbibliothek (BStB) in Berlin-Mitte.  \n\nDie Amerika-Gedenkbibliothek ist wochentags von 10.00 bis 21.00 Uhr geöffnet. Der Standort ist auf geisteswissenschaftliche Fachgebiete und die „schönen“ Künste spezialisiert. Es finden sich allerdings auch eine Vielzahl von Büchern zu anderen Themen und Genres sowie Filme, Musik und eine Artothek. Hier ist auch die Kinder- und Jugendbibliothek mit einem Lernzentrum angesiedelt.\n\nJeden Sonntag von 11.00 – 17.00 Uhr ist die Amerika-Gedenkbibliothek geöffnet und bietet ein wöchentlich wechselndes Veranstaltungsprogramm an. Wenn Sie auch Ideen für das Programm haben oder selbst einen Veranstaltungspunkt anbieten möchten, können Sie eine E-Mail schicken an: sonntagsbureau@berlin.de\n\nZudem bietet die Amerika-Gedenkbibliothek einen Lesesaal mit kostenlosen Zeitungen und Zeitschriften sowie einen Klavierraum zum Musizieren an. ",
                 "image": "https://i.postimg.cc/28sSnvr9/agb.jpg",
                 "category": "Personen",
                 "sub-category": "Public cultural institutions",
@@ -714,23 +894,32 @@
                     "Kultur",
                     "Architektur",
                     "Medien",
-                    "#r13",
                     "gemeinschaftlich",
                     "mündliche Geschichten",
-                    "Veranstaltung"
+                    "Veranstaltung",
+                    "Öffentlicher Raum",
+                    "Jugend",
+                    "Musik",
+                    "Sprache"
                 ],
                 "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
                     {
                         "url": "https://www.zlb.de",
-                        "title": "",
+                        "title": "Zentralbibliothek Berlin",
                         "description": "",
-                        "type": ""
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.zlb.de/veranstaltungen/agbsonntagsoffen.html",
+                        "title": "Sonntagsbureau Veranstaltungsprogramm",
+                        "description": "",
+                        "type": "website"
                     }
                 ],
                 "relationships": [],
                 "created_date": "2019-10-30T03:56:51.891-07:00",
-                "updated_date": "2020-02-07T04:15:07.021-08:00",
+                "updated_date": "2020-04-10T03:46:58.445-07:00",
                 "weight": 0,
                 "image_credit": "http://text-der-stadt.blogspot.com/2014/09/facelifting-die-amerika.html"
             },
@@ -1213,33 +1402,39 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "KMA E.V.",
+                "title": "KMA e.V.",
                 "type": "Organisation",
                 "start_date": "1987-03-12T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "Die Kreuzberger Musikalische Aktion e.V. ist eine gemeinnützige Initiative und anerkannter freier Träger der Kinder- und Jugendhilfe. Gegründet von Künstlerinnen und Künstlern, Sozialarbeiterinnen und Sozialarbeitern, Lehrerinnen und Lehrern und vielen anderen, die mit ihrer jeweiligen Kompetenz präventiv gegen Gewalt, Kinder- und Jugendkriminalität, Drogensucht und sexuellen Missbrauch von Kindern und Jugendlichen arbeiten.\n\nSeit über dreißig Jahren wollen sie mit ihre Projekten (Musik, Multimedia, Theater, Sport, kreatives Gestalten...) Kinder- und Jugend helfen ihre Potenziale zu entdecken und ihre Fähigkeiten auszuprägen. Sie motivieren auch junge arbeitslose Menschen bei ihrem Berufseinstieg in ihren Werkstätten und Projekträumen.  \n\nDie KMA e.V. besteht aus drei Orte:\nErstens, die KMAntenne in der Friedrichstraße 2-3, an dem es Aktivitäten im Bereich Tanz, Musik, Theater und Multimedia gibt. Zweitens und direkt daneben gibt es das Intihaus. Hier sind zahlreiche Initiativen, Vereine und Projekte, ebenso wie die Kiezküche \"Kantine Kreuzberg\". Drittens und seit 2012 das Statthaus Böcklerpark, liegt direkt am Landwehrkanal, das ein großes Außengelände für Sportakitvitäten und einen großen Veranstaltungssaal und viele Räume für Workshops hat.\n",
+                "description": "Die Kreuzberger Musikalische Aktion e.V. ist eine gemeinnützige Initiative und anerkannter freier Träger der Kinder- und Jugendhilfe. Gegründet u.a. von Künstler:innen, Sozialarbeiter:innen und Lehrer:innen, die mit ihren jeweiligen Kompetenzen präventiv gegen Gewalt, Kinder- und Jugendkriminalität, Drogensucht und sexuellen Missbrauch von Kindern und Jugendlichen arbeiten.\n\nSeit über dreißig Jahren unterstützt die Initiative mit ihren Projekten (Musik, Multimedia, Theater, Sport, kreatives Gestalten...) Kinder und Jugendliche dabei, ihre Potenziale zu entdecken und ihre Fähigkeiten zu entwickeln. Sie unterstützen auch junge arbeitslose Menschen beim Berufseinstieg durch die Nutzung ihrer Werkstätten und Projekträume.  \n\nDie KMA e.V. ist an drei Standorten vertreten:\nAls KMAntenne in der Friedrichstraße 2-3 mit Aktivitäten im Bereich Tanz, Musik, Theater und Multimedia. Zudem sind sie direkt daneben im Intihaus, wo zahlreiche Initiativen, Vereine und Projekte vertreten sind wie die Kiezküche \"Kantine Kreuzberg\". Seit 2012 ist KMA e.V. zudem im Statthaus Böcklerpark am Landwehrkanal, wo es ein großes Außengelände für Sportakitvitäten und viele Räume für Workshops gibt.",
                 "image": "https://kma-ev.de/typo3conf/ext/template_provider/Resources/Public/Images/logo_orange.png",
                 "category": "Personen",
                 "sub-category": "NGO/Social work",
                 "tags": [
                     "Jugend",
                     "Kultur",
-                    "soziale Inklusion"
+                    "soziale Inklusion",
+                    "Musik",
+                    "Medien",
+                    "Ausbildung"
                 ],
                 "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
                     {
-                        "url": "http://kma-ev.de/index.php?id=5",
-                        "title": "",
+                        "url": "https://kma-ev.de/kma-ev",
+                        "title": "KMA e.V.",
                         "description": "",
                         "type": "website"
                     }
                 ],
-                "relationships": [],
+                "relationships": [
+                    "ca/kmantenne#59",
+                    "ca/h_town_tour#56"
+                ],
                 "created_date": "2019-09-25T07:36:57.647-07:00",
-                "updated_date": "2020-03-27T01:45:37.490-07:00",
+                "updated_date": "2020-04-10T04:24:41.197-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "https://www.google.com/search?q=KMA+e.V.+berlin&rlz=1C1CHBF_deDE716DE716&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi9vceQ393oAhWpwsQBHVwqByIQ_AUoBHoECBIQBg&biw=1280&bih=610#imgrc=NkSlDQ95MBOtIM"
             },
             "geometry": {
                 "type": "Point",
@@ -1257,7 +1452,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-04-09T21:28:29.322Z",
+        "published": "2020-04-10T12:10:15.646Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1267,7 +1462,7 @@
                 "type": "translation"
             }
         ],
-        "version": 58,
+        "version": 59,
         "taxonomy": [
             {
                 "category": "Rundgang",
@@ -1370,7 +1565,7 @@
     "relationships": [
         {
             "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/pxb_projektgruppe_x_blumenmarkt#17"
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
         },
         {
             "from": "ca/ehemalige_blumengro_markthalle_#65",
@@ -1390,7 +1585,7 @@
         },
         {
             "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
-            "to": "ca/pxb_projektgruppe_x_blumenmarkt#17"
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
         },
         {
             "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
@@ -1421,11 +1616,11 @@
             "to": "ca/mehringplatz#39"
         },
         {
-            "from": "ca/der_belle_alliance_platz_die_rondell_#45",
+            "from": "ca/der_belle_alliance_platz_das_rondell_#45",
             "to": "ca/mehringplatz#39"
         },
         {
-            "from": "ca/der_belle_alliance_platz_die_rondell_#45",
+            "from": "ca/der_belle_alliance_platz_das_rondell_#45",
             "to": "ca/weltkrieg_ii_luftangriff#47"
         },
         {
@@ -1442,7 +1637,7 @@
         },
         {
             "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "ca/pxb_projektgruppe_x_blumenmarkt#17"
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
         },
         {
             "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
@@ -1454,7 +1649,7 @@
         },
         {
             "from": "ca/mehringplatz#39",
-            "to": "ca/der_belle_alliance_platz_die_rondell_#45"
+            "to": "ca/der_belle_alliance_platz_das_rondell_#45"
         },
         {
             "from": "ca/mehringplatz#39",
@@ -1467,6 +1662,14 @@
         {
             "from": "ca/mehringplatz#39",
             "to": "ca/caf_madame#26"
+        },
+        {
+            "from": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "from": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+            "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
         },
         {
             "from": "ca/die_globale_e_v_#27",
@@ -1502,7 +1705,7 @@
         },
         {
             "from": "ca/bauh_tte#16",
-            "to": "ca/pxb_projektgruppe_x_blumenmarkt#17"
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
         },
         {
             "from": "ca/quartiersmanagement_am_mehringplatz_#14",
@@ -1523,6 +1726,14 @@
         {
             "from": "ca/besselpark_sanierung#11",
             "to": "ca/mehringplatz_umbau_im_baustelle_#62"
+        },
+        {
+            "from": "ca/kma_e_v_#7",
+            "to": "ca/kmantenne#59"
+        },
+        {
+            "from": "ca/kma_e_v_#7",
+            "to": "ca/h_town_tour#56"
         }
     ]
 }

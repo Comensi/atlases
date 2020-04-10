@@ -423,6 +423,40 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Projektgruppe am Ex-Blumenmarkt (PxB)",
+                "type": "Projekt",
+                "start_date": "2012-11-30T16:00:00.000-08:00",
+                "end_date": "2019-09-26T03:00:00.000-07:00",
+                "description": "Die Projektgruppe am Ex-Blumengroßmarkt (PxB) ist aus Berlins erstem konzeptbasierten Immobilienvergabeprozess hervorgegangen. Die Projektgruppe ist ein Zusammenschluss aus Architekt:innen und Planer:innen, die an der Entwicklung der Baustellen II, IV und V auf dem ehemaligen Blumengroßmarkt mitwirken. \n\r\nZiel der Projektgruppe ist es, mit der Nachbarschaft, dem Senat und dem Bezirk Friedrichshain-Kreuzberg im Dialog zu den jeweiligen Bauprojekten zu sein und so gemeinschaftlich über die künftige Nutzung zu entscheiden und diese modellhaft umzusetzen. Die Preisentscheidung war im Dezember 2012. Mittlerweile ist die bauliche Entwicklung des Ex-Blumengroßmarktes größtenteils abgeschlossen.",
+                "image": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Privater Raum",
+                "tags": [],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "https://www.metropolenhaus.de/ex-blumengrossmarkt-pxb/",
+                        "title": "Projektgruppe am Ex-Blumengroßmarkt",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/bauh_tte#16",
+                    "ca/taz_neubau#10",
+                    "ca/metropolenhaus_am_judisches_museum#19",
+                    "ca/ehemalige_blumengro_markthalle_#65"
+                ],
+                "created_date": "2019-09-26T03:29:19.999-07:00",
+                "updated_date": "2020-04-10T06:04:42.268-07:00",
+                "weight": 0,
+                "image_credit": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg"
+            },
+            "id": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "BAUHÜTTE",
                 "type": "Gebäude",
                 "start_date": "2015-04-30T16:00:00.000-07:00",
@@ -1452,7 +1486,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-04-10T12:10:15.646Z",
+        "published": "2020-04-10T13:15:03.430Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1462,7 +1496,7 @@
                 "type": "translation"
             }
         ],
-        "version": 59,
+        "version": 60,
         "taxonomy": [
             {
                 "category": "Rundgang",
@@ -1702,6 +1736,22 @@
         {
             "from": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
             "to": "ca/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
+            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+            "to": "ca/bauh_tte#16"
+        },
+        {
+            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+            "to": "ca/taz_neubau#10"
+        },
+        {
+            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+            "to": "ca/metropolenhaus_am_judisches_museum#19"
+        },
+        {
+            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+            "to": "ca/ehemalige_blumengro_markthalle_#65"
         },
         {
             "from": "ca/bauh_tte#16",

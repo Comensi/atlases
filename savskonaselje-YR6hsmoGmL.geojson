@@ -1,29 +1,5 @@
 {
     "type": "FeatureCollection",
-    "nonGeoFeatures": [
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Jordan kozmetika",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2020-03-25T07:37:17.917-07:00",
-                "updated_date": "2020-03-25T07:37:38.856-07:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "ca/jordan_kozmetika#97"
-        }
-    ],
     "features": [
         {
             "type": "Feature",
@@ -32,19 +8,19 @@
                 "type": "Place",
                 "start_date": "",
                 "end_date": "",
-                "description": "V lokalu strežejo najboljšo kavico in vročo čokolado v naselju.\nOdpiralni čas: vsak dan 7:00 - 23:00",
+                "description": "Po savskih ulicah se širi vest, da se najboljšo kavico in vročo čokolado dobi na drugi strani Linhartove. Primerno tudi za nastavljanje sončnim žarkom.\nOdpiralni čas: vsak dan 8:00 - 23:00",
                 "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t1.0-9/82018575_2296167690488543_2811180181132148736_n.jpg?_nc_cat=107&_nc_sid=110474&_nc_oc=AQkznJ-CDo76ReFvsGnTR3DfwvqYoobQhj9nWj7_vb2DIibdAuB7OBTEVy3vBeSCpOE&_nc_ht=scontent.flju2-1.fna&oh=c37828507f9027ee7052ba18c6ca92e1&oe=5EA2BF8F",
-                "category": "Ponudba",
-                "sub-category": "",
+                "category": "Savski lajf",
+                "sub-category": "Lokal",
                 "tags": [
                     "ponudba",
                     "skupnost"
                 ],
-                "category-description": "",
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-03-25T07:52:58.810-07:00",
-                "updated_date": "2020-03-25T07:58:54.583-07:00",
+                "updated_date": "2020-04-22T05:45:33.083-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -64,18 +40,18 @@
                 "type": "Place",
                 "start_date": "",
                 "end_date": "",
-                "description": "Salon Jordan sredi Savskega naselja poskrbi nego obraza ali telesa. Zanesete se lahko na profesionalno opravljene storitve z nasmehom.\nOdpiralni čas: od ponedeljka do sobote po dogovoru\nKontakt: 01 437 02 60 ali 051 435 200",
+                "description": "Za lepoto ni potrebno iti daleč! Salon Jordan sredi Savskega naselja poskrbi za depilacijo, pedikuro, nego obraza ali telesa. Zanesete se lahko na profesionalno opravljene storitve z nasmehom.\nOdpiralni čas: od ponedeljka do sobote po dogovoru\nKontakt: 01 437 02 60 ali 051 435 200",
                 "image": "https://images.unsplash.com/photo-1519415510236-718bdfcd89c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-                "category": "Storitve",
+                "category": "Savski majstri",
                 "sub-category": "",
                 "tags": [
                     "storitev"
                 ],
-                "category-description": "",
+                "category-description": "Lokalne storitve in prostori, ki vam pomagajo pri vsakodnevnih zagatah",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-03-25T07:37:51.939-07:00",
-                "updated_date": "2020-03-25T07:52:16.355-07:00",
+                "updated_date": "2020-04-22T05:44:48.336-07:00",
                 "weight": 0,
                 "image_credit": "Unsplah"
             },
@@ -95,18 +71,18 @@
                 "type": "Place",
                 "start_date": "",
                 "end_date": "",
-                "description": "V šiviljski popravljalnici Nika vam natančno, iznajdljivo in poceni popravijo vaša najljubša oblačila.\nOdpiralni čas: ponedeljek in torek 16:00 - 19:00, četrtek in petek 9:00 - 12:00",
+                "description": "Ni vse za v smeti, kar se strga. V šiviljski popravljalnici Nitka vam natančno, iznajdljivo in poceni rešijo vsa vaša najljubša oblačila.\nOdpiralni čas: ponedeljek in torek 16:00 - 19:00, četrtek in petek 9:00 - 12:00",
                 "image": "https://images.unsplash.com/photo-1517840545241-b491010a8af4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-                "category": "Storitve",
-                "sub-category": "",
+                "category": "Savski majstri",
+                "sub-category": "Majstri in majstrice",
                 "tags": [
                     "storitev"
                 ],
-                "category-description": "",
+                "category-description": "Lokalne storitve in prostori, ki vam pomagajo pri vsakodnevnih zagatah",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-03-25T07:31:34.732-07:00",
-                "updated_date": "2020-03-25T07:40:08.921-07:00",
+                "updated_date": "2020-04-22T05:46:15.001-07:00",
                 "weight": 0,
                 "image_credit": "Unsplah"
             },
@@ -126,19 +102,19 @@
                 "type": "Place",
                 "start_date": "",
                 "end_date": "",
-                "description": "V Samopopravljalnici vas brezplačno naučijo, kako si lahko sami popravite kolo. Tam najdete potrebne rezervne dele in orodje, pri popravilu pa vam pomaga serviser Janez iz Savskega naselja.\nOdpiralni čas: vsako sredo 12:00 - 13:00 \nKontakt: 041849356",
+                "description": "Ni prave soseske brez kolesarskega mojstra. Za pomoč pokličite Janeza iz Savca ali ga poiščite vsako sredo v samopopravljalnici Bike Kitchen, kjer vas bo naučil vseh majsterskih trikov.\nOdpiralni čas: vsako sredo 12:00 - 13:00 \nKontakt: 041849356",
                 "image": "https://scontent.flju2-2.fna.fbcdn.net/v/t1.0-9/26167312_1675770539132839_7595705252659379022_n.jpg?_nc_cat=104&_nc_sid=110474&_nc_oc=AQmlJeB9cV17XaHOcgnKYjh9kM_ksao0NWkWrDk-G_c225hp9jK1knU3xTg2SomFWxY&_nc_ht=scontent.flju2-2.fna&oh=335b786b520de1ab22d316b5a1fe3d9d&oe=5E9F22E9",
-                "category": "Storitve",
-                "sub-category": "",
+                "category": "Savski majstri",
+                "sub-category": "Majstri in majstrice",
                 "tags": [
                     "skupnost",
                     "storitev"
                 ],
-                "category-description": "",
+                "category-description": "Lokalne storitve in prostori, ki vam pomagajo pri vsakodnevnih zagatah",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-03-25T07:15:43.572-07:00",
-                "updated_date": "2020-03-25T07:40:19.721-07:00",
+                "updated_date": "2020-04-22T05:46:37.826-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -200,19 +176,19 @@
                 "end_date": "",
                 "description": "Leta 2013 je bil v Savskem naselju izdelan manjši poskusni skupnostni vrt, na katerem so se prebivalci začeli družiti in skupaj skrbeti za rastočo zelenjavo. Vrtički še vedno živijo in so na voljo vsem, ki bi jih želeli urejati. Trenutno za redno vzdrževanje skrbijo človekINJE.",
                 "image": "https://scontent.flju2-2.fna.fbcdn.net/v/t31.0-8/11174642_232579663579119_809370943988523416_o.jpg?_nc_cat=104&_nc_sid=e007fa&_nc_oc=AQlQ4brJ3sbC8tTaZjIoM0-ZKz97ssH9Ce0NQuoBGCJMxsM5S3HMWDDR1p24IdcdPnk&_nc_ht=scontent.flju2-2.fna&oh=b3215a32119170a30be8b23daad3b2ee&oe=5EB0F995",
-                "category": "Transformations",
-                "sub-category": "Public space",
+                "category": "Savski lajf",
+                "sub-category": "Kul prostorček",
                 "tags": [
                     "skupnost",
                     "javni prostor"
                 ],
-                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [],
                 "relationships": [
                     "ca/urbani_sadovnjak_in_otro_ko_igri_e#73,ca/vizija_za_javni_prostor_soseske#74,ca/_lovekinje#79"
                 ],
                 "created_date": "2020-02-28T05:07:51.573-08:00",
-                "updated_date": "2020-04-07T07:58:39.944-07:00",
+                "updated_date": "2020-04-22T05:53:13.901-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -235,16 +211,16 @@
                 "description": "Leta 2015 je prostoRož v sodelovanju s prebivalci prenovil zunanje prostore Doma skupnosti v Savskem naselju v Ljubljani ter vzpostavili prvo “dvorišče za sosesko”. Dvorišče na voljo na uporabo vsem, ki ga potrebujete.",
                 "image": "https://bit.ly/2TnGy1V",
                 "category": "Savski lajf",
-                "sub-category": "Public space",
+                "sub-category": "Kul prostorček",
                 "tags": [
                     "javni prostor",
                     "skupnost"
                 ],
-                "category-description": "",
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-02-28T04:26:44.660-08:00",
-                "updated_date": "2020-02-28T04:44:33.776-08:00",
+                "updated_date": "2020-04-22T05:43:41.958-07:00",
                 "weight": 0,
                 "image_credit": "Rok Hočevar"
             },
@@ -317,12 +293,12 @@
                 "description": "Učenje in rekreativna vadba Qigong in Taijiquan. Vsak četrtek ob 18. 00 v Knjižnici REČI.",
                 "image": "https://bit.ly/2wN5nwt",
                 "category": "Savski lokalci",
-                "sub-category": "NGO/Social work",
+                "sub-category": "Kulturno društvo",
                 "tags": [
                     "društvo",
                     "skupnost"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Organizacije, društva in aktivni posamezniki, ki delujejo v Savskem naselju",
                 "links": [
                     {
                         "url": "http://taichi-sola.si/",
@@ -335,7 +311,7 @@
                     "ca/knji_nica_re_i#72"
                 ],
                 "created_date": "2020-02-27T05:31:21.094-08:00",
-                "updated_date": "2020-02-27T05:36:02.963-08:00",
+                "updated_date": "2020-04-22T05:43:33.827-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -358,11 +334,11 @@
                 "description": "Začetki Orkestra Mandolina Ljubljana segajo v leto 1974, ko je bila na pobudo Slavka Kokalja pod okriljem Zveze borcev NOV ustanovljena manjša mandolinistična skupina. Število članov z leti ves čas narašča in trenutno jih je približno trideset. Vadijo v prostorih Doma skupnosti.",
                 "image": "http://1301.nccdn.net/4_4/000/000/280/0a7/16968_1317984457_156_16968.jpg",
                 "category": "Savski lokalci",
-                "sub-category": "Public cultural institutions",
+                "sub-category": "Kulturno društvo",
                 "tags": [
                     "kultura"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Organizacije, društva in aktivni posamezniki, ki delujejo v Savskem naselju",
                 "links": [
                     {
                         "url": "http://www.mandolina.si/domov.html",
@@ -375,7 +351,7 @@
                     "ca/dom_skupnosti_savsko_naselje#78"
                 ],
                 "created_date": "2020-02-27T05:21:13.933-08:00",
-                "updated_date": "2020-02-27T05:36:23.308-08:00",
+                "updated_date": "2020-04-22T05:43:29.992-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -398,13 +374,13 @@
                 "description": "Folklorna skupina Emona ohranja bogato slovensko plesno, glasbeno in pevsko izročilo, z izvirnimi kostumi in starimi glasbili. Skupina vadi v prostorih Doma skupnosti.",
                 "image": "https://kd-fsemona.si/wp-content/uploads/2017/01/Emona_Web_1.png",
                 "category": "Savski lokalci",
-                "sub-category": "NGO/Social work",
+                "sub-category": "Kulturno društvo",
                 "tags": [
                     "društvo",
                     "kultura",
                     "skupnost"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Organizacije, društva in aktivni posamezniki, ki delujejo v Savskem naselju",
                 "links": [
                     {
                         "url": "https://kd-fsemona.si/",
@@ -417,7 +393,7 @@
                     "ca/dom_skupnosti_savsko_naselje#78"
                 ],
                 "created_date": "2020-02-27T05:13:57.016-08:00",
-                "updated_date": "2020-02-27T05:36:27.656-08:00",
+                "updated_date": "2020-04-22T05:43:25.573-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -437,15 +413,15 @@
                 "type": "Organization",
                 "start_date": "1997-02-26T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "Glavno poslanstvo Spominčice je, da pomaga svojcem obolelih za demenco, ki so pri tej bolezni izpostavljeni hudemu psihičnemu in fizičnemu izčrpavanju ter povezuje stroko z javnostjo.",
+                "description": "Spominčica nudi podporo, pomoč in informacije svojcem oseb z demenco. Za nasvet so na voljo v živo ali preko telefona, pripravljajo pa tudi številne delavnice in dogodke za vse, ki želijo narediti kaj dobrega za svoje možgane.\nOdpiralni čas: ponedeljek - petek, 9:00 - 16:00",
                 "image": "https://www.napovednik.com/pic/i/1/647/_570f58e78237d.jpg",
                 "category": "Savski lokalci",
-                "sub-category": "NGO/Social work",
+                "sub-category": "Nevladna organizacija",
                 "tags": [
                     "društvo",
                     "skupnost"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Organizacije, društva in aktivni posamezniki, ki delujejo v Savskem naselju",
                 "links": [
                     {
                         "url": "https://www.youtube.com/watch?list=UUaLIS4D_OPQLzL_YGIF2nDw&v=a_owxKcbsMI&feature=emb_title",
@@ -456,7 +432,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-02-27T05:00:56.812-08:00",
-                "updated_date": "2020-02-27T05:07:09.428-08:00",
+                "updated_date": "2020-04-22T05:53:03.427-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -479,12 +455,12 @@
                 "description": "Kulturno umetniško društvo Mladost je društvo, ki se ukvarja z ohranjanjem srbske tradicije in kulture. Osnovna dejavnost društva je folklora – učenje plesov in pesmi, ukvarjajo pa se tudi z literarnim in dramskim ustvarjanjem ter na športnimi aktivnostmi. Delujejo v Domu skupnosti.",
                 "image": "http://kud-mladost.net/wp-content/gallery/scena/ART_4533.JPG",
                 "category": "Savski lokalci",
-                "sub-category": "",
+                "sub-category": "Kulturno društvo",
                 "tags": [
                     "društvo",
                     "kultura"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Organizacije, društva in aktivni posamezniki, ki delujejo v Savskem naselju",
                 "links": [
                     {
                         "url": "http://kud-mladost.net/",
@@ -497,7 +473,7 @@
                     "ca/dom_skupnosti_savsko_naselje#78"
                 ],
                 "created_date": "2020-02-27T04:56:20.406-08:00",
-                "updated_date": "2020-02-27T05:36:31.802-08:00",
+                "updated_date": "2020-04-22T05:43:19.451-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -520,11 +496,11 @@
                 "description": "Bivalna enota, namenjena začasni nastanitvi socialno najbolj ogroženih oseb",
                 "image": "https://www.dnevnik.si/i/as/2019/07/24/1191889.jpg",
                 "category": "Savski lokalci",
-                "sub-category": "NGO/Social work",
+                "sub-category": "Nevladna organizacija",
                 "tags": [
                     "skupnost"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Organizacije, društva in aktivni posamezniki, ki delujejo v Savskem naselju",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-02-27T04:49:59.454-08:00",
@@ -551,12 +527,12 @@
                 "description": "Vrtec Mladi rod ima v Savskem naselju 2 enoti - Čira Čara (Belokranjska 27) in Mavrica (Savska 1). Pred vhodom Mavrica se nahaja tabla z dogodki v Domu skupnosti in Knjižnici REČI.",
                 "image": "https://www.ljubljana.si/assets/Uploads/_resampled/FillWyIxMjAwIiwiNjIwIl0/181108-otvoritev-energetsko-obnovljenega-Vrteca-Mladi-rod-nrovan-001.jpg",
                 "category": "Savski lokalci",
-                "sub-category": "Public cultural institutions",
+                "sub-category": "Javna ustanova",
                 "tags": [
                     "otroci",
                     "skupnost"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Organizacije, društva in aktivni posamezniki, ki delujejo v Savskem naselju",
                 "links": [
                     {
                         "url": "https://www.vrtec-mladirod.si/",
@@ -595,16 +571,16 @@
                 "type": "Project",
                 "start_date": "2013-12-31T16:00:00.000-08:00",
                 "end_date": "2014-10-29T17:00:00.000-07:00",
-                "description": "Filipovo igrišče je dobilo po pokojnem košarkarju, Filipu Štembergerju iz Savskega naselja. Od leta 2014 na njem v spomin na Filipa poteka vsakoletni košarkaški turnir - Filipov turnir. Obnova in poslikava Filipovega dvorišča se je zgodila na pobudo in s podporo mame pokojnega košarkaša Filipa Štembergerja iz Savskega naselja.\r Prenova se je načrtovala skupaj z glasbenikom Rokom Terkajem in otroci sedmega razreda OŠ Savsko naselje. Poslikava je delo Klana 1107. ",
+                "description": "Ne mine dan, ko se na Filipovem igrišču ne bi odvila napeta košarkarska igra! Igrišče je dobilo ime po pokojnem košarkarju, Filipu Štembergerju iz Savskega naselja. Od leta 2014 tukaj v spomin na Filipa poteka tudi vsakoletni košarkarski turnir. Obnova in poslikava igrišča se je zgodila na pobudo in s podporo mame pokojnega košarkaša Filipa ob podpori glasbenika Roka Terkajem in otrok sedmega razreda OŠ Savsko naselje. Poslikava je delo Klana 1107. ",
                 "image": "https://prostoroz.org/wp-content/uploads/2016/09/DSC_4655-e1520948547507.jpg",
-                "category": "Transformations",
-                "sub-category": "Public space",
+                "category": "Savski lajf",
+                "sub-category": "Javni prostor",
                 "tags": [
                     "javni prostor",
                     "otroci",
                     "šport"
                 ],
-                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [
                     {
                         "url": "https://www.youtube.com/watch?v=NnI-Eae8mJ8",
@@ -615,7 +591,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-02-27T02:29:46.537-08:00",
-                "updated_date": "2020-03-03T02:30:02.142-08:00",
+                "updated_date": "2020-04-22T05:51:01.791-07:00",
                 "weight": 0,
                 "image_credit": "Matjaz Tancic"
             },
@@ -638,12 +614,12 @@
                 "description": "Osnovna šola Savsko naselje deluje od leta 1958, ko so jo obiskali prvi učenci. Pred vhodom se nahaja tabla z dogodki v Domu skupnosti in Knjižnici REČI.",
                 "image": "https://www.slovenskenovice.si/images/slike/dti_import/2013/09/27/o_image_9299626_0_1024.jpg",
                 "category": "Savski lokalci",
-                "sub-category": "Public cultural institutions",
+                "sub-category": "Javna ustanova",
                 "tags": [
                     "otroci",
                     "skupnost"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Organizacije, društva in aktivni posamezniki, ki delujejo v Savskem naselju",
                 "links": [
                     {
                         "url": "https://www.facebook.com/ossavskonaselje/",
@@ -682,16 +658,16 @@
                 "type": "Project",
                 "start_date": "2016-02-26T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "ČlovekINJE so skupina strokovnih sodelavk, ki v okviru Zavoda BOB izvajajo preventivno terensko delo, usmerjeno v skupnost. V lepem vremenu jih najdete vsak torek na Šerkcu, kjer organizirajo različne aktivnosti za otroke in mlade ter občanso skrbijo za skupnostne vrtove.",
+                "description": "ČlovekINJE so skupina strokovnih sodelavk, ki v okviru Zavoda BOB izvajajo preventivno terensko delo, usmerjeno v skupnost. V lepem vremenu jih najdete vsak torek na Šerkcu, kjer organizirajo različne aktivnosti za otroke in mlade ter občasno skrbijo za skupnostne vrtove.",
                 "image": "https://bit.ly/384YGD9",
                 "category": "Savski lokalci",
-                "sub-category": "NGO/Social work",
+                "sub-category": "Nevladna organizacija",
                 "tags": [
                     "javni prostor",
                     "mladi",
                     "skupnost"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Organizacije, društva in aktivni posamezniki, ki delujejo v Savskem naselju",
                 "links": [
                     {
                         "url": "http://www.zavod-bob.si/clovekinje/",
@@ -704,7 +680,7 @@
                     "ca/knji_nica_re_i#72,ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76,ca/dom_skupnosti_savsko_naselje#78"
                 ],
                 "created_date": "2020-02-27T01:23:32.605-08:00",
-                "updated_date": "2020-02-27T01:31:33.445-08:00",
+                "updated_date": "2020-04-10T05:37:17.948-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -724,21 +700,21 @@
                 "type": "Place",
                 "start_date": "",
                 "end_date": "",
-                "description": "Dom skupnosti je prostor, ki ga upravlja ČS Bežigrad in je namenjen uporabi lokalnim društvom za njihove aktivnosti.",
+                "description": "V Domu skupnosti delujejo številna društva, ki izvajajo aktivnosti kot so tečaji tai chija, joge, folklornih plesov in mandolinski orkester. V zgornjih prostorih se nahaja tudi Knjižnica partizanske in borčevske literature. Za Dom skupnosti skrbi Četrtna skupnost Bežigrad, program dogodkov pa najdete na njihovi spletni strani ali v glasilu Ljubljana.",
                 "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t1.0-9/1395155_214992465337839_554423951464863850_n.png?_nc_cat=110&_nc_sid=85a577&_nc_oc=AQn2qwHU7FJQx5JM5idjWRwJeiHHvV29-YkznVqrlzRd4pjGCGJFpp0dpzr8-yyPhSU&_nc_ht=scontent.flju2-1.fna&oh=cff6f018927b44ab54e6a8a23c1a2699&oe=5EB2A6A2",
                 "category": "Savski lajf",
-                "sub-category": "Community hub",
+                "sub-category": "Sosesko središče",
                 "tags": [
                     "skupnost",
                     "društvo"
                 ],
-                "category-description": "",
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [],
                 "relationships": [
                     "ca/knji_nica_re_i#72"
                 ],
                 "created_date": "2020-02-27T00:46:16.731-08:00",
-                "updated_date": "2020-04-07T07:58:16.960-07:00",
+                "updated_date": "2020-04-22T05:51:48.834-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -758,15 +734,15 @@
                 "type": "Organization",
                 "start_date": "1992-12-31T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "Namen društva je varovanje človekovih pravic in dostojanstva oseb s težavami v duševnem zdravju, doseči višjo stopnjo njihove vključitve v družbo in povečati njihovo zaposljivost. Društvo izvaja dejavnosti na področjih zagovorništva, psihosocialne in zaposlitvene rehabilitacije ter ustvarjanja novih delovnih mest za osebe s težavami v duševnem zdravju, socialno izključene in druge težje zaposljive osebe ter njihove svojce.",
+                "description": "Društvo Šent že vrsto let skrbi za razbijanje predsodkov povezanih z duševnim zdravjem. V dnevnem centru vsak dan nudijo strokovno pomoč in svetovanje, pripravljajo pa tudi raznolik program aktivnosti, ki so odprte za širšo skupnost. Namen društva je varovanje človekovih pravic in dostojanstva oseb s težavami v duševnem zdravju, doseči višjo stopnjo njihove vključitve v družbo in povečati njihovo zaposljivost.\nOdpiralni čas: ponedeljek - petek 9:00 - 16:00 ",
                 "image": "https://www.sent.si/fck_files/image/ZA%20VAS/dnevni.centeri.simoblna.jpg",
                 "category": "Savski lokalci",
-                "sub-category": "NGO/Social work",
+                "sub-category": "Nevladna organizacija",
                 "tags": [
                     "društvo",
                     "skupnost"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Organizacije, društva in aktivni posamezniki, ki delujejo v Savskem naselju",
                 "links": [
                     {
                         "url": "http://www.sent.si/index.php",
@@ -779,7 +755,7 @@
                     "ca/knji_nica_re_i#72"
                 ],
                 "created_date": "2019-12-24T01:09:12.737-08:00",
-                "updated_date": "2020-02-27T01:06:17.195-08:00",
+                "updated_date": "2020-04-22T05:49:38.408-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -802,7 +778,7 @@
                 "description": "Superhiška je bil primer skupnostnega načrtovanja in financiranja, ki ga je društvo Smetumet in prostoRož načrtovalo skupaj z učenci OŠ Savsko naselje, otroci iz vrtca Mladi rod in varovanci Rehabilitacijskega inštituta Soča. Otroci so na delavnicah ustvarjali nove ideje za igrišče in se na koncu odločili za hišico, ki združuje predloge različnih starostnih skupin. Stroške gradnje se je pokrilo s pomočjo lokalnih podjetij in preko nabirke v posebnih \"šparovčkih\", ki so bili postavljeni v lokalne bare. ",
                 "image": "http://prostoroz.org/wp-content/uploads/2015/02/IMG_5336.jpg",
                 "category": "Savski lajf",
-                "sub-category": "Public space",
+                "sub-category": "Kul prostorček",
                 "tags": [
                     "park",
                     "skupnost",
@@ -811,7 +787,7 @@
                     "mladi",
                     "javni prostor"
                 ],
-                "category-description": "",
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [
                     {
                         "url": "http://prostoroz.org/portfolio/items/superhiska/",
@@ -824,7 +800,7 @@
                     "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
                 ],
                 "created_date": "2019-12-24T00:47:21.852-08:00",
-                "updated_date": "2020-02-28T04:56:36.719-08:00",
+                "updated_date": "2020-04-22T05:42:47.602-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -919,14 +895,14 @@
                 "description": "Savsko naselje je leta 2016 dobilo urbani sadovnjak in prenovljeno otroško igrišče",
                 "image": "http://prostoroz.org/wp-content/uploads/2016/11/ROK4141_mala.jpg",
                 "category": "Savski lajf",
-                "sub-category": "Public space",
+                "sub-category": "Javni prostor",
                 "tags": [
                     "otroško igrišče",
                     "mladi",
                     "park",
                     "skupnost"
                 ],
-                "category-description": "",
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [
                     {
                         "url": "http://prostoroz.org/portfolio/items/urbani-sadovnjak-in-igrisce-v-savskem-naselju/",
@@ -975,10 +951,10 @@
                 "type": "Organization",
                 "start_date": "2015-01-20T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "Knjižnica REČI je neprofitna izposojevalnica najrazličnejših reči za prosti čas, ki deluje po vzoru klasične knjižnične izposoje.",
+                "description": "Že pet let savski unikat: knjižnica brez knjig! Namesto knjig si lahko izposojate številne predmete - od videoprojektorja do gasilskih miz, od bormašine do poročne obleke. Nasvet Savčana: Poleg predmetov posojajo tudi prostor in gostijo dogodke!\nOdpiralni čas: ponedeljek in sreda, 16.00 - 19.00",
                 "image": "http://prostoroz.org/wp-content/uploads/2019/11/ROK4049.jpg",
                 "category": "Savski lokalci",
-                "sub-category": "NGO/Social work",
+                "sub-category": "Nevladna organizacija",
                 "tags": [
                     "knjižnica",
                     "kultura",
@@ -986,7 +962,7 @@
                     "skupnost",
                     "ekologija"
                 ],
-                "category-description": "identifying formal and informal actors in the area",
+                "category-description": "Organizacije, društva in aktivni posamezniki, ki delujejo v Savskem naselju",
                 "links": [
                     {
                         "url": "https://www.knjiznicareci.si/",
@@ -997,7 +973,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-12-13T03:33:00.661-08:00",
-                "updated_date": "2020-02-28T05:08:31.793-08:00",
+                "updated_date": "2020-04-22T05:48:44.171-07:00",
                 "weight": 0,
                 "image_credit": "David Lotrič"
             },
@@ -1017,7 +993,7 @@
         "id": "savskonaselje",
         "description": "Lokalci za lokalce - zbirka uporabnih informacij, kul placev in storitev v Savskem naselju",
         "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t31.0-8/28515136_1601555589960135_3369719488193653923_o.jpg?_nc_cat=101&_nc_sid=a61e81&_nc_oc=AQlkCOAOJZNwb7iFYu-qUp727saH1fHXw5n2s4t_v8YEIN9tzGHscJaDs_G8IqmHJw0&_nc_ht=scontent.flju2-1.fna&oh=3c3f7849e1a33d322f630c0999496698&oe=5EB679F8",
-        "published": "2020-04-09T15:38:08.247Z",
+        "published": "2020-04-23T12:23:48.831Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1041,28 +1017,31 @@
                 "type": ""
             }
         ],
-        "version": 50,
+        "version": 53,
         "taxonomy": [
             {
-                "category": "Ponudba",
-                "description": "",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 8
-            },
-            {
-                "category": "Storitve",
-                "description": "",
+                "category": "Pri sosedih",
+                "description": "Česar v Savcu ni, se pri sosedih dobi!",
                 "sub-categories": [],
                 "weight": 0,
                 "id": 7
+            },
+            {
+                "category": "Savski majstri",
+                "description": "Lokalne storitve in prostori, ki vam pomagajo pri vsakodnevnih zagatah",
+                "sub-categories": [
+                    "Majstri in majstrice",
+                    "Storitve"
+                ],
+                "weight": 0,
+                "id": 6
             },
             {
                 "category": "Imaginations",
                 "description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
                 "sub-categories": [],
                 "weight": 0,
-                "id": 6
+                "id": 5
             },
             {
                 "category": "Narratives",
@@ -1072,20 +1051,20 @@
                     "Stakeholder interviews"
                 ],
                 "weight": 0,
-                "id": 5
+                "id": 4
             },
             {
                 "category": "Savski lokalci",
-                "description": "identifying formal and informal actors in the area",
+                "description": "Organizacije, društva in aktivni posamezniki, ki delujejo v Savskem naselju",
                 "sub-categories": [
-                    "Public cultural institutions",
-                    "Administration",
-                    "Developers and enterprises",
-                    "NGO/Social work",
-                    "Commerce"
+                    "Javna ustanova",
+                    "Lokalna administracija",
+                    "Kulturno društvo",
+                    "Nevladna organizacija",
+                    "#r16"
                 ],
                 "weight": 0,
-                "id": 4
+                "id": 3
             },
             {
                 "category": "Transformations",
@@ -1097,32 +1076,20 @@
                     "Commons oriented"
                 ],
                 "weight": 0,
-                "id": 3
-            },
-            {
-                "category": "Savski lajf",
-                "description": "",
-                "sub-categories": [
-                    "Community hub",
-                    "Public space",
-                    "Venue",
-                    "commerce",
-                    "Park",
-                    "Housing"
-                ],
-                "weight": 1,
                 "id": 2
             },
             {
-                "category": "Delimitations",
-                "description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "category": "Savski lajf",
+                "description": "Prostori druženja in srečevanja v Savskem naselju",
                 "sub-categories": [
-                    "Area of interest",
-                    "Administrative borders",
-                    "Spatial planning",
-                    "social policy"
+                    "Sosesko središče",
+                    "Javni prostor",
+                    "Lokal",
+                    "Kul prostorček",
+                    "Park",
+                    "#r27"
                 ],
-                "weight": -1,
+                "weight": 1,
                 "id": 1
             }
         ]

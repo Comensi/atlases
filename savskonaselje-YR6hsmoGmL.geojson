@@ -4,12 +4,190 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Okrepčevalnica",
+                "type": "Building",
+                "start_date": "",
+                "end_date": "",
+                "description": "Tako kultna, da sploh ne rabi drugega imena. Jedrnat jedilnik je garancija, da kar ponujajo, pripravijo z odliko. Rečeno drugače: ni ga čez dober burek!\nOdpiralni čas: vsak dan, 5:00 - 22:00",
+                "image": "https://10619-2.s.cdn12.com/rests/original/103_372450777.jpg",
+                "category": "Savski lajf",
+                "sub-category": "Lokal",
+                "tags": [
+                    "ponudba",
+                    "cooking"
+                ],
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-04-24T08:37:43.957-07:00",
+                "updated_date": "2020-04-24T08:40:26.439-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5243,
+                    46.0631
+                ]
+            },
+            "id": "ca/okrep_evalnica#105"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Dobra poteza",
+                "type": "Building",
+                "start_date": "",
+                "end_date": "",
+                "description": "Le par korakov stran iz naselja se nahaja prav poseben lokal. Že pri vhodu vas bodo pričakale police, ki se kar šibijo od nabora raznolikih družabnih iger in obljubljajo malce drugačno izkušnjo prijateljskih druženj. Dobra poteza je namreč prvi slovenski “board game café”!\nOdpiralni čas: ponedeljek - sreda 7:30 - 24:00, četrtek in petek 7:30 - 1:00, sobota 15:00 - 1:00,  nedelja 15:00 - 24:00",
+                "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t1.0-9/30738637_425883947870925_8843442189083082752_o.jpg?_nc_cat=110&_nc_sid=8024bb&_nc_oc=AQl4YEy7txO0WB16wDDQ83dOA0wSm6du-aZIn5e0RNKu67E9ORvCUx0XtJ7nKQzRs_s&_nc_ht=scontent.flju2-1.fna&oh=62db97502f20bc7265e9c5cdc295df46&oe=5EC98234",
+                "category": "Pri sosedih",
+                "sub-category": "",
+                "tags": [
+                    "ponudba",
+                    "kultura",
+                    "mladi"
+                ],
+                "category-description": "Česar v Savcu ni, se pri sosedih dobi!",
+                "links": [
+                    {
+                        "url": "https://www.facebook.com/dobrapoteza/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-04-24T08:31:45.063-07:00",
+                "updated_date": "2020-04-24T08:37:30.241-07:00",
+                "weight": 0,
+                "image_credit": "Dobra poteza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5138,
+                    46.0624
+                ]
+            },
+            "id": "ca/dobra_poteza#104"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Gas Station",
+                "type": "Building",
+                "start_date": "",
+                "end_date": "",
+                "description": "Sloves o njihovi ponudbi piv presega meje naselja, samo pravi lokalci pa vedo, da so razlog za obisk tudi dnevno sveži rogljički.\nOdpiralni čas: ponedeljek - sobota 7:00 - 00:00, nedelja 9:00 - 23:00) ",
+                "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t1.0-9/14900371_1081443141975454_503921240420517540_n.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQmQ56wGu3DpEbek2phxygT-EgmxyP2c2Om_xm9JVM0XSfpWO4sdIPdcL9No2Vc3qkw&_nc_ht=scontent.flju2-1.fna&oh=e1855ef56623590f60581f679c4bb336&oe=5ECA824D",
+                "category": "Savski lajf",
+                "sub-category": "Lokal",
+                "tags": [
+                    "ponudba"
+                ],
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
+                "links": [
+                    {
+                        "url": "https://www.facebook.com/GasStation/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-04-24T08:28:56.766-07:00",
+                "updated_date": "2020-04-24T08:31:20.781-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5253,
+                    46.0648
+                ]
+            },
+            "id": "ca/gas_station#103"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Savski hrib",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "Savski hrib je vedno obsijan s soncem in poln zelenja. Ker je oddaljen od prometa lahko otroci brezskrbno uživajo na največjem otroško igrišče v naselju. Bi se mu lahko reklo kar naš centralni park? Ja. Nasvet Savčana: Prinesite veliko džezvo kave in povabite na skodelico vse starše ob igrišču.",
+                "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t31.0-8/13047815_1010758785685584_3325843491567378339_o.jpg?_nc_cat=107&_nc_sid=07e735&_nc_oc=AQkGKkZjgeqWte-FM_Upe31BMRALTcTqR8Qjvpa1dLEU0QlRKi_bSNp6FjOs2C4qdyg&_nc_ht=scontent.flju2-1.fna&oh=48ec08f6053d4f423f2f5d096d8df20e&oe=5EC9825E",
+                "category": "Savski lajf",
+                "sub-category": "Kul prostorček",
+                "tags": [
+                    "javni prostor"
+                ],
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
+                "links": [],
+                "relationships": [
+                    "ca/urbani_sadovnjak_in_otro_ko_igri_e#73,ca/superhi_ka#75"
+                ],
+                "created_date": "2020-04-24T08:20:39.312-07:00",
+                "updated_date": "2020-04-24T08:27:08.959-07:00",
+                "weight": 0,
+                "image_credit": "Damijan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5242,
+                    46.0655
+                ]
+            },
+            "id": "ca/savski_hrib#102"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Park ob Šerkovi ulici",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "Kaj ti bo Tivoli, če imamo Šerkca? Primeren za hiter špil košarke, fitnesiranje na prostem ali prekopavanje skupnostnih gredic. Dovolj je velik, da včasih gosti sosedski piknik. Če si prava Savska legenda, lahko naslednjega pripraviš ti.",
+                "image": "https://prostoroz.org/wp-content/uploads/2016/09/IMG_4112-e1520948703436.jpg",
+                "category": "Savski lajf",
+                "sub-category": "Park",
+                "tags": [
+                    "javni prostor",
+                    "otroci",
+                    "šport"
+                ],
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
+                "links": [],
+                "relationships": [
+                    "ca/skupnostni_vrtovi#92"
+                ],
+                "created_date": "2020-04-24T07:13:22.329-07:00",
+                "updated_date": "2020-04-24T08:22:22.745-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5222,
+                    46.0622
+                ]
+            },
+            "id": "ca/park_ob_erkovi_ulici#100"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Bar Sav’c (Športni park Savsko naselje)",
                 "type": "Place",
                 "start_date": "",
                 "end_date": "",
                 "description": "Po savskih ulicah se širi vest, da se najboljšo kavico in vročo čokolado dobi na drugi strani Linhartove. Primerno tudi za nastavljanje sončnim žarkom.\nOdpiralni čas: vsak dan 8:00 - 23:00",
-                "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t1.0-9/82018575_2296167690488543_2811180181132148736_n.jpg?_nc_cat=107&_nc_sid=110474&_nc_oc=AQkznJ-CDo76ReFvsGnTR3DfwvqYoobQhj9nWj7_vb2DIibdAuB7OBTEVy3vBeSCpOE&_nc_ht=scontent.flju2-1.fna&oh=c37828507f9027ee7052ba18c6ca92e1&oe=5EA2BF8F",
+                "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t1.0-9/82018575_2296167690488543_2811180181132148736_n.jpg?_nc_cat=107&_nc_sid=110474&_nc_oc=AQkQctajhIeO8_B-8arzjUBPg7bEdr6Rc6Nl2YCS5Zd9h7mzorg3Mo9p8P7AYKqoKCk&_nc_ht=scontent.flju2-1.fna&oh=97929cc1c187e82a83d97e376ffb9926&oe=5ECA4C8F",
                 "category": "Savski lajf",
                 "sub-category": "Lokal",
                 "tags": [
@@ -20,7 +198,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-03-25T07:52:58.810-07:00",
-                "updated_date": "2020-04-22T05:45:33.083-07:00",
+                "updated_date": "2020-04-24T07:13:17.433-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -42,7 +220,7 @@
                 "end_date": "",
                 "description": "Za lepoto ni potrebno iti daleč! Salon Jordan sredi Savskega naselja poskrbi za depilacijo, pedikuro, nego obraza ali telesa. Zanesete se lahko na profesionalno opravljene storitve z nasmehom.\nOdpiralni čas: od ponedeljka do sobote po dogovoru\nKontakt: 01 437 02 60 ali 051 435 200",
                 "image": "https://images.unsplash.com/photo-1519415510236-718bdfcd89c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-                "category": "Savski majstri",
+                "category": "Savski mojstri",
                 "sub-category": "",
                 "tags": [
                     "storitev"
@@ -73,8 +251,8 @@
                 "end_date": "",
                 "description": "Ni vse za v smeti, kar se strga. V šiviljski popravljalnici Nitka vam natančno, iznajdljivo in poceni rešijo vsa vaša najljubša oblačila.\nOdpiralni čas: ponedeljek in torek 16:00 - 19:00, četrtek in petek 9:00 - 12:00",
                 "image": "https://images.unsplash.com/photo-1517840545241-b491010a8af4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-                "category": "Savski majstri",
-                "sub-category": "Majstri in majstrice",
+                "category": "Savski mojstri",
+                "sub-category": "Mojstri in mojstrice",
                 "tags": [
                     "storitev"
                 ],
@@ -104,8 +282,8 @@
                 "end_date": "",
                 "description": "Ni prave soseske brez kolesarskega mojstra. Za pomoč pokličite Janeza iz Savca ali ga poiščite vsako sredo v samopopravljalnici Bike Kitchen, kjer vas bo naučil vseh majsterskih trikov.\nOdpiralni čas: vsako sredo 12:00 - 13:00 \nKontakt: 041849356",
                 "image": "https://scontent.flju2-2.fna.fbcdn.net/v/t1.0-9/26167312_1675770539132839_7595705252659379022_n.jpg?_nc_cat=104&_nc_sid=110474&_nc_oc=AQmlJeB9cV17XaHOcgnKYjh9kM_ksao0NWkWrDk-G_c225hp9jK1knU3xTg2SomFWxY&_nc_ht=scontent.flju2-2.fna&oh=335b786b520de1ab22d316b5a1fe3d9d&oe=5E9F22E9",
-                "category": "Savski majstri",
-                "sub-category": "Majstri in majstrice",
+                "category": "Savski mojstri",
+                "sub-category": "Mojstri in mojstrice",
                 "tags": [
                     "skupnost",
                     "storitev"
@@ -822,14 +1000,14 @@
                 "end_date": "2014-12-12T16:00:00.000-08:00",
                 "description": "Vizija za javni prostor soseske je bil del širšega projekta Celovite urbane prenove Savskega naselja v Ljubljani, ki se je začel izvajati leta 2013 na povabilo Oddelka za urejanje prostora MOL. Vloga javnega prostora se je od izgradnje soseske (leta 1961) bistveno spremenila. Skrb zanj je danes omejena zgolj na boj za parkirna mesta, kar izhaja iz dejstva, da je bila soseska grajena za 500 avtomobilov, danes pa jih na ulicah, pločnikih, travnikih, igriščih in dvoriščih naštejemo preko štiri tisoč. Da bi urbana prenova soseske resnično reševala probleme soseske in odgovarjala na pereča vprašanja, se je za posamezna področja oblikovalo delovne skupine, v katere so se vključili zainteresirani prebivalci.",
                 "image": "http://prostoroz.org/wp-content/uploads/2016/12/PJP_14-2.jpg",
-                "category": "Transformations",
+                "category": "Imaginations",
                 "sub-category": "Public space",
                 "tags": [
                     "promet",
                     "javni prostor",
                     "parkiranje"
                 ],
-                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "category-description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
                 "links": [
                     {
                         "url": "http://prostoroz.org/wp-content/uploads/2017/01/Prenova-javnega-prostora-Savsko-naselje.pdf",
@@ -842,7 +1020,7 @@
                     "ca/knji_nica_re_i#72,ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
                 ],
                 "created_date": "2019-12-13T05:00:46.277-08:00",
-                "updated_date": "2020-03-03T02:29:48.876-08:00",
+                "updated_date": "2020-04-24T06:54:32.838-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -993,7 +1171,7 @@
         "id": "savskonaselje",
         "description": "Lokalci za lokalce - zbirka uporabnih informacij, kul placev in storitev v Savskem naselju",
         "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t31.0-8/28515136_1601555589960135_3369719488193653923_o.jpg?_nc_cat=101&_nc_sid=a61e81&_nc_oc=AQlkCOAOJZNwb7iFYu-qUp727saH1fHXw5n2s4t_v8YEIN9tzGHscJaDs_G8IqmHJw0&_nc_ht=scontent.flju2-1.fna&oh=3c3f7849e1a33d322f630c0999496698&oe=5EB679F8",
-        "published": "2020-04-23T12:23:48.831Z",
+        "published": "2020-04-24T15:41:58.072Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1017,31 +1195,31 @@
                 "type": ""
             }
         ],
-        "version": 53,
+        "version": 55,
         "taxonomy": [
             {
                 "category": "Pri sosedih",
                 "description": "Česar v Savcu ni, se pri sosedih dobi!",
                 "sub-categories": [],
                 "weight": 0,
-                "id": 7
+                "id": 6
             },
             {
-                "category": "Savski majstri",
+                "category": "Savski mojstri",
                 "description": "Lokalne storitve in prostori, ki vam pomagajo pri vsakodnevnih zagatah",
                 "sub-categories": [
-                    "Majstri in majstrice",
+                    "Mojstri in mojstrice",
                     "Storitve"
                 ],
                 "weight": 0,
-                "id": 6
+                "id": 5
             },
             {
                 "category": "Imaginations",
                 "description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
                 "sub-categories": [],
                 "weight": 0,
-                "id": 5
+                "id": 4
             },
             {
                 "category": "Narratives",
@@ -1051,7 +1229,7 @@
                     "Stakeholder interviews"
                 ],
                 "weight": 0,
-                "id": 4
+                "id": 3
             },
             {
                 "category": "Savski lokalci",
@@ -1064,19 +1242,14 @@
                     "#r16"
                 ],
                 "weight": 0,
-                "id": 3
+                "id": 2
             },
             {
                 "category": "Transformations",
-                "description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
-                "sub-categories": [
-                    "Private spaces",
-                    "Public space",
-                    "Infrastructural",
-                    "Commons oriented"
-                ],
-                "weight": 0,
-                "id": 2
+                "description": "",
+                "sub-categories": [],
+                "weight": "",
+                "id": ""
             },
             {
                 "category": "Savski lajf",
@@ -1095,6 +1268,14 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/savski_hrib#102",
+            "to": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73,ca/superhi_ka#75"
+        },
+        {
+            "from": "ca/park_ob_erkovi_ulici#100",
+            "to": "ca/skupnostni_vrtovi#92"
+        },
         {
             "from": "ca/lokalni_asopis_sav_an#93",
             "to": "ca/knji_nica_re_i#72,ca/_lovekinje#79,ca/osnovna_ola_savsko_naselje#80,ca/vrtec_mladi_rod#82,ca/kralji_ulice_psihosocialna_podpora_stanujo_im_v_bivalni_enoti_knobleharjeva#83,ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76,ca/spomin_ica_alzheimer_slovenija_slovensko_zdru_enje_za_pomo_pri_demenci_#85"

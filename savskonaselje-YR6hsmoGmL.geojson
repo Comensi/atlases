@@ -4,23 +4,341 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Tamara team frizer",
+                "type": "Building",
+                "start_date": "",
+                "end_date": "",
+                "description": "Frizerjev ni nikoli preveč in tudi v Savskem naselju jih najdemo kar nekaj. Najboljšega si izbere vsak po svojem okusu, pri Tamara team pa glas ljudstva pravi, da poskrbijo tudi za vaše živce, ko pridejo na vrsto za striženje vaši najmlajši.\nOdpiralni čas: ponedeljek - petek 07:00 - 20:00, sobota 07:00 - 13:00",
+                "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t1.0-9/s960x960/93799034_3029277890427199_3664434065081106432_o.jpg?_nc_cat=109&_nc_sid=9e2e56&_nc_oc=AQm7ndBs6LFkTBwDAxU-zkI5_nE6QZQE9O5zWpwzvVPpW_8DfTC7rCBVL0Z0yUBd8K0&_nc_ht=scontent.flju2-1.fna&_nc_tp=7&oh=569cef64c024beb1eac0c4f289cc6a2f&oe=5ED25EAD",
+                "category": "Pri sosedih",
+                "sub-category": "",
+                "tags": [
+                    "storitev"
+                ],
+                "category-description": "Česar v Savcu ni, se pri sosedih dobi!",
+                "links": [
+                    {
+                        "url": "http://www.tamara-frizer.com/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-04-30T07:58:42.173-07:00",
+                "updated_date": "2020-04-30T08:06:56.209-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5198,
+                    46.0614
+                ]
+            },
+            "id": "ca/tamara_team_frizer#116"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Kopilab",
+                "type": "Building",
+                "start_date": "",
+                "end_date": "",
+                "description": "Odgovor na večno savsko dilemo, kje je najbližja fotokopirnica, je končno znan. Od vseh kopij, printov in plakatov nas loči le kratek sprehod do Župančičeve jame.\nOdpiralni čas: ponedeljek - petek 7:30 - 15:30",
+                "image": "https://images.unsplash.com/photo-1503694978374-8a2fa686963a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+                "category": "Pri sosedih",
+                "sub-category": "",
+                "tags": [
+                    "storitev"
+                ],
+                "category-description": "Česar v Savcu ni, se pri sosedih dobi!",
+                "links": [
+                    {
+                        "url": "https://www.kopilab.si/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-04-30T07:53:58.235-07:00",
+                "updated_date": "2020-04-30T07:56:12.549-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5145,
+                    46.0632
+                ]
+            },
+            "id": "ca/kopilab#114"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Zmak servis",
+                "type": "Person",
+                "start_date": "",
+                "end_date": "",
+                "description": "Vam je šel kontakt pri toasterju? S hitrim skokom do bivše Kolinske se bodo vaši pokvarjeni aparati iZMAKnili odpadu. Naj vas spletni opis ne zavede. Zmak Servis bo - poleg vrtnemu orodju -  vdahnil novo življenje tudi kakšni bormašini ali grelcu za vodo.\nOdpiralni čas: ponedeljek - petek 09:00 - 17:00\nKontakt: 041 908 808",
+                "image": "https://povezujemo.si/media/com_jbusinessdirectory/pictures/companies/5153/zmakservisservisvrtnihstrojevzlatkovelicsp3-1488897735.jpg",
+                "category": "Pri sosedih",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Česar v Savcu ni, se pri sosedih dobi!",
+                "links": [
+                    {
+                        "url": "https://povezujemo.si/zmak-servis-servis-vrtnih-strojev-zlatko-velic-s-p",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-04-30T07:51:09.522-07:00",
+                "updated_date": "2020-04-30T07:52:39.789-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5246,
+                    46.0619
+                ]
+            },
+            "id": "ca/zmak_servis#113"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "SportR.si",
+                "type": "Building",
+                "start_date": "",
+                "end_date": "",
+                "description": "Ko vaše kolo ne zmore več “Šmartinskega klanca”, je dobro vedeti, kam po pomoč, če popravilo presega vaše spretnosti. Zaradi bližine, dolgega odpiralnega časa ter ugodnega razmerja med ceno in storitvijo, gre nagrada občinstva servisu SportR.si!\nOdpiralni čas: ponedeljek - petek 10:00 - 19:00, sobota 9:00 - 13:00",
+                "image": "https://lh3.googleusercontent.com/proxy/WvDCMx_85cXSTGySbL-Q-dG_1oZKoiub2CWMX_k5nZSGkgLr_QA2xp_Oltn6EFqEInq7hVaw61sV6a4UuTy8QkY992Q44luw-WNxWYchHcOBiTuGg5lonmISA4JpUHMNWEO5q-U7PX59m9oD4J4UwEpBmQ",
+                "category": "Pri sosedih",
+                "sub-category": "",
+                "tags": [
+                    "šport",
+                    "storitev"
+                ],
+                "category-description": "Česar v Savcu ni, se pri sosedih dobi!",
+                "links": [
+                    {
+                        "url": "http://www.sportr.si/si/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-04-30T07:37:03.610-07:00",
+                "updated_date": "2020-04-30T07:50:35.087-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5176,
+                    46.0652
+                ]
+            },
+            "id": "ca/sportr_si#112"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Blef Bar 1",
+                "type": "Building",
+                "start_date": "",
+                "end_date": "",
+                "description": "Pravi savski pajzelj, ki vas ne bo spravil na kant. Bonus: Pred vhodom vas bo pričakal tudi znameniti koš za smeti Žaba, ki ga je bilo nekdaj moč najti na vseh ljubljanskih ulicah.\nOdpiralni čas: ponedeljek - sobota 7:00 - 21:00, nedelja 9:00 - 21:00",
+                "image": "http://lh4.ggpht.com/HNGzvL8ggUcgNW3jusDrhJrzA8gXCp7x_0LUcWXKfzRMDSmebk4gMUDhnzjDcbMnNQPQDV-iMfrCRf6QsWfU",
+                "category": "Savska ponudba",
+                "sub-category": "Lokal",
+                "tags": [
+                    "ponudba"
+                ],
+                "category-description": "Kavice in druge dobrote za lepši vsakdan",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-04-30T07:28:23.080-07:00",
+                "updated_date": "2020-04-30T07:50:41.202-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5237,
+                    46.0629
+                ]
+            },
+            "id": "ca/blef_bar_1#111"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Pod Kozolcem",
+                "type": "Project",
+                "start_date": "",
+                "end_date": "",
+                "description": "(dostava po naročilu) Četudi lokalne tržnice v Savcu ni, za lokalne dobrote Pod kozolcem poskrbi. V samooskrbni skupnosti Pod kozolcem sodelujejo s številnimi slovenskimi kmetovalci, ki sledijo recepturam naših babic in ponujajo pester nabor svežih pridelkov.\nKontakt: sadovi.narave@gmail.com ali 031 656 121",
+                "image": "https://scontent.flju2-2.fna.fbcdn.net/v/t1.0-9/391456_164499003675467_217942567_n.jpg?_nc_cat=102&_nc_sid=85a577&_nc_oc=AQmat5PPoDNhCRwXEEamyH-vDQTqiWXR3nmEzp67gjqY0PP2QtkWR-Z2BkpwZJEK7uY&_nc_ht=scontent.flju2-2.fna&oh=df1d8c91baeba0704f91e1316b0e0563&oe=5ED0F528",
+                "category": "Savska ponudba",
+                "sub-category": "Trgovina",
+                "tags": [
+                    "ponudba"
+                ],
+                "category-description": "Kavice in druge dobrote za lepši vsakdan",
+                "links": [
+                    {
+                        "url": "https://www.facebook.com/podkozolcem.si/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-04-30T07:24:34.775-07:00",
+                "updated_date": "2020-04-30T07:36:14.283-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5218,
+                    46.0617
+                ]
+            },
+            "id": "ca/pod_kozolcem#110"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Modno šiviljstvo, Anka Pavelić s.p.",
+                "type": "Person",
+                "start_date": "",
+                "end_date": "",
+                "description": "(po dogovoru) Po treh sezonah šiviljskega tečaja v Knjižnici REČI se je Anka vrnila v domačo delavnico. Tam vam lahko skroji oblačila po meri, če pa jo boste lepo prosili, bo morda z vami delila kakšne majhne skrivnosti šiviljskih mojstric.\nKontakt: 040 674 904",
+                "image": "https://images.unsplash.com/photo-1536867520774-5b4f2628a69b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+                "category": "Savski mojstri",
+                "sub-category": "Mojstri in mojstrice",
+                "tags": [
+                    "storitev"
+                ],
+                "category-description": "Lokalne storitve in prostori, ki vam pomagajo pri vsakodnevnih zagatah",
+                "links": [],
+                "relationships": [
+                    "ca/knji_nica_re_i#72"
+                ],
+                "created_date": "2020-04-30T07:22:10.418-07:00",
+                "updated_date": "2020-04-30T07:25:36.108-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5224,
+                    46.0632
+                ]
+            },
+            "id": "ca/modno_iviljstvo_anka_paveli_s_p_#109"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Izdelava ključev in popravilo čevljev, brušenje nožev in škarij",
+                "type": "Person",
+                "start_date": "",
+                "end_date": "",
+                "description": "Zmeraj je dobro vedeti, kdo vam lahko na hitro zakrpa podplat na čevljih ali naredi novo kopijo ključa. V Savcu za to poskrbi mojster Marjan. Nasvet Savčana: Pri iskanju izgubljenih ključev vam lahko pomaga detektor kovin, ki je na voljo v Knjižnici REČI.\nOdpiralni čas: ponedeljek - petek 8:30 - 13:00 in 14:00 do 17:00",
+                "image": "https://images.unsplash.com/photo-1550527882-b71dea5f8089?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+                "category": "Savski mojstri",
+                "sub-category": "Mojstri in mojstrice",
+                "tags": [],
+                "category-description": "Lokalne storitve in prostori, ki vam pomagajo pri vsakodnevnih zagatah",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-04-30T07:18:07.967-07:00",
+                "updated_date": "2020-04-30T07:36:23.125-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5255,
+                    46.0649
+                ]
+            },
+            "id": "ca/izdelava_klju_ev_in_popravilo_evljev_bru_enje_no_ev_in_karij#108"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Cvetličarna Erija",
+                "type": "Building",
+                "start_date": "",
+                "end_date": "",
+                "description": "Že znana slovenska viža nas je naučila, da je “zmeraj potrebno prinesti rože”. Savsko naselje z rožami vseh vrst zalaga cvetličarna Erija, prijazna cvetličarka pa poskrbi, da boste odšli s pravim šopkom za vsako priložnost.\nOdpiralni čas: ponedeljek - petek 9:00 - 19:00, sobota 9:00 - 13:00",
+                "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t1.0-9/52968536_2323168237696444_2239829353284239360_o.jpg?_nc_cat=101&_nc_sid=dd9801&_nc_oc=AQnG5WjAATYambmbUyB25kwRN3mkHEem-XIXsAyPefBPuQ3wC7IjZOZ6PaQG8rFxlCk&_nc_ht=scontent.flju2-1.fna&oh=233fce15a19a419443d70012bbaffe39&oe=5ECF22EA",
+                "category": "Savski mojstri",
+                "sub-category": "Storitve",
+                "tags": [],
+                "category-description": "Lokalne storitve in prostori, ki vam pomagajo pri vsakodnevnih zagatah",
+                "links": [
+                    {
+                        "url": "https://www.facebook.com/spletnacvetlicarnaerija",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-04-30T07:12:13.328-07:00",
+                "updated_date": "2020-04-30T07:36:29.354-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5259,
+                    46.0643
+                ]
+            },
+            "id": "ca/cvetli_arna_erija#106"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Okrepčevalnica",
                 "type": "Building",
                 "start_date": "",
                 "end_date": "",
                 "description": "Tako kultna, da sploh ne rabi drugega imena. Jedrnat jedilnik je garancija, da kar ponujajo, pripravijo z odliko. Rečeno drugače: ni ga čez dober burek!\nOdpiralni čas: vsak dan, 5:00 - 22:00",
                 "image": "https://10619-2.s.cdn12.com/rests/original/103_372450777.jpg",
-                "category": "Savski lajf",
+                "category": "Savska ponudba",
                 "sub-category": "Lokal",
                 "tags": [
                     "ponudba",
                     "cooking"
                 ],
-                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
+                "category-description": "Kavice in druge dobrote za lepši vsakdan",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-04-24T08:37:43.957-07:00",
-                "updated_date": "2020-04-24T08:40:26.439-07:00",
+                "updated_date": "2020-04-30T07:11:57.126-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -82,12 +400,12 @@
                 "end_date": "",
                 "description": "Sloves o njihovi ponudbi piv presega meje naselja, samo pravi lokalci pa vedo, da so razlog za obisk tudi dnevno sveži rogljički.\nOdpiralni čas: ponedeljek - sobota 7:00 - 00:00, nedelja 9:00 - 23:00) ",
                 "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t1.0-9/14900371_1081443141975454_503921240420517540_n.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQmQ56wGu3DpEbek2phxygT-EgmxyP2c2Om_xm9JVM0XSfpWO4sdIPdcL9No2Vc3qkw&_nc_ht=scontent.flju2-1.fna&oh=e1855ef56623590f60581f679c4bb336&oe=5ECA824D",
-                "category": "Savski lajf",
+                "category": "Savska ponudba",
                 "sub-category": "Lokal",
                 "tags": [
                     "ponudba"
                 ],
-                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
+                "category-description": "Kavice in druge dobrote za lepši vsakdan",
                 "links": [
                     {
                         "url": "https://www.facebook.com/GasStation/",
@@ -98,7 +416,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-04-24T08:28:56.766-07:00",
-                "updated_date": "2020-04-24T08:31:20.781-07:00",
+                "updated_date": "2020-04-30T07:11:44.724-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -154,7 +472,7 @@
                 "description": "Kaj ti bo Tivoli, če imamo Šerkca? Primeren za hiter špil košarke, fitnesiranje na prostem ali prekopavanje skupnostnih gredic. Dovolj je velik, da včasih gosti sosedski piknik. Če si prava Savska legenda, lahko naslednjega pripraviš ti.",
                 "image": "https://prostoroz.org/wp-content/uploads/2016/09/IMG_4112-e1520948703436.jpg",
                 "category": "Savski lajf",
-                "sub-category": "Park",
+                "sub-category": "#r26",
                 "tags": [
                     "javni prostor",
                     "otroci",
@@ -183,13 +501,13 @@
             "type": "Feature",
             "properties": {
                 "title": "Bar Sav’c (Športni park Savsko naselje)",
-                "type": "Place",
+                "type": "Building",
                 "start_date": "",
                 "end_date": "",
                 "description": "Po savskih ulicah se širi vest, da se najboljšo kavico in vročo čokolado dobi na drugi strani Linhartove. Primerno tudi za nastavljanje sončnim žarkom.\nOdpiralni čas: vsak dan 8:00 - 23:00",
                 "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t1.0-9/82018575_2296167690488543_2811180181132148736_n.jpg?_nc_cat=107&_nc_sid=110474&_nc_oc=AQkQctajhIeO8_B-8arzjUBPg7bEdr6Rc6Nl2YCS5Zd9h7mzorg3Mo9p8P7AYKqoKCk&_nc_ht=scontent.flju2-1.fna&oh=97929cc1c187e82a83d97e376ffb9926&oe=5ECA4C8F",
                 "category": "Savski lajf",
-                "sub-category": "Lokal",
+                "sub-category": "Park",
                 "tags": [
                     "ponudba",
                     "skupnost"
@@ -198,7 +516,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-03-25T07:52:58.810-07:00",
-                "updated_date": "2020-04-24T07:13:17.433-07:00",
+                "updated_date": "2020-04-30T07:36:41.299-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -215,7 +533,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Jordan kozmetika",
-                "type": "Place",
+                "type": "Building",
                 "start_date": "",
                 "end_date": "",
                 "description": "Za lepoto ni potrebno iti daleč! Salon Jordan sredi Savskega naselja poskrbi za depilacijo, pedikuro, nego obraza ali telesa. Zanesete se lahko na profesionalno opravljene storitve z nasmehom.\nOdpiralni čas: od ponedeljka do sobote po dogovoru\nKontakt: 01 437 02 60 ali 051 435 200",
@@ -229,7 +547,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-03-25T07:37:51.939-07:00",
-                "updated_date": "2020-04-22T05:44:48.336-07:00",
+                "updated_date": "2020-04-30T07:36:44.675-07:00",
                 "weight": 0,
                 "image_credit": "Unsplah"
             },
@@ -246,7 +564,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Šiviljstvo - popravljalnica Nitka",
-                "type": "Place",
+                "type": "Building",
                 "start_date": "",
                 "end_date": "",
                 "description": "Ni vse za v smeti, kar se strga. V šiviljski popravljalnici Nitka vam natančno, iznajdljivo in poceni rešijo vsa vaša najljubša oblačila.\nOdpiralni čas: ponedeljek in torek 16:00 - 19:00, četrtek in petek 9:00 - 12:00",
@@ -260,7 +578,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-03-25T07:31:34.732-07:00",
-                "updated_date": "2020-04-22T05:46:15.001-07:00",
+                "updated_date": "2020-04-30T07:36:48.099-07:00",
                 "weight": 0,
                 "image_credit": "Unsplah"
             },
@@ -1171,7 +1489,7 @@
         "id": "savskonaselje",
         "description": "Lokalci za lokalce - zbirka uporabnih informacij, kul placev in storitev v Savskem naselju",
         "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t31.0-8/28515136_1601555589960135_3369719488193653923_o.jpg?_nc_cat=101&_nc_sid=a61e81&_nc_oc=AQlkCOAOJZNwb7iFYu-qUp727saH1fHXw5n2s4t_v8YEIN9tzGHscJaDs_G8IqmHJw0&_nc_ht=scontent.flju2-1.fna&oh=3c3f7849e1a33d322f630c0999496698&oe=5EB679F8",
-        "published": "2020-04-24T15:50:50.686Z",
+        "published": "2020-04-30T15:07:57.064Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1195,8 +1513,18 @@
                 "type": ""
             }
         ],
-        "version": 55,
+        "version": 56,
         "taxonomy": [
+            {
+                "category": "Savska ponudba",
+                "description": "Kavice in druge dobrote za lepši vsakdan",
+                "sub-categories": [
+                    "Lokal",
+                    "Trgovina"
+                ],
+                "weight": 0,
+                "id": 7
+            },
             {
                 "category": "Pri sosedih",
                 "description": "Česar v Savcu ni, se pri sosedih dobi!",
@@ -1250,9 +1578,9 @@
                 "sub-categories": [
                     "Sosesko središče",
                     "Javni prostor",
-                    "Lokal",
-                    "Kul prostorček",
                     "Park",
+                    "Kul prostorček",
+                    "#r26",
                     "#r27"
                 ],
                 "weight": 1,
@@ -1261,6 +1589,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/modno_iviljstvo_anka_paveli_s_p_#109",
+            "to": "ca/knji_nica_re_i#72"
+        },
         {
             "from": "ca/savski_hrib#102",
             "to": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73,ca/superhi_ka#75"

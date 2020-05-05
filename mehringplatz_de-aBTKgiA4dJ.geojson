@@ -466,6 +466,293 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Dragonerareal - Modellprojekt Rathausblock",
+                "type": "Projekt",
+                "start_date": "2015-07-31T16:00:00.000-07:00",
+                "end_date": "2021-11-30T16:00:00.000-08:00",
+                "description": "Im nördlichen Teil des Rathausblocks, angrenzend an Mehringdamm und Obentrautstraße, befindet sich das 4,7 Hektar große sogenannte „Dragonerareal“. Hier ist Traditionsgewerbe ansässig - u.a. eine Möbelpolsterei, ein Marmorwerk, Kfz-Werkstätten, Künstler:innen, Taxischule, der Club Gretchen und der LPG-Supermarkt in einer alten Tankstelle. Die dort arbeitenden Menschen füllen das ehemalige Kasernengelände bereits jetzt mit Leben.\n \nDer Berliner Senat beschloss im August 2015 die Erarbeitung von vorbereitenden Untersuchungen für den Rathausblock und die nördlich angrenzenden Blöcke. Durch Abschluss dieser Untersuchungen im Juni 2016 ergaben sich städtebauliche Handlungsbedarfe für den Rathausblock, welcher Teil des Sanierungsgebietes ist.\n\nDas ursprünglich im Besitz von der Bundesanstalt für Immobilienaufgaben (BImA)  befindliche Gebiet wurde an das Land Berlin übertragen, indem der Hauptstadtfinanzierungsvertrag abgeschlossen wurde.\nSomit übernimmt fortan die landeseigene BIM Berliner Immobilienmanagement GmbH die Verwaltung und Instandhaltung des Gebietes. ",
+                "image": "https://i.ibb.co/68S4cHY/infoflyer-modellprojekt-rathausblock.png",
+                "category": "Veränderungen",
+                "sub-category": "gemeinschaftsorientiert",
+                "tags": [
+                    "Stadterneuerung",
+                    "Stadtpolitik",
+                    "Öffentlicher Raum",
+                    "gemeinschaftlich",
+                    "Architektur"
+                ],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "https://www.berlin.de/rathausblock-fk/",
+                        "title": "Rathausblock",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://stadtentwicklung.berlin.de/staedtebau/foerderprogramme/stadterneuerung/de/rathausblock/index.shtml",
+                        "title": "Sanierungsgebiet Rathausblock",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://upstall.de/daten/umgebung/rathausblock/",
+                        "title": "Upstall: Sanierungsgebiet Rathausblock",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.berlin.de/rathausblock-fk/themen/",
+                        "title": "Themen im Rathausblock",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+                ],
+                "created_date": "2020-04-29T02:11:48.843-07:00",
+                "updated_date": "2020-05-05T06:59:05.553-07:00",
+                "weight": 0,
+                "image_credit": "Infoflyer Modellprojekt Rathausblock"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.389252,
+                            52.498094
+                        ],
+                        [
+                            13.393861,
+                            52.498189
+                        ],
+                        [
+                            13.401282,
+                            52.510348
+                        ],
+                        [
+                            13.400813,
+                            52.511867
+                        ],
+                        [
+                            13.399095,
+                            52.512152
+                        ],
+                        [
+                            13.396595,
+                            52.51201
+                        ],
+                        [
+                            13.396204,
+                            52.512722
+                        ],
+                        [
+                            13.396283,
+                            52.513387
+                        ],
+                        [
+                            13.396048,
+                            52.516283
+                        ],
+                        [
+                            13.381206,
+                            52.515096
+                        ],
+                        [
+                            13.379487,
+                            52.514716
+                        ],
+                        [
+                            13.377534,
+                            52.514669
+                        ],
+                        [
+                            13.376597,
+                            52.50935
+                        ],
+                        [
+                            13.376909,
+                            52.508638
+                        ],
+                        [
+                            13.389252,
+                            52.498094
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/dragonerareal_modellprojekt_rathausblock#71"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Ehemalige Blumengroßmarkthalle  ",
+                "type": "Gebäude",
+                "start_date": "2009-04-02T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Die Blumengroßmarkthalle in der Berliner Friedrichstadt entstand 1922 zunächst nahe der Markthalle II (Lindenhalle), in der seit deren Eröffnung 1886 auch einige Blumengroßhändler:innen ihre Stände unterhielten. Im Jahr 1922 konnte eine eigene Halle für den Blumengroßmarkt auf dem heutigen Fromet-und-Moses-Mendelssohn-Platz erbaut werden. Nach der Zerstörung im Zweiten Weltkrieg entstand an gleicher Stelle ein Provisorium, das erst 1965 der neu gebauten Halle für den Blumenhandel wich. Im Mai 2010 zog der Blumengroßmarkt dann zur Großmarkthalle Beusselstraße (Berlin Mitte) um. Die Halle in der Friedrichstadt wurde verkauft und es wurde mit dem Umbau für das Jüdische Museum Berlin begonnen. \n\nDie Museumsleitung konnte dank Finanzhilfen in Höhe von elf Millionen Euro, von denen 6,6 Millionen durch den Bund bereitgestellt wurden und der Rest aus Privatspenden stammt, die ehemalige Blumenhalle zur Akademie des Jüdischen Museums Berlin umbauen lassen. Die Michael Blumenthal Akademie beherbergt seit ihrer Eröffnung die Bibliothek, das Archiv, die Bildungsabteilung und Akademieprogramme zu den Themen Migration, Diversität, Judentum und Islam. Die Innengestaltung mit einem U-förmigen Grundriss entwarf Daniel Libeskind, der bereits für den modernen Ausbau des Jüdischen Museums die Pläne geliefert hatte.\n\nQuelle: wikipedia. ",
+                "image": "https://i.ibb.co/QchL1WY/mehringp.jpg",
+                "category": "Orte",
+                "sub-category": "Öffentlicher Raum",
+                "tags": [
+                    "Erbe",
+                    "Stadtpolitik",
+                    "Öffentlicher Raum",
+                    "Medien",
+                    "Architektur",
+                    "Geschichte "
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://www.jmberlin.de/w-michael-blumenthal-akademie",
+                        "title": "Michael Blumenthal Akademie",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://de.wikipedia.org/wiki/Blumengroßmarkthalle_(Berlin-Kreuzberg)",
+                        "title": "Blumengroßmarkthalle Berlin",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+                    "ca/kreative_raumpioniere_am_mehringplatz#41",
+                    "ca/das_konzentrationslager_gutschow_keller_#61",
+                    "ca/metropolenhaus_am_judisches_museum#19"
+                ],
+                "created_date": "2020-04-03T06:18:05.316-07:00",
+                "updated_date": "2020-05-05T07:09:01.702-07:00",
+                "weight": -3,
+                "image_credit": "Photo Manuela Conti - oginoknauss"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3929,
+                    52.502891
+                ]
+            },
+            "id": "ca/ehemalige_blumengro_markthalle_#65"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mehringplatz im Umbau ",
+                "type": "Projekt",
+                "start_date": "2019-02-03T16:00:00.000-08:00",
+                "end_date": "2020-12-17T16:00:00.000-08:00",
+                "description": "Seit Februar 2019 wird der Mehringplatz umgestaltet. Dieses Projekt findet im Rahmen der Neugestaltung des Sanierungsgebietes statt.\n\nDie Neugestaltung des Mehringplatzes wird nach dem Entwurf der Firma Arge Lavaland / Treibhaus Landschaftsarchitektur durchgeführt. In dem Bauprojekt wird der Innenbereich des Platzes zu einer begrünten Fläche umgestaltet. Die verkehrsberuhigten Flächen des Platzes und weitere Teilen der südlichen Friedrichstadt bis zur Franz-Klühs-Straße werden im Rahmen des Bauvorhabens erneuert und umgestaltet. Die denkmalgerechte Erneuerung und Erweiterung der öffentlichen Beleuchtung sowie die Erneuerung des Stadtmobiliars sind auch vorgesehen.\n\nInsgesamt sind für die Bauzeit zwei Jahre angesetzt.  Die Bauarbeiten werden in mehreren Schritten durchgeführt - wie Sie im verlinkten Bild (s.o.) sehen können. ",
+                "image": "https://i.ibb.co/3djCf0c/MEHRINGPLATZ-07-06-2016-Arge-Lavaland-und-Treibhaus.png",
+                "category": "Veränderungen",
+                "sub-category": "Öffentlicher Raum",
+                "tags": [
+                    "Urbanität",
+                    "Stadterneuerung",
+                    "Öffentlicher Raum",
+                    "Architektur"
+                ],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/aktuelle-projekte/aktuelle-projekte/",
+                        "title": "Umbau Mehringplatz",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://qm-mehringplatz.de/fileadmin/user_upload/2019-02-12-Mehringplatz-Bauablauf-768x494_552px.jpg",
+                        "title": "Bauablauf Mehringplatz",
+                        "description": "",
+                        "type": "image"
+                    }
+                ],
+                "relationships": [
+                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+                ],
+                "created_date": "2020-03-25T07:22:15.353-07:00",
+                "updated_date": "2020-05-05T07:24:35.739-07:00",
+                "weight": 0,
+                "image_credit": "https://i.ibb.co/3djCf0c/MEHRINGPLATZ-07-06-2016-Arge-Lavaland-und-Treibhaus.png"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.389252,
+                            52.498094
+                        ],
+                        [
+                            13.393861,
+                            52.498189
+                        ],
+                        [
+                            13.401282,
+                            52.510348
+                        ],
+                        [
+                            13.400813,
+                            52.511867
+                        ],
+                        [
+                            13.399095,
+                            52.512152
+                        ],
+                        [
+                            13.396595,
+                            52.51201
+                        ],
+                        [
+                            13.396204,
+                            52.512722
+                        ],
+                        [
+                            13.396283,
+                            52.513387
+                        ],
+                        [
+                            13.396048,
+                            52.516283
+                        ],
+                        [
+                            13.381206,
+                            52.515096
+                        ],
+                        [
+                            13.379487,
+                            52.514716
+                        ],
+                        [
+                            13.377534,
+                            52.514669
+                        ],
+                        [
+                            13.376597,
+                            52.50935
+                        ],
+                        [
+                            13.376909,
+                            52.508638
+                        ],
+                        [
+                            13.389252,
+                            52.498094
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/mehringplatz_im_umbau_#62"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Das Konzentrationslager \"Gutschow-Keller\"",
                 "type": "Monument",
                 "start_date": "1933-02-28T16:00:00.000-08:00",
@@ -1501,7 +1788,7 @@
                 ],
                 "relationships": [
                     "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
-                    "ca/mehringplatz_umbau_im_baustelle_#62"
+                    "ca/mehringplatz_im_umbau_#62"
                 ],
                 "created_date": "2019-09-25T08:52:03.678-07:00",
                 "updated_date": "2020-04-03T09:28:11.077-07:00",
@@ -1604,9 +1891,9 @@
         "title": "Mehringplatz Anknipsen",
         "url": "http://mehringplatz-de.community-atlas.net",
         "id": "mehringplatz_de",
-        "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
+        "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-05T13:04:35.433Z",
+        "published": "2020-05-05T14:44:45.632Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1616,7 +1903,7 @@
                 "type": "translation"
             }
         ],
-        "version": 70,
+        "version": 71,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -1718,6 +2005,38 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/dragonerareal_modellprojekt_rathausblock#71",
+            "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
+        },
+        {
+            "from": "ca/dragonerareal_modellprojekt_rathausblock#71",
+            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+        },
+        {
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
+        },
+        {
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/das_konzentrationslager_gutschow_keller_#61"
+        },
+        {
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/metropolenhaus_am_judisches_museum#19"
+        },
+        {
+            "from": "ca/mehringplatz_im_umbau_#62",
+            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "from": "ca/mehringplatz_im_umbau_#62",
+            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+        },
         {
             "from": "ca/neues_zlb_projekt#60",
             "to": "ca/amerika_gedenkbibliothek#30"
@@ -1924,7 +2243,7 @@
         },
         {
             "from": "ca/besselpark_sanierung#11",
-            "to": "ca/mehringplatz_umbau_im_baustelle_#62"
+            "to": "ca/mehringplatz_im_umbau_#62"
         },
         {
             "from": "ca/kma_e_v_#7",

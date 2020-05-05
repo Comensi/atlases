@@ -4,39 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Switch On Mehringplatz",
-                "type": "Projekt",
-                "start_date": "2016-08-31T16:00:00.000-07:00",
-                "end_date": "2017-06-29T16:00:00.000-07:00",
-                "description": "Switch On Mehringplatz",
-                "image": "https://ibb.co/DfzLQTb",
-                "category": "Visionen",
-                "sub-category": "Projekt",
-                "tags": [
-                    "soziale Inklusion",
-                    "Medien",
-                    "Ausbildung"
-                ],
-                "category-description": "Ideen und Ansätze zur Weiterentwicklung des Gebietes",
-                "links": [
-                    {
-                        "url": "http://www.tesserae.eu/project/euler/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2020-04-09T14:36:06.733-07:00",
-                "updated_date": "2020-04-09T14:46:46.306-07:00",
-                "weight": 0,
-                "image_credit": "graphic project: Manuela Conti"
-            },
-            "id": "ca/switch_on_mehringplatz#68"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Whenever the Heart Skips a Beat",
                 "type": "Veranstaltung",
                 "start_date": "2017-08-31T16:00:00.000-07:00",
@@ -141,7 +108,7 @@
                 "end_date": "",
                 "description": "Florian Schmidt ist ein deutscher Politiker (Bündnis 90/Die Grünen) und leitet seit Dezember 2016 als Bezirksstadtrat in Berlin-Friedrichshain-Kreuzberg die Abteilung Bauen, Planen und Facilitymanagement. In den vergangenen Jahren hat er die Stadtentwicklung Berlins entscheidend mitgeprägt: So hat er z.B. als Baustadtrat die LokalBau-Strategie des Bezirkes Friedrichshain-Kreuzberg etabliert. Ziel dieser Strategie ist es, dass Neubauprojekte gemeinwohlorientiert sind, d.h. dass sie sich an den Bedarfen der Nutzer:innen orientieren und die Angebote bezahlbar sind. Vor seiner Tätigkeit als Baustadtrat leitete Schmidt u.a. das Projektbüro \"Kreativquartier Südliche Friedrichstadt\" und koordinierte von 2011 bis 2016 die Initiative \"Stadt Neudenken\".                                                                                                                                                                                                                                                  Im Rahmen des EULER Erasmus+ Projektes wurde 2017 ein Videointerview mit Florian Schmidt geführt (s.o.). Für das Projekt wurden lokale soziale, wirtschaftliche und institutionelle Akteur:innen interviewt, um die vorhandenen Ressourcen und Potenziale der Südlichen Friedrichstadt zu eruieren.",
                 "image": "https://i.vimeocdn.com/video/669554989_520x294.jpg",
-                "category": "Personen",
+                "category": "Akteur:innen",
                 "sub-category": "Verwaltung",
                 "tags": [
                     "Stadtpolitik",
@@ -223,16 +190,18 @@
                 "end_date": "",
                 "description": "Unter dem Motto \"Reparieren statt Wegwerfen\" laden jeden 1. Montag im Monat Ehrenamtliche zum sogenannten Repair Café ein. Es können technische Geräte oder andere Gegenstände mit in die Kiezstube (Mehringplatz 7) gebracht werden, denen wieder Leben eingehaucht werden. Die Reperatur erfolgt mit Beratung und Unterstützung der technisch begabten Ehrenamtlichen vor Ort, um dem Ansatz \"Hilfe zur Selbsthilfe\" gerecht zu werden. Das Angebot ist kostenlos.",
                 "image": "https://i.ibb.co/YNvHyBS/Repair-Cafe.png ",
-                "category": "Personen",
+                "category": "Initiativen",
                 "sub-category": "",
                 "tags": [
                     "Umwelt"
                 ],
-                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "category-description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
                 "links": [],
-                "relationships": [],
+                "relationships": [
+                    "ca/kiezstube_mehringplatz#25"
+                ],
                 "created_date": "2020-01-17T05:53:12.876-08:00",
-                "updated_date": "2020-04-09T09:59:15.347-07:00",
+                "updated_date": "2020-04-30T09:47:52.960-07:00",
                 "weight": 0,
                 "image_credit": "www.123RF.com"
             },
@@ -260,8 +229,8 @@
                     "ca/mehringplatz#39"
                 ],
                 "created_date": "2019-12-05T09:40:58.990-08:00",
-                "updated_date": "2020-04-09T10:12:13.576-07:00",
-                "weight": 0,
+                "updated_date": "2020-04-16T07:38:25.207-07:00",
+                "weight": 2,
                 "image_credit": ""
             },
             "id": "ca/weltkrieg_ii_luftangriff#47"
@@ -269,11 +238,11 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Der Belle Alliance Platz - \"Das Rondell\"",
+                "title": "\"Das Rondell\"",
                 "type": "Ort",
                 "start_date": "1730-01-31T16:00:00.000-08:00",
                 "end_date": "1944-12-31T16:00:00.000-07:00",
-                "description": "In der ersten Hälfte des 18. Jahrhunderts wuchs Berlin rasant. Die Stadt wurde vergrößert und neue Stadttore wurden gebaut. Eines dieser Tore war das Hallesche Tor. Um 1730 - unter König Friedrich Wilhelm I. von Preußen - wurden drei neue repräsentative Plätze vor drei wichtigen Stadttoren erbaut, die zunächst nach ihrer Form benannt wurden: \"Karree\" für den Pariser Platz, \"Oktogon\" für den Leipziger Platz sowie \"Rondell\" für den Mehringplatz. \n\nDieser als \"Rondell\" bekannte Platz  war vom Stadtmodell der Piazza del Popolo in Rom inspiriert und war von zweistöckigen Bürgerhäusern umgeben. Im Jahr 1815 erfolgte die Umbenennung in Belle-Alliance-Platz als Erinnerung an den Sieg über Napoleon in Waterloo. Die Friedenssäule wurde nur zwanzig Jahre später in der Mitte des Platzes errichtet und die Landschaftsgestaltung vom Direktor des königlichen Gartens Lenné übernommen. Der Platz blieb zunächst unverändert, bis mit dem Abriss der Akzisemauer 1879 und mit der späteren Erschließung durch die Eisenbahn und die U-Bahn das Erscheinungsbild des Platzes stark verändert wurde. Der Belle-Alliance-Platz wurde im II. Weltkrieg stark zerstört und unmittelbar danach in Mehringplatz (nach Franz Mehring) umbenannt.",
+                "description": "In der ersten Hälfte des 18. Jahrhunderts wuchs Berlin rasant. Die Stadt wurde vergrößert und neue Stadttore wurden gebaut. Eines dieser Tore war das Hallesche Tor. Um 1730 - unter König Friedrich Wilhelm I. von Preußen - wurden drei neue repräsentative Plätze vor drei wichtigen Stadttoren erbaut, die zunächst nach ihrer Form benannt wurden: \"Karree\" für den Pariser Platz, \"Oktogon\" für den Leipziger Platz sowie \"Rondell\" für den Mehringplatz. Dieser als \"Rondell\" bekannte Platz war vom Stadtmodell der Piazza del Popolo in Rom inspiriert und war von zweistöckigen Bürgerhäusern umgeben.                                                                                 ",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mehringplatz_um1730.jpg",
                 "category": "Erinnerungen",
                 "sub-category": "",
@@ -288,15 +257,16 @@
                     }
                 ],
                 "relationships": [
+                    "ca/belle_alliance_platz#40",
                     "ca/mehringplatz#39",
                     "ca/weltkrieg_ii_luftangriff#47"
                 ],
                 "created_date": "2019-11-23T04:19:54.664-08:00",
-                "updated_date": "2020-04-10T04:03:37.017-07:00",
+                "updated_date": "2020-04-16T07:22:24.218-07:00",
                 "weight": 0,
                 "image_credit": "https://de.wikipedia.org/wiki/Mehringplatz#/media/Datei:Mehringplatz_um1730.jpg"
             },
-            "id": "ca/der_belle_alliance_platz_das_rondell_#45"
+            "id": "ca/_das_rondell_#45"
         },
         {
             "type": "Feature",
@@ -448,8 +418,8 @@
                     "ca/ehemalige_blumengro_markthalle_#65"
                 ],
                 "created_date": "2019-09-26T03:29:19.999-07:00",
-                "updated_date": "2020-04-10T06:04:42.268-07:00",
-                "weight": 0,
+                "updated_date": "2020-04-16T07:34:16.155-07:00",
+                "weight": -4,
                 "image_credit": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg"
             },
             "id": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
@@ -485,59 +455,14 @@
                     "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
                 ],
                 "created_date": "2019-09-26T03:07:19.608-07:00",
-                "updated_date": "2020-03-27T04:53:38.518-07:00",
-                "weight": 0,
-                "image_credit": ""
+                "updated_date": "2020-04-16T07:34:01.407-07:00",
+                "weight": 4,
+                "image_credit": "Photo Manuela Conti - oginoknauss"
             },
             "id": "ca/bauh_tte#16"
         }
     ],
     "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Ehemalige Blumengroßmarkthalle  ",
-                "type": "Gebäude",
-                "start_date": "2009-04-02T16:00:00.000-07:00",
-                "end_date": "",
-                "description": "Die Blumengroßmarkthalle in der Berliner Friedrichstadt entstand zuerst 1922 in der unmittelbaren Nachbarschaft der Markthalle II (Lindenhalle), in der seit deren Eröffnung 1886 auch einige Blumengroßhändler ihre Stände unterhielten. 1922 konnte eine eigene Halle für den Blumengroßmarkt erbaut werden. Nach Zerstörung im Zweiten Weltkrieg entstand an gleicher Stelle ein Provisorium, das bis 1965 einem Neubau, der jetzigen Halle, wich. Im Mai 2010 zog der Blumengroßmarkt zur Großmarkthalle Beusselstraße um. Die Halle wurde verkauft und der Umbau für das Jüdische Museum Berlin begonnen. Die Museumsleitung konnte mit Hilfe von Finanzspritzen in Höhe von elf Millionen Euro, von denen 6,6 Millionen durch den Bund bereitgestellt wurden und der Rest aus Privatspenden stammt, die Halle zur Akademie des Jüdischen Museums Berlin umbauen lassen. Sie beherbergt seit ihrer Eröffnung die Bibliothek, das Archiv, die Bildungsabteilung und Akademieprogramme (zu Migration und Diversität sowie Judentum und Islam) des Museums. Die Innengestaltung mit einem U-förmigen Grundriss in der Hülle des bisherigen Gebäudes entwarf Daniel Libeskind, der bereits für den modernen Erweiterungsbau des Museums die Pläne geliefert hatte.\nSource: wikipedia. Edited by Lorenzo Tripodi",
-                "image": "https://i.ibb.co/QchL1WY/mehringp.jpg",
-                "category": "Orte",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "https://www.jmberlin.de/w-michael-blumenthal-akademie",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://de.wikipedia.org/wiki/Blumengroßmarkthalle_(Berlin-Kreuzberg)",
-                        "title": "Wikipedia",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-                    "ca/kreative_raumpioniere_am_mehringplatz#41"
-                ],
-                "created_date": "2020-04-03T06:18:05.316-07:00",
-                "updated_date": "2020-04-10T05:05:27.125-07:00",
-                "weight": -3,
-                "image_credit": "Photo Manuela Conti - oginoknauss"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3929,
-                    52.502891
-                ]
-            },
-            "id": "ca/ehemalige_blumengro_markthalle_#65"
-        },
         {
             "type": "Feature",
             "properties": {
@@ -747,14 +672,14 @@
                     }
                 ],
                 "relationships": [
-                    "ca/der_belle_alliance_platz_das_rondell_#45",
+                    "ca/_das_rondell_#45",
                     "ca/gewobag#53",
                     "ca/kiezstube_mehringplatz#25",
                     "ca/caf_madame#26"
                 ],
                 "created_date": "2019-11-21T02:25:33.651-08:00",
-                "updated_date": "2020-04-09T07:32:38.169-07:00",
-                "weight": 0,
+                "updated_date": "2020-04-16T07:38:34.803-07:00",
+                "weight": 1,
                 "image_credit": "Photo Manuela Conti - oginoknauss"
             },
             "geometry": {
@@ -916,13 +841,13 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "ZLB - Amerika-Gedenkbibliothek",
+                "title": "Amerika-Gedenkbibliothek",
                 "type": "Organisation",
                 "start_date": "",
                 "end_date": "",
                 "description": "Die Stiftung Zentral- und Landesbibliothek Berlin (ZLB) ist die größte Öffentliche Bibliothek Deutschlands. Ihre beiden Standorte sind die Amerika-Gedenkbibliothek (AGB) in Berlin-Kreuzberg nahe des Mehringplatzes und die Berliner Stadtbibliothek (BStB) in Berlin-Mitte.  \n\nDie Amerika-Gedenkbibliothek ist wochentags von 10.00 bis 21.00 Uhr geöffnet. Der Standort ist auf geisteswissenschaftliche Fachgebiete und die „schönen“ Künste spezialisiert. Es finden sich allerdings auch eine Vielzahl von Büchern zu anderen Themen und Genres sowie Filme, Musik und eine Artothek. Hier ist auch die Kinder- und Jugendbibliothek mit einem Lernzentrum angesiedelt.\n\nJeden Sonntag von 11.00 – 17.00 Uhr ist die Amerika-Gedenkbibliothek geöffnet und bietet ein wöchentlich wechselndes Veranstaltungsprogramm an. Wenn Sie auch Ideen für das Programm haben oder selbst einen Veranstaltungspunkt anbieten möchten, können Sie eine E-Mail schicken an: sonntagsbureau@berlin.de\n\nZudem bietet die Amerika-Gedenkbibliothek einen Lesesaal mit kostenlosen Zeitungen und Zeitschriften sowie einen Klavierraum zum Musizieren an. ",
                 "image": "https://i.postimg.cc/28sSnvr9/agb.jpg",
-                "category": "Personen",
+                "category": "Orte",
                 "sub-category": "Public cultural institutions",
                 "tags": [
                     "Kultur",
@@ -936,7 +861,7 @@
                     "Musik",
                     "Sprache"
                 ],
-                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
                 "links": [
                     {
                         "url": "https://www.zlb.de",
@@ -953,7 +878,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-10-30T03:56:51.891-07:00",
-                "updated_date": "2020-04-10T03:46:58.445-07:00",
+                "updated_date": "2020-04-16T06:54:44.475-07:00",
                 "weight": 0,
                 "image_credit": "http://text-der-stadt.blogspot.com/2014/09/facelifting-die-amerika.html"
             },
@@ -964,7 +889,7 @@
                     52.49656
                 ]
             },
-            "id": "ca/zlb_amerika_gedenkbibliothek#30"
+            "id": "ca/amerika_gedenkbibliothek#30"
         },
         {
             "type": "Feature",
@@ -975,7 +900,7 @@
                 "end_date": "",
                 "description": "\t\tDie Globale e.V. wurde 2007 gegründet und arbeitet schwerpunktmäßig im Bereich frühkindlicher Bildung sowie zu den Themen gesellschaftliche Integration und Gemeinwesenarbeit.  Der Verein ist am Mehringplatz und im Donaukiez aktiv. Im Bereich der Bildungsarbeit betreibt der Verein zwei Lernwerkstätten in Kreuzberg und Neukölln sowie drei Kitas, die mit dem Konzept des entdeckenden Lernens arbeiten. Das Angebot der Lernwerkstätten richtet sich an Kinder im Alter von vier bis 12 Jahren. Es zielt darauf ab, das Lerninteresse und die Lernmotivation der Heranwachsenden und ihr Interesse an der Erforschung ihrer natürlichen und sozialen Umwelt als wesentliche Voraussetzung für einen gelingenden Bildungsprozess zu unterstützen. Bei den unterschiedlichen Angeboten werden die unterschiedlichen Lebensverhältnisse und Lebensentwürfe der Familien berücksichtigt um den Kindern vielfältige Zugänge zu Bildungsprozessen zu ermöglicht. In der Arbeit werden die besonderen Interessen und Fähigkeiten der Kinder gefördert und die Familien als wichtige Bildungspartner ihrer Kinder gestärkt.\nDer zweite Schwerpunkt  liegt in der Entwicklung von Kiezstrukturen am Mehringplatz. Im Rahmen seiner Angebote hat der Verein einen guten Kontakt zur Nachbarschaft aufgebaut. Durch vielfältige Aktivitäten (Feste, Flohmarkt, Bücherverleih) ist der Verein im Gebiet bekannt und hat bereits zu zahlreichen Gelegenheiten Bewohner unterstützt, Angebote für ein nachbarschaftliches Zusammensein zu entwickeln und umzusetzen. Das Nachbarschaftscafé am Mehringplatz 7 bietet zudem einen öffentlichen Ort, an dem sich Menschen des Quartiers treffen, ihre Bedürfnisse und Interessen artikulieren und den Ort für Begegnungen nutzen. Der Verein ist gut vernetzt mit anderen sozialen und kulturellen Einrichtungen und sonstigen Organisationen (Gewobag, Mieterbeirat, Bildungsnetz, Gewerbetreibende, AOK, Platzgärtner etc.) im Quartier. \n",
                 "image": "https://i.ibb.co/BydwNWY/globale-logo-web-header.png",
-                "category": "Personen",
+                "category": "Akteur:innen",
                 "sub-category": "NGO/Social work",
                 "tags": [
                     "Kochen",
@@ -1311,7 +1236,7 @@
                 "end_date": "",
                 "description": "SUPERMARKT ist ein unabhängiger Projektraum für digitale Kultur und alternative Ökonomien, in dem Workshops, verschiedene Projekte und Konferenzen veranstaltet werden. Der inhaltliche Fokus von SUPERMARKT liegt auf  der Schnittstelle zwischen Technologie und Gesellschaft. SUPERMARKT wurde im Jahr 2010 von Ela Kagel, David Farine und Zsolt Szentirmai gegründet. Im September 2015 zog der SUPERMARKT in seine jetzigen Räumlichkeiten am Mehringplatz in Kreuzberg um.                           Im Rahmen des EULER Erasmus+ Projektes wurde 2017 ein Videointerview mit Ela Kagel geführt (s.o.). Für das Projekt wurden lokale soziale, wirtschaftliche und institutionelle Akteur:innen interviewt, um die vorhandenen Ressourcen und Potenziale der Südlichen Friedrichstadt zu eruieren.",
                 "image": "https://i.vimeocdn.com/video/669771730_260x146.jpg",
-                "category": "Personen",
+                "category": "Akteur:innen",
                 "sub-category": "Stakeholder interviews",
                 "tags": [
                     "Kultur",
@@ -1442,7 +1367,7 @@
                 "end_date": "",
                 "description": "Die Kreuzberger Musikalische Aktion e.V. ist eine gemeinnützige Initiative und anerkannter freier Träger der Kinder- und Jugendhilfe. Gegründet u.a. von Künstler:innen, Sozialarbeiter:innen und Lehrer:innen, die mit ihren jeweiligen Kompetenzen präventiv gegen Gewalt, Kinder- und Jugendkriminalität, Drogensucht und sexuellen Missbrauch von Kindern und Jugendlichen arbeiten.\n\nSeit über dreißig Jahren unterstützt die Initiative mit ihren Projekten (Musik, Multimedia, Theater, Sport, kreatives Gestalten...) Kinder und Jugendliche dabei, ihre Potenziale zu entdecken und ihre Fähigkeiten zu entwickeln. Sie unterstützen auch junge arbeitslose Menschen beim Berufseinstieg durch die Nutzung ihrer Werkstätten und Projekträume.  \n\nDie KMA e.V. ist an drei Standorten vertreten:\nAls KMAntenne in der Friedrichstraße 2-3 mit Aktivitäten im Bereich Tanz, Musik, Theater und Multimedia. Zudem sind sie direkt daneben im Intihaus, wo zahlreiche Initiativen, Vereine und Projekte vertreten sind wie die Kiezküche \"Kantine Kreuzberg\". Seit 2012 ist KMA e.V. zudem im Statthaus Böcklerpark am Landwehrkanal, wo es ein großes Außengelände für Sportakitvitäten und viele Räume für Workshops gibt.",
                 "image": "https://kma-ev.de/typo3conf/ext/template_provider/Resources/Public/Images/logo_orange.png",
-                "category": "Personen",
+                "category": "Akteur:innen",
                 "sub-category": "NGO/Social work",
                 "tags": [
                     "Jugend",
@@ -1486,7 +1411,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-04-10T13:15:03.430Z",
+        "published": "2020-05-05T12:18:11.698Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1496,15 +1421,16 @@
                 "type": "translation"
             }
         ],
-        "version": 60,
+        "version": 69,
         "taxonomy": [
             {
-                "category": "Rundgang",
+                "category": "Initiativen",
                 "description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
                 "sub-categories": [
-                    "#r19"
+                    "#r19",
+                    "Bildung"
                 ],
-                "weight": 6,
+                "weight": -2,
                 "id": 8
             },
             {
@@ -1543,7 +1469,7 @@
                 "id": 5
             },
             {
-                "category": "Personen",
+                "category": "Akteur:innen",
                 "description": "Im Gebiet engagierte Menschen und Initiativen",
                 "sub-categories": [
                     "Kulturelle Institutionen",
@@ -1598,14 +1524,6 @@
     },
     "relationships": [
         {
-            "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
-        },
-        {
-            "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
-        },
-        {
             "from": "ca/kmantenne#59",
             "to": "ca/kma_e_v_#7"
         },
@@ -1634,6 +1552,10 @@
             "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
         },
         {
+            "from": "ca/repair_cafe_#52",
+            "to": "ca/kiezstube_mehringplatz#25"
+        },
+        {
             "from": "ca/friedrichstadt_#50",
             "to": "ca/gr_ndung_friedrichstadt_#42"
         },
@@ -1650,11 +1572,15 @@
             "to": "ca/mehringplatz#39"
         },
         {
-            "from": "ca/der_belle_alliance_platz_das_rondell_#45",
+            "from": "ca/_das_rondell_#45",
+            "to": "ca/belle_alliance_platz#40"
+        },
+        {
+            "from": "ca/_das_rondell_#45",
             "to": "ca/mehringplatz#39"
         },
         {
-            "from": "ca/der_belle_alliance_platz_das_rondell_#45",
+            "from": "ca/_das_rondell_#45",
             "to": "ca/weltkrieg_ii_luftangriff#47"
         },
         {
@@ -1683,7 +1609,7 @@
         },
         {
             "from": "ca/mehringplatz#39",
-            "to": "ca/der_belle_alliance_platz_das_rondell_#45"
+            "to": "ca/_das_rondell_#45"
         },
         {
             "from": "ca/mehringplatz#39",

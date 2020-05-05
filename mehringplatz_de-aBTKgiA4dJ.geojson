@@ -175,8 +175,8 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-01-18T09:43:38.087-08:00",
-                "updated_date": "2020-01-18T09:43:38.627-08:00",
-                "weight": 0,
+                "updated_date": "2020-05-05T05:38:13.682-07:00",
+                "weight": -2,
                 "image_credit": ""
             },
             "id": "ca/gewobag#53"
@@ -502,6 +502,108 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Neues ZLB Projekt",
+                "type": "Projekt",
+                "start_date": "2018-05-31T16:00:00.000-07:00",
+                "end_date": "2025-12-31T16:00:00.000-08:00",
+                "description": "Die Zentral- und Landesbibliothek (ZLB) ist gegenwärtig auf drei Standorte in der Stadt verteilt. Deshalb sind die räumlichen Bedingungen für Nutzer:innen und Arbeiter:innen aktuell nicht ideal. Im Juni 2018 hat sich der Berliner Senat nach einer intensiven Prüfung unterschiedlicher Standorte entschieden, die ZLB am Blücherplatz zu errichten. Die neue ZLB wird ergänzend zur bestehenden Amerika-Gedenkbibliothek (AGB) weitere Gebäudeteile benötigen und den Blücherplatz städtebaulich verändern. Die komplexe Verkehrssituation in der Umgebung inkl. der Blücherstraße werden dafür auch von dem interdisziplinären Planungsteam untersucht. \n\nBislang wurden unterschiedliche städtebauliche Lösungen erarbeitet. Dafür wurde in den letzten Monaten das Dialogverfahren \"Städtebauliche Machbarkeitsstudie ZLB am Blücherplatz\" durchgeführt. In einer Reihe von Beteiligungsformaten hat das Planungsteam mit Angestellten und Bürger:innen über Möglichkeiten diskutiert, wie der Neubau auf dem Blücherplatz gut integriert werden kann. Ziel ist es, die Meinungen von Bewohner:innen und Angestellten zu berücksichtigen, um den Erwartungen und Bedarfen mit dem künftigen Projekt nachkommen zu können. Wichtig sind z.B. die Besonderheiten 'Altbau der AGB' oder der Erhalt von Erholungsflächen und Wegverbindungen. \n\nDas konkrete Konzept mit den architektonischen Aspekten und der Entwicklung der Umgebung wird nach der Machbarkeitsstudie in einem Architekturwettbewerb ermittelt. Anschließend wird ein Projekt ausgewählt, sodass der Bau 2026 beginnen soll.\n\nQuelle: Offiziell Website (s.u.)",
+                "image": "https://www.zlb.de/fileadmin/_processed_/3/1/csm_IMG_2561_154d2d37f1.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Infrastruktur",
+                "tags": [
+                    "gemeinschaftlich",
+                    "soziale Inklusion",
+                    "Öffentlicher Raum"
+                ],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "https://www.zlb.de/ueber-uns/projekte/neubauprojekt/aktuelles.html?d=0",
+                        "title": "ZLB Neubauprojekt",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/amerika_gedenkbibliothek#30"
+                ],
+                "created_date": "2020-03-21T12:14:08.963-07:00",
+                "updated_date": "2020-05-05T06:02:43.561-07:00",
+                "weight": 0,
+                "image_credit": "https://www.zlb.de/fileadmin/_processed_/3/1/csm_IMG_2561_154d2d37f1.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.389252,
+                            52.498094
+                        ],
+                        [
+                            13.393861,
+                            52.498189
+                        ],
+                        [
+                            13.401282,
+                            52.510348
+                        ],
+                        [
+                            13.400813,
+                            52.511867
+                        ],
+                        [
+                            13.399095,
+                            52.512152
+                        ],
+                        [
+                            13.396595,
+                            52.51201
+                        ],
+                        [
+                            13.396204,
+                            52.512722
+                        ],
+                        [
+                            13.396283,
+                            52.513387
+                        ],
+                        [
+                            13.396048,
+                            52.516283
+                        ],
+                        [
+                            13.381206,
+                            52.515096
+                        ],
+                        [
+                            13.379487,
+                            52.514716
+                        ],
+                        [
+                            13.377534,
+                            52.514669
+                        ],
+                        [
+                            13.376597,
+                            52.50935
+                        ],
+                        [
+                            13.376909,
+                            52.508638
+                        ],
+                        [
+                            13.389252,
+                            52.498094
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/neues_zlb_projekt#60"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "KMAntenne",
                 "type": "Ort",
                 "start_date": "",
@@ -678,8 +780,8 @@
                     "ca/caf_madame#26"
                 ],
                 "created_date": "2019-11-21T02:25:33.651-08:00",
-                "updated_date": "2020-04-16T07:38:34.803-07:00",
-                "weight": 1,
+                "updated_date": "2020-05-05T05:37:50.975-07:00",
+                "weight": -4,
                 "image_credit": "Photo Manuela Conti - oginoknauss"
             },
             "geometry": {
@@ -841,6 +943,50 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Karin Lücker - Café MaDaMe ",
+                "type": "Interview",
+                "start_date": "2017-03-16T17:00:00.000-07:00",
+                "end_date": "",
+                "description": "Karin Lücker ist die Betreiberin des Cafés MaDaMe, das einen Anlaufpunkt für verschiedene Personen und Gruppen im Kiez bildet. \n\nIm Rahmen des EULER Erasmus+ Projektes wurde 2017 ein Videointerview mit Karin Lücker geführt (s.o.). Für das Projekt wurden lokale soziale, wirtschaftliche und institutionelle Akteur:innen interviewt, um die vorhandenen Ressourcen und Potenziale der Südlichen Friedrichstadt zu eruieren.",
+                "image": "https://i.vimeocdn.com/video/669771616_260x146.jpg",
+                "category": "Akteur:innen",
+                "sub-category": "Vereine/ NGO",
+                "tags": [
+                    "soziale Inklusion",
+                    "Feminismus",
+                    "Kultur",
+                    "Kochen"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/232820289",
+                        "title": "Interview mit Karin Lücker 2017",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/caf_madame#26",
+                    "ca/die_globale_e_v_#27"
+                ],
+                "created_date": "2019-10-30T04:32:12.500-07:00",
+                "updated_date": "2020-05-05T05:32:54.119-07:00",
+                "weight": 0,
+                "image_credit": "Karin Lücker - Photo Manuela Conti"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39248,
+                    52.49974
+                ]
+            },
+            "id": "ca/karin_l_cker_caf_madame_#31"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Amerika-Gedenkbibliothek",
                 "type": "Organisation",
                 "start_date": "",
@@ -922,8 +1068,8 @@
                     "ca/karin_l_cker_caf_madame_#31"
                 ],
                 "created_date": "2019-09-27T02:10:08.037-07:00",
-                "updated_date": "2020-04-09T08:35:36.805-07:00",
-                "weight": 0,
+                "updated_date": "2020-05-05T05:39:10.859-07:00",
+                "weight": 1,
                 "image_credit": ""
             },
             "geometry": {
@@ -983,6 +1129,55 @@
                 ]
             },
             "id": "ca/caf_madame#26"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Kiezstube Mehringplatz",
+                "type": "Ort",
+                "start_date": "2015-04-08T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Die Kiezstube ist ein Ort für die Nachbarschaft, an dem alle willkommen sind. Seit 2015 bietet die Kiezstube am Mehringplatz den Anwohner:innen einen Raum, um sich zu treffen, auszutauschen, gemeinsam zu kochen, Feste zu feiern, Bücher auszuleihen oder die Sozialberatung in Anspruch zu nehmen. Die inhaltliche Ausgestaltung soll sich an den Bedarfen im Kiez orientieren. Die Kiezstube fördert  Menschen dabei, sich gemeinwesenorientiert in ihrem Bezirk engagieren zu können. \n\nAnfangs wurde die Kiezstube von Die Globale e.V. verwaltet, was nach der Renovierung der Räumlichkeiten 2017 von der Gewobag übernommen wurde. Zurzeit betreibt die Gewobag zehn Kiezstuben in verschiedenen Quartieren Berlins.  ",
+                "image": "http://qm-mehringplatz.info/fileadmin/_processed_/csm_2018_eroeffn_kiezstube06_b9c3ae922e.jpg",
+                "category": "Orte",
+                "sub-category": "Gemeinschaftsmittelpunkt",
+                "tags": [
+                    "soziale Inklusion",
+                    "Quartiersmanagement",
+                    "Kochen",
+                    "Veranstaltung",
+                    "gemeinschaftlich",
+                    "Kunst",
+                    "Sprache"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "http://www.qm-mehringplatz.de/index.php?id=79",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/mehringplatz#39",
+                    "ca/gewobag#53",
+                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+                    "ca/die_globale_e_v_#27"
+                ],
+                "created_date": "2019-09-27T01:27:56.456-07:00",
+                "updated_date": "2020-05-05T05:39:22.376-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39305,
+                    52.499245
+                ]
+            },
+            "id": "ca/kiezstube_mehringplatz#25"
         },
         {
             "type": "Feature",
@@ -1411,7 +1606,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative und quantitative Daten oder Visionen über die Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-05T12:18:11.698Z",
+        "published": "2020-05-05T13:04:35.433Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1421,7 +1616,7 @@
                 "type": "translation"
             }
         ],
-        "version": 69,
+        "version": 70,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -1523,6 +1718,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/neues_zlb_projekt#60",
+            "to": "ca/amerika_gedenkbibliothek#30"
+        },
         {
             "from": "ca/kmantenne#59",
             "to": "ca/kma_e_v_#7"
@@ -1632,6 +1831,14 @@
             "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
         },
         {
+            "from": "ca/karin_l_cker_caf_madame_#31",
+            "to": "ca/caf_madame#26"
+        },
+        {
+            "from": "ca/karin_l_cker_caf_madame_#31",
+            "to": "ca/die_globale_e_v_#27"
+        },
+        {
             "from": "ca/die_globale_e_v_#27",
             "to": "ca/caf_madame#26"
         },
@@ -1646,6 +1853,22 @@
         {
             "from": "ca/caf_madame#26",
             "to": "ca/karin_l_cker_caf_madame_#31"
+        },
+        {
+            "from": "ca/kiezstube_mehringplatz#25",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/kiezstube_mehringplatz#25",
+            "to": "ca/gewobag#53"
+        },
+        {
+            "from": "ca/kiezstube_mehringplatz#25",
+            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+        },
+        {
+            "from": "ca/kiezstube_mehringplatz#25",
+            "to": "ca/die_globale_e_v_#27"
         },
         {
             "from": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",

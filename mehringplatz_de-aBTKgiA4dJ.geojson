@@ -418,7 +418,7 @@
                     "ca/ehemalige_blumengro_markthalle_#65"
                 ],
                 "created_date": "2019-09-26T03:29:19.999-07:00",
-                "updated_date": "2020-04-16T07:34:16.155-07:00",
+                "updated_date": "2020-05-07T08:39:37.765-07:00",
                 "weight": -4,
                 "image_credit": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg"
             },
@@ -455,7 +455,7 @@
                     "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
                 ],
                 "created_date": "2019-09-26T03:07:19.608-07:00",
-                "updated_date": "2020-04-16T07:34:01.407-07:00",
+                "updated_date": "2020-05-07T08:38:35.051-07:00",
                 "weight": 4,
                 "image_credit": "Photo Manuela Conti - oginoknauss"
             },
@@ -1893,7 +1893,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-07T10:32:06.841Z",
+        "published": "2020-05-07T15:41:46.953Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1903,7 +1903,7 @@
                 "type": "translation"
             }
         ],
-        "version": 72,
+        "version": 73,
         "taxonomy": [
             {
                 "category": "Initiativen",

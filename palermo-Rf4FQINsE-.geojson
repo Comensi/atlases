@@ -53,9 +53,11 @@
                 "tags": [],
                 "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "links": [],
-                "relationships": [],
+                "relationships": [
+                    "ca/piazzetta_alla_guilla#81"
+                ],
                 "created_date": "2020-04-15T03:18:20.078-07:00",
-                "updated_date": "2020-04-15T03:25:12.444-07:00",
+                "updated_date": "2020-05-08T08:18:49.864-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -540,7 +542,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T15:18:14.771Z",
+        "published": "2020-05-08T15:19:57.033Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -635,6 +637,10 @@
         {
             "from": "ca/piazzetta_alla_guilla#81",
             "to": "ca/spazi_di_quartiere#72"
+        },
+        {
+            "from": "ca/sartoria_eleganza#80",
+            "to": "ca/piazzetta_alla_guilla#81"
         },
         {
             "from": "ca/la_bottega_del_fabbro#79",

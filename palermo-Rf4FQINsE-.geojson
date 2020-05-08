@@ -4,6 +4,44 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Piazzetta alla Guilla",
+                "type": "Luogo",
+                "start_date": "",
+                "end_date": "",
+                "description": "La piazzetta alla Guilla é uno dei pochi spazi verdi presenti nel quartiere ed é aperta a differenti usi da parte dei residenti. Importante snodo, via di passaggio tra il mercato del Capo e la cattedrale presenta la possibilita' di avviare una programmazione di attività ricreative che potrebbere coinvolgere residenti, parrocchie, scuole e associazioni locali come il vicino Teatro alla Guilla. Nella discussione Spazi di quartiere di novembre 2019 é émerso come possa essere interessanete coinvolgere le scuole del quartiere in attività extra-scolastiche di aggregazione per i ragazzi nella piazzetta, la necessita' di sistemarne i muretti e di installare nuove panchine e contenitori.\n",
+                "image": "https://i.postimg.cc/VkXtP0Kb/guilla2.jpg",
+                "category": "Spazi di quartiere",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/wxtcbMYD/DSC03692.jpg",
+                        "title": "Spazi di quartiere in Piazzetta alla Guilla",
+                        "description": "Spazi di quartiere con il Teatro alla Guilla",
+                        "type": "image"
+                    }
+                ],
+                "relationships": [
+                    "ca/spazi_di_quartiere#72"
+                ],
+                "created_date": "2020-05-08T07:53:34.707-07:00",
+                "updated_date": "2020-05-08T08:02:12.712-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.356,
+                    38.116
+                ]
+            },
+            "id": "ca/piazzetta_alla_guilla#81"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Sartoria Eleganza",
                 "type": "Persona",
                 "start_date": "",
@@ -502,7 +540,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T14:52:03.486Z",
+        "published": "2020-05-08T15:11:07.462Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -540,7 +578,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 116,
+        "version": 118,
         "taxonomy": [
             {
                 "category": "Iniziative",
@@ -594,6 +632,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/piazzetta_alla_guilla#81",
+            "to": "ca/spazi_di_quartiere#72"
+        },
         {
             "from": "ca/la_bottega_del_fabbro#79",
             "to": "ca/cartello_informativo_capo#77"

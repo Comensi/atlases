@@ -182,7 +182,7 @@
                 "links": [
                     {
                         "url": "https://i.postimg.cc/zXpLxfhN/IMG-20191108-151723.jpg",
-                        "title": "Raccolta di proposte ",
+                        "title": "Spazi di quartiere al Vicolo degli Orfani",
                         "description": "Spazi di quartiere al Vicolo degli Orfani",
                         "type": "image"
                     },
@@ -197,6 +197,12 @@
                         "title": "Le proposte per il Vicolo",
                         "description": "Raccolta di proposte per vicolo degli orfani durante Spazi di Quartiere",
                         "type": "image"
+                    },
+                    {
+                        "url": "https://palermo.community-atlas.net/#cards/category:Iniziative/ca%2Fspazi_di_quartiere%2372",
+                        "title": "Spazi di Quartiere",
+                        "description": "",
+                        "type": "website"
                     }
                 ],
                 "relationships": [],
@@ -459,7 +465,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T13:46:31.092Z",
+        "published": "2020-05-08T13:53:18.551Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -497,7 +503,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 105,
+        "version": 106,
         "taxonomy": [
             {
                 "category": "Iniziative",

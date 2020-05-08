@@ -426,10 +426,25 @@
                 "sub-category": "Spazi pubblici",
                 "tags": [],
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
-                "links": [],
-                "relationships": [],
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/rwwj8Jtt/74905546-2462724297179758-8280341168777068544-o.jpg",
+                        "title": "Proposte per Piazza Papireto",
+                        "description": "Proposte per Piazza Papireto raccolte durante Spazi di quartiere",
+                        "type": "image"
+                    },
+                    {
+                        "url": "https://i.postimg.cc/nhW4ntJ6/74893030-2462724590513062-4867935131790213120-o.jpg",
+                        "title": "Spazi di quartiere a Piazza Papireto",
+                        "description": "Spazi di quartiere a Piazza Papireto",
+                        "type": "image"
+                    }
+                ],
+                "relationships": [
+                    "ca/spazi_di_quartiere#72"
+                ],
                 "created_date": "2019-12-11T08:12:02.170-08:00",
-                "updated_date": "2020-05-08T04:20:40.199-07:00",
+                "updated_date": "2020-05-08T07:46:52.880-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -487,7 +502,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T14:45:27.119Z",
+        "published": "2020-05-08T14:52:03.486Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -525,7 +540,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 114,
+        "version": 116,
         "taxonomy": [
             {
                 "category": "Iniziative",
@@ -594,6 +609,10 @@
         {
             "from": "ca/spazi_di_quartiere#72",
             "to": "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/vicolo_degli_orfani#75"
+        },
+        {
+            "from": "ca/piazza_papireto#70",
+            "to": "ca/spazi_di_quartiere#72"
         },
         {
             "from": "ca/cortile_mangano#68",

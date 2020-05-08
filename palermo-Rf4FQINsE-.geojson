@@ -203,12 +203,6 @@
                         "title": "Le proposte per il Vicolo",
                         "description": "Raccolta di proposte per vicolo degli orfani durante Spazi di Quartiere",
                         "type": "image"
-                    },
-                    {
-                        "url": "https://palermo.community-atlas.net/#cards/category:Iniziative/ca%2Fspazi_di_quartiere%2372",
-                        "title": "Spazi di Quartiere",
-                        "description": "La card di Spazi di Quartiere su Palermo Atlas",
-                        "type": "website"
                     }
                 ],
                 "relationships": [
@@ -271,7 +265,7 @@
                 "type": "Evento",
                 "start_date": "2019-11-07T16:00:00.000-08:00",
                 "end_date": "2019-11-28T16:00:00.000-08:00",
-                "description": "Discussioni pubbliche su idee e proposte di rinnovamento urbano dei cittadini del Capo gestite da Bond of Union",
+                "description": "Gli eventi Spazi di Quartiere sono stati realizzati nel quartiere Capo-Monte di Pietà nel mese di Novembre 2019 dalla Cooperativa Sociale Bond of Union. Spazi di Quartiere ha creato dei momenti di\nincontro informale e di confronto organizzati in quattro differenti punti del quartiere  (Vicolo degli\nOrfani, Piazza Papireto, Piazzetta alla Guilla e Cortile Mangano), con il fine di attivare momenti di partecipazione attiva degli abitanti del quartiere.\nAll'organizzazione degli eventi hanno attivamente collaborato associazioni culturali e del terzo settore che operano nel quartiere tra cui la Comunità di Sant'egidio, l'Associazione Naka, il Teatro alla Guilla e\nGiancarlo Gallitano. Gli incontri hanno previsto anche la partecipazione della Consigliera della\nPrima Circoscrizione Francesca Vetrano e del Presidente Massimo Castiglia.",
                 "image": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
                 "category": "Iniziative",
                 "sub-category": "",
@@ -307,10 +301,10 @@
                     }
                 ],
                 "relationships": [
-                    "ca/cortile_mangano#68,ca/piazza_papireto#70"
+                    "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/vicolo_degli_orfani#75"
                 ],
                 "created_date": "2019-12-12T02:24:26.427-08:00",
-                "updated_date": "2020-04-07T04:02:52.187-07:00",
+                "updated_date": "2020-05-08T07:28:25.441-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -336,10 +330,23 @@
                 "sub-category": "",
                 "tags": [],
                 "category-description": "area d'intervento",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=XCYumEMwqJE",
+                        "title": "Video sul Mercato del Capo",
+                        "description": "Video sul Mercato del Capo con interviste ai suoi storici mercatari ",
+                        "type": "video"
+                    },
+                    {
+                        "url": "https://www.youtube.com/watch?v=twROYPR7Qwc",
+                        "title": "Il capo negli anni 80",
+                        "description": "Video sul capo girato negli anni 80",
+                        "type": "video"
+                    }
+                ],
                 "relationships": [],
                 "created_date": "2019-12-12T02:11:40.236-08:00",
-                "updated_date": "2019-12-18T02:53:45.482-08:00",
+                "updated_date": "2020-05-08T07:18:53.600-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -473,7 +480,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T14:05:04.670Z",
+        "published": "2020-05-08T14:29:58.922Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -511,7 +518,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 109,
+        "version": 111,
         "taxonomy": [
             {
                 "category": "Iniziative",
@@ -571,7 +578,7 @@
         },
         {
             "from": "ca/spazi_di_quartiere#72",
-            "to": "ca/cortile_mangano#68,ca/piazza_papireto#70"
+            "to": "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/vicolo_degli_orfani#75"
         }
     ]
 }

@@ -46,7 +46,7 @@
                 "type": "Persona",
                 "start_date": "",
                 "end_date": "",
-                "description": "Il sarto Andrea Vaiuso é una figura e memoria storica degli artigiani del quartiere. Il sabato pomeriggio é possibile andare ad ascoltare nella sua bottega diversi musicisti che si esibiscono in una jam session popolare. Tutti sono benvenuti.",
+                "description": "Il sarto Andrea Vaiuso é una figura e memoria storica degli artigiani del quartiere. Il sabato pomeriggio é possibile andare ad ascoltare nella sua bottega diversi musicisti che si esibiscono in una jam session popolare. Tutti sono benvenuti. ",
                 "image": "https://i.postimg.cc/63s43n6f/DSC03663.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "",
@@ -57,7 +57,7 @@
                     "ca/piazzetta_alla_guilla#81"
                 ],
                 "created_date": "2020-04-15T03:18:20.078-07:00",
-                "updated_date": "2020-05-08T08:18:49.864-07:00",
+                "updated_date": "2020-05-08T08:19:39.228-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -188,16 +188,25 @@
                 "type": "Evento",
                 "start_date": "2020-01-13T16:00:00.000-08:00",
                 "end_date": "2020-06-29T16:00:00.000-07:00",
-                "description": "Laboratorio di raccolta e progettazione di idee e proposte dei residenti in significativi spazi del quartiere Capo.",
-                "image": "https://i.postimg.cc/qvT0KB9d/UNADJUSTEDNONRAW-thumb-6b6.jpg",
+                "description": "Laboratorio di raccolta e progettazione di idee e proposte dei residenti in significativi spazi del quartiere Capo. Il laboratorio ha portato Bond of Union a confrontarsi con gli abitanti del quartiere per lo sviluppo e la realizzazione di proposte da sviluppare insieme. Tra le interessanti proposte emerse nella prima fase, antecedente al blocco dovuto all'emergenza Covid, un cartello informativo ed il cinema in cortile ecce homo. ",
+                "image": "https://i.postimg.cc/T3RXcZ55/83456042-2600819766703543-6129873214291050496-o.jpg",
                 "category": "Iniziative",
                 "sub-category": "",
                 "tags": [],
                 "category-description": "azioni locali per promuovere la partecipazione dei cittadini",
-                "links": [],
-                "relationships": [],
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/zfZG5dyJ/IMG-20200220-123230.jpg",
+                        "title": "Raccolta di idee",
+                        "description": "",
+                        "type": "image"
+                    }
+                ],
+                "relationships": [
+                    "ca/cinema_all_aperto#78,ca/cartello_informativo_capo#77"
+                ],
                 "created_date": "2019-12-12T04:32:10.764-08:00",
-                "updated_date": "2020-04-07T06:47:59.318-07:00",
+                "updated_date": "2020-05-08T08:27:51.874-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -542,7 +551,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T15:19:57.033Z",
+        "published": "2020-05-08T15:28:59.241Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -580,7 +589,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 120,
+        "version": 122,
         "taxonomy": [
             {
                 "category": "Iniziative",
@@ -649,6 +658,10 @@
         {
             "from": "ca/cartello_informativo_capo#77",
             "to": "ca/laboratori_di_quartiere#76,ca/la_bottega_del_fabbro#79"
+        },
+        {
+            "from": "ca/laboratori_di_quartiere#76",
+            "to": "ca/cinema_all_aperto#78,ca/cartello_informativo_capo#77"
         },
         {
             "from": "ca/vicolo_degli_orfani#75",

@@ -312,7 +312,7 @@
                 "type": "Evento",
                 "start_date": "2019-11-07T16:00:00.000-08:00",
                 "end_date": "2019-11-28T16:00:00.000-08:00",
-                "description": "Gli eventi Spazi di Quartiere sono stati realizzati nel quartiere Capo-Monte di Pietà nel mese di Novembre 2019 dalla Cooperativa Sociale Bond of Union. Spazi di Quartiere ha creato dei momenti di\nincontro informale e di confronto organizzati in quattro differenti punti del quartiere  (Vicolo degli\nOrfani, Piazza Papireto, Piazzetta alla Guilla e Cortile Mangano), con il fine di attivare momenti di partecipazione attiva degli abitanti del quartiere.\nAll'organizzazione degli eventi hanno attivamente collaborato associazioni culturali e del terzo settore che operano nel quartiere tra cui la Comunità di Sant'egidio, l'Associazione Naka, il Teatro alla Guilla e\nGiancarlo Gallitano. Gli incontri hanno previsto anche la partecipazione della Consigliera della\nPrima Circoscrizione Francesca Vetrano e del Presidente Massimo Castiglia.",
+                "description": "Gli eventi Spazi di Quartiere sono stati realizzati nel quartiere Capo-Monte di Pietà nel mese di Novembre 2019 dalla Cooperativa Sociale Bond of Union. Spazi di Quartiere ha creato dei momenti di\nincontro informale e di confronto organizzati in quattro differenti punti del quartiere  (Vicolo degli\nOrfani, Piazza Papireto, Piazzetta alla Guilla e Cortile Mangano), con il fine di attivare momenti di partecipazione attiva degli abitanti del quartiere. All'organizzazione degli eventi hanno attivamente collaborato associazioni culturali e del terzo settore che operano nel quartiere tra cui la Comunità di Sant'egidio, l'Associazione Naka, il Teatro alla Guilla e Giancarlo Gallitano. Gli incontri hanno previsto anche la partecipazione della Consigliera della Prima Circoscrizione Francesca Vetrano e del Presidente Massimo Castiglia.",
                 "image": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
                 "category": "Iniziative",
                 "sub-category": "",
@@ -323,7 +323,7 @@
                 "category-description": "azioni locali per promuovere la partecipazione dei cittadini",
                 "links": [
                     {
-                        "url": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
+                        "url": "https://i.postimg.cc/43pN3jM8/Whats-App-Image-2019-11-11-at-15-31-29.jpg",
                         "title": "Vicolo degli orfani",
                         "description": "",
                         "type": "image"
@@ -347,11 +347,9 @@
                         "type": "website"
                     }
                 ],
-                "relationships": [
-                    "ca/piazza_papireto#70,ca/vicolo_degli_orfani#75,ca/cortile_mangano#68"
-                ],
+                "relationships": [],
                 "created_date": "2019-12-12T02:24:26.427-08:00",
-                "updated_date": "2020-05-08T08:16:46.033-07:00",
+                "updated_date": "2020-05-08T08:39:42.981-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -551,7 +549,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T15:28:59.241Z",
+        "published": "2020-05-08T15:40:30.723Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -666,10 +664,6 @@
         {
             "from": "ca/vicolo_degli_orfani#75",
             "to": "ca/spazi_di_quartiere#72"
-        },
-        {
-            "from": "ca/spazi_di_quartiere#72",
-            "to": "ca/piazza_papireto#70,ca/vicolo_degli_orfani#75,ca/cortile_mangano#68"
         },
         {
             "from": "ca/piazza_papireto#70",

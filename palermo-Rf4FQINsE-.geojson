@@ -121,7 +121,7 @@
                 "type": "Progetto",
                 "start_date": "",
                 "end_date": "",
-                "description": "L'idea del cinema all'aperto é una delle proposte emerse nelle discussioni con i cittadini a piazzetta saponeria (febbraio 2019). Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato il quartiere aveva due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati .",
+                "description": "L'idea del cinema all'aperto é una delle proposte emerse nelle discussioni \"Laboratori di quartiere\" con i cittadini e ristoratori a piazzetta saponeria (febbraio 2019) per cortile ecce homo. Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato il quartiere aveva due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati .",
                 "image": "https://i.postimg.cc/fbYFCRdy/161643390-20caf882-d668-4e45-9d5c-0209eb2e3385.jpg",
                 "category": "Idee e Proposte",
                 "sub-category": "",
@@ -139,7 +139,7 @@
                     "ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-02-14T08:29:46.329-08:00",
-                "updated_date": "2020-05-08T08:46:12.827-07:00",
+                "updated_date": "2020-05-08T08:48:08.439-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -553,7 +553,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T15:48:31.865Z",
+        "published": "2020-05-08T15:51:08.094Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -591,7 +591,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 124,
+        "version": 127,
         "taxonomy": [
             {
                 "category": "Iniziative",

@@ -457,10 +457,19 @@
                 "sub-category": "Spazi pubblici",
                 "tags": [],
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
-                "links": [],
-                "relationships": [],
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/cH2MTyDR/UNADJUSTEDNONRAW-thumb-7ec.jpg",
+                        "title": "Spazi di quartiere a Cortile Mangano",
+                        "description": "uno dei cittadini che si prende cura del gardino del cortile",
+                        "type": "image"
+                    }
+                ],
+                "relationships": [
+                    "ca/spazi_di_quartiere#72"
+                ],
                 "created_date": "2019-12-11T05:30:08.220-08:00",
-                "updated_date": "2020-05-08T04:11:24.042-07:00",
+                "updated_date": "2020-05-08T07:30:24.301-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -480,7 +489,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T14:29:58.922Z",
+        "published": "2020-05-08T14:35:23.237Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -518,7 +527,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 111,
+        "version": 112,
         "taxonomy": [
             {
                 "category": "Iniziative",
@@ -579,6 +588,10 @@
         {
             "from": "ca/spazi_di_quartiere#72",
             "to": "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/vicolo_degli_orfani#75"
+        },
+        {
+            "from": "ca/cortile_mangano#68",
+            "to": "ca/spazi_di_quartiere#72"
         }
     ]
 }

@@ -382,7 +382,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "Piazza del quartiere capo in via di ristrutturazione",
+                "description": "La piazza é uno spazio pubblico in fase di riqualificazione aperto a differenti usi da parte dei cittadini\nRappresenta un punto di accesso al quartiere ed é caratterizzato dalla presenza di popolazione locale di stati sociali differenti ma con interessi comuni. Nel corso delle discussioni Spazi di Quartiere (novembre 2019) i cittadini hanno espresso diversi desideri e proposte di intervento per l'area come inserire nella piazza un parco giochi e delle\npanchine\n\n- Creare spazi ricreativi per adulti ed un\ncineclub all'aperto\n\n",
                 "image": "https://i.postimg.cc/76mtZBpM/UNADJUSTEDNONRAW-thumb-6ad.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "",
@@ -391,7 +391,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-11T08:12:02.170-08:00",
-                "updated_date": "2019-12-11T08:15:02.526-08:00",
+                "updated_date": "2020-05-08T04:06:14.047-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -411,7 +411,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "Piazza del quartiere capo",
+                "description": " Grande spazio pubblico con potenzialita' di fruizione da parte dei cittadini ma utilizzato come parcheggio e con problemi di accumulo di spazzatura. Lo spazio verde ai margini del cortile Mangano inagurata e subito chiuso é stato oggetto di una delle discussioni di Spazi di quartiere. Alcuni cittadini sostituendosi al comune ne hanno curato la manutenzione. La discussione sull'utilizzo dello spazio resta aperta a molteplici strade.",
                 "image": "https://i.postimg.cc/PrJK25Yy/UNADJUSTEDNONRAW-thumb-6af.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
@@ -420,7 +420,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-12-11T05:30:08.220-08:00",
-                "updated_date": "2019-12-11T08:01:58.721-08:00",
+                "updated_date": "2020-05-08T03:55:25.110-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -440,7 +440,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T10:55:46.580Z",
+        "published": "2020-05-08T11:07:19.394Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -478,7 +478,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 97,
+        "version": 98,
         "taxonomy": [
             {
                 "category": "Iniziative",

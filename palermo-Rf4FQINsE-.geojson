@@ -98,10 +98,10 @@
                     }
                 ],
                 "relationships": [
-                    "ca/cartello_informativo_capo#77"
+                    "ca/cartello_informativo_capo#77,ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-02-14T08:48:29.637-08:00",
-                "updated_date": "2020-05-08T07:39:09.749-07:00",
+                "updated_date": "2020-05-08T08:46:04.685-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -135,9 +135,11 @@
                         "type": "image"
                     }
                 ],
-                "relationships": [],
+                "relationships": [
+                    "ca/laboratori_di_quartiere#76"
+                ],
                 "created_date": "2020-02-14T08:29:46.329-08:00",
-                "updated_date": "2020-02-18T03:40:46.804-08:00",
+                "updated_date": "2020-05-08T08:46:12.827-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -551,7 +553,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T15:41:51.830Z",
+        "published": "2020-05-08T15:48:31.865Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -589,7 +591,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 123,
+        "version": 124,
         "taxonomy": [
             {
                 "category": "Iniziative",
@@ -653,7 +655,11 @@
         },
         {
             "from": "ca/la_bottega_del_fabbro#79",
-            "to": "ca/cartello_informativo_capo#77"
+            "to": "ca/cartello_informativo_capo#77,ca/laboratori_di_quartiere#76"
+        },
+        {
+            "from": "ca/cinema_all_aperto#78",
+            "to": "ca/laboratori_di_quartiere#76"
         },
         {
             "from": "ca/cartello_informativo_capo#77",

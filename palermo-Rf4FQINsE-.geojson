@@ -37,7 +37,7 @@
                 "type": "Persona",
                 "start_date": "",
                 "end_date": "",
-                "description": "Il Fabbro e Artista Gianni Conigliaro é nato e lavora nel quartiere con splendide insegne grafiche e luminarie artigianali create anche per le feste patronali. Da anni attivissimo del quartiere, ha fornito idee da sviluppare insieme agli altri abitanti nel corso di Comensi. Un esempio il cartello informativo \"Benvenuti al capo\" (vedi link)",
+                "description": "Il Fabbro e Artista Gianni Conigliaro é nato e lavora nel quartiere con splendide insegne grafiche e luminarie artigianali create anche per le feste patronali. Da anni attivissimo del quartiere, ha fornito idee da sviluppare insieme agli altri abitanti nel corso di Comensi. Un esempio il cartello informativo \"Benvenuti al capo\" (vedi link).",
                 "image": "https://i.postimg.cc/y8h91q4t/IMG-20200212-110903.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "",
@@ -55,17 +55,13 @@
                         "title": "Lavoro",
                         "description": "Lavoro in ferro battuto",
                         "type": "image"
-                    },
-                    {
-                        "url": "https://palermo.community-atlas.net/#cards/category:Iniziative,Idee%20e%20Proposte/ca%2Fcartello_informativo_capo%2377",
-                        "title": "Il cartello Benevenuti al Capo",
-                        "description": "Una delle proposte portate avanti da Gianni",
-                        "type": "website"
                     }
                 ],
-                "relationships": [],
+                "relationships": [
+                    "ca/cartello_informativo_capo#77"
+                ],
                 "created_date": "2020-02-14T08:48:29.637-08:00",
-                "updated_date": "2020-05-08T06:57:16.295-07:00",
+                "updated_date": "2020-05-08T07:39:09.749-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -121,16 +117,18 @@
                 "type": "Progetto",
                 "start_date": "",
                 "end_date": "",
-                "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee per il mercato Capo tra febbraio e marzo 2020. L'idea del cartello é promossa da abitanti interessati a migliorare la segnaletica turistica e la visibilita' del mercato rivolgendois sia a turisti che a cittadini.",
+                "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee \"Laboratori di quartiere\" tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti (come l'artigiano e fabbro Gianni Conigliaro) interessati a migliorare la segnaletica turistica e la visibilita' del mercato del Capo rivolgendois sia a turisti, che a cittadini palermitani.",
                 "image": "https://i.postimg.cc/Kz65WgGX/benvenuti-capo-01.png",
                 "category": "Idee e Proposte",
                 "sub-category": "",
                 "tags": [],
                 "category-description": "presentare visioni, progetti e ipotesi alternative dei cittadini per la trasformazione o il miglioramento del quartiere",
                 "links": [],
-                "relationships": [],
+                "relationships": [
+                    "ca/laboratori_di_quartiere#76,ca/la_bottega_del_fabbro#79"
+                ],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
-                "updated_date": "2020-05-08T04:19:29.479-07:00",
+                "updated_date": "2020-05-08T07:43:17.507-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -489,7 +487,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T14:35:23.237Z",
+        "published": "2020-05-08T14:45:27.119Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -527,7 +525,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 112,
+        "version": 114,
         "taxonomy": [
             {
                 "category": "Iniziative",
@@ -581,6 +579,14 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/la_bottega_del_fabbro#79",
+            "to": "ca/cartello_informativo_capo#77"
+        },
+        {
+            "from": "ca/cartello_informativo_capo#77",
+            "to": "ca/laboratori_di_quartiere#76,ca/la_bottega_del_fabbro#79"
+        },
         {
             "from": "ca/vicolo_degli_orfani#75",
             "to": "ca/spazi_di_quartiere#72"

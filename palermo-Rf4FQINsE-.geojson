@@ -1,31 +1,5 @@
 {
     "type": "FeatureCollection",
-    "nonGeoFeatures": [
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Piazza Beati Paoli",
-                "type": "Luogo",
-                "start_date": "",
-                "end_date": "",
-                "description": "La Piazza Beati Paoli ed il suo storico Chiosco, gestito da Fabio sono un luogo simbolico del quartiere. La piazza é stata recentemente ristrutturata valorizzando la sua valenza di luogo di incontro e discussione. Lo spazio é stato utilizzato da Bond of Union come \"laboratorio di quartiere a cielo aperto\". L'ambiente informale della piazza e del chiosco ha infatti permesso di confrontarsi con cittadini, come Gianni, e raccogliere le loro idee per il quartiere.",
-                "image": "https://i.postimg.cc/JnhmfK1N/IMG-20200511-120619.jpg",
-                "category": "Spazi di quartiere",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
-                "links": [],
-                "relationships": [
-                    "ca/laboratori_di_quartiere#76,ca/la_bottega_del_fabbro#79"
-                ],
-                "created_date": "2020-05-11T07:41:27.641-07:00",
-                "updated_date": "2020-05-11T07:51:01.525-07:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "ca/piazza_beati_paoli#82"
-        }
-    ],
     "features": [
         {
             "type": "Feature",
@@ -57,6 +31,37 @@
                 ]
             },
             "id": "ca/franco#83"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Piazza Beati Paoli",
+                "type": "Luogo",
+                "start_date": "",
+                "end_date": "",
+                "description": "La Piazza Beati Paoli ed il suo storico Chiosco, gestito da Fabio sono un luogo simbolico del quartiere. La piazza é stata recentemente ristrutturata valorizzando la sua valenza di luogo di incontro e discussione. Lo spazio é stato utilizzato da Bond of Union come \"laboratorio di quartiere a cielo aperto\". L'ambiente informale della piazza e del chiosco ha infatti permesso di confrontarsi con cittadini, come Gianni, e raccogliere le loro idee per il quartiere.",
+                "image": "https://i.postimg.cc/JnhmfK1N/IMG-20200511-120619.jpg",
+                "category": "Spazi di quartiere",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
+                "links": [],
+                "relationships": [
+                    "ca/laboratori_di_quartiere#76,ca/la_bottega_del_fabbro#79"
+                ],
+                "created_date": "2020-05-11T07:41:27.641-07:00",
+                "updated_date": "2020-05-11T07:51:01.525-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3554,
+                    38.1167
+                ]
+            },
+            "id": "ca/piazza_beati_paoli#82"
         },
         {
             "type": "Feature",
@@ -582,7 +587,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-11T15:11:24.646Z",
+        "published": "2020-05-11T15:15:47.452Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -620,7 +625,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 136,
+        "version": 138,
         "taxonomy": [
             {
                 "category": "Rete Capo",

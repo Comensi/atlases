@@ -223,7 +223,7 @@
                     "ca/cartello_informativo_capo#77,ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-02-14T08:48:29.637-08:00",
-                "updated_date": "2020-05-08T08:46:04.685-07:00",
+                "updated_date": "2020-05-11T08:57:19.745-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -444,10 +444,10 @@
                 "category-description": "azioni locali per promuovere la partecipazione dei cittadini",
                 "links": [],
                 "relationships": [
-                    "ca/cortile_mangano#68"
+                    "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/vicolo_degli_orfani#75,ca/piazzetta_alla_guilla#81"
                 ],
                 "created_date": "2019-12-12T02:24:26.427-08:00",
-                "updated_date": "2020-05-11T07:54:09.259-07:00",
+                "updated_date": "2020-05-11T08:58:15.267-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -647,7 +647,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-11T15:49:54.442Z",
+        "published": "2020-05-11T16:02:08.560Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -685,8 +685,59 @@
                 "type": "webpage"
             }
         ],
-        "version": 144,
+        "version": 145,
         "taxonomy": [
+            {
+                "category": "Rete Capo",
+                "description": "Associazioni e servizi del quartiere",
+                "sub-categories": [
+                    "Terzo settore",
+                    "Servizi pubblici",
+                    "Organizzazioni religiose"
+                ],
+                "weight": 0,
+                "id": 6
+            },
+            {
+                "category": "Iniziative",
+                "description": "azioni locali per promuovere la partecipazione dei cittadini",
+                "sub-categories": [
+                    "#r31"
+                ],
+                "weight": 0,
+                "id": 5
+            },
+            {
+                "category": "Idee e Proposte",
+                "description": "presentare visioni, progetti e ipotesi alternative dei cittadini per la trasformazione o il miglioramento del quartiere",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 4
+            },
+            {
+                "category": "Storie del quartiere",
+                "description": "storie, interviste, memorie raccolte con abitanti del quartiere",
+                "sub-categories": [
+                    "storie",
+                    "interviste ",
+                    "memorie"
+                ],
+                "weight": 0,
+                "id": 3
+            },
+            {
+                "category": "Spazi di quartiere",
+                "description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
+                "sub-categories": [
+                    "Luoghi di incontro",
+                    "Spazi pubblici",
+                    "Spazi verdi",
+                    "#r25",
+                    "#r26"
+                ],
+                "weight": 1,
+                "id": 2
+            },
             {
                 "category": "Il Quartiere Capo",
                 "description": "area d'intervento",
@@ -741,7 +792,7 @@
         },
         {
             "from": "ca/spazi_di_quartiere#72",
-            "to": "ca/cortile_mangano#68"
+            "to": "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/vicolo_degli_orfani#75,ca/piazzetta_alla_guilla#81"
         },
         {
             "from": "ca/piazza_papireto#70",

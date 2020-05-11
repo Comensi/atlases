@@ -13,7 +13,7 @@
                 "category": "Spazi di quartiere",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
+                "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [
                     {
                         "url": "https://i.postimg.cc/wxtcbMYD/DSC03692.jpg",
@@ -233,7 +233,7 @@
                 "category": "Spazi di quartiere",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
+                "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [
                     {
                         "url": "https://i.postimg.cc/zXpLxfhN/IMG-20191108-151723.jpg",
@@ -320,32 +320,7 @@
                 "sub-category": "",
                 "tags": [],
                 "category-description": "azioni locali per promuovere la partecipazione dei cittadini",
-                "links": [
-                    {
-                        "url": "https://i.postimg.cc/43pN3jM8/Whats-App-Image-2019-11-11-at-15-31-29.jpg",
-                        "title": "Vicolo degli orfani",
-                        "description": "",
-                        "type": "image"
-                    },
-                    {
-                        "url": "https://www.facebook.com/events/957580901286850/",
-                        "title": "Piazza Papireto",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.facebook.com/events/456256658412760/",
-                        "title": "Piazzetta alla Guilla",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.facebook.com/events/753117621822422/",
-                        "title": "Cortile Mangano",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
+                "links": [],
                 "relationships": [
                     "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/vicolo_degli_orfani#75,ca/piazzetta_alla_guilla#81"
                 ],
@@ -473,7 +448,7 @@
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
                 "tags": [],
-                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
+                "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [
                     {
                         "url": "https://i.postimg.cc/rwwj8Jtt/74905546-2462724297179758-8280341168777068544-o.jpg",
@@ -517,7 +492,7 @@
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
                 "tags": [],
-                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
+                "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [
                     {
                         "url": "https://i.postimg.cc/cH2MTyDR/UNADJUSTEDNONRAW-thumb-7ec.jpg",
@@ -550,7 +525,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-11T10:56:21.444Z",
+        "published": "2020-05-11T11:23:21.549Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -588,8 +563,35 @@
                 "type": "webpage"
             }
         ],
-        "version": 129,
+        "version": 131,
         "taxonomy": [
+            {
+                "category": "Rete Capo",
+                "description": "Associazioni e servizi del quartiere",
+                "sub-categories": [
+                    "Terzo settore",
+                    "Servizi pubblici",
+                    "Organizzazioni religiose"
+                ],
+                "weight": 0,
+                "id": 6
+            },
+            {
+                "category": "Iniziative",
+                "description": "azioni locali per promuovere la partecipazione dei cittadini",
+                "sub-categories": [
+                    "#r31"
+                ],
+                "weight": 0,
+                "id": 5
+            },
+            {
+                "category": "Idee e Proposte",
+                "description": "presentare visioni, progetti e ipotesi alternative dei cittadini per la trasformazione o il miglioramento del quartiere",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 4
+            },
             {
                 "category": "Storie del quartiere",
                 "description": "storie, interviste, memorie raccolte con abitanti del quartiere",
@@ -603,7 +605,7 @@
             },
             {
                 "category": "Spazi di quartiere",
-                "description": "luoghi fisici di aggregazione o significativi del quartiere",
+                "description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "sub-categories": [
                     "Luoghi di incontro",
                     "Spazi pubblici",

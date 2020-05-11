@@ -46,7 +46,7 @@
                 "type": "Persona",
                 "start_date": "",
                 "end_date": "",
-                "description": "Il sarto Andrea Vaiuso é una figura e memoria storica degli artigiani del quartiere. Il sabato pomeriggio é possibile andare ad ascoltare nella sua bottega diversi musicisti che si esibiscono in una jam session popolare. Tutti sono benvenuti. ",
+                "description": "Il sarto Andrea Vaiuso é una figura e memoria storica degli artigiani del quartiere. Il sabato pomeriggio é possibile andare ad ascoltare nella sua bottega diversi musicisti che si esibiscono in una jam session popolare. Tutti sono benvenuti. Il Sarto Andrea ha anche collaborato nel diffondere con i suoi clienti e conoscenti del quartiere gli eventi di Spazi di quartiere (nella vicina piazzetta alla Guilla ad esempio) ed i Laboratori.",
                 "image": "https://i.postimg.cc/63s43n6f/DSC03663.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "",
@@ -57,7 +57,7 @@
                     "ca/piazzetta_alla_guilla#81"
                 ],
                 "created_date": "2020-04-15T03:18:20.078-07:00",
-                "updated_date": "2020-05-08T08:19:39.228-07:00",
+                "updated_date": "2020-05-08T08:53:35.983-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -318,10 +318,7 @@
                 "image": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
                 "category": "Iniziative",
                 "sub-category": "",
-                "tags": [
-                    "Urban regeneration",
-                    "Public space"
-                ],
+                "tags": [],
                 "category-description": "azioni locali per promuovere la partecipazione dei cittadini",
                 "links": [
                     {
@@ -350,10 +347,10 @@
                     }
                 ],
                 "relationships": [
-                    "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/piazzetta_alla_guilla#81,ca/vicolo_degli_orfani#75"
+                    "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/vicolo_degli_orfani#75,ca/piazzetta_alla_guilla#81"
                 ],
                 "created_date": "2019-12-12T02:24:26.427-08:00",
-                "updated_date": "2020-05-08T08:41:18.306-07:00",
+                "updated_date": "2020-05-11T03:55:54.287-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -553,7 +550,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-08T15:53:53.308Z",
+        "published": "2020-05-11T10:56:21.444Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -591,24 +588,8 @@
                 "type": "webpage"
             }
         ],
-        "version": 128,
+        "version": 129,
         "taxonomy": [
-            {
-                "category": "Iniziative",
-                "description": "azioni locali per promuovere la partecipazione dei cittadini",
-                "sub-categories": [
-                    "#r31"
-                ],
-                "weight": 0,
-                "id": 5
-            },
-            {
-                "category": "Idee e Proposte",
-                "description": "presentare visioni, progetti e ipotesi alternative dei cittadini per la trasformazione o il miglioramento del quartiere",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 4
-            },
             {
                 "category": "Storie del quartiere",
                 "description": "storie, interviste, memorie raccolte con abitanti del quartiere",
@@ -675,7 +656,7 @@
         },
         {
             "from": "ca/spazi_di_quartiere#72",
-            "to": "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/piazzetta_alla_guilla#81,ca/vicolo_degli_orfani#75"
+            "to": "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/vicolo_degli_orfani#75,ca/piazzetta_alla_guilla#81"
         },
         {
             "from": "ca/piazza_papireto#70",

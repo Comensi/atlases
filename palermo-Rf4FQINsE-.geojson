@@ -4,6 +4,44 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "La Pupa del capo",
+                "type": "Monumento",
+                "start_date": "",
+                "end_date": "",
+                "description": "Un creatore diede vita alla Pupa del Capo per donarla a Salvatore e Vincenza Morello per le loro nozze, presumibilmente tra il 1902 e il 1908. Il mosaico, che rappresenta Demetra, dea delle messi, fu un regalo apprezzato dal proprietario del panificio, il quale fece dell’opera d’arte l’insegna della sua bottega. È così che la Pupa del Capo, come negli anni Palermo l’ha denominata, osserva i passanti da almeno cento anni e li invita ad entrare. Qualche anno fa è iniziato il restauro dell’opera. Alcune associazioni locali hanno messo in salvo l’opera da eventuali crolli di Palazzo Serenario, edificio barocco anch’esso in fase di restauro. Esso si trova attualmente a Palazzo Ajutamicristo, in attesa di tornare nella sua sede originaria, lungo la via Cappuccinelle.",
+                "image": " https://i.postimg.cc/pTjHRkM9/pupa-capo.jpg",
+                "category": "Storie del quartiere",
+                "sub-category": "memorie",
+                "tags": [
+                    "art"
+                ],
+                "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
+                "links": [
+                    {
+                        "url": "https://palermo.italiani.it/scopricitta/pupa-del-capo-arte-mosaico-palermo/",
+                        "title": "La storia della Pupa",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-05-12T01:40:26.868-07:00",
+                "updated_date": "2020-05-12T01:51:29.865-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3544,
+                    38.1175
+                ]
+            },
+            "id": "ca/la_pupa_del_capo#86"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Bond of Union",
                 "type": "Organizzazione",
                 "start_date": "",
@@ -647,7 +685,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-11T16:25:48.465Z",
+        "published": "2020-05-12T08:52:18.272Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -685,7 +723,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 146,
+        "version": 148,
         "taxonomy": [
             {
                 "category": "Rete Capo",

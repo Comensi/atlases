@@ -23,7 +23,8 @@
                     }
                 ],
                 "relationships": [
-                    "ca/spazi_di_quartiere#72,ca/piazza_papireto#70"
+                    "ca/spazi_di_quartiere#72",
+                    "ca/piazza_papireto#70"
                 ],
                 "created_date": "2020-05-12T01:55:00.433-07:00",
                 "updated_date": "2020-05-12T01:59:20.420-07:00",
@@ -62,7 +63,7 @@
                         "type": "website"
                     }
                 ],
-                "relationships": [],
+                "relationships": null,
                 "created_date": "2020-05-12T01:40:26.868-07:00",
                 "updated_date": "2020-05-12T01:51:29.865-07:00",
                 "weight": 0,
@@ -317,7 +318,8 @@
                     }
                 ],
                 "relationships": [
-                    "ca/cartello_informativo_capo#77,ca/laboratori_di_quartiere#76"
+                    "ca/cartello_informativo_capo#77",
+                    "ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-02-14T08:48:29.637-08:00",
                 "updated_date": "2020-05-11T08:57:19.745-07:00",
@@ -386,7 +388,8 @@
                 "category-description": "presentare visioni, progetti e ipotesi alternative dei cittadini per la trasformazione o il miglioramento del quartiere",
                 "links": [],
                 "relationships": [
-                    "ca/laboratori_di_quartiere#76,ca/la_bottega_del_fabbro#79"
+                    "ca/laboratori_di_quartiere#76",
+                    "ca/la_bottega_del_fabbro#79"
                 ],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
                 "updated_date": "2020-05-08T07:43:17.507-07:00",
@@ -424,7 +427,8 @@
                     }
                 ],
                 "relationships": [
-                    "ca/cinema_all_aperto#78,ca/cartello_informativo_capo#77"
+                    "ca/cinema_all_aperto#78",
+                    "ca/cartello_informativo_capo#77"
                 ],
                 "created_date": "2019-12-12T04:32:10.764-08:00",
                 "updated_date": "2020-05-08T08:27:51.874-07:00",
@@ -511,7 +515,7 @@
                         "type": "video"
                     }
                 ],
-                "relationships": [],
+                "relationships": null,
                 "created_date": "2019-12-12T02:55:40.353-08:00",
                 "updated_date": "2020-05-12T01:53:44.837-07:00",
                 "weight": 0,
@@ -541,7 +545,10 @@
                 "category-description": "azioni locali per promuovere la partecipazione dei cittadini",
                 "links": [],
                 "relationships": [
-                    "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/vicolo_degli_orfani#75,ca/piazzetta_alla_guilla#81"
+                    "ca/cortile_mangano#68",
+                    "ca/piazza_papireto#70",
+                    "ca/vicolo_degli_orfani#75",
+                    "ca/piazzetta_alla_guilla#81"
                 ],
                 "created_date": "2019-12-12T02:24:26.427-08:00",
                 "updated_date": "2020-05-11T08:58:15.267-07:00",
@@ -584,7 +591,7 @@
                         "type": "video"
                     }
                 ],
-                "relationships": [],
+                "relationships": null,
                 "created_date": "2019-12-12T02:11:40.236-08:00",
                 "updated_date": "2020-05-08T07:18:53.600-07:00",
                 "weight": 0,
@@ -744,7 +751,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-12T15:58:42.261Z",
+        "published": "2020-05-12T16:05:39.624Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -782,7 +789,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 154,
+        "version": 155,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -849,7 +856,11 @@
     "relationships": [
         {
             "from": "ca/naka#87",
-            "to": "ca/spazi_di_quartiere#72,ca/piazza_papireto#70"
+            "to": "ca/spazi_di_quartiere#72"
+        },
+        {
+            "from": "ca/naka#87",
+            "to": "ca/piazza_papireto#70"
         },
         {
             "from": "ca/bond_of_union#85",
@@ -877,7 +888,11 @@
         },
         {
             "from": "ca/la_bottega_del_fabbro#79",
-            "to": "ca/cartello_informativo_capo#77,ca/laboratori_di_quartiere#76"
+            "to": "ca/cartello_informativo_capo#77"
+        },
+        {
+            "from": "ca/la_bottega_del_fabbro#79",
+            "to": "ca/laboratori_di_quartiere#76"
         },
         {
             "from": "ca/cinema_all_aperto#78",
@@ -885,11 +900,19 @@
         },
         {
             "from": "ca/cartello_informativo_capo#77",
-            "to": "ca/laboratori_di_quartiere#76,ca/la_bottega_del_fabbro#79"
+            "to": "ca/laboratori_di_quartiere#76"
+        },
+        {
+            "from": "ca/cartello_informativo_capo#77",
+            "to": "ca/la_bottega_del_fabbro#79"
         },
         {
             "from": "ca/laboratori_di_quartiere#76",
-            "to": "ca/cinema_all_aperto#78,ca/cartello_informativo_capo#77"
+            "to": "ca/cinema_all_aperto#78"
+        },
+        {
+            "from": "ca/laboratori_di_quartiere#76",
+            "to": "ca/cartello_informativo_capo#77"
         },
         {
             "from": "ca/vicolo_degli_orfani#75",
@@ -897,7 +920,19 @@
         },
         {
             "from": "ca/spazi_di_quartiere#72",
-            "to": "ca/cortile_mangano#68,ca/piazza_papireto#70,ca/vicolo_degli_orfani#75,ca/piazzetta_alla_guilla#81"
+            "to": "ca/cortile_mangano#68"
+        },
+        {
+            "from": "ca/spazi_di_quartiere#72",
+            "to": "ca/piazza_papireto#70"
+        },
+        {
+            "from": "ca/spazi_di_quartiere#72",
+            "to": "ca/vicolo_degli_orfani#75"
+        },
+        {
+            "from": "ca/spazi_di_quartiere#72",
+            "to": "ca/piazzetta_alla_guilla#81"
         },
         {
             "from": "ca/piazza_papireto#70",

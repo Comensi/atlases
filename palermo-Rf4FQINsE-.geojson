@@ -4,6 +4,44 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Naka",
+                "type": "Organizzazione",
+                "start_date": "",
+                "end_date": "",
+                "description": "Organizzazione non profit che opera nel quartiere. Ha collaborato attivamente con Bond of Union alla realizzazione di Spazi di quartiere per Piazza Papireto.",
+                "image": "https://i.postimg.cc/nc2MyV1y/naka.jpg",
+                "category": "Rete Capo",
+                "sub-category": "Terzo settore",
+                "tags": [],
+                "category-description": "Associazioni e servizi del quartiere",
+                "links": [
+                    {
+                        "url": "https://www.nakanoprofit.org/",
+                        "title": "Naka website",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/spazi_di_quartiere#72,ca/piazza_papireto#70"
+                ],
+                "created_date": "2020-05-12T01:55:00.433-07:00",
+                "updated_date": "2020-05-12T01:59:20.420-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3536,
+                    38.1154
+                ]
+            },
+            "id": "ca/naka#87"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "La Pupa del capo",
                 "type": "Monumento",
                 "start_date": "",
@@ -441,7 +479,7 @@
                 "description": "La Madonna della Mercede al Capo, chiamata dagli abitanti la Merce', é la Santa piu' venerata nel quartiere. Nel mese di settembre la festa religiosa viene celebrata da tutta la comunita' attirando cittadini di altri quartieri e turisti.",
                 "image": "https://i.postimg.cc/85R2jfLx/45026980262-5bacd1d3f9-z.jpg",
                 "category": "Storie del quartiere",
-                "sub-category": "#r30",
+                "sub-category": "memorie",
                 "tags": [],
                 "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "links": [
@@ -454,7 +492,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-12-12T02:55:40.353-08:00",
-                "updated_date": "2020-05-08T04:13:50.546-07:00",
+                "updated_date": "2020-05-12T01:53:44.837-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -685,7 +723,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-12T08:52:18.272Z",
+        "published": "2020-05-12T09:05:35.964Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -723,7 +761,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 148,
+        "version": 149,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -788,6 +826,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/naka#87",
+            "to": "ca/spazi_di_quartiere#72,ca/piazza_papireto#70"
+        },
         {
             "from": "ca/teatro_alla_guilla#84",
             "to": "ca/spazi_di_quartiere#72,ca/piazzetta_alla_guilla#81"

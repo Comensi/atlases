@@ -824,64 +824,80 @@
                 "coordinates": [
                     [
                         [
-                            13.389252,
-                            52.498094
+                            13.390714,
+                            52.496009
                         ],
                         [
-                            13.393861,
-                            52.498189
+                            13.390671,
+                            52.496244
                         ],
                         [
-                            13.401282,
-                            52.510348
+                            13.390703,
+                            52.496323
                         ],
                         [
-                            13.400813,
-                            52.511867
+                            13.391507,
+                            52.497015
                         ],
                         [
-                            13.399095,
-                            52.512152
+                            13.391732,
+                            52.497067
                         ],
                         [
-                            13.396595,
-                            52.51201
+                            13.392408,
+                            52.4971
                         ],
                         [
-                            13.396204,
-                            52.512722
+                            13.392493,
+                            52.497224
                         ],
                         [
-                            13.396283,
-                            52.513387
+                            13.392901,
+                            52.497401
                         ],
                         [
-                            13.396048,
-                            52.516283
+                            13.39482,
+                            52.49757
                         ],
                         [
-                            13.381206,
-                            52.515096
+                            13.394992,
+                            52.497623
                         ],
                         [
-                            13.379487,
-                            52.514716
+                            13.395227,
+                            52.497557
                         ],
                         [
-                            13.377534,
-                            52.514669
+                            13.395302,
+                            52.497459
                         ],
                         [
-                            13.376597,
-                            52.50935
+                            13.395302,
+                            52.497414
                         ],
                         [
-                            13.376909,
-                            52.508638
+                            13.395077,
+                            52.497048
                         ],
                         [
-                            13.389252,
-                            52.498094
+                            13.395024,
+                            52.496826
+                        ],
+                        [
+                            13.394938,
+                            52.496323
+                        ],
+                        [
+                            13.393566,
+                            52.49631
+                        ],
+                        [
+                            13.391882,
+                            52.49612
+                        ],
+                        [
+                            13.390714,
+                            52.496009
                         ]
                     ]
                 ]
@@ -1893,7 +1909,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-07T15:41:46.953Z",
+        "published": "2020-05-13T14:46:58.747Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1903,7 +1919,7 @@
                 "type": "translation"
             }
         ],
-        "version": 73,
+        "version": 74,
         "taxonomy": [
             {
                 "category": "Initiativen",

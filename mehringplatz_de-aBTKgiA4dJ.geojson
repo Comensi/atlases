@@ -674,64 +674,200 @@
                 "coordinates": [
                     [
                         [
-                            13.389252,
-                            52.498094
+                            13.391261,
+                            52.500928
                         ],
                         [
-                            13.393861,
-                            52.498189
+                            13.391368,
+                            52.500477
                         ],
                         [
-                            13.401282,
-                            52.510348
+                            13.391121,
+                            52.500457
                         ],
                         [
-                            13.400813,
-                            52.511867
+                            13.391186,
+                            52.500176
                         ],
                         [
-                            13.399095,
-                            52.512152
+                            13.391432,
+                            52.500196
                         ],
                         [
-                            13.396595,
-                            52.51201
+                            13.391496,
+                            52.499765
                         ],
                         [
-                            13.396204,
-                            52.512722
+                            13.391196,
+                            52.499687
                         ],
                         [
-                            13.396283,
-                            52.513387
+                            13.390885,
+                            52.499576
                         ],
                         [
-                            13.396048,
-                            52.516283
+                            13.390671,
+                            52.499438
                         ],
                         [
-                            13.381206,
-                            52.515096
+                            13.390596,
+                            52.499354
                         ],
                         [
-                            13.379487,
-                            52.514716
+                            13.390424,
+                            52.499138
                         ],
                         [
-                            13.377534,
-                            52.514669
+                            13.390381,
+                            52.498896
                         ],
                         [
-                            13.376597,
-                            52.50935
+                            13.390457,
+                            52.498759
                         ],
                         [
-                            13.376909,
-                            52.508638
+                            13.390585,
+                            52.498596
                         ],
                         [
-                            13.389252,
-                            52.498094
+                            13.39095,
+                            52.498276
+                        ],
+                        [
+                            13.391336,
+                            52.498197
+                        ],
+                        [
+                            13.391657,
+                            52.498178
+                        ],
+                        [
+                            13.391679,
+                            52.497956
+                        ],
+                        [
+                            13.392247,
+                            52.498001
+                        ],
+                        [
+                            13.392172,
+                            52.498224
+                        ],
+                        [
+                            13.392569,
+                            52.498335
+                        ],
+                        [
+                            13.392708,
+                            52.4984
+                        ],
+                        [
+                            13.392794,
+                            52.4984
+                        ],
+                        [
+                            13.392922,
+                            52.498452
+                        ],
+                        [
+                            13.392858,
+                            52.498524
+                        ],
+                        [
+                            13.392933,
+                            52.498602
+                        ],
+                        [
+                            13.393019,
+                            52.4987
+                        ],
+                        [
+                            13.393094,
+                            52.498864
+                        ],
+                        [
+                            13.393137,
+                            52.498864
+                        ],
+                        [
+                            13.393137,
+                            52.498981
+                        ],
+                        [
+                            13.393094,
+                            52.498981
+                        ],
+                        [
+                            13.392987,
+                            52.49921
+                        ],
+                        [
+                            13.392901,
+                            52.499334
+                        ],
+                        [
+                            13.392676,
+                            52.499504
+                        ],
+                        [
+                            13.392504,
+                            52.499595
+                        ],
+                        [
+                            13.392226,
+                            52.499713
+                        ],
+                        [
+                            13.391904,
+                            52.499765
+                        ],
+                        [
+                            13.391754,
+                            52.499778
+                        ],
+                        [
+                            13.391732,
+                            52.499902
+                        ],
+                        [
+                            13.391786,
+                            52.499915
+                        ],
+                        [
+                            13.391722,
+                            52.500183
+                        ],
+                        [
+                            13.39184,
+                            52.500196
+                        ],
+                        [
+                            13.391765,
+                            52.500496
+                        ],
+                        [
+                            13.391689,
+                            52.500503
+                        ],
+                        [
+                            13.391668,
+                            52.500732
+                        ],
+                        [
+                            13.391743,
+                            52.500745
+                        ],
+                        [
+                            13.3917,
+                            52.500856
+                        ],
+                        [
+                            13.391717,
+                            52.500944
+                        ],
+                        [
+                            13.391261,
+                            52.500928
                         ]
                     ]
                 ]
@@ -1897,7 +2033,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-13T15:40:33.179Z",
+        "published": "2020-05-13T15:56:04.029Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1907,7 +2043,7 @@
                 "type": "translation"
             }
         ],
-        "version": 77,
+        "version": 79,
         "taxonomy": [
             {
                 "category": "Initiativen",

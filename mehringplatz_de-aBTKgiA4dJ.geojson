@@ -522,52 +522,52 @@
                 "coordinates": [
                     [
                         [
-                            13.38802,
-                            52.494017
+                            13.38803,
+                            52.49403
                         ],
                         [
-                            13.387516,
-                            52.494161
+                            13.387537,
+                            52.494148
                         ],
                         [
-                            13.387301,
-                            52.494135
+                            13.387344,
+                            52.494122
                         ],
                         [
-                            13.385575,
-                            52.494677
+                            13.385585,
+                            52.494683
                         ],
                         [
-                            13.385339,
-                            52.495088
+                            13.385328,
+                            52.495082
                         ],
                         [
-                            13.385393,
-                            52.496048
+                            13.385414,
+                            52.496075
                         ],
                         [
-                            13.387055,
-                            52.496355
+                            13.387086,
+                            52.496369
                         ],
                         [
-                            13.388449,
-                            52.496186
+                            13.388469,
+                            52.496192
                         ],
                         [
-                            13.389392,
+                            13.389348,
                             52.495937
                         ],
                         [
-                            13.38936,
-                            52.49565
+                            13.389338,
+                            52.495683
                         ],
                         [
-                            13.389253,
-                            52.495389
+                            13.38923,
+                            52.495395
                         ],
                         [
-                            13.38802,
-                            52.494017
+                            13.38803,
+                            52.49403
                         ]
                     ]
                 ]
@@ -1897,7 +1897,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-13T15:07:23.262Z",
+        "published": "2020-05-13T15:13:51.581Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1907,7 +1907,7 @@
                 "type": "translation"
             }
         ],
-        "version": 75,
+        "version": 76,
         "taxonomy": [
             {
                 "category": "Initiativen",

@@ -80,7 +80,7 @@
             "type": "Feature",
             "properties": {
                 "title": "La Pupa del capo",
-                "type": "Monumento",
+                "type": "Edificio",
                 "start_date": "",
                 "end_date": "",
                 "description": "Un creatore diede vita alla Pupa del Capo per donarla a Salvatore e Vincenza Morello per le loro nozze, presumibilmente tra il 1902 e il 1908. Il mosaico, che rappresenta Demetra, dea delle messi, fu un regalo apprezzato dal proprietario del panificio, il quale fece dell’opera d’arte l’insegna della sua bottega. È così che la Pupa del Capo, come negli anni Palermo l’ha denominata, osserva i passanti da almeno cento anni e li invita ad entrare. Qualche anno fa è iniziato il restauro dell’opera. Alcune associazioni locali hanno messo in salvo l’opera da eventuali crolli di Palazzo Serenario, edificio barocco anch’esso in fase di restauro. Esso si trova attualmente a Palazzo Ajutamicristo, in attesa di tornare nella sua sede originaria, lungo la via Cappuccinelle.",
@@ -88,7 +88,7 @@
                 "category": "Storie del quartiere",
                 "sub-category": "memorie",
                 "tags": [
-                    "art"
+                    "arte"
                 ],
                 "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "links": [
@@ -101,7 +101,7 @@
                 ],
                 "relationships": null,
                 "created_date": "2020-05-12T01:40:26.868-07:00",
-                "updated_date": "2020-05-12T01:51:29.865-07:00",
+                "updated_date": "2020-05-13T04:08:06.280-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -379,7 +379,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cinema all'aperto",
-                "type": "Progetto",
+                "type": "Azione partecipativa",
                 "start_date": "",
                 "end_date": "",
                 "description": "L'idea del cinema all'aperto é una delle proposte emerse nelle discussioni \"Laboratori di quartiere\" con i cittadini ed i ristoratori di Piazzetta Saponeria (febbraio 2019) per Cortile Ecce Homo. Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato esistevano due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati.",
@@ -400,7 +400,7 @@
                     "ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-02-14T08:29:46.329-08:00",
-                "updated_date": "2020-05-13T02:33:51.295-07:00",
+                "updated_date": "2020-05-13T04:05:33.378-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -417,7 +417,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cartello informativo Capo",
-                "type": "Progetto",
+                "type": "Azione partecipativa",
                 "start_date": "",
                 "end_date": "",
                 "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee Laboratori di quartiere tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti (come il fabbro Gianni Conigliaro) interessati a migliorare la segnaletica turistica, la visibilita' e la vivibilita' del mercato del Capo. L'idea é di rivolgersi sia a turisti, che a cittadini palermitani interessati a scoprire il quartiere.",
@@ -432,7 +432,7 @@
                     "ca/la_bottega_del_fabbro#79"
                 ],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
-                "updated_date": "2020-05-13T02:29:49.690-07:00",
+                "updated_date": "2020-05-13T04:05:27.905-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -449,7 +449,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Laboratori di Quartiere",
-                "type": "Evento",
+                "type": "Azione partecipativa",
                 "start_date": "2020-01-13T16:00:00.000-08:00",
                 "end_date": "2020-06-29T16:00:00.000-07:00",
                 "description": "Laboratorio di raccolta, progettazione e realizzazione di idee e proposte dei residenti in significativi spazi del quartiere Capo. Il laboratorio ha portato Bond of Union a confrontarsi con gli abitanti del quartiere per lo sviluppo e la realizzazione di proposte da sviluppare insieme. Tra le interessanti proposte emerse nella prima fase, antecedente al blocco dovuto all'emergenza Covid-19, un cartello informativo per il mercato ed il cinema all'aperto in Cortile Ecce Homo. ",
@@ -471,7 +471,7 @@
                     "ca/cartello_informativo_capo#77"
                 ],
                 "created_date": "2019-12-12T04:32:10.764-08:00",
-                "updated_date": "2020-05-13T02:21:58.260-07:00",
+                "updated_date": "2020-05-13T04:05:17.233-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -569,7 +569,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Spazi Di Quartiere",
-                "type": "Evento",
+                "type": "Azione partecipativa",
                 "start_date": "2019-11-07T16:00:00.000-08:00",
                 "end_date": "2019-11-28T16:00:00.000-08:00",
                 "description": "Gli eventi Spazi di Quartiere sono stati realizzati nel quartiere Capo-Monte di Pietà nel mese di Novembre 2019 dalla Cooperativa Sociale Bond of Union. Spazi di Quartiere ha creato dei momenti di\nincontro informale e di confronto organizzati in quattro differenti punti del quartiere  (Vicolo degli\nOrfani, Piazza Papireto, Piazzetta alla Guilla e Cortile Mangano), con il fine di attivare momenti di partecipazione attiva degli abitanti del quartiere. All'organizzazione degli eventi hanno attivamente collaborato associazioni culturali e del terzo settore che operano nel quartiere tra cui la Comunità di Sant'egidio, l'Associazione Naka, il Teatro alla Guilla e Giancarlo Gallitano. Gli incontri hanno previsto anche la partecipazione della Consigliera della Prima Circoscrizione Francesca Vetrano e del Presidente Massimo Castiglia.",
@@ -586,7 +586,7 @@
                     "ca/piazzetta_alla_guilla#81"
                 ],
                 "created_date": "2019-12-12T02:24:26.427-08:00",
-                "updated_date": "2020-05-11T08:58:15.267-07:00",
+                "updated_date": "2020-05-13T04:04:58.438-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -603,7 +603,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Quartiere Capo - Monte di Pietà",
-                "type": "",
+                "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
                 "description": "Il Capo è un antico e noto quartiere del centro storico di Palermo. Con lo stesso termine i palermitani indicano indifferentemente anche il mercato che vi si tiene e con cui il quartiere si identifica.",
@@ -628,7 +628,7 @@
                 ],
                 "relationships": null,
                 "created_date": "2019-12-12T02:11:40.236-08:00",
-                "updated_date": "2020-05-08T07:18:53.600-07:00",
+                "updated_date": "2020-05-13T04:04:49.974-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -752,7 +752,9 @@
                 "image": "https://i.postimg.cc/PrJK25Yy/UNADJUSTEDNONRAW-thumb-6af.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
-                "tags": [],
+                "tags": [
+                    "arte"
+                ],
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [
                     {
@@ -766,7 +768,7 @@
                     "ca/spazi_di_quartiere#72"
                 ],
                 "created_date": "2019-12-11T05:30:08.220-08:00",
-                "updated_date": "2020-05-08T07:30:24.301-07:00",
+                "updated_date": "2020-05-13T04:18:59.815-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -786,7 +788,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-13T11:02:06.574Z",
+        "published": "2020-05-13T11:23:37.453Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -824,7 +826,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 163,
+        "version": 165,
         "taxonomy": [
             {
                 "category": "Rete Capo",

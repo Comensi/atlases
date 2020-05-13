@@ -298,7 +298,7 @@
                 "type": "Persona",
                 "start_date": "",
                 "end_date": "",
-                "description": "Il Fabbro e Artista Gianni Conigliaro é nato e lavora nel quartiere con splendide insegne grafiche e luminarie artigianali create anche per le feste patronali. Da anni attivissimo del quartiere, ha fornito idee da sviluppare insieme agli altri abitanti nel corso di Comensi. Un esempio il cartello informativo \"Benvenuti al capo\" (vedi link).",
+                "description": "Il Fabbro e Artista Gianni Conigliaro é nato e lavora nel quartiere con splendide insegne grafiche e luminarie artigianali create anche per le feste patronali. Da anni attivissimo del quartiere, ha fornito idee da sviluppare insieme agli altri abitanti nel corso dei laboratori di quartiere Comensi. Un esempio il cartello informativo \"Benvenuti al capo\".",
                 "image": "https://i.postimg.cc/y8h91q4t/IMG-20200212-110903.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "",
@@ -313,7 +313,7 @@
                     },
                     {
                         "url": "https://i.postimg.cc/VLf5qJ3G/IMG-20200212-110912.jpg",
-                        "title": "Lavoro",
+                        "title": "Lavoro in ferro",
                         "description": "Lavoro in ferro battuto",
                         "type": "image"
                     }
@@ -323,7 +323,7 @@
                     "ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-02-14T08:48:29.637-08:00",
-                "updated_date": "2020-05-11T08:57:19.745-07:00",
+                "updated_date": "2020-05-13T02:34:41.028-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -343,7 +343,7 @@
                 "type": "Progetto",
                 "start_date": "",
                 "end_date": "",
-                "description": "L'idea del cinema all'aperto é una delle proposte emerse nelle discussioni \"Laboratori di quartiere\" con i cittadini ed iristoratori di Piazzetta Saponeria (febbraio 2019) per Cortile Ecce Homo. Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato il quartiere aveva due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati .",
+                "description": "L'idea del cinema all'aperto é una delle proposte emerse nelle discussioni \"Laboratori di quartiere\" con i cittadini ed i ristoratori di Piazzetta Saponeria (febbraio 2019) per Cortile Ecce Homo. Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato esistevano due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati.",
                 "image": "https://i.postimg.cc/fyfPMSMx/IMG-20200511-WA0008.jpg",
                 "category": "Idee e Proposte",
                 "sub-category": "",
@@ -361,7 +361,7 @@
                     "ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-02-14T08:29:46.329-08:00",
-                "updated_date": "2020-05-11T07:59:58.110-07:00",
+                "updated_date": "2020-05-13T02:33:51.295-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -381,7 +381,7 @@
                 "type": "Progetto",
                 "start_date": "",
                 "end_date": "",
-                "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee \"Laboratori di quartiere\" tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti (come l'artigiano e fabbro Gianni Conigliaro) interessati a migliorare la segnaletica turistica e la visibilita' del mercato del Capo rivolgendois sia a turisti, che a cittadini palermitani.",
+                "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee Laboratori di quartiere tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti (come il fabbro Gianni Conigliaro) interessati a migliorare la segnaletica turistica, la visibilita' e la vivibilita' del mercato del Capo. L'idea é di rivolgersi sia a turisti, che a cittadini palermitani interessati a scoprire il quartiere.",
                 "image": "https://i.postimg.cc/Kz65WgGX/benvenuti-capo-01.png",
                 "category": "Idee e Proposte",
                 "sub-category": "",
@@ -393,7 +393,7 @@
                     "ca/la_bottega_del_fabbro#79"
                 ],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
-                "updated_date": "2020-05-08T07:43:17.507-07:00",
+                "updated_date": "2020-05-13T02:29:49.690-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -466,12 +466,6 @@
                         "type": "image"
                     },
                     {
-                        "url": "https://i.postimg.cc/j5KtVHVF/65675904-2203688579749999-7828616347037728768-n.jpg",
-                        "title": "Sede Bond of Union",
-                        "description": "Sede della Cooperativa Bond of Union",
-                        "type": "image"
-                    },
-                    {
                         "url": "https://i.postimg.cc/sXqFj7bz/IMG-20191108-164427.jpg",
                         "title": "Le proposte per il Vicolo",
                         "description": "Raccolta di proposte per vicolo degli orfani durante Spazi di Quartiere",
@@ -479,10 +473,11 @@
                     }
                 ],
                 "relationships": [
-                    "ca/spazi_di_quartiere#72"
+                    "ca/spazi_di_quartiere#72",
+                    "ca/bond_of_union#85"
                 ],
                 "created_date": "2019-12-12T03:28:00.260-08:00",
-                "updated_date": "2020-05-13T02:17:06.681-07:00",
+                "updated_date": "2020-05-13T02:32:22.897-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -752,7 +747,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-13T09:30:08.793Z",
+        "published": "2020-05-13T09:36:27.953Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -790,7 +785,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 157,
+        "version": 159,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -922,6 +917,10 @@
         {
             "from": "ca/vicolo_degli_orfani#75",
             "to": "ca/spazi_di_quartiere#72"
+        },
+        {
+            "from": "ca/vicolo_degli_orfani#75",
+            "to": "ca/bond_of_union#85"
         },
         {
             "from": "ca/spazi_di_quartiere#72",

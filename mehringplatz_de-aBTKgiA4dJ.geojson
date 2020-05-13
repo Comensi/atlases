@@ -522,64 +522,52 @@
                 "coordinates": [
                     [
                         [
-                            13.389252,
-                            52.498094
+                            13.38802,
+                            52.494017
                         ],
                         [
-                            13.393861,
-                            52.498189
+                            13.387516,
+                            52.494161
                         ],
                         [
-                            13.401282,
-                            52.510348
+                            13.387301,
+                            52.494135
                         ],
                         [
-                            13.400813,
-                            52.511867
+                            13.385575,
+                            52.494677
                         ],
                         [
-                            13.399095,
-                            52.512152
+                            13.385339,
+                            52.495088
                         ],
                         [
-                            13.396595,
-                            52.51201
+                            13.385393,
+                            52.496048
                         ],
                         [
-                            13.396204,
-                            52.512722
+                            13.387055,
+                            52.496355
                         ],
                         [
-                            13.396283,
-                            52.513387
+                            13.388449,
+                            52.496186
                         ],
                         [
-                            13.396048,
-                            52.516283
+                            13.389392,
+                            52.495937
                         ],
                         [
-                            13.381206,
-                            52.515096
+                            13.38936,
+                            52.49565
                         ],
                         [
-                            13.379487,
-                            52.514716
+                            13.389253,
+                            52.495389
                         ],
                         [
-                            13.377534,
-                            52.514669
-                        ],
-                        [
-                            13.376597,
-                            52.50935
-                        ],
-                        [
-                            13.376909,
-                            52.508638
-                        ],
-                        [
-                            13.389252,
-                            52.498094
+                            13.38802,
+                            52.494017
                         ]
                     ]
                 ]
@@ -1909,7 +1897,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-13T14:46:58.747Z",
+        "published": "2020-05-13T15:07:23.262Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -1919,7 +1907,7 @@
                 "type": "translation"
             }
         ],
-        "version": 74,
+        "version": 75,
         "taxonomy": [
             {
                 "category": "Initiativen",

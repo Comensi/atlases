@@ -4,6 +4,42 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Cortile Ecce Homo",
+                "type": "Luogo",
+                "start_date": "",
+                "end_date": "",
+                "description": "Il Cortile é uno dei caratteristici spazi del quartiere. Nel 2016 é stato teatro di un esperimento di arte urbana. Durante Laboratori di Quartiere é stato proposto da uno dei suoi abitanti come area per realizzare il cinema all'aperto.",
+                "image": "https://i.postimg.cc/3JnVTjf9/Schermata-2020-05-13-alle-11-49-36.png",
+                "category": "Spazi di quartiere",
+                "sub-category": "Spazi pubblici",
+                "tags": [],
+                "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
+                "links": [
+                    {
+                        "url": "http://www.fotolibera.it/inseminazione-artistica-la-mostra-nel-cemento/20-maggio-2016-grande-festa-nel-cortile-ecce-homo-a-palermo-per-il-musicante-marino-disegnato-da-rame13/",
+                        "title": "Arte Urbana",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": null,
+                "created_date": "2020-05-12T02:25:50.935-07:00",
+                "updated_date": "2020-05-13T03:09:36.544-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.355,
+                    38.1177
+                ]
+            },
+            "id": "ca/cortile_ecce_homo#88"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Naka",
                 "type": "Organizzazione",
                 "start_date": "",
@@ -85,7 +121,7 @@
                 "type": "Organizzazione",
                 "start_date": "",
                 "end_date": "",
-                "description": "Bond of Union é una cooperativa sociale fondata nel 2010 e che opera al Capo dal 2016. Bond of Union promuove lo sviluppo sociale e i processi inclusivi attraverso la creazione di reti tra la società civile, il terzo settore e le Pubbliche Amministrazioni. Bond of Union sviluppa azioni locali che impegnano i cittadini e le amministrazioni pubbliche in forme nuove e partecipative di sviluppo della comunità. L'educazione non formale e la cooperazione internazionale sono i principali strumenti operativi dell'organizzazione. Con le iniziative Spazi e laboratori di quartiere nel 2019 la cooperativa ha avviato un processo partecipativo con i cittadini e le organizzazioni della rete Capo per facilitare processi di cittadinanaza attiva, inclusione sociale e community engagement.",
+                "description": "Bond of Union é una cooperativa sociale fondata nel 2010 e che opera al Capo dal 2016 con sede operativa in Vicolo degli Orfani. Bond of Union promuove lo sviluppo sociale e i processi inclusivi attraverso la creazione di reti tra la società civile, il terzo settore e le Pubbliche Amministrazioni. Bond of Union sviluppa azioni locali che impegnano i cittadini e le amministrazioni pubbliche in forme nuove e partecipative di sviluppo della comunità. L'educazione non formale e la cooperazione internazionale sono i principali strumenti operativi dell'organizzazione. Con le iniziative Spazi e laboratori di quartiere nel 2019 la cooperativa ha avviato un processo partecipativo con i cittadini e le organizzazioni della rete Capo per facilitare processi di cittadinanaza attiva, inclusione sociale e community engagement.",
                 "image": "https://i.postimg.cc/SKbv3pF0/IMG-20200511-173904.jpg",
                 "category": "Rete Capo",
                 "sub-category": "Terzo settore",
@@ -117,7 +153,7 @@
                     "ca/vicolo_degli_orfani#75"
                 ],
                 "created_date": "2020-05-11T08:33:02.763-07:00",
-                "updated_date": "2020-05-13T02:43:22.055-07:00",
+                "updated_date": "2020-05-13T02:44:16.255-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -750,7 +786,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-13T09:44:42.271Z",
+        "published": "2020-05-13T10:10:18.496Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -788,7 +824,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 161,
+        "version": 163,
         "taxonomy": [
             {
                 "category": "Rete Capo",

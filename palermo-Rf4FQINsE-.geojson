@@ -48,7 +48,9 @@
                 "image": "https://i.postimg.cc/nc2MyV1y/naka.jpg",
                 "category": "Rete Capo",
                 "sub-category": "Terzo settore",
-                "tags": [],
+                "tags": [
+                    "community engagement"
+                ],
                 "category-description": "Associazioni e servizi del quartiere",
                 "links": [
                     {
@@ -63,7 +65,7 @@
                     "ca/piazza_papireto#70"
                 ],
                 "created_date": "2020-05-12T01:55:00.433-07:00",
-                "updated_date": "2020-05-12T01:59:20.420-07:00",
+                "updated_date": "2020-05-13T06:53:48.531-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -84,11 +86,12 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Un creatore diede vita alla Pupa del Capo per donarla a Salvatore e Vincenza Morello per le loro nozze, presumibilmente tra il 1902 e il 1908. Il mosaico, che rappresenta Demetra, dea delle messi, fu un regalo apprezzato dal proprietario del panificio, il quale fece dell’opera d’arte l’insegna della sua bottega. È così che la Pupa del Capo, come negli anni Palermo l’ha denominata, osserva i passanti da almeno cento anni e li invita ad entrare. Qualche anno fa è iniziato il restauro dell’opera. Alcune associazioni locali hanno messo in salvo l’opera da eventuali crolli di Palazzo Serenario, edificio barocco anch’esso in fase di restauro. Esso si trova attualmente a Palazzo Ajutamicristo, in attesa di tornare nella sua sede originaria, lungo la via Cappuccinelle.",
-                "image": " https://i.postimg.cc/pTjHRkM9/pupa-capo.jpg",
+                "image": "https://i.postimg.cc/pL8KQhXf/DSC01656.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "memorie",
                 "tags": [
-                    "arte"
+                    "arte",
+                    "memoria orale"
                 ],
                 "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "links": [
@@ -101,7 +104,7 @@
                 ],
                 "relationships": null,
                 "created_date": "2020-05-12T01:40:26.868-07:00",
-                "updated_date": "2020-05-13T04:08:06.280-07:00",
+                "updated_date": "2020-05-13T06:53:36.653-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -125,7 +128,10 @@
                 "image": "https://i.postimg.cc/SKbv3pF0/IMG-20200511-173904.jpg",
                 "category": "Rete Capo",
                 "sub-category": "Terzo settore",
-                "tags": [],
+                "tags": [
+                    "community engagement",
+                    "organizzazioni"
+                ],
                 "category-description": "Associazioni e servizi del quartiere",
                 "links": [
                     {
@@ -153,7 +159,7 @@
                     "ca/vicolo_degli_orfani#75"
                 ],
                 "created_date": "2020-05-11T08:33:02.763-07:00",
-                "updated_date": "2020-05-13T02:44:16.255-07:00",
+                "updated_date": "2020-05-13T06:53:17.396-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -177,7 +183,10 @@
                 "image": "https://i.postimg.cc/02h9Gfkr/IMG-20191118-141505-1.jpg",
                 "category": "Rete Capo",
                 "sub-category": "Terzo settore",
-                "tags": [],
+                "tags": [
+                    "cultura",
+                    "organizzazioni"
+                ],
                 "category-description": "Associazioni e servizi del quartiere",
                 "links": [],
                 "relationships": [
@@ -185,7 +194,7 @@
                     "ca/piazzetta_alla_guilla#81"
                 ],
                 "created_date": "2020-05-11T08:18:38.887-07:00",
-                "updated_date": "2020-05-13T02:27:30.263-07:00",
+                "updated_date": "2020-05-13T06:52:42.029-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -209,14 +218,16 @@
                 "image": "https://i.postimg.cc/pdNX93Dq/Palermo-atlas.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "",
-                "tags": [],
+                "tags": [
+                    "cucina"
+                ],
                 "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "links": [],
                 "relationships": [
                     "ca/spazi_di_quartiere#72"
                 ],
                 "created_date": "2020-05-11T07:56:52.755-07:00",
-                "updated_date": "2020-05-13T02:42:52.666-07:00",
+                "updated_date": "2020-05-13T06:52:19.652-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -240,14 +251,16 @@
                 "image": "https://i.postimg.cc/JnhmfK1N/IMG-20200511-120619.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
-                "tags": [],
+                "tags": [
+                    "spazio pubblico"
+                ],
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [],
                 "relationships": [
                     "ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-05-11T07:41:27.641-07:00",
-                "updated_date": "2020-05-13T02:42:41.482-07:00",
+                "updated_date": "2020-05-13T06:52:04.328-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -271,7 +284,9 @@
                 "image": "https://i.postimg.cc/VkXtP0Kb/guilla2.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi verdi",
-                "tags": [],
+                "tags": [
+                    "area verde"
+                ],
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [
                     {
@@ -286,7 +301,7 @@
                     "ca/teatro_alla_guilla#84"
                 ],
                 "created_date": "2020-05-08T07:53:34.707-07:00",
-                "updated_date": "2020-05-13T02:42:27.769-07:00",
+                "updated_date": "2020-05-13T06:51:44.615-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -310,14 +325,16 @@
                 "image": "https://i.postimg.cc/63s43n6f/DSC03663.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "",
-                "tags": [],
+                "tags": [
+                    "workspace"
+                ],
                 "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "links": [],
                 "relationships": [
                     "ca/piazzetta_alla_guilla#81"
                 ],
                 "created_date": "2020-04-15T03:18:20.078-07:00",
-                "updated_date": "2020-05-08T08:53:35.983-07:00",
+                "updated_date": "2020-05-13T06:51:30.801-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -341,7 +358,9 @@
                 "image": "https://i.postimg.cc/y8h91q4t/IMG-20200212-110903.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "",
-                "tags": [],
+                "tags": [
+                    "workspace"
+                ],
                 "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "links": [
                     {
@@ -362,7 +381,7 @@
                     "ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-02-14T08:48:29.637-08:00",
-                "updated_date": "2020-05-13T02:34:41.028-07:00",
+                "updated_date": "2020-05-13T06:51:36.149-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -426,7 +445,9 @@
                 "image": "https://i.postimg.cc/Kz65WgGX/benvenuti-capo-01.png",
                 "category": "Idee e Proposte",
                 "sub-category": "",
-                "tags": [],
+                "tags": [
+                    "partecipazione"
+                ],
                 "category-description": "presentare visioni, progetti e ipotesi alternative dei cittadini per la trasformazione o il miglioramento del quartiere",
                 "links": [],
                 "relationships": [
@@ -434,7 +455,7 @@
                     "ca/la_bottega_del_fabbro#79"
                 ],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
-                "updated_date": "2020-05-13T04:05:27.905-07:00",
+                "updated_date": "2020-05-13T06:50:27.253-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -458,7 +479,9 @@
                 "image": "https://i.postimg.cc/T3RXcZ55/83456042-2600819766703543-6129873214291050496-o.jpg",
                 "category": "Iniziative",
                 "sub-category": "",
-                "tags": [],
+                "tags": [
+                    "partecipazione"
+                ],
                 "category-description": "azioni locali per promuovere la partecipazione dei cittadini",
                 "links": [
                     {
@@ -473,7 +496,7 @@
                     "ca/cartello_informativo_capo#77"
                 ],
                 "created_date": "2019-12-12T04:32:10.764-08:00",
-                "updated_date": "2020-05-13T04:05:17.233-07:00",
+                "updated_date": "2020-05-13T06:50:14.659-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -497,7 +520,9 @@
                 "image": "https://i.postimg.cc/BQKwD3b0/IMG-1402.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
-                "tags": [],
+                "tags": [
+                    "spazio pubblico"
+                ],
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [
                     {
@@ -518,7 +543,7 @@
                     "ca/bond_of_union#85"
                 ],
                 "created_date": "2019-12-12T03:28:00.260-08:00",
-                "updated_date": "2020-05-13T02:32:22.897-07:00",
+                "updated_date": "2020-05-13T06:50:04.031-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -542,7 +567,9 @@
                 "image": "https://i.postimg.cc/85R2jfLx/45026980262-5bacd1d3f9-z.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "memorie",
-                "tags": [],
+                "tags": [
+                    "evento"
+                ],
                 "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "links": [
                     {
@@ -554,7 +581,7 @@
                 ],
                 "relationships": null,
                 "created_date": "2019-12-12T02:55:40.353-08:00",
-                "updated_date": "2020-05-12T01:53:44.837-07:00",
+                "updated_date": "2020-05-13T06:49:48.748-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -632,7 +659,7 @@
                 ],
                 "relationships": null,
                 "created_date": "2019-12-12T02:11:40.236-08:00",
-                "updated_date": "2020-05-13T04:04:49.974-07:00",
+                "updated_date": "2020-05-13T06:49:26.707-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -712,7 +739,9 @@
                 "image": "https://i.postimg.cc/76mtZBpM/UNADJUSTEDNONRAW-thumb-6ad.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
-                "tags": [],
+                "tags": [
+                    "spazio pubblico"
+                ],
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [
                     {
@@ -732,7 +761,7 @@
                     "ca/spazi_di_quartiere#72"
                 ],
                 "created_date": "2019-12-11T08:12:02.170-08:00",
-                "updated_date": "2020-05-08T07:46:52.880-07:00",
+                "updated_date": "2020-05-13T06:49:06.961-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -792,7 +821,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-13T13:47:41.232Z",
+        "published": "2020-05-13T13:54:28.474Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -830,7 +859,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 167,
+        "version": 168,
         "taxonomy": [
             {
                 "category": "Rete Capo",

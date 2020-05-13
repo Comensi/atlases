@@ -163,14 +163,14 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Franco",
+                "title": "Da Franco",
                 "type": "Persona",
                 "start_date": "",
                 "end_date": "",
                 "description": "Franco é il proprietario di una storica osteria in Via Capuccinelle. Attivissimo nel quartiere ha lanciato numerose iniziative per il quartiere come la riqualificazione di una piazzetta abbandontata accanto alla sua osteria. Franco ha dato il suo contributo nella discussione sulle potenzialita' di Cortile Mangano e nei successivi laboratori di quartiere. La sua osteria \"Da Franco\" appunto é il perfetto luogo per accese e stimolanti discussioni sulla storia e sul futuro possibile per il Capo. ",
                 "image": "https://i.postimg.cc/pdNX93Dq/Palermo-atlas.jpg",
                 "category": "Storie del quartiere",
-                "sub-category": "",
+                "sub-category": "storie",
                 "tags": [],
                 "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "links": [],
@@ -178,7 +178,7 @@
                     "ca/spazi_di_quartiere#72"
                 ],
                 "created_date": "2020-05-11T07:56:52.755-07:00",
-                "updated_date": "2020-05-11T08:49:27.283-07:00",
+                "updated_date": "2020-05-13T02:38:23.279-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -189,7 +189,7 @@
                     38.1167
                 ]
             },
-            "id": "ca/franco#83"
+            "id": "ca/da_franco#83"
         },
         {
             "type": "Feature",
@@ -747,7 +747,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-13T09:36:27.953Z",
+        "published": "2020-05-13T09:41:55.586Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -785,7 +785,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 159,
+        "version": 160,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -871,7 +871,7 @@
             "to": "ca/piazzetta_alla_guilla#81"
         },
         {
-            "from": "ca/franco#83",
+            "from": "ca/da_franco#83",
             "to": "ca/spazi_di_quartiere#72"
         },
         {

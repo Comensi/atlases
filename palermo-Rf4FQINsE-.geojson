@@ -413,7 +413,7 @@
                 "type": "Evento",
                 "start_date": "2020-01-13T16:00:00.000-08:00",
                 "end_date": "2020-06-29T16:00:00.000-07:00",
-                "description": "Laboratorio di raccolta e progettazione di idee e proposte dei residenti in significativi spazi del quartiere Capo. Il laboratorio ha portato Bond of Union a confrontarsi con gli abitanti del quartiere per lo sviluppo e la realizzazione di proposte da sviluppare insieme. Tra le interessanti proposte emerse nella prima fase, antecedente al blocco dovuto all'emergenza Covid, un cartello informativo ed il cinema in cortile ecce homo. ",
+                "description": "Laboratorio di raccolta, progettazione e realizzazione di idee e proposte dei residenti in significativi spazi del quartiere Capo. Il laboratorio ha portato Bond of Union a confrontarsi con gli abitanti del quartiere per lo sviluppo e la realizzazione di proposte da sviluppare insieme. Tra le interessanti proposte emerse nella prima fase, antecedente al blocco dovuto all'emergenza Covid-19, un cartello informativo per il mercato ed il cinema all'aperto in Cortile Ecce Homo. ",
                 "image": "https://i.postimg.cc/T3RXcZ55/83456042-2600819766703543-6129873214291050496-o.jpg",
                 "category": "Iniziative",
                 "sub-category": "",
@@ -432,7 +432,7 @@
                     "ca/cartello_informativo_capo#77"
                 ],
                 "created_date": "2019-12-12T04:32:10.764-08:00",
-                "updated_date": "2020-05-08T08:27:51.874-07:00",
+                "updated_date": "2020-05-13T02:21:58.260-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -455,7 +455,7 @@
                 "description": "Vicolo degli Orfani è un vicolo che collega Piazza Beati Paoli e Via Sant'Agostino. Nel vicolo si trova la sede operativa di Bond of Union. Nel vicolo la presenza di una comunità locale coesa e solidale ha fatto emergere nel corso della discussione partecipata Spazi di quartiere (novembre 2019) diversi elementi positivi come la voglia di creare momenti di socialità per adulti e bambini ed il potenziale utilizzo della piazzetta che si trova nella strada per differenti usi condivisi tra i residenti. Anticamete il vicolo era sede di attivita gastronomiche uniche come la realizzazione della pupaccina. Inoltre nella strada si trova uno degli accessi alle grotte dei Beati paoli.",
                 "image": "https://i.postimg.cc/BQKwD3b0/IMG-1402.jpg",
                 "category": "Spazi di quartiere",
-                "sub-category": "",
+                "sub-category": "Spazi pubblici",
                 "tags": [],
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [
@@ -482,7 +482,7 @@
                     "ca/spazi_di_quartiere#72"
                 ],
                 "created_date": "2019-12-12T03:28:00.260-08:00",
-                "updated_date": "2020-05-08T07:04:12.935-07:00",
+                "updated_date": "2020-05-13T02:17:06.681-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -752,7 +752,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-13T09:11:33.696Z",
+        "published": "2020-05-13T09:22:50.183Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -790,7 +790,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 155,
+        "version": 156,
         "taxonomy": [
             {
                 "category": "Rete Capo",

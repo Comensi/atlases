@@ -518,95 +518,57 @@
                 "image_credit": "Infoflyer Modellprojekt Rathausblock"
             },
             "geometry": {
-                "type": "LineString",
+                "type": "Polygon",
                 "coordinates": [
                     [
-                        13.388062,
-                        52.49401
-                    ],
-                    [
-                        13.387515,
-                        52.494154
-                    ],
-                    [
-                        13.387397,
-                        52.494122
-                    ],
-                    [
-                        13.385575,
-                        52.494703
-                    ],
-                    [
-                        13.385318,
-                        52.495088
-                    ],
-                    [
-                        13.385371,
-                        52.496062
-                    ],
-                    [
-                        13.387065,
-                        52.496362
-                    ],
-                    [
-                        13.388416,
-                        52.496186
-                    ],
-                    [
-                        13.389349,
-                        52.495937
-                    ],
-                    [
-                        13.389242,
-                        52.495402
-                    ],
-                    [
-                        13.388062,
-                        52.49401
-                    ],
-                    [
-                        13.388029,
-                        52.49403
-                    ],
-                    [
-                        13.387504,
-                        52.494154
-                    ],
-                    [
-                        13.387364,
-                        52.494148
-                    ],
-                    [
-                        13.38552,
-                        52.494716
-                    ],
-                    [
-                        13.385316,
-                        52.495114
-                    ],
-                    [
-                        13.385434,
-                        52.496068
-                    ],
-                    [
-                        13.387096,
-                        52.496355
-                    ],
-                    [
-                        13.388543,
-                        52.496166
-                    ],
-                    [
-                        13.389305,
-                        52.495951
-                    ],
-                    [
-                        13.389219,
-                        52.495395
-                    ],
-                    [
-                        13.388029,
-                        52.49403
+                        [
+                            13.388043,
+                            52.493997
+                        ],
+                        [
+                            13.387529,
+                            52.494148
+                        ],
+                        [
+                            13.387518,
+                            52.494135
+                        ],
+                        [
+                            13.387325,
+                            52.494135
+                        ],
+                        [
+                            13.385556,
+                            52.494722
+                        ],
+                        [
+                            13.385309,
+                            52.495127
+                        ],
+                        [
+                            13.385352,
+                            52.496068
+                        ],
+                        [
+                            13.387078,
+                            52.496388
+                        ],
+                        [
+                            13.388161,
+                            52.496225
+                        ],
+                        [
+                            13.389351,
+                            52.495937
+                        ],
+                        [
+                            13.389265,
+                            52.495408
+                        ],
+                        [
+                            13.388043,
+                            52.493997
+                        ]
                     ]
                 ]
             },
@@ -1935,7 +1897,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-13T15:35:33.696Z",
+        "published": "2020-05-13T15:40:33.179Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",

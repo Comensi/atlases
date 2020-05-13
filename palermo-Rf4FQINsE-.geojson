@@ -88,7 +88,7 @@
                 "description": "Bond of Union é una cooperativa sociale fondata nel 2010 e che opera al Capo dal 2016. Bond of Union promuove lo sviluppo sociale e i processi inclusivi attraverso la creazione di reti tra la società civile, il terzo settore e le Pubbliche Amministrazioni. Bond of Union sviluppa azioni locali che impegnano i cittadini e le amministrazioni pubbliche in forme nuove e partecipative di sviluppo della comunità. L'educazione non formale e la cooperazione internazionale sono i principali strumenti operativi dell'organizzazione. Con le iniziative Spazi e laboratori di quartiere nel 2019 la cooperativa ha avviato un processo partecipativo con i cittadini e le organizzazioni della rete Capo per facilitare processi di cittadinanaza attiva, inclusione sociale e community engagement.",
                 "image": "https://i.postimg.cc/SKbv3pF0/IMG-20200511-173904.jpg",
                 "category": "Rete Capo",
-                "sub-category": "",
+                "sub-category": "Terzo settore",
                 "tags": [],
                 "category-description": "Associazioni e servizi del quartiere",
                 "links": [
@@ -112,10 +112,12 @@
                     }
                 ],
                 "relationships": [
-                    "ca/spazi_di_quartiere#72"
+                    "ca/spazi_di_quartiere#72",
+                    "ca/laboratori_di_quartiere#76",
+                    "ca/vicolo_degli_orfani#75"
                 ],
                 "created_date": "2020-05-11T08:33:02.763-07:00",
-                "updated_date": "2020-05-12T02:34:15.697-07:00",
+                "updated_date": "2020-05-13T02:43:22.055-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -170,7 +172,7 @@
                 "description": "Franco é il proprietario di una storica osteria in Via Capuccinelle. Attivissimo nel quartiere ha lanciato numerose iniziative per il quartiere come la riqualificazione di una piazzetta abbandontata accanto alla sua osteria. Franco ha dato il suo contributo nella discussione sulle potenzialita' di Cortile Mangano e nei successivi laboratori di quartiere. La sua osteria \"Da Franco\" appunto é il perfetto luogo per accese e stimolanti discussioni sulla storia e sul futuro possibile per il Capo. ",
                 "image": "https://i.postimg.cc/pdNX93Dq/Palermo-atlas.jpg",
                 "category": "Storie del quartiere",
-                "sub-category": "storie",
+                "sub-category": "",
                 "tags": [],
                 "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "links": [],
@@ -178,7 +180,7 @@
                     "ca/spazi_di_quartiere#72"
                 ],
                 "created_date": "2020-05-11T07:56:52.755-07:00",
-                "updated_date": "2020-05-13T02:38:23.279-07:00",
+                "updated_date": "2020-05-13T02:42:52.666-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -201,7 +203,7 @@
                 "description": "La Piazza Beati Paoli ed il suo storico Chiosco, gestito da Fabio sono un luogo simbolico del quartiere. La piazza é stata recentemente ristrutturata valorizzando la sua valenza di luogo di incontro e discussione. Lo spazio é stato utilizzato da Bond of Union come \"laboratorio di quartiere a cielo aperto\". L'ambiente informale della piazza e del chiosco ha infatti permesso di confrontarsi con cittadini, come Gianni, e raccogliere le loro idee per il quartiere.",
                 "image": "https://i.postimg.cc/JnhmfK1N/IMG-20200511-120619.jpg",
                 "category": "Spazi di quartiere",
-                "sub-category": "",
+                "sub-category": "Spazi pubblici",
                 "tags": [],
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [],
@@ -209,7 +211,7 @@
                     "ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-05-11T07:41:27.641-07:00",
-                "updated_date": "2020-05-11T08:17:52.209-07:00",
+                "updated_date": "2020-05-13T02:42:41.482-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -232,7 +234,7 @@
                 "description": "La piazzetta alla Guilla é uno dei pochi spazi verdi presenti nel quartiere ed é aperta a differenti usi da parte dei residenti. Importante snodo, via di passaggio tra il mercato del Capo e la cattedrale presenta la possibilita' di avviare una programmazione di attività ricreative che potrebbere coinvolgere residenti, parrocchie, scuole e associazioni locali come il vicino Teatro alla Guilla. Nella discussione Spazi di quartiere di novembre 2019 é émerso come possa essere interessanete coinvolgere le scuole del quartiere in attività extra-scolastiche di aggregazione per i ragazzi nella piazzetta, la necessita' di sistemarne i muretti e di installare nuove panchine e contenitori.\n",
                 "image": "https://i.postimg.cc/VkXtP0Kb/guilla2.jpg",
                 "category": "Spazi di quartiere",
-                "sub-category": "",
+                "sub-category": "Spazi verdi",
                 "tags": [],
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [
@@ -244,10 +246,11 @@
                     }
                 ],
                 "relationships": [
-                    "ca/spazi_di_quartiere#72"
+                    "ca/spazi_di_quartiere#72",
+                    "ca/teatro_alla_guilla#84"
                 ],
                 "created_date": "2020-05-08T07:53:34.707-07:00",
-                "updated_date": "2020-05-08T08:02:12.712-07:00",
+                "updated_date": "2020-05-13T02:42:27.769-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -747,7 +750,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-13T09:41:55.586Z",
+        "published": "2020-05-13T09:44:42.271Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -785,7 +788,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 160,
+        "version": 161,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -863,6 +866,14 @@
             "to": "ca/spazi_di_quartiere#72"
         },
         {
+            "from": "ca/bond_of_union#85",
+            "to": "ca/laboratori_di_quartiere#76"
+        },
+        {
+            "from": "ca/bond_of_union#85",
+            "to": "ca/vicolo_degli_orfani#75"
+        },
+        {
             "from": "ca/teatro_alla_guilla#84",
             "to": "ca/spazi_di_quartiere#72"
         },
@@ -881,6 +892,10 @@
         {
             "from": "ca/piazzetta_alla_guilla#81",
             "to": "ca/spazi_di_quartiere#72"
+        },
+        {
+            "from": "ca/piazzetta_alla_guilla#81",
+            "to": "ca/teatro_alla_guilla#84"
         },
         {
             "from": "ca/sartoria_eleganza#80",

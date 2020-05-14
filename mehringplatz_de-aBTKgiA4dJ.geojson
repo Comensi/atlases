@@ -139,6 +139,49 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "H-Town Tour",
+                "type": "Video",
+                "start_date": "2019-06-14T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "H-Town-Tour ist das visuelle Ergebnis der URBEX-Laboratorien mit Jugendlichen der KMA Antenne, einem von Tesserae koordinierten Ausbildungsprojekt in den Jahren 2018/2019. Dieses EU finanzierte Erasmus+Projekt förderte die Stadterkundung als ein Instrument für das Engagement von Jugendlichen, die von Benachteiligung und somit Ausgrenzung bedroht sind. \nDie Gruppe von Jugendlichen, die Teil der URBEX-Laboratorien waren, nahm zudem mit Teilnehmer:innen aus vier anderen europäischen Städten an einem internationalen Austauschprogramm teil. Dort arbeiteten sie u.a. an der Kartierung und Ausarbeitung einer Tour zur Beschreibung ihrer Nachbarschaft.",
+                "image": "https://i.vimeocdn.com/video/839359588_260x146.jpg",
+                "category": "Geschichten",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "soziale Inklusion",
+                    "mündliche Geschichten",
+                    "Öffentlicher Raum",
+                    "Jugend",
+                    "Musik"
+                ],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/showcase/4256854/video/350616264",
+                        "title": "H-Town Tour",
+                        "description": "",
+                        "type": "video"
+                    },
+                    {
+                        "url": "http://www.tesserae.eu/project/urbex/",
+                        "title": "URBEX",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/kma_e_v_#7"
+                ],
+                "created_date": "2020-03-03T06:16:13.705-08:00",
+                "updated_date": "2020-05-14T06:29:25.832-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/h_town_tour#56"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Florian Schmidt - Baustadtrat Friedrichshain-Kreuzberg",
                 "type": "Personen",
                 "start_date": "2016-11-30T16:00:00.000-08:00",
@@ -2169,7 +2212,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-14T13:25:45.870Z",
+        "published": "2020-05-14T13:36:53.263Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2179,7 +2222,7 @@
                 "type": "translation"
             }
         ],
-        "version": 84,
+        "version": 85,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2331,6 +2374,10 @@
         },
         {
             "from": "ca/kmantenne#59",
+            "to": "ca/kma_e_v_#7"
+        },
+        {
+            "from": "ca/h_town_tour#56",
             "to": "ca/kma_e_v_#7"
         },
         {

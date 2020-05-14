@@ -4,6 +4,43 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Switch On Mehringplatz",
+                "type": "Projekt",
+                "start_date": "2016-08-31T16:00:00.000-07:00",
+                "end_date": "2017-06-29T16:00:00.000-07:00",
+                "description": "\nSwitch On Mehringplatz / Mehringplatz Anknipsen ist ein Bildungsprojekt zur Aufwertung informellen Lernens, das auf Bottom-up-Ansätzen und aktivistischer Praxis beruht. Das Projekt zielte darauf ab, Werkzeuge und Fähigkeiten für Nachbarschaftsinitiativen zu entwickeln. Das Programm wurde koordiniert von Tesserae Urban Social Research und von dem Erasmus+ Projekt EULER unterstützt, das ein Bildungsangebot in vier benachteiligten Nachbarschaften in Europa ermöglicht hat. Das Projekt wurde von September 2016 - Juni 2017 durchgeführt. Im Rahmen dessen hat eine Reihe von weiterbildenden Aktivitäten zur Entwicklung von Methoden für Nachbarschaftsinitiativen stattgefunden: 6 öffentliche Veranstaltungen und 3 Workshop-Module zu kollaborativen Methoden für lokales Empowerment und gemeinschaftsorientierte Ökonomien. Die Seminare fanden im Supermarkt am Mehringplatz statt. Zielgruppe waren aktive Bürger:innen, Social Entrepreuneurs und Facilitators, die daran interessiert waren, einen gemeinsamen Aktionsrahmen im Kontext des Mehringplatzes/ Südliche Friedrichstadt zu entwickeln.\n\nZiele: Ein Instrumentarium und Methoden sollen bereitgestellt werden, um lokale Gemeinschaften zu ermächtigen, unternehmerische Fähigkeiten zu stärken und innovative wirtschaftliche Paradigmen zu fördern.\n\nTechniken: Urban Reconnaissance, Kollaboratives Mapping, Partizipative Videoproduktion, Digital Storytelling, Social Media Publishing.\n\nErgebnis: „Nachbarschaftscurriculum“. Ein innovatives Werkzeug, um lokale soziale Ressourcen aufzuwerten und zu fördern. Damit soll die Aufmerksamkeit weg vom individuellem Curriculum - gefordert von einem kompetitiven Arbeitsmarkt - hin zu einem kollaborativen Mapping von sozialen Beziehungen verschoben werden. Letzteres ist nötig, um gemeinschaftsorientierte Ökonomien und Initiativen entwickeln zu können. \nDer Nachbarschaftsatlas, den Sie gerade sehen, ist der nächste Schritt zur Umsetzung dieser Idee. \n\n\n",
+                "image": "https://i.ibb.co/23W5dH6/mehringplatz-01-mehringplatz-A2-03-768x1086-1-724x1024.jpg",
+                "category": "Initiativen",
+                "sub-category": "Bildung",
+                "tags": [
+                    "soziale Inklusion",
+                    "Medien",
+                    "Ausbildung"
+                ],
+                "category-description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
+                "links": [
+                    {
+                        "url": "http://www.tesserae.eu/project/euler/",
+                        "title": "Switch on Mehringplatz",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/mehringplatz_ankipsen_interviews#63",
+                    "ca/supermarkt#12",
+                    "ca/ela_kagel_supermarkt#13"
+                ],
+                "created_date": "2020-04-09T14:36:06.733-07:00",
+                "updated_date": "2020-05-14T06:17:56.935-07:00",
+                "weight": 0,
+                "image_credit": "graphic project: Manuela Conti"
+            },
+            "id": "ca/switch_on_mehringplatz#68"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Whenever the Heart Skips a Beat",
                 "type": "Veranstaltung",
                 "start_date": "2017-08-31T16:00:00.000-07:00",
@@ -362,6 +399,46 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Candy Hartmann - Quartiersmanagement ",
+                "type": "Interview",
+                "start_date": "2017-08-13T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Candy Hartmann arbeitet seit vielen Jahren für das Quartiersmanagement am Mehringplatz, wo sie u.a. für die Konzeptentwicklung und die Begleitung von Projektfonds zuständig ist.\n\nIm Rahmen des EULER Erasmus+ Projektes wurde 2017 ein Videointerview mit Candy Hartmann geführt (s.o.). Für das Projekt wurden lokale soziale, wirtschaftliche und institutionelle Akteur:innen interviewt, um die vorhandenen Ressourcen und Potenziale der Südlichen Friedrichstadt zu eruieren.",
+                "image": "https://i.vimeocdn.com/video/669555605_260x146.jpg",
+                "category": "Akteur:innen",
+                "sub-category": "Stakeholder interviews",
+                "tags": [
+                    "Quartiersmanagement",
+                    "Stadterneuerung",
+                    "soziale Inklusion"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [
+                    {
+                        "url": "://vimeo.com/230981438",
+                        "title": "Interview mit Candy Hartmann 2017",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/quartiersmanagement_am_mehringplatz_#14",
+                    "",
+                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+                    "ca/kunstwelt_e_v_#48",
+                    "ca/mehringplatz_anknipsen_interviews#64"
+                ],
+                "created_date": "2019-11-01T11:26:35.150-07:00",
+                "updated_date": "2020-05-14T05:58:04.791-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/candy_hartmann_quartiersmanagement_#32"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
                 "type": "Organisation",
                 "start_date": "",
@@ -389,40 +466,6 @@
                 "image_credit": ""
             },
             "id": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Projektgruppe am Ex-Blumenmarkt (PxB)",
-                "type": "Projekt",
-                "start_date": "2012-11-30T16:00:00.000-08:00",
-                "end_date": "2019-09-26T03:00:00.000-07:00",
-                "description": "Die Projektgruppe am Ex-Blumengroßmarkt (PxB) ist aus Berlins erstem konzeptbasierten Immobilienvergabeprozess hervorgegangen. Die Projektgruppe ist ein Zusammenschluss aus Architekt:innen und Planer:innen, die an der Entwicklung der Baustellen II, IV und V auf dem ehemaligen Blumengroßmarkt mitwirken. \n\r\nZiel der Projektgruppe ist es, mit der Nachbarschaft, dem Senat und dem Bezirk Friedrichshain-Kreuzberg im Dialog zu den jeweiligen Bauprojekten zu sein und so gemeinschaftlich über die künftige Nutzung zu entscheiden und diese modellhaft umzusetzen. Die Preisentscheidung war im Dezember 2012. Mittlerweile ist die bauliche Entwicklung des Ex-Blumengroßmarktes größtenteils abgeschlossen.",
-                "image": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg",
-                "category": "Veränderungen",
-                "sub-category": "Privater Raum",
-                "tags": [],
-                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
-                "links": [
-                    {
-                        "url": "https://www.metropolenhaus.de/ex-blumengrossmarkt-pxb/",
-                        "title": "Projektgruppe am Ex-Blumengroßmarkt",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/bauh_tte#16",
-                    "ca/taz_neubau#10",
-                    "ca/metropolenhaus_am_judisches_museum#19",
-                    "ca/ehemalige_blumengro_markthalle_#65"
-                ],
-                "created_date": "2019-09-26T03:29:19.999-07:00",
-                "updated_date": "2020-05-07T08:39:37.765-07:00",
-                "weight": -4,
-                "image_credit": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg"
-            },
-            "id": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
         },
         {
             "type": "Feature",
@@ -1754,6 +1797,99 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Projektgruppe am Ex-Blumenmarkt (PxB)",
+                "type": "Projekt",
+                "start_date": "2012-11-30T16:00:00.000-08:00",
+                "end_date": "2019-09-26T03:00:00.000-07:00",
+                "description": "Die Projektgruppe am Ex-Blumengroßmarkt (PxB) ist aus Berlins erstem konzeptbasierten Immobilienvergabeprozess hervorgegangen. Die Projektgruppe ist ein Zusammenschluss aus Architekt:innen und Planer:innen, die an der Entwicklung der Baustellen II, IV und V auf dem ehemaligen Blumengroßmarkt mitwirken. \n\r\nZiel der Projektgruppe ist es, mit der Nachbarschaft, dem Senat und dem Bezirk Friedrichshain-Kreuzberg im Dialog zu den jeweiligen Bauprojekten zu sein und so gemeinschaftlich über die künftige Nutzung zu entscheiden und diese modellhaft umzusetzen. Die Preisentscheidung war im Dezember 2012. Mittlerweile ist die bauliche Entwicklung des Ex-Blumengroßmarktes größtenteils abgeschlossen.",
+                "image": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Privater Raum",
+                "tags": [],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "https://www.metropolenhaus.de/ex-blumengrossmarkt-pxb/",
+                        "title": "Projektgruppe am Ex-Blumengroßmarkt",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/bauh_tte#16",
+                    "ca/taz_neubau#10",
+                    "ca/metropolenhaus_am_judisches_museum#19",
+                    "ca/ehemalige_blumengro_markthalle_#65"
+                ],
+                "created_date": "2019-09-26T03:29:19.999-07:00",
+                "updated_date": "2020-05-07T08:39:37.765-07:00",
+                "weight": -4,
+                "image_credit": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.394369,
+                            52.502299
+                        ],
+                        [
+                            13.394219,
+                            52.502345
+                        ],
+                        [
+                            13.392,
+                            52.502175
+                        ],
+                        [
+                            13.391914,
+                            52.502717
+                        ],
+                        [
+                            13.391271,
+                            52.502684
+                        ],
+                        [
+                            13.391163,
+                            52.503383
+                        ],
+                        [
+                            13.39304,
+                            52.503533
+                        ],
+                        [
+                            13.392986,
+                            52.503866
+                        ],
+                        [
+                            13.393801,
+                            52.503912
+                        ],
+                        [
+                            13.394948,
+                            52.503057
+                        ],
+                        [
+                            13.394637,
+                            52.502789
+                        ],
+                        [
+                            13.394455,
+                            52.502547
+                        ],
+                        [
+                            13.394369,
+                            52.502299
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Quartiersmanagement am Mehringplatz  ",
                 "type": "Programm",
                 "start_date": "2005-09-26T00:00:00.000-07:00",
@@ -2033,7 +2169,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-13T16:03:05.878Z",
+        "published": "2020-05-14T13:25:09.899Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2043,7 +2179,7 @@
                 "type": "translation"
             }
         ],
-        "version": 82,
+        "version": 84,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2152,6 +2288,18 @@
         {
             "from": "ca/dragonerareal_modellprojekt_rathausblock#71",
             "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "from": "ca/switch_on_mehringplatz#68",
+            "to": "ca/mehringplatz_ankipsen_interviews#63"
+        },
+        {
+            "from": "ca/switch_on_mehringplatz#68",
+            "to": "ca/supermarkt#12"
+        },
+        {
+            "from": "ca/switch_on_mehringplatz#68",
+            "to": "ca/ela_kagel_supermarkt#13"
         },
         {
             "from": "ca/ehemalige_blumengro_markthalle_#65",
@@ -2288,6 +2436,30 @@
         {
             "from": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
             "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
+        },
+        {
+            "from": "ca/candy_hartmann_quartiersmanagement_#32",
+            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
+            "from": "ca/candy_hartmann_quartiersmanagement_#32",
+            "to": ""
+        },
+        {
+            "from": "ca/candy_hartmann_quartiersmanagement_#32",
+            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+        },
+        {
+            "from": "ca/candy_hartmann_quartiersmanagement_#32",
+            "to": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
+        },
+        {
+            "from": "ca/candy_hartmann_quartiersmanagement_#32",
+            "to": "ca/kunstwelt_e_v_#48"
+        },
+        {
+            "from": "ca/candy_hartmann_quartiersmanagement_#32",
+            "to": "ca/mehringplatz_anknipsen_interviews#64"
         },
         {
             "from": "ca/karin_l_cker_caf_madame_#31",

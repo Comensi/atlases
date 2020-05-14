@@ -27,12 +27,12 @@
                     }
                 ],
                 "relationships": [
-                    "ca/mehringplatz_ankipsen_interviews#63",
                     "ca/supermarkt#12",
-                    "ca/ela_kagel_supermarkt#13"
+                    "ca/ela_kagel_supermarkt#13",
+                    "ca/mehringplatz_anknipsen_interviews#64"
                 ],
                 "created_date": "2020-04-09T14:36:06.733-07:00",
-                "updated_date": "2020-05-14T06:17:56.935-07:00",
+                "updated_date": "2020-05-14T07:00:23.506-07:00",
                 "weight": 0,
                 "image_credit": "graphic project: Manuela Conti"
             },
@@ -106,9 +106,15 @@
                         "type": "website"
                     }
                 ],
-                "relationships": [],
+                "relationships": [
+                    "ca/switch_on_mehringplatz#68",
+                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+                    "ca/karin_l_cker_caf_madame_#31",
+                    "ca/ela_kagel_supermarkt#13",
+                    "ca/candy_hartmann_quartiersmanagement_#32"
+                ],
                 "created_date": "2020-03-27T13:57:16.075-07:00",
-                "updated_date": "2020-04-09T14:50:40.823-07:00",
+                "updated_date": "2020-05-14T06:59:04.348-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -2212,7 +2218,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-14T13:36:53.263Z",
+        "published": "2020-05-14T14:03:12.351Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2222,7 +2228,7 @@
                 "type": "translation"
             }
         ],
-        "version": 85,
+        "version": 86,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2334,15 +2340,15 @@
         },
         {
             "from": "ca/switch_on_mehringplatz#68",
-            "to": "ca/mehringplatz_ankipsen_interviews#63"
-        },
-        {
-            "from": "ca/switch_on_mehringplatz#68",
             "to": "ca/supermarkt#12"
         },
         {
             "from": "ca/switch_on_mehringplatz#68",
             "to": "ca/ela_kagel_supermarkt#13"
+        },
+        {
+            "from": "ca/switch_on_mehringplatz#68",
+            "to": "ca/mehringplatz_anknipsen_interviews#64"
         },
         {
             "from": "ca/ehemalige_blumengro_markthalle_#65",
@@ -2359,6 +2365,26 @@
         {
             "from": "ca/ehemalige_blumengro_markthalle_#65",
             "to": "ca/metropolenhaus_am_judisches_museum#19"
+        },
+        {
+            "from": "ca/mehringplatz_anknipsen_interviews#64",
+            "to": "ca/switch_on_mehringplatz#68"
+        },
+        {
+            "from": "ca/mehringplatz_anknipsen_interviews#64",
+            "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
+        },
+        {
+            "from": "ca/mehringplatz_anknipsen_interviews#64",
+            "to": "ca/karin_l_cker_caf_madame_#31"
+        },
+        {
+            "from": "ca/mehringplatz_anknipsen_interviews#64",
+            "to": "ca/ela_kagel_supermarkt#13"
+        },
+        {
+            "from": "ca/mehringplatz_anknipsen_interviews#64",
+            "to": "ca/candy_hartmann_quartiersmanagement_#32"
         },
         {
             "from": "ca/mehringplatz_im_umbau_#62",

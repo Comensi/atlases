@@ -12,7 +12,9 @@
                 "image": "https://i.postimg.cc/3JnVTjf9/Schermata-2020-05-13-alle-11-49-36.png",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
-                "tags": [],
+                "tags": [
+                    "spazio pubblico"
+                ],
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere in cui sviluppare iniziative e azioni partecipative.",
                 "links": [
                     {
@@ -24,7 +26,7 @@
                 ],
                 "relationships": null,
                 "created_date": "2020-05-12T02:25:50.935-07:00",
-                "updated_date": "2020-05-13T03:09:36.544-07:00",
+                "updated_date": "2020-05-13T06:54:01.757-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -821,7 +823,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-13T13:54:28.474Z",
+        "published": "2020-05-14T13:09:41.476Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -859,7 +861,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 168,
+        "version": 169,
         "taxonomy": [
             {
                 "category": "Rete Capo",

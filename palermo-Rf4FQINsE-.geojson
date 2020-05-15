@@ -334,7 +334,14 @@
                     "workspace"
                 ],
                 "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/Kjknpfhz/capo-sarto-dettaglio.jpg",
+                        "title": "strumenti da sarto",
+                        "description": "",
+                        "type": "image"
+                    }
+                ],
                 "relationships": [
                     "ca/piazzetta_alla_guilla#81"
                 ],
@@ -826,7 +833,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-15T10:36:37.472Z",
+        "published": "2020-05-15T10:41:31.579Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -864,7 +871,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 178,
+        "version": 179,
         "taxonomy": [
             {
                 "category": "Rete Capo",

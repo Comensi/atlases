@@ -329,7 +329,7 @@
                 "description": "Il sarto Andrea Vaiuso é una figura e memoria storica degli artigiani del quartiere. Il sabato pomeriggio é possibile andare ad ascoltare nella sua bottega diversi musicisti che si esibiscono in una jam session popolare. Tutti sono benvenuti. Il Sarto Andrea ha anche collaborato nel diffondere con i suoi clienti e conoscenti del quartiere gli eventi di Spazi di quartiere (nella vicina piazzetta alla Guilla ad esempio) ed i Laboratori.",
                 "image": "https://i.postimg.cc/63s43n6f/DSC03663.jpg",
                 "category": "Storie del quartiere",
-                "sub-category": "",
+                "sub-category": "personaggi",
                 "tags": [
                     "workspace"
                 ],
@@ -339,7 +339,7 @@
                     "ca/piazzetta_alla_guilla#81"
                 ],
                 "created_date": "2020-04-15T03:18:20.078-07:00",
-                "updated_date": "2020-05-13T06:51:30.801-07:00",
+                "updated_date": "2020-05-15T03:24:53.513-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -362,7 +362,7 @@
                 "description": "Il Fabbro e Artista Gianni Conigliaro é nato e lavora nel quartiere con splendide insegne grafiche e luminarie artigianali create anche per le feste patronali. Da anni attivissimo del quartiere, ha fornito idee da sviluppare insieme agli altri abitanti nel corso dei laboratori di quartiere Comensi. Un esempio il cartello informativo \"Benvenuti al capo\".",
                 "image": "https://i.postimg.cc/y8h91q4t/IMG-20200212-110903.jpg",
                 "category": "Storie del quartiere",
-                "sub-category": "",
+                "sub-category": "personaggi",
                 "tags": [
                     "workspace"
                 ],
@@ -386,7 +386,7 @@
                     "ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-02-14T08:48:29.637-08:00",
-                "updated_date": "2020-05-13T06:51:36.149-07:00",
+                "updated_date": "2020-05-15T03:24:47.477-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -826,7 +826,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-15T10:16:17.588Z",
+        "published": "2020-05-15T10:27:29.438Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -864,7 +864,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 174,
+        "version": 175,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -899,7 +899,8 @@
                 "sub-categories": [
                     "storie",
                     "interviste ",
-                    "memorie"
+                    "memorie",
+                    "personaggi"
                 ],
                 "weight": 0,
                 "id": 3

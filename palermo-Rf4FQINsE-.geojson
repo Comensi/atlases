@@ -521,7 +521,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "Vicolo degli Orfani è un vicolo che collega Piazza Beati Paoli e Via Sant'Agostino. Nel vicolo si trova la sede operativa di Bond of Union. Nel vicolo la presenza di una comunità locale coesa e solidale ha fatto emergere nel corso della discussione partecipata Spazi di quartiere (novembre 2019) diversi elementi positivi come la voglia di creare momenti di socialità per adulti e bambini ed il potenziale utilizzo della piazzetta che si trova nella strada per differenti usi condivisi tra i residenti. Anticamete il vicolo era sede di attivita gastronomiche uniche come la realizzazione della pupaccina. Inoltre nella strada si trova uno degli accessi alle grotte dei Beati paoli.",
+                "description": "Vicolo degli Orfani è un vicolo che collega Piazza Beati Paoli e Via Sant'Agostino. Nel vicolo si trova la sede operativa di Bond of Union. Nel vicolo la presenza di una comunità locale coesa e solidale ha fatto emergere nel corso della discussione partecipata Spazi di quartiere (novembre 2019) diversi elementi positivi come la voglia di creare momenti di socialità per adulti e bambini ed il potenziale utilizzo della piazzetta che si trova nella strada per differenti usi condivisi tra i residenti. Anticamete il vicolo era sede di attivita gastronomiche uniche come la realizzazione della pupaccina e di martorana. Inoltre nella strada si trova uno degli accessi alle grotte dei Beati paoli.",
                 "image": "https://i.postimg.cc/BQKwD3b0/IMG-1402.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
@@ -548,7 +548,7 @@
                     "ca/bond_of_union#85"
                 ],
                 "created_date": "2019-12-12T03:28:00.260-08:00",
-                "updated_date": "2020-05-13T06:50:04.031-07:00",
+                "updated_date": "2020-05-15T03:01:48.257-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -826,7 +826,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-14T13:16:07.758Z",
+        "published": "2020-05-15T10:03:00.021Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -864,7 +864,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 172,
+        "version": 174,
         "taxonomy": [
             {
                 "category": "Rete Capo",

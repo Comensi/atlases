@@ -91,7 +91,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Un creatore diede vita alla Pupa del Capo per donarla a Salvatore e Vincenza Morello per le loro nozze, presumibilmente tra il 1902 e il 1908. Il mosaico, che rappresenta Demetra, dea delle messi, fu un regalo apprezzato dal proprietario del panificio, il quale fece dell’opera d’arte l’insegna della sua bottega. È così che la Pupa del Capo, come negli anni Palermo l’ha denominata, osserva i passanti da almeno cento anni e li invita ad entrare. Qualche anno fa è iniziato il restauro dell’opera. Alcune associazioni locali hanno messo in salvo l’opera da eventuali crolli di Palazzo Serenario, edificio barocco anch’esso in fase di restauro. Esso si trova attualmente a Palazzo Ajutamicristo, in attesa di tornare nella sua sede originaria, lungo la via Cappuccinelle.",
-                "image": "https://i.postimg.cc/pL8KQhXf/DSC01656.jpg",
+                "image": "https://i.postimg.cc/pXMhtRDk/DSC01656.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "memorie",
                 "tags": [
@@ -109,7 +109,7 @@
                 ],
                 "relationships": null,
                 "created_date": "2020-05-12T01:40:26.868-07:00",
-                "updated_date": "2020-05-13T06:53:36.653-07:00",
+                "updated_date": "2020-05-15T03:34:20.948-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -446,7 +446,7 @@
                 "type": "Azione partecipativa",
                 "start_date": "",
                 "end_date": "",
-                "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee Laboratori di quartiere tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti (come il fabbro Gianni Conigliaro) interessati a migliorare la segnaletica turistica, la visibilita' e la vivibilita' del mercato del Capo. L'idea é di rivolgersi sia a turisti, che a cittadini palermitani interessati a scoprire il quartiere.",
+                "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee Laboratori di quartiere tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti (come il fabbro Gianni Conigliaro) interessati a migliorare la segnaletica turistica, la visibilità e la vivibilità del mercato del Capo. L'idea è di rivolgersi sia a turisti, che a cittadini palermitani interessati a scoprire il quartiere.",
                 "image": "https://i.postimg.cc/Kz65WgGX/benvenuti-capo-01.png",
                 "category": "Idee e Proposte",
                 "sub-category": "",
@@ -460,7 +460,7 @@
                     "ca/la_bottega_del_fabbro#79"
                 ],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
-                "updated_date": "2020-05-13T06:50:27.253-07:00",
+                "updated_date": "2020-05-15T03:28:31.059-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -826,7 +826,7 @@
         "id": "palermo",
         "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-15T10:27:29.438Z",
+        "published": "2020-05-15T10:36:37.472Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -864,7 +864,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 175,
+        "version": 178,
         "taxonomy": [
             {
                 "category": "Rete Capo",

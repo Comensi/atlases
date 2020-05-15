@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Laboratório \"Ideias para a década\"_Mercado da Ajuda",
-                "type": "Event",
+                "type": "Evento",
                 "start_date": "2020-03-09T17:00:00.000-07:00",
                 "end_date": "2020-03-09T17:00:00.000-07:00",
                 "description": "No dia 10 de Março seria o nosso último Laboratório das \"Ideias para a década\" de uma série de quatro! Contudo, surgiu a necessidade da população se resguardar e proteger do COVID19, um novo vírus que invadiu as nossas vidas e nos obrigou a reprogramar o nosso modo de estar. Encontramo-nos desde esse dia a reformular as nossas atividades e a sistematizar todas as ideias recebidas nos Labs anteriores. \nAté 17 de Abril recebemos mais sugestões via e-mail omeubairro.ajuda@gmail.com - #Ajuda #COMENSI #Ideiasparaadecada #incubadorapopular #Erasmus+#fiqueemcasa ",
@@ -28,7 +28,7 @@
                         "type": "website"
                     }
                 ],
-                "relationships": [],
+                "relationships": null,
                 "created_date": "2020-03-26T09:40:34.448-07:00",
                 "updated_date": "2020-03-26T09:54:35.725-07:00",
                 "weight": 0,
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Laboratório \"Ideias para a década\"_SC Rio Seco",
-                "type": "Event",
+                "type": "Evento",
                 "start_date": "2020-02-26T16:00:00.000-08:00",
                 "end_date": "2020-02-26T16:00:00.000-08:00",
                 "description": "O segundo Laboratório de \"Ideias para a década\" teve lugar no Rio Seco: fomos ao encontro de quem vive, trabalha ou estuda - e tem boas ideias para melhorar o nosso bairro! Este Lab de iniciativas cívicas ou de economia local foi animado por boas ideias para acompanhar durante 2020. Até 17 de Abril recebemos mais sugestões via e-mail omeubairro.ajuda@gmail.com - #Ajuda #COMENSI #Ideiasparaadecada #incubadorapopular #Erasmus+",
@@ -63,7 +63,7 @@
                 ],
                 "category-description": "",
                 "links": [],
-                "relationships": [],
+                "relationships": null,
                 "created_date": "2020-03-26T09:30:35.383-07:00",
                 "updated_date": "2020-03-26T09:35:27.269-07:00",
                 "weight": 0,
@@ -82,7 +82,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Laboratório \"Ideias para a década\"_Bº 2 Maio",
-                "type": "Event",
+                "type": "Evento",
                 "start_date": "2020-03-04T16:00:00.000-08:00",
                 "end_date": "2020-03-04T16:00:00.000-08:00",
                 "description": "Quem nunca foi ao 2 de Maio? Tem a melhor vista de Lisboa e uma gente franca que gosta do seu bairro. Este foi o nosso terceiro Laboratório de \"Ideias para a década\" na Casa para Todos onde juntamente com a Associação dos Amigos do B2M trabalhamos com a comunidade na partilha de ideias e desejos para melhorar a freguesia da Ajuda.\nEste Lab de iniciativas cívicas ou de economia local foi animado por boas ideias para acompanhar ao longo de 2020. Até 17 de Abril recebemos mais sugestões via e-mail omeubairro.ajuda@gmail.com - #Ajuda #COMENSI #Ideiasparaadecada #incubadorapopular #Erasmus+",
@@ -106,7 +106,10 @@
                     }
                 ],
                 "relationships": [
-                    "ca/freguesia_da_ajuda#71,ca/envolver_uma_comunidade#72,ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73,ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76"
+                    "ca/freguesia_da_ajuda#71",
+                    "ca/envolver_uma_comunidade#72",
+                    "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73",
+                    "ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76"
                 ],
                 "created_date": "2020-03-26T08:56:58.789-07:00",
                 "updated_date": "2020-03-26T09:13:48.251-07:00",
@@ -126,7 +129,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Laboratório \"Ideias para a década\"_Casalinho da Ajuda",
-                "type": "Event",
+                "type": "Evento",
                 "start_date": "2020-02-19T16:00:00.000-08:00",
                 "end_date": "2020-02-19T16:00:00.000-08:00",
                 "description": "Este foi o primeiro laboratório de Ideias para a Década: no bairro do Casalinho da Ajuda, estivemos no espaço da Fundação LIGA com um grupo de moradores da Ajuda a partilhar as ideias, anseios e desejos para melhorar a freguesia da Ajuda.\nEste primeiro Lab de iniciativas cívicas ou de economia local foi animado por boas ideias para acompanhar durante 2020. Até 17 de Abril recebemos mais sugestões via e-mail omeubairro.ajuda@gmail.com - #Ajuda #COMENSI #Ideiasparaadecada #incubadorapopular #Erasmus+  ",
@@ -150,7 +153,9 @@
                     }
                 ],
                 "relationships": [
-                    "ca/envolver_uma_comunidade#72,ca/freguesia_da_ajuda#71,ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73"
+                    "ca/envolver_uma_comunidade#72",
+                    "ca/freguesia_da_ajuda#71",
+                    "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73"
                 ],
                 "created_date": "2020-03-26T07:36:53.751-07:00",
                 "updated_date": "2020-03-27T04:11:59.545-07:00",
@@ -170,7 +175,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Envolver uma comunidade",
-                "type": "Event",
+                "type": "Evento",
                 "start_date": "2019-10-28T17:00:00.000-07:00",
                 "end_date": "2019-10-28T17:00:00.000-07:00",
                 "description": "Este foi o 1º Laboratório de trabalho com a comunidade e parceiros envolvidos no território da Ajuda. Usando o mote do lançamento do \"Toolkit: Community Engagement for social Inclusion\", reuniram-se as pessoas com o intuito de criar, manter, fortalecer laços entre as organizações que\r atuam na/para a comunidade e a própria comunidade residente. Através da promoção deste momento informal, em que as pessoas circularam enquanto petiscaram, partilharam-se\r histórias de vida e recolheram-se intenções e ideias para a freguesia.\n",
@@ -202,7 +207,7 @@
                         "type": "website"
                     }
                 ],
-                "relationships": [],
+                "relationships": null,
                 "created_date": "2020-01-17T08:09:14.107-08:00",
                 "updated_date": "2020-01-17T08:40:24.589-08:00",
                 "weight": 0,
@@ -221,19 +226,19 @@
             "type": "Feature",
             "properties": {
                 "title": "Freguesia da Ajuda",
-                "type": "Place",
+                "type": "Lugar",
                 "start_date": "",
                 "end_date": "",
                 "description": "Limites administrativos que compõem a freguesia da ajuda.",
                 "image": "",
-                "category": "Delimitations",
+                "category": "Fronteiras",
                 "sub-category": "Administrative borders",
                 "tags": [
                     "Public space"
                 ],
-                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "category-description": "definir os limites geográficos da área de interesse\r\n- identificar zonas definidas pela administração local ou política",
                 "links": [],
-                "relationships": [],
+                "relationships": null,
                 "created_date": "2020-01-17T07:11:12.443-08:00",
                 "updated_date": "2020-01-17T07:19:09.449-08:00",
                 "weight": 0,
@@ -431,7 +436,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-04-09T14:31:38.452Z",
+        "published": "2020-05-15T15:13:04.621Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -510,8 +515,8 @@
                 "id": 4
             },
             {
-                "category": "Transformations",
-                "description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "category": "Transformações",
+                "description": "Descobrir e dar destaque a processos, projetos, conflitos ou iniciativas a decorrer - transformações a decorrer na área ",
                 "sub-categories": [
                     "Private spaces",
                     "Public space",
@@ -536,8 +541,8 @@
                 "id": 2
             },
             {
-                "category": "Delimitations",
-                "description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
+                "category": "Fronteiras",
+                "description": "definir os limites geográficos da área de interesse\r\n- identificar zonas definidas pela administração local ou política",
                 "sub-categories": [
                     "Area of interest",
                     "Administrative borders",
@@ -552,11 +557,31 @@
     "relationships": [
         {
             "from": "ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76",
-            "to": "ca/freguesia_da_ajuda#71,ca/envolver_uma_comunidade#72,ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73,ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76"
+            "to": "ca/freguesia_da_ajuda#71"
+        },
+        {
+            "from": "ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76",
+            "to": "ca/envolver_uma_comunidade#72"
+        },
+        {
+            "from": "ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76",
+            "to": "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73"
+        },
+        {
+            "from": "ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76",
+            "to": "ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76"
         },
         {
             "from": "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73",
-            "to": "ca/envolver_uma_comunidade#72,ca/freguesia_da_ajuda#71,ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73"
+            "to": "ca/envolver_uma_comunidade#72"
+        },
+        {
+            "from": "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73",
+            "to": "ca/freguesia_da_ajuda#71"
+        },
+        {
+            "from": "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73",
+            "to": "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73"
         }
     ]
 }

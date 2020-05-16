@@ -252,7 +252,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "La Piazza Beati Paoli ed il suo storico Chiosco, gestito da Fabio sono un luogo simbolico del quartiere. La piazza é stata recentemente ristrutturata valorizzando la sua valenza di luogo di incontro e discussione. Lo spazio é stato utilizzato da Bond of Union come \"laboratorio di quartiere a cielo aperto\". L'ambiente informale della piazza e del chiosco ha infatti permesso di confrontarsi con cittadini, come Gianni, e raccogliere le loro idee per il quartiere.",
+                "description": "La Piazza Beati Paoli ed il suo storico chiosco, gestito da Fabio sono un luogo simbolico del quartiere. La piazza è stata recentemente ristrutturata valorizzando la sua valenza di luogo di incontro e discussione. Lo spazio è stato utilizzato da Bond of Union come \"laboratorio di quartiere a cielo aperto\". L'ambiente informale della piazza e del chiosco ha infatti permesso di confrontarsi con i residenti, come Gianni, e raccogliere le loro idee per il quartiere.",
                 "image": "https://i.postimg.cc/JnhmfK1N/IMG-20200511-120619.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
@@ -262,10 +262,11 @@
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
                 "links": [],
                 "relationships": [
-                    "ca/laboratori_di_quartiere#76"
+                    "ca/laboratori_di_quartiere#76",
+                    "ca/cartello_informativo_capo#77"
                 ],
                 "created_date": "2020-05-11T07:41:27.641-07:00",
-                "updated_date": "2020-05-13T06:52:04.328-07:00",
+                "updated_date": "2020-05-16T02:27:37.714-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -285,7 +286,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "La piazzetta alla Guilla é uno dei pochi spazi verdi presenti nel quartiere ed é aperta a differenti usi da parte dei residenti. Importante snodo, via di passaggio tra il mercato del Capo e la cattedrale presenta la possibilita' di avviare una programmazione di attività ricreative che potrebbere coinvolgere residenti, parrocchie, scuole e associazioni locali come il vicino Teatro alla Guilla. Nella discussione Spazi di quartiere di novembre 2019 é émerso come possa essere interessanete coinvolgere le scuole del quartiere in attività extra-scolastiche di aggregazione per i ragazzi nella piazzetta, la necessita' di sistemarne i muretti e di installare nuove panchine e contenitori.\n",
+                "description": "La piazzetta alla Guilla è uno dei pochi spazi verdi presenti nel quartiere ed è aperta a differenti usi da parte dei residenti. Importante snodo, via di passaggio tra il mercato del Capo e la cattedrale presenta la possibilità di avviare una programmazione di attività ricreative che potrebbere coinvolgere residenti, parrocchie, scuole e associazioni locali come il vicino Teatro alla Guilla. Nella discussione Spazi di quartiere di novembre 2019 è emerso come possa essere interessante coinvolgere le scuole del quartiere in attività extra-scolastiche di aggregazione per i ragazzi nella piazzetta, oltre alla necessità di sistemarne i muretti e di installare nuove panchine e contenitori per i rifiuti.\n",
                 "image": "https://i.postimg.cc/VkXtP0Kb/guilla2.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi verdi",
@@ -306,7 +307,7 @@
                     "ca/teatro_alla_guilla#84"
                 ],
                 "created_date": "2020-05-08T07:53:34.707-07:00",
-                "updated_date": "2020-05-13T06:51:44.615-07:00",
+                "updated_date": "2020-05-16T02:26:13.325-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -326,7 +327,7 @@
                 "type": "Persona",
                 "start_date": "",
                 "end_date": "",
-                "description": "Il sarto Andrea Vaiuso é una figura e memoria storica degli artigiani del quartiere. Il sabato pomeriggio é possibile andare ad ascoltare nella sua bottega diversi musicisti che si esibiscono in una jam session popolare. Tutti sono benvenuti. Il Sarto Andrea ha anche collaborato nel diffondere con i suoi clienti e conoscenti del quartiere gli eventi di Spazi di quartiere (nella vicina piazzetta alla Guilla ad esempio) ed i Laboratori.",
+                "description": "Il sarto Andrea Vaiuso é una figura e memoria storica degli artigiani del quartiere. Il sabato pomeriggio è possibile andare ad ascoltare nella sua bottega diversi musicisti che si esibiscono in una jam session popolare. Tutti sono benvenuti. Il Sarto Andrea ha anche collaborato nel diffondere con i suoi clienti e conoscenti del quartiere gli eventi di Spazi di quartiere (nella vicina piazzetta alla Guilla ad esempio) ed i Laboratori. ",
                 "image": "https://i.postimg.cc/63s43n6f/DSC03663.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "personaggi",
@@ -346,7 +347,7 @@
                     "ca/piazzetta_alla_guilla#81"
                 ],
                 "created_date": "2020-04-15T03:18:20.078-07:00",
-                "updated_date": "2020-05-15T03:24:53.513-07:00",
+                "updated_date": "2020-05-16T02:24:01.639-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -366,7 +367,7 @@
                 "type": "Persona",
                 "start_date": "",
                 "end_date": "",
-                "description": "Il Fabbro e Artista Gianni Conigliaro é nato e lavora nel quartiere con splendide insegne grafiche e luminarie artigianali create anche per le feste patronali. Da anni attivissimo del quartiere, ha fornito idee da sviluppare insieme agli altri abitanti nel corso dei laboratori di quartiere Comensi. Un esempio il cartello informativo \"Benvenuti al capo\".",
+                "description": "Il Fabbro e Artista Gianni Conigliaro è nato e lavora nel quartiere con splendide insegne grafiche e luminarie artigianali create anche per le feste patronali. Da anni attivissimo del quartiere, ha fornito idee da sviluppare insieme agli altri abitanti nel corso dei laboratori di quartiere. Un esempio il cartello informativo \"Benvenuti al capo\".",
                 "image": "https://i.postimg.cc/y8h91q4t/IMG-20200212-110903.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "personaggi",
@@ -393,7 +394,7 @@
                     "ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-02-14T08:48:29.637-08:00",
-                "updated_date": "2020-05-15T03:24:47.477-07:00",
+                "updated_date": "2020-05-16T02:23:09.593-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -413,7 +414,7 @@
                 "type": "Azione partecipativa",
                 "start_date": "",
                 "end_date": "",
-                "description": "L'idea del cinema all'aperto é una delle proposte emerse nelle discussioni \"Laboratori di quartiere\" con i cittadini ed i ristoratori di Piazzetta Saponeria (febbraio 2019) per Cortile Ecce Homo. Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato esistevano due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati.",
+                "description": "L'idea del cinema all'aperto è una delle proposte emerse nelle discussioni \"Laboratori di quartiere\" con i cittadini ed i ristoratori di Piazzetta Saponeria (febbraio 2019) per Cortile Ecce Homo. Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato esistevano due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati.",
                 "image": "https://i.postimg.cc/fyfPMSMx/IMG-20200511-WA0008.jpg",
                 "category": "Idee e Proposte",
                 "sub-category": "",
@@ -430,10 +431,11 @@
                     }
                 ],
                 "relationships": [
-                    "ca/laboratori_di_quartiere#76"
+                    "ca/laboratori_di_quartiere#76",
+                    "ca/cortile_ecce_homo#88"
                 ],
                 "created_date": "2020-02-14T08:29:46.329-08:00",
-                "updated_date": "2020-05-13T04:25:01.544-07:00",
+                "updated_date": "2020-05-16T02:20:41.392-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -453,7 +455,7 @@
                 "type": "Azione partecipativa",
                 "start_date": "",
                 "end_date": "",
-                "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee Laboratori di quartiere tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti (come il fabbro Gianni Conigliaro) interessati a migliorare la segnaletica turistica, la visibilità e la vivibilità del mercato del Capo. L'idea è di rivolgersi sia a turisti, che a cittadini palermitani interessati a scoprire il quartiere.",
+                "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee Laboratori di quartiere tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti (come il fabbro Gianni Conigliaro) interessati a migliorare la segnaletica turistica, la visibilità e la vivibilità del mercato del Capo. L'idea è di rivolgersi sia a turisti, che a cittadini palermitani interessati a scoprire il quartiere e di ricreare un legame tra Piazza Beati Paoli ed il mercato del Capo.",
                 "image": "https://i.postimg.cc/Kz65WgGX/benvenuti-capo-01.png",
                 "category": "Idee e Proposte",
                 "sub-category": "",
@@ -467,7 +469,7 @@
                     "ca/la_bottega_del_fabbro#79"
                 ],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
-                "updated_date": "2020-05-15T03:28:31.059-07:00",
+                "updated_date": "2020-05-16T02:19:22.028-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -528,7 +530,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "Vicolo degli Orfani è un vicolo che collega Piazza Beati Paoli e Via Sant'Agostino. Nel vicolo si trova la sede operativa di Bond of Union. Nel vicolo la presenza di una comunità locale coesa e solidale ha fatto emergere nel corso della discussione partecipata Spazi di quartiere (novembre 2019) diversi elementi positivi come la voglia di creare momenti di socialità per adulti e bambini ed il potenziale utilizzo della piazzetta che si trova nella strada per differenti usi condivisi tra i residenti. Anticamete il vicolo era sede di attivita gastronomiche uniche come la realizzazione della pupaccina e di martorana. Inoltre nella strada si trova uno degli accessi alle grotte dei Beati paoli.",
+                "description": "Vicolo degli Orfani è un vicolo che collega Piazza Beati Paoli e Via Sant'Agostino. Nel vicolo si trova dal 2016 la sede operativa di Bond of Union. La presenza di una comunità locale coesa e solidale ha fatto emergere nel corso della discussione partecipata Spazi di quartiere (novembre 2019) diversi elementi positivi come la voglia di creare momenti di socialità per adulti e bambini ed il potenziale utilizzo della piazzetta e dei cortili che si trovano nel vicolo per differenti usi condivisi tra i residenti. Anticamete il vicolo era sede di attivita gastronomiche uniche come la realizzazione della pupaccina e di martorana. Inoltre nel vicolo degli Orfani si trova uno degli accessi alle grotte dei Beati paoli.",
                 "image": "https://i.postimg.cc/BQKwD3b0/IMG-1402.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
@@ -555,7 +557,7 @@
                     "ca/bond_of_union#85"
                 ],
                 "created_date": "2019-12-12T03:28:00.260-08:00",
-                "updated_date": "2020-05-15T03:01:48.257-07:00",
+                "updated_date": "2020-05-16T02:16:14.964-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -575,7 +577,7 @@
                 "type": "Festa di quartiere",
                 "start_date": "",
                 "end_date": "",
-                "description": "La Madonna della Mercede al Capo, chiamata dagli abitanti la Merce', é la Santa piu' venerata nel quartiere. Nel mese di settembre la festa religiosa viene celebrata da tutta la comunita' attirando cittadini di altri quartieri e turisti.",
+                "description": "La Madonna della Mercede al Capo, chiamata dagli abitanti a Micce', è la Santa più venerata nel quartiere e la patrona dell'antico mandamento Monte di Pietà. Nel mese di settembre la festa religiosa viene celebrata da tutta la comunità attirando cittadini di altri quartieri e turisti. La statua della Madonna viene portata fuori dalla chiesa in processione per le vie del quartiere e viene accolta con il grido \"A regina du Capu è, viva a madonna micce’\".",
                 "image": "https://i.postimg.cc/85R2jfLx/45026980262-5bacd1d3f9-z.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "memorie",
@@ -593,7 +595,7 @@
                 ],
                 "relationships": null,
                 "created_date": "2019-12-12T02:55:40.353-08:00",
-                "updated_date": "2020-05-13T06:49:48.748-07:00",
+                "updated_date": "2020-05-16T02:06:40.343-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -747,7 +749,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "Piazza Papireto é uno spazio pubblico in fase di riqualificazione aperto a differenti usi da parte dei cittadini. Rappresenta un punto di accesso al quartiere ed é caratterizzato dalla presenza di popolazione locale di stati sociali differenti ma con interessi comuni. Nel corso delle discussioni Spazi di Quartiere (novembre 2019) i cittadini hanno espresso diversi desideri e proposte di intervento per l'area come inserire nella piazza un parco giochi e delle panchine o creare spazi ricreativi per adulti ed un cineclub all'aperto.\n\n",
+                "description": "Piazza Papireto prende il nome dal fiume che attraversava gran parte del quartiere Capo. E' uno spazio pubblico in fase di riqualificazione da parte dell'amministrazione comunale e si presta a differenti usi da parte dei cittadini. Rappresenta un punto di accesso al quartiere ed é caratterizzato dalla presenza di residenti di stati sociali differenti ma con interessi comuni. Nel corso delle discussioni Spazi di Quartiere (novembre 2019) i cittadini partecipanti hanno espresso diversi desideri e proposte di intervento per l'area come inserire nella piazza un parco giochi e delle panchine o creare spazi ricreativi per adulti ed un cineclub all'aperto.\n\n",
                 "image": "https://i.postimg.cc/76mtZBpM/UNADJUSTEDNONRAW-thumb-6ad.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
@@ -773,7 +775,7 @@
                     "ca/spazi_di_quartiere#72"
                 ],
                 "created_date": "2019-12-11T08:12:02.170-08:00",
-                "updated_date": "2020-05-13T06:49:06.961-07:00",
+                "updated_date": "2020-05-16T02:13:20.443-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -833,7 +835,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere e la rete di organizzazioni e servizi presenti. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-16T09:06:53.400Z",
+        "published": "2020-05-16T09:27:59.824Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -871,7 +873,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 182,
+        "version": 183,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -982,6 +984,10 @@
             "to": "ca/laboratori_di_quartiere#76"
         },
         {
+            "from": "ca/piazza_beati_paoli#82",
+            "to": "ca/cartello_informativo_capo#77"
+        },
+        {
             "from": "ca/piazzetta_alla_guilla#81",
             "to": "ca/spazi_di_quartiere#72"
         },
@@ -1004,6 +1010,10 @@
         {
             "from": "ca/cinema_all_aperto#78",
             "to": "ca/laboratori_di_quartiere#76"
+        },
+        {
+            "from": "ca/cinema_all_aperto#78",
+            "to": "ca/cortile_ecce_homo#88"
         },
         {
             "from": "ca/cartello_informativo_capo#77",

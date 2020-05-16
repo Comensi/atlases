@@ -793,7 +793,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "Il Cortile Mangano é un ampio spazio pubblico con una delle più belle viste sulla cattedrale di Palermo. Nell'area é presente un piccolo spazio verde con giochi. Lo spazio verde ai margini del cortile Mangano inagurata e subito chiuso é stato oggetto di una delle discussioni di Spazi di quartiere. Alcuni cittadini sostituendosi al comune ne hanno curato la manutenzione.\nIl Cortile, utilizzato anche per concerti durante la festa rionale, é certamente un potenziale spazio di sperimentazione di interventi di miglioramento e soluzione delle problematiche diffuse nel quartiere.  La discussione sull'utilizzo dello spazio resta aperta a molteplici strade.",
+                "description": "Il Cortile Mangano (o Piazza Sant'Anna al Capo) é un ampio spazio pubblico con una delle più belle viste sulla cattedrale di Palermo. Nell'area, utilizzata in gran parte come posteggio, é presente un piccolo spazio verde con un'altalena e uno scivolo per bambini, raffiguranti Franco Franchi e Ciccio Ingrassia, realizzate dal Laboratorio Saccardi. Lo spazio verde ai margini del cortile Mangano inagurato e subito chiuso per motivi di sicurezza é stato oggetto di una delle discussioni di Spazi di quartiere. Alcuni cittadini sostituendosi al comune ne hanno curato la manutenzione.\nIl Cortile, utilizzato anche per concerti durante la festa rionale, é certamente un potenziale spazio di sperimentazione di interventi di miglioramento e soluzione delle problematiche diffuse nel quartiere.  La discussione sull'utilizzo dello spazio resta aperta a molteplici strade.",
                 "image": "https://i.postimg.cc/PrJK25Yy/UNADJUSTEDNONRAW-thumb-6af.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
@@ -813,7 +813,7 @@
                     "ca/spazi_di_quartiere#72"
                 ],
                 "created_date": "2019-12-11T05:30:08.220-08:00",
-                "updated_date": "2020-05-13T04:24:19.028-07:00",
+                "updated_date": "2020-05-16T01:56:17.435-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -831,9 +831,9 @@
         "title": "Atlante di Quartiere",
         "url": "https://palermo.community-atlas.net",
         "id": "palermo",
-        "description": "L'Atlante di quartiere è un progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
+        "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere e la rete di organizzazioni e servizi presenti. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-15T10:41:31.579Z",
+        "published": "2020-05-16T08:57:50.779Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -871,7 +871,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 179,
+        "version": 181,
         "taxonomy": [
             {
                 "category": "Rete Capo",

@@ -613,7 +613,7 @@
                 "type": "Azione partecipativa",
                 "start_date": "2019-11-07T16:00:00.000-08:00",
                 "end_date": "2019-11-28T16:00:00.000-08:00",
-                "description": "Gli eventi Spazi di Quartiere sono stati realizzati nel quartiere Capo-Monte di Pietà nel mese di Novembre 2019 dalla Cooperativa Sociale Bond of Union. Spazi di Quartiere ha creato dei momenti di\nincontro informale e di confronto organizzati in quattro differenti punti del quartiere  (Vicolo degli\nOrfani, Piazza Papireto, Piazzetta alla Guilla e Cortile Mangano), con il fine di attivare momenti di partecipazione attiva degli abitanti del quartiere. All'organizzazione degli eventi hanno attivamente collaborato associazioni culturali e del terzo settore che operano nel quartiere tra cui la Comunità di Sant'egidio, l'Associazione Naka, il Teatro alla Guilla e Giancarlo Gallitano. Gli incontri hanno previsto anche la partecipazione della Consigliera della Prima Circoscrizione Francesca Vetrano e del Presidente Massimo Castiglia.",
+                "description": "Gli eventi Spazi di Quartiere sono stati realizzati nel quartiere Capo-Monte di Pietà nel mese di Novembre 2019 dalla Cooperativa Sociale Bond of Union. Spazi di Quartiere ha creato dei momenti di incontro informale e di confronto organizzati in quattro differenti punti del quartiere  (Vicolo degli Orfani, Piazza Papireto, Piazzetta alla Guilla e Cortile Mangano), con il fine di attivare momenti di partecipazione attiva degli abitanti del quartiere. All'organizzazione degli eventi hanno attivamente collaborato associazioni culturali e del terzo settore che operano nel quartiere tra cui la Comunità di Sant'egidio, l'Associazione Naka, il Teatro alla Guilla e Giancarlo Gallitano. Gli incontri hanno previsto anche la partecipazione della Consigliera della Prima Circoscrizione Francesca Vetrano e del Presidente Massimo Castiglia.",
                 "image": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
                 "category": "Iniziative",
                 "sub-category": "",
@@ -629,7 +629,7 @@
                     "ca/piazzetta_alla_guilla#81"
                 ],
                 "created_date": "2019-12-12T02:24:26.427-08:00",
-                "updated_date": "2020-05-13T04:24:52.134-07:00",
+                "updated_date": "2020-05-16T02:00:43.058-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -793,7 +793,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "Il Cortile Mangano (o Piazza Sant'Anna al Capo) é un ampio spazio pubblico con una delle più belle viste sulla cattedrale di Palermo. Nell'area, utilizzata in gran parte come posteggio, é presente un piccolo spazio verde con un'altalena e uno scivolo per bambini, raffiguranti Franco Franchi e Ciccio Ingrassia, realizzate dal Laboratorio Saccardi. Lo spazio verde ai margini del cortile Mangano inagurato e subito chiuso per motivi di sicurezza é stato oggetto di una delle discussioni di Spazi di quartiere. Alcuni cittadini sostituendosi al comune ne hanno curato la manutenzione.\nIl Cortile, utilizzato anche per concerti durante la festa rionale, é certamente un potenziale spazio di sperimentazione di interventi di miglioramento e soluzione delle problematiche diffuse nel quartiere.  La discussione sull'utilizzo dello spazio resta aperta a molteplici strade.",
+                "description": "Il Cortile Mangano (o Piazza Sant'Anna al Capo) é un ampio spazio pubblico con una delle più belle viste sulla cattedrale di Palermo. Nell'area, utilizzata in gran parte come posteggio, é presente un piccolo spazio verde con un'altalena e uno scivolo per bambini, raffiguranti Franco Franchi e Ciccio Ingrassia, realizzate dal Laboratorio Saccardi. Lo spazio verde ai margini del cortile Mangano inagurato e subito chiuso per motivi di sicurezza é stato oggetto di una delle discussioni degli eventi Spazi di quartiere. Alcuni cittadini sostituendosi al comune ne hanno curato la manutenzione.\nIl Cortile, utilizzato anche per concerti durante la festa rionale, é certamente un potenziale spazio di sperimentazione di interventi di miglioramento e soluzione delle problematiche diffuse nel quartiere.  La discussione sull'utilizzo dello spazio resta aperta a molteplici strade.",
                 "image": "https://i.postimg.cc/PrJK25Yy/UNADJUSTEDNONRAW-thumb-6af.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
@@ -813,7 +813,7 @@
                     "ca/spazi_di_quartiere#72"
                 ],
                 "created_date": "2019-12-11T05:30:08.220-08:00",
-                "updated_date": "2020-05-16T01:56:17.435-07:00",
+                "updated_date": "2020-05-16T01:57:34.402-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -833,7 +833,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere e la rete di organizzazioni e servizi presenti. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-16T08:57:50.779Z",
+        "published": "2020-05-16T09:06:53.400Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -871,7 +871,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 181,
+        "version": 182,
         "taxonomy": [
             {
                 "category": "Rete Capo",

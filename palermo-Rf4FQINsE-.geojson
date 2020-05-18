@@ -8,7 +8,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "Il Cortile é uno dei caratteristici spazi del quartiere. Nel 2016 é stato teatro di un esperimento di arte urbana. Durante Laboratori di Quartiere é stato proposto da uno dei suoi abitanti come area per realizzare il cinema all'aperto.",
+                "description": "Il Cortile Ecce Homo è uno dei caratteristici spazi del quartiere Capo. Nel 2016 è stato teatro di un esperimento di arte urbana. Durante i Laboratori di Quartiere è stato proposto da uno dei suoi abitanti come spazio per realizzare il cinema all'aperto.",
                 "image": "https://i.postimg.cc/3JnVTjf9/Schermata-2020-05-13-alle-11-49-36.png",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
@@ -29,7 +29,7 @@
                     "ca/cinema_all_aperto#78"
                 ],
                 "created_date": "2020-05-12T02:25:50.935-07:00",
-                "updated_date": "2020-05-14T06:09:14.923-07:00",
+                "updated_date": "2020-05-16T02:36:36.943-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -49,7 +49,7 @@
                 "type": "Organizzazione",
                 "start_date": "",
                 "end_date": "",
-                "description": "Organizzazione non profit che opera nel quartiere. Ha collaborato attivamente con Bond of Union alla realizzazione di Spazi di quartiere per Piazza Papireto.",
+                "description": "Organizzazione non profit che opera nel quartiere. Ha collaborato attivamente con Bond of Union alla realizzazione dell'evento Spazi di quartiere per Piazza Papireto.",
                 "image": "https://i.postimg.cc/nc2MyV1y/naka.jpg",
                 "category": "Rete Capo",
                 "sub-category": "Terzo settore",
@@ -70,7 +70,7 @@
                     "ca/piazza_papireto#70"
                 ],
                 "created_date": "2020-05-12T01:55:00.433-07:00",
-                "updated_date": "2020-05-13T06:53:48.531-07:00",
+                "updated_date": "2020-05-16T02:35:33.984-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -90,7 +90,7 @@
                 "type": "Edificio",
                 "start_date": "",
                 "end_date": "",
-                "description": "Un creatore diede vita alla Pupa del Capo per donarla a Salvatore e Vincenza Morello per le loro nozze, presumibilmente tra il 1902 e il 1908. Il mosaico, che rappresenta Demetra, dea delle messi, fu un regalo apprezzato dal proprietario del panificio, il quale fece dell’opera d’arte l’insegna della sua bottega. È così che la Pupa del Capo, come negli anni Palermo l’ha denominata, osserva i passanti da almeno cento anni e li invita ad entrare. Qualche anno fa è iniziato il restauro dell’opera. Alcune associazioni locali hanno messo in salvo l’opera da eventuali crolli di Palazzo Serenario, edificio barocco anch’esso in fase di restauro. Esso si trova attualmente a Palazzo Ajutamicristo, in attesa di tornare nella sua sede originaria, lungo la via Cappuccinelle.",
+                "description": "Un creatore diede vita alla Pupa del Capo per donarla a Salvatore e Vincenza Morello per le loro nozze, presumibilmente tra il 1902 e il 1908. Il mosaico, che rappresenta Demetra, dea delle messi, fu un regalo apprezzato dal proprietario del panificio, il quale fece dell'opera d'arte l'insegna della sua bottega. È così che la Pupa del Capo, come negli anni Palermo l’ha denominata, osserva i passanti da almeno cento anni e li invita ad entrare. Qualche anno fa è iniziato il restauro dell’opera. Alcune associazioni locali hanno messo in salvo l’opera da eventuali crolli di Palazzo Serenario, edificio barocco anch’esso in fase di restauro. La Pupa si trova attualmente a Palazzo Ajutamicristo, in attesa di tornare nella sua sede originaria, lungo la via Cappuccinelle.",
                 "image": "https://i.postimg.cc/pXMhtRDk/DSC01656.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "memorie",
@@ -109,7 +109,7 @@
                 ],
                 "relationships": null,
                 "created_date": "2020-05-12T01:40:26.868-07:00",
-                "updated_date": "2020-05-15T03:34:20.948-07:00",
+                "updated_date": "2020-05-16T02:35:14.361-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -129,7 +129,7 @@
                 "type": "Organizzazione",
                 "start_date": "",
                 "end_date": "",
-                "description": "Bond of Union é una cooperativa sociale fondata nel 2010 e che opera al Capo dal 2016 con sede operativa in Vicolo degli Orfani. Bond of Union promuove lo sviluppo sociale e i processi inclusivi attraverso la creazione di reti tra la società civile, il terzo settore e le Pubbliche Amministrazioni. Bond of Union sviluppa azioni locali che impegnano i cittadini e le amministrazioni pubbliche in forme nuove e partecipative di sviluppo della comunità. L'educazione non formale e la cooperazione internazionale sono i principali strumenti operativi dell'organizzazione. Con le iniziative Spazi e laboratori di quartiere nel 2019 la cooperativa ha avviato un processo partecipativo con i cittadini e le organizzazioni della rete Capo per facilitare processi di cittadinanaza attiva, inclusione sociale e community engagement.",
+                "description": "Bond of Union é una cooperativa sociale fondata nel 2010 e che opera al Capo dal 2016 con sede operativa in Vicolo degli Orfani. Bond of Union promuove lo sviluppo sociale e i processi inclusivi attraverso la creazione di reti tra la società civile, il terzo settore e le Pubbliche Amministrazioni. Bond of Union sviluppa azioni locali che impegnano i cittadini e le amministrazioni pubbliche in forme nuove e partecipative di sviluppo della comunità. L'educazione non formale e la cooperazione internazionale sono i principali strumenti operativi dell'organizzazione. Con le iniziative Spazi di Quartiere e laboratori di quartiere nel 2019 la cooperativa ha avviato un processo partecipativo con i cittadini e le organizzazioni della rete Capo per facilitare processi di cittadinanaza attiva, inclusione sociale e partecipazione alla comunità.",
                 "image": "https://i.postimg.cc/SKbv3pF0/IMG-20200511-173904.jpg",
                 "category": "Rete Capo",
                 "sub-category": "Terzo settore",
@@ -164,7 +164,7 @@
                     "ca/vicolo_degli_orfani#75"
                 ],
                 "created_date": "2020-05-11T08:33:02.763-07:00",
-                "updated_date": "2020-05-13T06:53:17.396-07:00",
+                "updated_date": "2020-05-16T02:33:55.073-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -184,7 +184,7 @@
                 "type": "Organizzazione",
                 "start_date": "",
                 "end_date": "",
-                "description": "\nL’associazione “C.I.A.S.-La Guilla\" gestisce lo spazio Teatro alla Guilla. Dal 2011 è diventato un punto d’incontro e di riferimento interculturale per la città. L’associazione ha organizzato nella sua sede performance, esposizioni, concerti, laboratori teatrali, videoproiezioni, letture e presentazione di libri. Il Teatro, ed in particolare Valerio Strati, é attivo nel quartiere con manifestazioni come \"Da Capo a Capo\" ed ha collaborato con Bond of Union alla realizzazione di Spazi di quartiere alla Guilla ed alla costituzione della Rete Capo.",
+                "description": "\nL'associazione \"C.I.A.S.-La Guilla\" gestisce lo spazio Teatro alla Guilla. Dal 2011 è diventato un punto d’incontro e di riferimento interculturale per la città. L'associazione ha organizzato nella sua sede performance, esposizioni, concerti, laboratori teatrali, videoproiezioni, letture e presentazioni di libri. Il Teatro, ed in particolare Valerio Strati, è attivo nel quartiere con manifestazioni come \"Da Capo a Capo\" ed ha collaborato con Bond of Union alla realizzazione dell'evento Spazi di quartiere alla Guilla ed alla costituzione della Rete Capo.",
                 "image": "https://i.postimg.cc/02h9Gfkr/IMG-20191118-141505-1.jpg",
                 "category": "Rete Capo",
                 "sub-category": "Terzo settore",
@@ -199,7 +199,7 @@
                     "ca/piazzetta_alla_guilla#81"
                 ],
                 "created_date": "2020-05-11T08:18:38.887-07:00",
-                "updated_date": "2020-05-13T06:52:42.029-07:00",
+                "updated_date": "2020-05-16T02:30:52.420-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -219,7 +219,7 @@
                 "type": "Persona",
                 "start_date": "",
                 "end_date": "",
-                "description": "Franco é il proprietario di una storica osteria in Via Capuccinelle. Attivissimo nel quartiere ha lanciato numerose iniziative per il quartiere come la riqualificazione di una piazzetta abbandontata accanto alla sua osteria. Franco ha dato il suo contributo nella discussione sulle potenzialita' di Cortile Mangano e nei successivi laboratori di quartiere. La sua osteria \"Da Franco\" appunto é il perfetto luogo per accese e stimolanti discussioni sulla storia e sul futuro possibile per il Capo. ",
+                "description": "Franco è il proprietario di una storica osteria in Via Capuccinelle. Attivissimo nel quartiere ha lanciato numerose iniziative come la riqualificazione di una piazzetta abbandontata accanto alla sua osteria. Franco ha dato il suo contributo nella discussione sulle potenzialità di Cortile Mangano e nei successivi laboratori di quartiere. La sua osteria \"Da Franco\" è il perfetto luogo per accese e stimolanti discussioni sulla storia e sul futuro possibile per il quartiere Capo. ",
                 "image": "https://i.postimg.cc/pdNX93Dq/Palermo-atlas.jpg",
                 "category": "Storie del quartiere",
                 "sub-category": "",
@@ -232,7 +232,7 @@
                     "ca/spazi_di_quartiere#72"
                 ],
                 "created_date": "2020-05-11T07:56:52.755-07:00",
-                "updated_date": "2020-05-15T03:13:13.299-07:00",
+                "updated_date": "2020-05-16T02:29:27.613-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -835,7 +835,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere e la rete di organizzazioni e servizi presenti. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-16T09:27:59.824Z",
+        "published": "2020-05-18T15:01:36.615Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -845,35 +845,14 @@
                 "type": "homepage"
             },
             {
-                "title": "Atlas Bairro da Ajuda ",
-                "url": "https://bairrodaajuda.community-atlas.net/",
+                "title": "Gli atlanti COMENSI",
+                "url": "https://www.community-atlas.net/it/atlanti/",
                 "description": "",
-                "lang": "pt",
-                "type": "webpage"
-            },
-            {
-                "title": "Atlas Mehringplatz",
-                "url": "https://mehringplatz-de.community-atlas.net/",
-                "description": "",
-                "lang": "de/en",
-                "type": "webpage"
-            },
-            {
-                "title": "Atlas Mildmay",
-                "url": "https://mildmay.community-atlas.net/",
-                "description": "",
-                "lang": "en",
-                "type": "webpage"
-            },
-            {
-                "title": "Atlas Savsko naselje",
-                "url": "https://savskonaselje.community-atlas.net/",
-                "description": "",
-                "lang": "sl",
+                "lang": "it",
                 "type": "webpage"
             }
         ],
-        "version": 183,
+        "version": 185,
         "taxonomy": [
             {
                 "category": "Rete Capo",

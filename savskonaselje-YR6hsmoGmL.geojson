@@ -560,7 +560,8 @@
                 "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [],
                 "relationships": [
-                    "ca/urbani_sadovnjak_in_otro_ko_igri_e#73,ca/superhi_ka#75"
+                    "ca/urbani_sadovnjak_in_otro_ko_igri_e#73",
+                    "ca/superhi_ka#75"
                 ],
                 "created_date": "2020-04-24T08:20:39.312-07:00",
                 "updated_date": "2020-04-24T08:27:08.959-07:00",
@@ -586,7 +587,7 @@
                 "description": "Kaj ti bo Tivoli, če imamo Šerkca? Primeren za hiter špil košarke, fitnesiranje na prostem ali prekopavanje skupnostnih gredic. Dovolj je velik, da včasih gosti sosedski piknik. Če si prava Savska legenda, lahko naslednjega pripraviš ti.",
                 "image": "https://prostoroz.org/wp-content/uploads/2016/09/IMG_4112-e1520948703436.jpg",
                 "category": "Savski lajf",
-                "sub-category": "#r26",
+                "sub-category": "Projekti",
                 "tags": [
                     "javni prostor",
                     "otroci",
@@ -746,12 +747,12 @@
                 "end_date": "",
                 "description": "Lokalni časopis Savskega naselja, ki izhaja vsakih nekaj mesecev. Namenjen je obveščanju o novicah in dogodkih v Savskem naselju.",
                 "image": "https://www.knjiznicareci.si/wp-content/uploads/2019/11/sav%C4%8Dan-cover.png",
-                "category": "Narratives",
-                "sub-category": "Place narratives ",
+                "category": "Savski lajf",
+                "sub-category": "Projekti",
                 "tags": [
                     "skupnost"
                 ],
-                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [
                     {
                         "url": "https://www.knjiznicareci.si/nova-stevilka-savcana/",
@@ -761,10 +762,16 @@
                     }
                 ],
                 "relationships": [
-                    "ca/knji_nica_re_i#72,ca/_lovekinje#79,ca/osnovna_ola_savsko_naselje#80,ca/vrtec_mladi_rod#82,ca/kralji_ulice_psihosocialna_podpora_stanujo_im_v_bivalni_enoti_knobleharjeva#83,ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76,ca/spomin_ica_alzheimer_slovenija_slovensko_zdru_enje_za_pomo_pri_demenci_#85"
+                    "ca/knji_nica_re_i#72",
+                    "ca/_lovekinje#79",
+                    "ca/osnovna_ola_savsko_naselje#80",
+                    "ca/vrtec_mladi_rod#82",
+                    "ca/kralji_ulice_psihosocialna_podpora_stanujo_im_v_bivalni_enoti_knobleharjeva#83",
+                    "ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76",
+                    "ca/spomin_ica_alzheimer_slovenija_slovensko_zdru_enje_za_pomo_pri_demenci_#85"
                 ],
                 "created_date": "2020-02-28T06:28:48.898-08:00",
-                "updated_date": "2020-02-28T06:40:35.681-08:00",
+                "updated_date": "2020-05-18T06:57:42.231-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -795,7 +802,9 @@
                 "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [],
                 "relationships": [
-                    "ca/urbani_sadovnjak_in_otro_ko_igri_e#73,ca/vizija_za_javni_prostor_soseske#74,ca/_lovekinje#79"
+                    "ca/urbani_sadovnjak_in_otro_ko_igri_e#73",
+                    "ca/vizija_za_javni_prostor_soseske#74",
+                    "ca/_lovekinje#79"
                 ],
                 "created_date": "2020-02-28T05:07:51.573-08:00",
                 "updated_date": "2020-04-22T05:53:13.901-07:00",
@@ -852,8 +861,8 @@
                 "end_date": "2016-12-30T16:00:00.000-08:00",
                 "description": "Projekt, ki je vključeval raziskavo, ozaveščevalne aktivnosti na spletu in organizacije serije posvetov o naslovni temi. Opravili smo intervjuje s prebivalci sosesk, predstavniki občin in pristojnih ministrstev, pravniki ter urbanisti in strokovnjaki za javni prostor. Zbrali smo njihova mnenja, prepoznali skupne težave in poiskali nekatere ukrepe, ki lahko ohranijo in dvignejo kakovost javnih površin v soseskah. ",
                 "image": "https://prostoroz.org/wp-content/uploads/2016/10/20160325_103655-e1521199185337.jpg",
-                "category": "Imaginations",
-                "sub-category": "",
+                "category": "Savski lajf",
+                "sub-category": "Javni prostor",
                 "tags": [
                     "parkiranje",
                     "javni prostor",
@@ -861,7 +870,7 @@
                     "skupnost",
                     "ekologija"
                 ],
-                "category-description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [
                     {
                         "url": "https://prostoroz.org/portfolio/items/javne-povrsine-v-soseskah-so-pomembne/",
@@ -877,10 +886,13 @@
                     }
                 ],
                 "relationships": [
-                    "ca/knji_nica_re_i#72,ca/urbani_sadovnjak_in_otro_ko_igri_e#73,ca/vizija_za_javni_prostor_soseske#74,ca/superhi_ka#75"
+                    "ca/knji_nica_re_i#72",
+                    "ca/urbani_sadovnjak_in_otro_ko_igri_e#73",
+                    "ca/vizija_za_javni_prostor_soseske#74",
+                    "ca/superhi_ka#75"
                 ],
                 "created_date": "2020-02-28T02:30:40.667-08:00",
-                "updated_date": "2020-02-28T02:36:03.062-08:00",
+                "updated_date": "2020-05-18T06:58:41.963-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1152,7 +1164,8 @@
                     }
                 ],
                 "relationships": [
-                    "ca/knji_nica_re_i#72,ca/osnovna_ola_savsko_naselje#80"
+                    "ca/knji_nica_re_i#72",
+                    "ca/osnovna_ola_savsko_naselje#80"
                 ],
                 "created_date": "2020-02-27T04:37:58.359-08:00",
                 "updated_date": "2020-03-27T05:02:03.242-07:00",
@@ -1287,7 +1300,9 @@
                     }
                 ],
                 "relationships": [
-                    "ca/knji_nica_re_i#72,ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76,ca/dom_skupnosti_savsko_naselje#78"
+                    "ca/knji_nica_re_i#72",
+                    "ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76",
+                    "ca/dom_skupnosti_savsko_naselje#78"
                 ],
                 "created_date": "2020-02-27T01:23:32.605-08:00",
                 "updated_date": "2020-04-10T05:37:17.948-07:00",
@@ -1432,14 +1447,14 @@
                 "end_date": "2014-12-12T16:00:00.000-08:00",
                 "description": "Vizija za javni prostor soseske je bil del širšega projekta Celovite urbane prenove Savskega naselja v Ljubljani, ki se je začel izvajati leta 2013 na povabilo Oddelka za urejanje prostora MOL. Vloga javnega prostora se je od izgradnje soseske (leta 1961) bistveno spremenila. Skrb zanj je danes omejena zgolj na boj za parkirna mesta, kar izhaja iz dejstva, da je bila soseska grajena za 500 avtomobilov, danes pa jih na ulicah, pločnikih, travnikih, igriščih in dvoriščih naštejemo preko štiri tisoč. Da bi urbana prenova soseske resnično reševala probleme soseske in odgovarjala na pereča vprašanja, se je za posamezna področja oblikovalo delovne skupine, v katere so se vključili zainteresirani prebivalci.",
                 "image": "http://prostoroz.org/wp-content/uploads/2016/12/PJP_14-2.jpg",
-                "category": "Imaginations",
-                "sub-category": "Public space",
+                "category": "Savski lajf",
+                "sub-category": "Javni prostor",
                 "tags": [
                     "promet",
                     "javni prostor",
                     "parkiranje"
                 ],
-                "category-description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
+                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [
                     {
                         "url": "http://prostoroz.org/wp-content/uploads/2017/01/Prenova-javnega-prostora-Savsko-naselje.pdf",
@@ -1449,10 +1464,11 @@
                     }
                 ],
                 "relationships": [
-                    "ca/knji_nica_re_i#72,ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
+                    "ca/knji_nica_re_i#72",
+                    "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
                 ],
                 "created_date": "2019-12-13T05:00:46.277-08:00",
-                "updated_date": "2020-04-24T06:54:32.838-07:00",
+                "updated_date": "2020-05-18T06:58:31.684-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1598,18 +1614,18 @@
         }
     ],
     "properties": {
-        "title": "Savsko naselje",
+        "title": "Savčan Savčanu",
         "url": "https://savskonaselje.community-atlas.net",
         "id": "savskonaselje",
-        "description": "Lokalci za lokalce - zbirka uporabnih informacij, kul placev in storitev v Savskem naselju",
+        "description": "Zemljevid priporočil za savski vsakdan",
         "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t31.0-8/28515136_1601555589960135_3369719488193653923_o.jpg?_nc_cat=101&_nc_sid=a61e81&_nc_oc=AQlkCOAOJZNwb7iFYu-qUp727saH1fHXw5n2s4t_v8YEIN9tzGHscJaDs_G8IqmHJw0&_nc_ht=scontent.flju2-1.fna&oh=3c3f7849e1a33d322f630c0999496698&oe=5EB679F8",
-        "published": "2020-04-30T15:32:31.496Z",
+        "published": "2020-05-18T13:59:46.871Z",
         "links": [
             {
-                "title": "The Comensi project",
-                "url": "http://community-atlas.net",
+                "title": "Comensi projekt",
+                "url": "https://www.community-atlas.net/sl/",
                 "description": "The Comensi Project homepage",
-                "lang": "en",
+                "lang": "slo",
                 "type": "homepage"
             },
             {
@@ -1627,7 +1643,7 @@
                 "type": ""
             }
         ],
-        "version": 57,
+        "version": 58,
         "taxonomy": [
             {
                 "category": "Savska ponudba",
@@ -1637,14 +1653,14 @@
                     "Trgovina"
                 ],
                 "weight": 0,
-                "id": 7
+                "id": 5
             },
             {
                 "category": "Pri sosedih",
                 "description": "Česar v Savcu ni, se pri sosedih dobi!",
                 "sub-categories": [],
                 "weight": 0,
-                "id": 6
+                "id": 4
             },
             {
                 "category": "Savski mojstri",
@@ -1652,23 +1668,6 @@
                 "sub-categories": [
                     "Mojstri in mojstrice",
                     "Storitve"
-                ],
-                "weight": 0,
-                "id": 5
-            },
-            {
-                "category": "Imaginations",
-                "description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 4
-            },
-            {
-                "category": "Narratives",
-                "description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
-                "sub-categories": [
-                    "Place narratives ",
-                    "Stakeholder interviews"
                 ],
                 "weight": 0,
                 "id": 3
@@ -1694,7 +1693,7 @@
                     "Javni prostor",
                     "Park",
                     "Kul prostorček",
-                    "#r26",
+                    "Projekti",
                     "#r27"
                 ],
                 "weight": 1,
@@ -1709,7 +1708,11 @@
         },
         {
             "from": "ca/savski_hrib#102",
-            "to": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73,ca/superhi_ka#75"
+            "to": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
+        },
+        {
+            "from": "ca/savski_hrib#102",
+            "to": "ca/superhi_ka#75"
         },
         {
             "from": "ca/park_ob_erkovi_ulici#100",
@@ -1717,15 +1720,59 @@
         },
         {
             "from": "ca/lokalni_asopis_sav_an#93",
-            "to": "ca/knji_nica_re_i#72,ca/_lovekinje#79,ca/osnovna_ola_savsko_naselje#80,ca/vrtec_mladi_rod#82,ca/kralji_ulice_psihosocialna_podpora_stanujo_im_v_bivalni_enoti_knobleharjeva#83,ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76,ca/spomin_ica_alzheimer_slovenija_slovensko_zdru_enje_za_pomo_pri_demenci_#85"
+            "to": "ca/knji_nica_re_i#72"
+        },
+        {
+            "from": "ca/lokalni_asopis_sav_an#93",
+            "to": "ca/_lovekinje#79"
+        },
+        {
+            "from": "ca/lokalni_asopis_sav_an#93",
+            "to": "ca/osnovna_ola_savsko_naselje#80"
+        },
+        {
+            "from": "ca/lokalni_asopis_sav_an#93",
+            "to": "ca/vrtec_mladi_rod#82"
+        },
+        {
+            "from": "ca/lokalni_asopis_sav_an#93",
+            "to": "ca/kralji_ulice_psihosocialna_podpora_stanujo_im_v_bivalni_enoti_knobleharjeva#83"
+        },
+        {
+            "from": "ca/lokalni_asopis_sav_an#93",
+            "to": "ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76"
+        },
+        {
+            "from": "ca/lokalni_asopis_sav_an#93",
+            "to": "ca/spomin_ica_alzheimer_slovenija_slovensko_zdru_enje_za_pomo_pri_demenci_#85"
         },
         {
             "from": "ca/skupnostni_vrtovi#92",
-            "to": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73,ca/vizija_za_javni_prostor_soseske#74,ca/_lovekinje#79"
+            "to": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
+        },
+        {
+            "from": "ca/skupnostni_vrtovi#92",
+            "to": "ca/vizija_za_javni_prostor_soseske#74"
+        },
+        {
+            "from": "ca/skupnostni_vrtovi#92",
+            "to": "ca/_lovekinje#79"
         },
         {
             "from": "ca/javne_povr_ine_v_soseskah_so_pomembne#90",
-            "to": "ca/knji_nica_re_i#72,ca/urbani_sadovnjak_in_otro_ko_igri_e#73,ca/vizija_za_javni_prostor_soseske#74,ca/superhi_ka#75"
+            "to": "ca/knji_nica_re_i#72"
+        },
+        {
+            "from": "ca/javne_povr_ine_v_soseskah_so_pomembne#90",
+            "to": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
+        },
+        {
+            "from": "ca/javne_povr_ine_v_soseskah_so_pomembne#90",
+            "to": "ca/vizija_za_javni_prostor_soseske#74"
+        },
+        {
+            "from": "ca/javne_povr_ine_v_soseskah_so_pomembne#90",
+            "to": "ca/superhi_ka#75"
         },
         {
             "from": "ca/dru_tvo_tolmun#89",
@@ -1745,7 +1792,11 @@
         },
         {
             "from": "ca/vrtec_mladi_rod#82",
-            "to": "ca/knji_nica_re_i#72,ca/osnovna_ola_savsko_naselje#80"
+            "to": "ca/knji_nica_re_i#72"
+        },
+        {
+            "from": "ca/vrtec_mladi_rod#82",
+            "to": "ca/osnovna_ola_savsko_naselje#80"
         },
         {
             "from": "ca/osnovna_ola_savsko_naselje#80",
@@ -1753,7 +1804,15 @@
         },
         {
             "from": "ca/_lovekinje#79",
-            "to": "ca/knji_nica_re_i#72,ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76,ca/dom_skupnosti_savsko_naselje#78"
+            "to": "ca/knji_nica_re_i#72"
+        },
+        {
+            "from": "ca/_lovekinje#79",
+            "to": "ca/_ent_slovensko_zdru_enje_za_du_evno_zdravje#76"
+        },
+        {
+            "from": "ca/_lovekinje#79",
+            "to": "ca/dom_skupnosti_savsko_naselje#78"
         },
         {
             "from": "ca/dom_skupnosti_savsko_naselje#78",
@@ -1769,7 +1828,11 @@
         },
         {
             "from": "ca/vizija_za_javni_prostor_soseske#74",
-            "to": "ca/knji_nica_re_i#72,ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
+            "to": "ca/knji_nica_re_i#72"
+        },
+        {
+            "from": "ca/vizija_za_javni_prostor_soseske#74",
+            "to": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
         }
     ]
 }

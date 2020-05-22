@@ -461,7 +461,7 @@
                 "type": "Azione partecipativa",
                 "start_date": "",
                 "end_date": "",
-                "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee Laboratori di quartiere tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti (come il fabbro Gianni Conigliaro) interessati a migliorare la segnaletica turistica, la visibilità e la vivibilità del mercato del Capo. L'idea è di rivolgersi sia a turisti, che a cittadini palermitani interessati a scoprire il quartiere e di ricreare un legame tra Piazza Beati Paoli ed il mercato del Capo.",
+                "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee Laboratori di quartiere tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti interessati a migliorare la segnaletica turistica, la visibilità e la vivibilità del mercato del Capo. L'idea è di rivolgersi sia a turisti, che a cittadini palermitani interessati a scoprire il quartiere e di ricreare un legame tra Piazza Beati Paoli ed il mercato del Capo.",
                 "image": "https://i.postimg.cc/Kz65WgGX/benvenuti-capo-01.png",
                 "category": "Idee e Proposte",
                 "sub-category": "",
@@ -475,7 +475,7 @@
                     "ca/la_bottega_del_fabbro#79"
                 ],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
-                "updated_date": "2020-05-16T02:19:22.028-07:00",
+                "updated_date": "2020-05-21T04:02:43.208-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -657,7 +657,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "Il Capo è un antico e noto quartiere del centro storico di Palermo. Con lo stesso termine i palermitani indicano indifferentemente anche il mercato che vi si tiene e con cui il quartiere si identifica.",
+                "description": "Il Capo è un antico e noto quartiere del centro storico di Palermo. I suoi confini sono definiti dalla Cattedrale di Palermo, dal Teatro Massimo, dal Palazzo di Giustizia e dai Quattro canti, snodo del centro storico della città. Il quartiere è inoltre attraversato dal famoso \"mercato del Capo\", uno dei mercato storici più frequentati e visitati di Palermo.    La popolazione ufficiale del quartiere è di 6.422 abitanti di cui 1.449 migranti e/o con origine migratoria (il 22,6% della popolazione proviene in gran parte dal Bangladesh). La maggior parte della popolazione (70,1%) ha un'età compresa tra 15 e 64 anni.                   Le principali sfide e problematiche che affronta il quartiere sono:\nbasso livello di istruzione. La maggior parte dei residenti (72%) ha un basso livello di scolarizzazione;\nalto tasso di disoccupazione (solo il 36,2% della popolazione è occupata);\nalto livello di dipendenza strutturale dei giovani;\nscarsa partecipazione e basso impegno civico",
                 "image": "https://i.postimg.cc/76MDVzmg/DSCF1683.jpg",
                 "category": "Il Quartiere Capo",
                 "sub-category": "",
@@ -679,7 +679,7 @@
                 ],
                 "relationships": null,
                 "created_date": "2019-12-12T02:11:40.236-08:00",
-                "updated_date": "2020-05-13T06:49:26.707-07:00",
+                "updated_date": "2020-05-22T03:47:34.844-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -841,7 +841,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere e la rete di organizzazioni e servizi presenti. E' parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-21T11:03:00.629Z",
+        "published": "2020-05-22T10:49:17.573Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -858,7 +858,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 186,
+        "version": 188,
         "taxonomy": [
             {
                 "category": "Rete Capo",

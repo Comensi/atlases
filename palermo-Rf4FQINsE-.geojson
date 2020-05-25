@@ -49,7 +49,7 @@
                 "type": "Organizzazione",
                 "start_date": "",
                 "end_date": "",
-                "description": "Organizzazione non profit che opera nel quartiere. Ha collaborato attivamente con Bond of Union alla realizzazione dell'evento Spazi di quartiere per Piazza Papireto.",
+                "description": "Naka è uno spazio di comunità per il quartiere Capo di Palermo, impegnato nell'arricchimento di esperienze educative per giovani e meno giovani. Il motto di Naka  è \"everyone deserves the opportunity to learn\". Il team di Naka collaborato attivamente con Bond of Union alla realizzazione dell'evento Spazi di quartiere per Piazza Papireto. ",
                 "image": "https://i.postimg.cc/nc2MyV1y/naka.jpg",
                 "category": "Rete Capo",
                 "sub-category": "Terzo settore",
@@ -70,7 +70,7 @@
                     "ca/piazza_papireto#70"
                 ],
                 "created_date": "2020-05-12T01:55:00.433-07:00",
-                "updated_date": "2020-05-16T02:35:33.984-07:00",
+                "updated_date": "2020-05-25T02:51:22.916-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -841,7 +841,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-22T10:53:57.453Z",
+        "published": "2020-05-25T09:51:42.783Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",

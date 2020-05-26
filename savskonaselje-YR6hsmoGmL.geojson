@@ -450,9 +450,13 @@
                 ],
                 "category-description": "Kavice in druge dobrote za lepši vsakdan",
                 "links": [],
-                "relationships": [],
+                "relationships": [
+                    "ca/blef_bar_1#111",
+                    "ca/gas_station#103",
+                    "ca/bar_sav_c_portni_park_savsko_naselje_#99"
+                ],
                 "created_date": "2020-04-24T08:37:43.957-07:00",
-                "updated_date": "2020-04-30T07:11:57.126-07:00",
+                "updated_date": "2020-05-26T06:04:31.177-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -460,7 +464,7 @@
                 "type": "Point",
                 "coordinates": [
                     14.5243,
-                    46.0631
+                    46.0624
                 ]
             },
             "id": "ca/okrep_evalnica#105"
@@ -670,7 +674,7 @@
                 "type": "Point",
                 "coordinates": [
                     14.5228,
-                    46.0626
+                    46.0623
                 ]
             },
             "id": "ca/jordan_kozmetika#98"
@@ -1061,8 +1065,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.5228,
-                    46.0625
+                    14.5227,
+                    46.0621
                 ]
             },
             "id": "ca/spomin_ica_alzheimer_slovenija_slovensko_zdru_enje_za_pomo_pri_demenci_#85"
@@ -1618,8 +1622,8 @@
         "url": "https://savskonaselje.community-atlas.net",
         "id": "savskonaselje",
         "description": "Zemljevid priporočil za savski vsakdan",
-        "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t31.0-8/28515136_1601555589960135_3369719488193653923_o.jpg?_nc_cat=101&_nc_sid=a61e81&_nc_oc=AQlkCOAOJZNwb7iFYu-qUp727saH1fHXw5n2s4t_v8YEIN9tzGHscJaDs_G8IqmHJw0&_nc_ht=scontent.flju2-1.fna&oh=3c3f7849e1a33d322f630c0999496698&oe=5EB679F8",
-        "published": "2020-05-18T13:59:46.871Z",
+        "image": "https://bit.ly/2AFXoDx",
+        "published": "2020-05-26T13:08:53.546Z",
         "links": [
             {
                 "title": "Comensi projekt",
@@ -1643,7 +1647,7 @@
                 "type": ""
             }
         ],
-        "version": 58,
+        "version": 60,
         "taxonomy": [
             {
                 "category": "Savska ponudba",
@@ -1705,6 +1709,18 @@
         {
             "from": "ca/modno_iviljstvo_anka_paveli_s_p_#109",
             "to": "ca/knji_nica_re_i#72"
+        },
+        {
+            "from": "ca/okrep_evalnica#105",
+            "to": "ca/blef_bar_1#111"
+        },
+        {
+            "from": "ca/okrep_evalnica#105",
+            "to": "ca/gas_station#103"
+        },
+        {
+            "from": "ca/okrep_evalnica#105",
+            "to": "ca/bar_sav_c_portni_park_savsko_naselje_#99"
         },
         {
             "from": "ca/savski_hrib#102",

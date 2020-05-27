@@ -1623,7 +1623,7 @@
         "id": "savskonaselje",
         "description": "Zemljevid priporočil za savski vsakdan",
         "image": "https://bit.ly/2AFXoDx",
-        "published": "2020-05-27T06:43:33.717Z",
+        "published": "2020-05-27T08:07:34.459Z",
         "links": [
             {
                 "title": "Comensi projekt",
@@ -1647,7 +1647,7 @@
                 "type": ""
             }
         ],
-        "version": 60,
+        "version": 61,
         "taxonomy": [
             {
                 "category": "Savska ponudba",

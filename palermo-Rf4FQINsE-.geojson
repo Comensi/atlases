@@ -657,7 +657,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "Il Capo è un antico e noto quartiere del centro storico di Palermo. I suoi confini sono definiti dalla Cattedrale di Palermo, dal Teatro Massimo, dal Palazzo di Giustizia e dai Quattro canti, snodo del centro storico della città. Il quartiere è inoltre attraversato dal famoso \"mercato del Capo\", uno dei mercato storici più frequentati e visitati di Palermo.    La popolazione ufficiale del quartiere è di 6.422 abitanti di cui 1.449 migranti e/o con origine migratoria (il 22,6% della popolazione proviene in gran parte dal Bangladesh). La maggior parte della popolazione (70,1%) ha un'età compresa tra 15 e 64 anni.                   Le principali sfide e problematiche che affronta il quartiere sono:\nbasso livello di istruzione. La maggior parte dei residenti (72%) ha un basso livello di scolarizzazione;\nalto tasso di disoccupazione (solo il 36,2% della popolazione è occupata);\nalto livello di dipendenza strutturale dei giovani;\nscarsa partecipazione e basso impegno civico",
+                "description": "Il Capo è un antico e noto quartiere del centro storico di Palermo. I suoi confini sono definiti dalla Cattedrale di Palermo, dal Teatro Massimo, dal Palazzo di Giustizia e dai Quattro canti, snodo del centro storico della città. Il quartiere è inoltre attraversato dal famoso \"mercato del Capo\", uno dei mercato storici più frequentati e visitati di Palermo.    La popolazione ufficiale del quartiere è di 6.422 abitanti di cui 1.449 migranti e/o con origine migratoria (il 22,6% della popolazione proviene in gran parte dal Bangladesh). La maggior parte della popolazione (70,1%) ha un'età compresa tra 15 e 64 anni. Le principali sfide e problematiche che affronta il quartiere sono:                                 - basso livello di istruzione. La maggior parte dei residenti (72%) ha un basso livello di scolarizzazione;\n- alto tasso di disoccupazione (solo il 36,2% della popolazione è occupata);\n- alto livello di dipendenza strutturale dei giovani;\n- scarsa partecipazione e basso impegno civico.\n",
                 "image": "https://i.postimg.cc/76MDVzmg/DSCF1683.jpg",
                 "category": "Il Quartiere Capo",
                 "sub-category": "",
@@ -672,14 +672,14 @@
                     },
                     {
                         "url": "https://www.youtube.com/watch?v=twROYPR7Qwc",
-                        "title": "Il capo negli anni 80",
+                        "title": "Il capo negli anni ‘80",
                         "description": "Video sul capo girato negli anni 80",
                         "type": "video"
                     }
                 ],
                 "relationships": null,
                 "created_date": "2019-12-12T02:11:40.236-08:00",
-                "updated_date": "2020-05-22T03:47:34.844-07:00",
+                "updated_date": "2020-05-28T07:18:04.916-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -841,7 +841,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-25T09:51:42.783Z",
+        "published": "2020-05-28T14:20:40.033Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -858,7 +858,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 189,
+        "version": 191,
         "taxonomy": [
             {
                 "category": "Rete Capo",

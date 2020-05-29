@@ -88,6 +88,30 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Axel Springer Verlag Neubau",
+                "type": "Gebäude",
+                "start_date": "2016-11-30T16:00:00.000-08:00",
+                "end_date": "2020-06-20T16:00:00.000-07:00",
+                "description": "Die Axel Springer AG ist Deutschlands größtes Zeitungsunternehmen und drittgrößter Zeitschriftenverlag, der besonders für seine Tageszeitung BILD bekannt ist.\nNach dem Zweiten Weltkrieg gründete Axel Springer einen Verlag und errichtete 1966 das Axel-Springer-Hochhaus, das als Hauptsitz diente, direkt an der Berliner Mauer in der Südlichen Friedrichstadt (SF).\nDas Gebiet SF entwickelte sich bereits Ende des 19. Jahrhunderts - während der Industrialisierung des Drucks - zum Zeitungsviertel. Mehr als 500 Betriebe der Druckereibranche hatten ihren Sitz in dem Gebiet zwischen Landwehrkanal im Süden und Leipziger Straße im Norden, der Wilhelmstraße im Westen und der Lindenstraße im Osten. Die drei Berliner Großverlage Scherl, Ullstein und Mosse hatten ihre Hauptsitze ebenfalls hier (zwei davon in der Kochstraße).\nDie Bedeutsamkeit der Medien und ihre Rolle bei der Informationsverbreitung machten das Viertel zu einem wichtigen Ort von Spannungen und Konflikten wie zum Beispiel während der beiden Weltkriege, Mai '68 oder des Kalten Krieges                                                    Ab Oktober 2016 ist der Axel-Springer-Neubau - entworfen vom niederländischen Architekten Rem Koolhaas - im Bau und wird voraussichtlich im Jahr 2020 abgeschlossen sein.\nWelle: http://www.axelspringer-neubau.de/ und https://www.goethe.de/de/kul/med/20367736.html",
+                "image": "https://www.lindner-group.com/fileadmin/_processed_/7/d/csm_referenzen_axel-springer-rainer-taepper-architekturfotografie_caf91f3301.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Privater Raum",
+                "tags": [],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [],
+                "relationships": [
+                    "ca/taz_neubau#10"
+                ],
+                "created_date": "2020-04-09T05:42:20.593-07:00",
+                "updated_date": "2020-05-27T06:35:10.630-07:00",
+                "weight": 0,
+                "image_credit": "https://www.lindner-group.com/fileadmin/_processed_/7/d/csm_referenzen_axel-springer-rainer-taepper-architekturfotografie_caf91f3301.jpg"
+            },
+            "id": "ca/axel_springer_verlag_neubau#66"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Mehringplatz Anknipsen Interviews",
                 "type": "Mediensammlung",
                 "start_date": "2017-05-04T16:00:00.000-07:00",
@@ -1673,7 +1697,7 @@
                 "links": [
                     {
                         "url": "http://www.qm-mehringplatz.de/index.php?id=79",
-                        "title": "",
+                        "title": "Kiezstube",
                         "description": "",
                         "type": "website"
                     }
@@ -1685,9 +1709,9 @@
                     "ca/die_globale_e_v_#27"
                 ],
                 "created_date": "2019-09-27T01:27:56.456-07:00",
-                "updated_date": "2020-05-05T05:39:22.376-07:00",
+                "updated_date": "2020-05-29T06:04:45.375-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "Foto: M. Hühn"
             },
             "geometry": {
                 "type": "Point",
@@ -2218,7 +2242,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-14T14:03:12.351Z",
+        "published": "2020-05-29T13:06:35.134Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2228,7 +2252,7 @@
                 "type": "translation"
             }
         ],
-        "version": 86,
+        "version": 88,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2349,6 +2373,10 @@
         {
             "from": "ca/switch_on_mehringplatz#68",
             "to": "ca/mehringplatz_anknipsen_interviews#64"
+        },
+        {
+            "from": "ca/axel_springer_verlag_neubau#66",
+            "to": "ca/taz_neubau#10"
         },
         {
             "from": "ca/ehemalige_blumengro_markthalle_#65",

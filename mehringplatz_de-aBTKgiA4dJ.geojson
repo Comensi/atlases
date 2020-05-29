@@ -1567,9 +1567,9 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-10-30T03:56:51.891-07:00",
-                "updated_date": "2020-04-16T06:54:44.475-07:00",
+                "updated_date": "2020-05-29T06:46:09.275-07:00",
                 "weight": 0,
-                "image_credit": "http://text-der-stadt.blogspot.com/2014/09/facelifting-die-amerika.html"
+                "image_credit": "Foto: http://text-der-stadt.blogspot.com/2014/09/facelifting-die-amerika.html"
             },
             "geometry": {
                 "type": "Point",
@@ -2242,7 +2242,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-29T13:06:35.134Z",
+        "published": "2020-05-29T13:47:25.046Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2252,7 +2252,7 @@
                 "type": "translation"
             }
         ],
-        "version": 88,
+        "version": 89,
         "taxonomy": [
             {
                 "category": "Initiativen",

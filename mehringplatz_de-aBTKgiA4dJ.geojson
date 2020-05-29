@@ -1979,7 +1979,7 @@
                 "links": [
                     {
                         "url": "http://www.qm-mehringplatz.de/index.php?id=4",
-                        "title": "go to QM website",
+                        "title": "QM Website",
                         "description": "",
                         "type": "website"
                     }
@@ -1989,9 +1989,9 @@
                     "ca/kunstwelt_e_v_#48"
                 ],
                 "created_date": "2019-09-25T10:32:11.919-07:00",
-                "updated_date": "2019-12-16T15:41:09.945-08:00",
+                "updated_date": "2020-05-29T07:33:18.169-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "Foto: https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2242,7 +2242,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-29T13:47:25.046Z",
+        "published": "2020-05-29T14:37:09.492Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2252,7 +2252,7 @@
                 "type": "translation"
             }
         ],
-        "version": 89,
+        "version": 90,
         "taxonomy": [
             {
                 "category": "Initiativen",

@@ -4,6 +4,63 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "36x Kreuzberg - Memoryspiel",
+                "type": "Projekt",
+                "start_date": "",
+                "end_date": "",
+                "description": "36 x Kreuzberg - Memory-Spiel mit subjektiven Wahrzeichen\nEin Projekt im öffentlichen Raum von Querformat-b e.V.\n\nDie Memorykarte zeigt den ehemaligen Belle-Alliance-Platz um 1730 und ist eine von 36 Memorykarten, die im Rahmen von Stadtspaziergängen durch Kreuzberg entstanden sind. Gesellschaftliche Prozesse wie Globalisierung, Migration, verschwindender Raum und das Entstehen neuer Räume wurden durch Fotos und Skizzen dokumentiert. In einer künstlerischen Werkstatt entstand 36 x Kreuzberg, realisiert vom Verein Querformat-b.",
+                "image": "https://i.ibb.co/PNL2VQ7/mehringplatz-ehemaliger-belle-alliance-platz-2.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Öffentlicher Raum",
+                "tags": [
+                    "Kunst",
+                    "Öffentlicher Raum",
+                    "Geschichte ",
+                    "Kreativwirtschaft"
+                ],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [],
+                "relationships": [
+                    "ca/querformat_b_verein_f_r_kunst_und_kultur#75"
+                ],
+                "created_date": "2020-06-04T08:41:02.021-07:00",
+                "updated_date": "2020-06-04T08:51:55.600-07:00",
+                "weight": 0,
+                "image_credit": "Querformat-b"
+            },
+            "id": "ca/36x_kreuzberg_memoryspiel#76"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Querformat-b Verein für Kunst und Kultur",
+                "type": "Organisation",
+                "start_date": "1986-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Querformat-b ist ein gemeinnütziger Verein für Kunst und Kultur, der 1987 von Künstler:innen, Kunstpädagog:innen und Architekt:innen gegründet wurde. Sitz des Vereins ist das Kulturzentrum Statthaus Böcklerpark im Bezirk Friedrichshain-Kreuzberg. Von 1987 bis 2009 führte der Verein Querformat-b einmal jährlich die juryfreie Kunst- und Verkaufsausstellung QUERSCHNITT durch. Querformat plant und realisiert künstlerische Projekte und Ausstellungen im Bereich der Soziokultur, einem ausdifferenzierten kulturellen Praxisfeld außerhalb der etablierten Kunst, im Überschneidungsbereich von Bildender Kunst, Bildungsarbeit und Auseinandersetzung mit dem Menschen.\n\n2019 erschien die Publikation MAPPING QUERFORMAT-B 30 JAHRE VEREIN FÜR KUNST UND KULTUR im Verlag der Buchhandlung Walther König, gefördert von der Senatsverwaltung für Bildung, Jugend und Wissenschaft.\n",
+                "image": "https://i.ibb.co/hdTwMxB/guppe-querformat-b.png",
+                "category": "Akteur:innen",
+                "sub-category": "Vereine/ NGO",
+                "tags": [
+                    "Kultur",
+                    "Kunst",
+                    "Plattform"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [],
+                "relationships": [
+                    "ca/36x_kreuzberg_memoryspiel#76"
+                ],
+                "created_date": "2020-05-29T08:07:19.744-07:00",
+                "updated_date": "2020-06-04T08:53:20.048-07:00",
+                "weight": 0,
+                "image_credit": "Querformat-b"
+            },
+            "id": "ca/querformat_b_verein_f_r_kunst_und_kultur#75"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Sammlung “Mehringplatz Urban Sketches” ",
                 "type": "Projekt",
                 "start_date": "2017-09-08T16:00:00.000-07:00",
@@ -2465,7 +2522,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-06-04T13:14:00.518Z",
+        "published": "2020-06-04T15:56:19.298Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2475,7 +2532,7 @@
                 "type": "translation"
             }
         ],
-        "version": 95,
+        "version": 97,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2577,6 +2634,14 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/36x_kreuzberg_memoryspiel#76",
+            "to": "ca/querformat_b_verein_f_r_kunst_und_kultur#75"
+        },
+        {
+            "from": "ca/querformat_b_verein_f_r_kunst_und_kultur#75",
+            "to": "ca/36x_kreuzberg_memoryspiel#76"
+        },
         {
             "from": "ca/dragonerareal_modellprojekt_rathausblock#71",
             "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"

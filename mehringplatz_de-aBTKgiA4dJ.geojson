@@ -4,6 +4,64 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Sammlung “Mehringplatz Urban Sketches” ",
+                "type": "Projekt",
+                "start_date": "2017-09-08T16:00:00.000-07:00",
+                "end_date": "2017-09-08T16:00:00.000-07:00",
+                "description": "Urban Sketches ist eine Serie von kurzen Video-Postkarten zum Mehringplatz. Diese audiovisuellen Arbeiten wurden von den Teilnehmer:innen des EULER-Labors “ Mehringplatz Anknipsen” im Jahr 2017 erstellt. Die Teilnehmer:innen und Autor:innen der Arbeiten experimentierten mit Videos mit einem einfach zugänglichen Format, um  ihre Eindrücke und Beobachtungen festzuhalten oder eine Geschichte über die lokale Identität des Gebietes zu erzählen. Diese Videos ergänzen die bereits bestehende Sammlung historischer sowie analytischer Dokumente und bieten neue persönliche Interpretationen zum sozialräumlichen Umfeld des Mehringplatzes.\n",
+                "image": "http://www.tesserae.eu/wp-content/uploads/2018/06/US5-copia.jpg",
+                "category": "Geschichten",
+                "sub-category": "Urban Sketch ",
+                "tags": [
+                    "Kunst",
+                    "Medien",
+                    "mündliche Geschichten"
+                ],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/226707117",
+                        "title": "Urban Sketches: Development, Who Is It For",
+                        "description": "",
+                        "type": "video"
+                    },
+                    {
+                        "url": "https://vimeo.com/showcase/4678967",
+                        "title": "Urban Sketches: Alienation",
+                        "description": "",
+                        "type": "video"
+                    },
+                    {
+                        "url": "https://vimeo.com/showcase/4678967/video/225375320",
+                        "title": "Urban Sketches: Viktoria Versicherung",
+                        "description": "",
+                        "type": "video"
+                    },
+                    {
+                        "url": "https://vimeo.com/showcase/4678967/video/230890049",
+                        "title": "Urban Sketches: Places for all time",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/tesserae#69",
+                    "ca/switch_on_mehringplatz#68",
+                    "ca/urban_sketches_development_who_is_it_for#33",
+                    "ca/urban_sketches_places_for_all_times#34",
+                    "ca/urban_sketches_victoria_versicherung#35",
+                    "ca/urban_sketches_alienation#36"
+                ],
+                "created_date": "2020-04-22T03:24:03.685-07:00",
+                "updated_date": "2020-06-04T04:24:56.393-07:00",
+                "weight": 0,
+                "image_credit": "http://www.tesserae.eu/wp-content/uploads/2018/06/US5-copia.jpg"
+            },
+            "id": "ca/sammlung_mehringplatz_urban_sketches_#70"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Switch On Mehringplatz",
                 "type": "Projekt",
                 "start_date": "2016-08-31T16:00:00.000-07:00",
@@ -84,30 +142,6 @@
                 "image_credit": ""
             },
             "id": "ca/whenever_the_heart_skips_a_beat#67"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Axel Springer Verlag Neubau",
-                "type": "Gebäude",
-                "start_date": "2016-11-30T16:00:00.000-08:00",
-                "end_date": "2020-06-20T16:00:00.000-07:00",
-                "description": "Die Axel Springer AG ist Deutschlands größtes Zeitungsunternehmen und drittgrößter Zeitschriftenverlag, der besonders für seine Tageszeitung BILD bekannt ist.\nNach dem Zweiten Weltkrieg gründete Axel Springer einen Verlag und errichtete 1966 das Axel-Springer-Hochhaus, das als Hauptsitz diente, direkt an der Berliner Mauer in der Südlichen Friedrichstadt (SF).\nDas Gebiet SF entwickelte sich bereits Ende des 19. Jahrhunderts - während der Industrialisierung des Drucks - zum Zeitungsviertel. Mehr als 500 Betriebe der Druckereibranche hatten ihren Sitz in dem Gebiet zwischen Landwehrkanal im Süden und Leipziger Straße im Norden, der Wilhelmstraße im Westen und der Lindenstraße im Osten. Die drei Berliner Großverlage Scherl, Ullstein und Mosse hatten ihre Hauptsitze ebenfalls hier (zwei davon in der Kochstraße).\nDie Bedeutsamkeit der Medien und ihre Rolle bei der Informationsverbreitung machten das Viertel zu einem wichtigen Ort von Spannungen und Konflikten wie zum Beispiel während der beiden Weltkriege, Mai '68 oder des Kalten Krieges                                                    Ab Oktober 2016 ist der Axel-Springer-Neubau - entworfen vom niederländischen Architekten Rem Koolhaas - im Bau und wird voraussichtlich im Jahr 2020 abgeschlossen sein.\nWelle: http://www.axelspringer-neubau.de/ und https://www.goethe.de/de/kul/med/20367736.html",
-                "image": "https://www.lindner-group.com/fileadmin/_processed_/7/d/csm_referenzen_axel-springer-rainer-taepper-architekturfotografie_caf91f3301.jpg",
-                "category": "Veränderungen",
-                "sub-category": "Privater Raum",
-                "tags": [],
-                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
-                "links": [],
-                "relationships": [
-                    "ca/taz_neubau#10"
-                ],
-                "created_date": "2020-04-09T05:42:20.593-07:00",
-                "updated_date": "2020-05-27T06:35:10.630-07:00",
-                "weight": 0,
-                "image_credit": "https://www.lindner-group.com/fileadmin/_processed_/7/d/csm_referenzen_axel-springer-rainer-taepper-architekturfotografie_caf91f3301.jpg"
-            },
-            "id": "ca/axel_springer_verlag_neubau#66"
         },
         {
             "type": "Feature",
@@ -472,6 +506,42 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Urban Sketches: Alienation",
+                "type": "Video",
+                "start_date": "2017-09-08T16:00:00.000-07:00",
+                "end_date": "2017-09-08T16:00:00.000-07:00",
+                "description": "Der Mehringplatz ist ein zentrales Gebiet in Berlin, an dem viele erstaunliche und eher untypische Orte zusammenkommen. Der Autor dieses Urban Sketches zeigt einige dieser Orte, die oft leer stehen, und fragt sich, welche Bedeutung die Bewohner:innen ihnen beimessen.       \n\nAutor: Alessandro De Simone\nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms\n",
+                "image": "https://i.vimeocdn.com/video/651039369.jpg",
+                "category": "Geschichten",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "Öffentlicher Raum",
+                    "Medien"
+                ],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/230464313",
+                        "title": "Urban Sketches: Alienation",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/urban_sketches_development_who_is_it_for#33",
+                    "ca/urban_sketches_places_for_all_times#34",
+                    "ca/urban_sketches_victoria_versicherung#35"
+                ],
+                "created_date": "2019-11-09T03:07:33.603-08:00",
+                "updated_date": "2020-06-04T04:26:11.463-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/urban_sketches_alienation#36"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Candy Hartmann - Quartiersmanagement ",
                 "type": "Interview",
                 "start_date": "2017-08-13T16:00:00.000-07:00",
@@ -689,6 +759,37 @@
                 ]
             },
             "id": "ca/dragonerareal_modellprojekt_rathausblock#71"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Axel Springer Verlag Neubau",
+                "type": "Gebäude",
+                "start_date": "2016-11-30T16:00:00.000-08:00",
+                "end_date": "2020-06-20T16:00:00.000-07:00",
+                "description": "Die Axel Springer AG ist Deutschlands größtes Zeitungsunternehmen und drittgrößter Zeitschriftenverlag, der besonders für seine Tageszeitung BILD bekannt ist.\nNach dem Zweiten Weltkrieg gründete Axel Springer einen Verlag und errichtete 1966 das Axel-Springer-Hochhaus, das als Hauptsitz diente, direkt an der Berliner Mauer in der Südlichen Friedrichstadt (SF).\nDas Gebiet SF entwickelte sich bereits Ende des 19. Jahrhunderts - während der Industrialisierung des Drucks - zum Zeitungsviertel. Mehr als 500 Betriebe der Druckereibranche hatten ihren Sitz in dem Gebiet zwischen Landwehrkanal im Süden und Leipziger Straße im Norden, der Wilhelmstraße im Westen und der Lindenstraße im Osten. Die drei Berliner Großverlage Scherl, Ullstein und Mosse hatten ihre Hauptsitze ebenfalls hier (zwei davon in der Kochstraße).\nDie Bedeutsamkeit der Medien und ihre Rolle bei der Informationsverbreitung machten das Viertel zu einem wichtigen Ort von Spannungen und Konflikten wie zum Beispiel während der beiden Weltkriege, Mai '68 oder des Kalten Krieges                                                    Ab Oktober 2016 ist der Axel-Springer-Neubau - entworfen vom niederländischen Architekten Rem Koolhaas - im Bau und wird voraussichtlich im Jahr 2020 abgeschlossen sein.\nWelle: http://www.axelspringer-neubau.de/ und https://www.goethe.de/de/kul/med/20367736.html",
+                "image": "https://www.lindner-group.com/fileadmin/_processed_/7/d/csm_referenzen_axel-springer-rainer-taepper-architekturfotografie_caf91f3301.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Privater Raum",
+                "tags": [],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [],
+                "relationships": [
+                    "ca/taz_neubau#10"
+                ],
+                "created_date": "2020-04-09T05:42:20.593-07:00",
+                "updated_date": "2020-05-27T06:35:10.630-07:00",
+                "weight": 0,
+                "image_credit": "https://www.lindner-group.com/fileadmin/_processed_/7/d/csm_referenzen_axel-springer-rainer-taepper-architekturfotografie_caf91f3301.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3985,
+                    52.5086
+                ]
+            },
+            "id": "ca/axel_springer_verlag_neubau#66"
         },
         {
             "type": "Feature",
@@ -2242,7 +2343,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-05-29T16:06:20.537Z",
+        "published": "2020-06-04T11:28:01.607Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2252,7 +2353,7 @@
                 "type": "translation"
             }
         ],
-        "version": 92,
+        "version": 94,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2361,6 +2462,30 @@
         {
             "from": "ca/dragonerareal_modellprojekt_rathausblock#71",
             "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "from": "ca/sammlung_mehringplatz_urban_sketches_#70",
+            "to": "ca/tesserae#69"
+        },
+        {
+            "from": "ca/sammlung_mehringplatz_urban_sketches_#70",
+            "to": "ca/switch_on_mehringplatz#68"
+        },
+        {
+            "from": "ca/sammlung_mehringplatz_urban_sketches_#70",
+            "to": "ca/urban_sketches_development_who_is_it_for#33"
+        },
+        {
+            "from": "ca/sammlung_mehringplatz_urban_sketches_#70",
+            "to": "ca/urban_sketches_places_for_all_times#34"
+        },
+        {
+            "from": "ca/sammlung_mehringplatz_urban_sketches_#70",
+            "to": "ca/urban_sketches_victoria_versicherung#35"
+        },
+        {
+            "from": "ca/sammlung_mehringplatz_urban_sketches_#70",
+            "to": "ca/urban_sketches_alienation#36"
         },
         {
             "from": "ca/switch_on_mehringplatz#68",
@@ -2537,6 +2662,18 @@
         {
             "from": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
             "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
+        },
+        {
+            "from": "ca/urban_sketches_alienation#36",
+            "to": "ca/urban_sketches_development_who_is_it_for#33"
+        },
+        {
+            "from": "ca/urban_sketches_alienation#36",
+            "to": "ca/urban_sketches_places_for_all_times#34"
+        },
+        {
+            "from": "ca/urban_sketches_alienation#36",
+            "to": "ca/urban_sketches_victoria_versicherung#35"
         },
         {
             "from": "ca/candy_hartmann_quartiersmanagement_#32",

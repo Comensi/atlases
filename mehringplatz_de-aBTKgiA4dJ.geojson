@@ -510,7 +510,7 @@
                 "type": "Video",
                 "start_date": "2017-09-08T16:00:00.000-07:00",
                 "end_date": "2017-09-08T16:00:00.000-07:00",
-                "description": "Der Mehringplatz ist ein zentrales Gebiet in Berlin, an dem viele erstaunliche und eher untypische Orte zusammenkommen. Der Autor dieses Urban Sketches zeigt einige dieser Orte, die oft leer stehen, und fragt sich, welche Bedeutung die Bewohner:innen ihnen beimessen.       \n\nAutor: Alessandro De Simone\nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms\n",
+                "description": "Der Mehringplatz ist ein zentrales Gebiet in Berlin, an dem viele erstaunliche und eher untypische Orte zusammenkommen. Der Autor dieses Urban Sketches zeigt einige dieser Orte, die oft leer stehen, und fragt sich, welche Bedeutung die Bewohner:innen ihnen beimessen.       \n\nAutor: Alessandro De Simone\nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms",
                 "image": "https://i.vimeocdn.com/video/651039369.jpg",
                 "category": "Geschichten",
                 "sub-category": "Place narratives ",
@@ -533,11 +533,88 @@
                     "ca/urban_sketches_victoria_versicherung#35"
                 ],
                 "created_date": "2019-11-09T03:07:33.603-08:00",
-                "updated_date": "2020-06-04T04:26:11.463-07:00",
+                "updated_date": "2020-06-04T04:39:58.305-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "Alessandro De Simone"
             },
             "id": "ca/urban_sketches_alienation#36"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urban Sketches: Places for all times",
+                "type": "Video",
+                "start_date": "2017-06-30T16:00:00.000-07:00",
+                "end_date": "2017-06-30T16:00:00.000-07:00",
+                "description": "Die Autorin dieses Urban Sketches erkundet die Straßen der Südlichen Friedrichstadt und zeigt dabei die Bedeutung der städtischen Infrastruktur auf, die uns täglich umgibt.\n\nAutorin: Rasha Kanjarawi \nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms",
+                "image": "https://i.vimeocdn.com/video/651562520.jpg",
+                "category": "Geschichten",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "Öffentlicher Raum",
+                    "Kultur",
+                    "soziale Inklusion",
+                    "mündliche Geschichten"
+                ],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/showcase/4678967/video/230890049",
+                        "title": "Urban Sketches",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/sammlung_mehringplatz_urban_sketches_#70",
+                    "ca/urban_sketches_alienation#36",
+                    "ca/urban_sketches_victoria_versicherung#35",
+                    "ca/urban_sketches_development_who_is_it_for#33"
+                ],
+                "created_date": "2019-11-09T02:27:23.642-08:00",
+                "updated_date": "2020-06-04T06:10:01.618-07:00",
+                "weight": 0,
+                "image_credit": "Rasha Kanjarawi "
+            },
+            "id": "ca/urban_sketches_places_for_all_times#34"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urban Sketches: Development, Who Is It For",
+                "type": "Video",
+                "start_date": "2017-07-06T16:00:00.000-07:00",
+                "end_date": "2017-07-06T16:00:00.000-07:00",
+                "description": "Die Autorin dieses Urban Sketches erzählt von Schwierigkeiten, denen einige Mieter:innen und Ladenbesitzer:innen am Mehringplatz gegenüberstehen und von Maßnahmen, die sie bezüglich der Entwicklung der Nachbarschaft ergreifen. \n\nAutorin: Nathalie Bekdache\nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms",
+                "image": "https://i.vimeocdn.com/video/646399950.jpg",
+                "category": "Geschichten",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "Stadterneuerung",
+                    "mündliche Geschichten",
+                    "soziale Inklusion"
+                ],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/manage/226707117/general",
+                        "title": "Urban Sketches",
+                        "description": "Urban Sketches is a series of short video postcards from Mehringplatz",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/sammlung_mehringplatz_urban_sketches_#70",
+                    "ca/urban_sketches_alienation#36",
+                    "ca/urban_sketches_victoria_versicherung#35",
+                    "ca/urban_sketches_places_for_all_times#34"
+                ],
+                "created_date": "2019-11-07T07:23:13.358-08:00",
+                "updated_date": "2020-06-04T04:38:32.650-07:00",
+                "weight": 0,
+                "image_credit": "Nathalie Bekdache"
+            },
+            "id": "ca/urban_sketches_development_who_is_it_for#33"
         },
         {
             "type": "Feature",
@@ -1587,6 +1664,51 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Urban Sketches: Victoria Versicherung",
+                "type": "Video",
+                "start_date": "2017-06-30T16:00:00.000-07:00",
+                "end_date": "2017-06-30T16:00:00.000-07:00",
+                "description": "Paula Mangold und Vicky Kiefer analysieren mit ihrem Video das alte Gebäude der \"Victoria Versicherung\" aus architektonischer Sicht, das zwischen 1893 und 1913 erbaut wurde. Viele Ornamente und Details dieses Gebäudes zeugen von einem neobarocken Stil.\n\nDrehbuch / Schnitt und Bilder: Paula Mangold, Vicky Kiefer\nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms",
+                "image": "https://i.vimeocdn.com/video/646400350.jpg\n",
+                "category": "Geschichten",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "Stadterneuerung",
+                    "Architektur",
+                    "Kultur"
+                ],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/225375320",
+                        "title": "Urban Sketches",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/urban_sketches_development_who_is_it_for#33",
+                    "ca/urban_sketches_places_for_all_times#34",
+                    "ca/urban_sketches_alienation#36",
+                    "ca/sammlung_mehringplatz_urban_sketches_#70"
+                ],
+                "created_date": "2019-11-09T02:38:47.634-08:00",
+                "updated_date": "2020-06-04T06:11:45.617-07:00",
+                "weight": 0,
+                "image_credit": "Paula Mangold, Vicky Kiefer"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39625,
+                    52.50373
+                ]
+            },
+            "id": "ca/urban_sketches_victoria_versicherung#35"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Karin Lücker - Café MaDaMe ",
                 "type": "Interview",
                 "start_date": "2017-03-16T17:00:00.000-07:00",
@@ -2343,7 +2465,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-06-04T11:28:01.607Z",
+        "published": "2020-06-04T13:14:01.573Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2353,7 +2475,7 @@
                 "type": "translation"
             }
         ],
-        "version": 94,
+        "version": 95,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2674,6 +2796,54 @@
         {
             "from": "ca/urban_sketches_alienation#36",
             "to": "ca/urban_sketches_victoria_versicherung#35"
+        },
+        {
+            "from": "ca/urban_sketches_victoria_versicherung#35",
+            "to": "ca/urban_sketches_development_who_is_it_for#33"
+        },
+        {
+            "from": "ca/urban_sketches_victoria_versicherung#35",
+            "to": "ca/urban_sketches_places_for_all_times#34"
+        },
+        {
+            "from": "ca/urban_sketches_victoria_versicherung#35",
+            "to": "ca/urban_sketches_alienation#36"
+        },
+        {
+            "from": "ca/urban_sketches_victoria_versicherung#35",
+            "to": "ca/sammlung_mehringplatz_urban_sketches_#70"
+        },
+        {
+            "from": "ca/urban_sketches_places_for_all_times#34",
+            "to": "ca/sammlung_mehringplatz_urban_sketches_#70"
+        },
+        {
+            "from": "ca/urban_sketches_places_for_all_times#34",
+            "to": "ca/urban_sketches_alienation#36"
+        },
+        {
+            "from": "ca/urban_sketches_places_for_all_times#34",
+            "to": "ca/urban_sketches_victoria_versicherung#35"
+        },
+        {
+            "from": "ca/urban_sketches_places_for_all_times#34",
+            "to": "ca/urban_sketches_development_who_is_it_for#33"
+        },
+        {
+            "from": "ca/urban_sketches_development_who_is_it_for#33",
+            "to": "ca/sammlung_mehringplatz_urban_sketches_#70"
+        },
+        {
+            "from": "ca/urban_sketches_development_who_is_it_for#33",
+            "to": "ca/urban_sketches_alienation#36"
+        },
+        {
+            "from": "ca/urban_sketches_development_who_is_it_for#33",
+            "to": "ca/urban_sketches_victoria_versicherung#35"
+        },
+        {
+            "from": "ca/urban_sketches_development_who_is_it_for#33",
+            "to": "ca/urban_sketches_places_for_all_times#34"
         },
         {
             "from": "ca/candy_hartmann_quartiersmanagement_#32",

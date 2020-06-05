@@ -4,6 +4,45 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "La grotta dei Beati Paoli",
+                "type": "Luogo",
+                "start_date": "",
+                "end_date": "",
+                "description": "I Beati Paoli ebbero la sede principale sulla via ora intestata ad essi dietro la chiesuola di Santa Maria di Gesù dove s’apriva una grotta ora murata e interrata. Sotto il vicolo degli Orfani s’incalanavano per lunghi condotti alti 2 metri e larghi 1,50 metri che si aprivano con pozzi sotto le scuole dei Calasanzio (sede del Liceo Scientifico Statale Cannizzaro sino al 1955) sotto l’attuale Istituto Tecnico per Geometri Parlatore, sotto palazzo Geraci, sotto la chiesa di San Matteo ed il Monastero delle Vergini. \nLa società segreta sarebbe nata anche perché la giustizia amministrata dallo stato era molto spesso a servizio dei potenti. Il popolo, di conseguenza, non potendosi fare giustizia da solo, poiché debole, si affida ad una setta che agiva nell’ombra e con la massima segretezza. Nelle discussioni con i cittadini é spesso emersa la memoria collettiva dell’accesso alla grotta da Vicolo degli Orfani e l’idea della sua valorizzazione a fini turististici. La grotta é infatti attualmente non visitabile per il grande pubblico.\n\n",
+                "image": "https://i.postimg.cc/ncWGRnXt/IMG-20200527-112743.jpg",
+                "category": "Storie del quartiere",
+                "sub-category": "memorie",
+                "tags": [],
+                "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
+                "links": [
+                    {
+                        "url": "http://www.palermoweb.com/sottopalermo/grotte/paoli.htm",
+                        "title": "Sotto Palermo",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/vicolo_degli_orfani#75",
+                    "ca/laboratori_di_quartiere#76"
+                ],
+                "created_date": "2020-05-13T02:50:02.685-07:00",
+                "updated_date": "2020-06-05T03:22:50.518-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3555,
+                    38.1168
+                ]
+            },
+            "id": "ca/la_grotta_dei_beati_paoli#89"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Cortile Ecce Homo",
                 "type": "Luogo",
                 "start_date": "",
@@ -841,7 +880,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-05-28T14:20:40.033Z",
+        "published": "2020-06-05T10:33:36.753Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -858,7 +897,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 191,
+        "version": 198,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -924,6 +963,14 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/la_grotta_dei_beati_paoli#89",
+            "to": "ca/vicolo_degli_orfani#75"
+        },
+        {
+            "from": "ca/la_grotta_dei_beati_paoli#89",
+            "to": "ca/laboratori_di_quartiere#76"
+        },
         {
             "from": "ca/cortile_ecce_homo#88",
             "to": "ca/laboratori_di_quartiere#76"

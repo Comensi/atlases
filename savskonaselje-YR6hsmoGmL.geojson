@@ -159,7 +159,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Frizerjev ni nikoli preveč in tudi v Savskem naselju jih najdemo kar nekaj. Najboljšega si izbere vsak po svojem okusu, pri Tamara team pa glas ljudstva pravi, da poskrbijo tudi za vaše živce, ko pridejo na vrsto za striženje vaši najmlajši.\nOdpiralni čas: ponedeljek - petek 07:00 - 20:00, sobota 07:00 - 13:00",
-                "image": "https://scontent.flju2-1.fna.fbcdn.net/v/t1.0-9/s960x960/93799034_3029277890427199_3664434065081106432_o.jpg?_nc_cat=109&_nc_sid=9e2e56&_nc_oc=AQm7ndBs6LFkTBwDAxU-zkI5_nE6QZQE9O5zWpwzvVPpW_8DfTC7rCBVL0Z0yUBd8K0&_nc_ht=scontent.flju2-1.fna&_nc_tp=7&oh=569cef64c024beb1eac0c4f289cc6a2f&oe=5ED25EAD",
+                "image": "https://i.postimg.cc/Z5d4fKCb/unnamed-1.png",
                 "category": "Pri sosedih",
                 "sub-category": "",
                 "tags": [
@@ -176,7 +176,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-04-30T07:58:42.173-07:00",
-                "updated_date": "2020-04-30T08:06:56.209-07:00",
+                "updated_date": "2020-06-10T05:39:27.375-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -341,7 +341,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "(dostava po naročilu) Četudi lokalne tržnice v Savcu ni, za lokalne dobrote Pod kozolcem poskrbi. V samooskrbni skupnosti Pod kozolcem sodelujejo s številnimi slovenskimi kmetovalci, ki sledijo recepturam naših babic in ponujajo pester nabor svežih pridelkov.\nKontakt: sadovi.narave@gmail.com ali 031 656 121",
-                "image": "https://scontent.flju2-2.fna.fbcdn.net/v/t1.0-9/391456_164499003675467_217942567_n.jpg?_nc_cat=102&_nc_sid=85a577&_nc_oc=AQmat5PPoDNhCRwXEEamyH-vDQTqiWXR3nmEzp67gjqY0PP2QtkWR-Z2BkpwZJEK7uY&_nc_ht=scontent.flju2-2.fna&oh=df1d8c91baeba0704f91e1316b0e0563&oe=5ED0F528",
+                "image": "https://i.postimg.cc/Y06y4Z9w/IMG-6647.jpg",
                 "category": "Savska ponudba",
                 "sub-category": "Trgovina",
                 "tags": [
@@ -358,7 +358,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-04-30T07:24:34.775-07:00",
-                "updated_date": "2020-04-30T07:36:14.283-07:00",
+                "updated_date": "2020-06-10T05:42:53.021-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -953,7 +953,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Učenje in rekreativna vadba Qigong in Taijiquan. Vsak četrtek ob 18. 00 v Knjižnici REČI.",
-                "image": "https://bit.ly/2wN5nwt",
+                "image": "https://i.postimg.cc/4x7NrQFT/82923510-1836466969811867-5374434246981058560-o.jpg",
                 "category": "Savski lokalci",
                 "sub-category": "Kulturno društvo",
                 "tags": [
@@ -973,7 +973,7 @@
                     "ca/knji_nica_re_i#72"
                 ],
                 "created_date": "2020-02-27T05:31:21.094-08:00",
-                "updated_date": "2020-04-22T05:43:33.827-07:00",
+                "updated_date": "2020-06-10T05:38:54.398-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1659,7 +1659,7 @@
         "id": "savskonaselje",
         "description": "Zemljevid priporočil za savski vsakdan",
         "image": "https://bit.ly/2AFXoDx",
-        "published": "2020-06-10T12:33:39.747Z",
+        "published": "2020-06-10T12:43:46.731Z",
         "links": [
             {
                 "title": "Comensi projekt",
@@ -1683,7 +1683,7 @@
                 "type": ""
             }
         ],
-        "version": 64,
+        "version": 65,
         "taxonomy": [
             {
                 "category": "Savska ponudba",

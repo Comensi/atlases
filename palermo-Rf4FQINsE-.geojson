@@ -4,6 +4,42 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "MASCI",
+                "type": "Organizzazione",
+                "start_date": "",
+                "end_date": "",
+                "description": "MASCI Palermo 3 Aquile randagie é il movimento scout adulti che ha ripreso con un grande impegno la scuola Gregorio Ugdulena (in stato di abbandono e degrado da alcuni anni) per creare un nuovo centro sociale servizi per ragazzi down e ragazzi disabili. Il centro sarà adibito a laboratori teatrali, musicali, di cucina e tipografia.\nIl centro sara’ inoltre aperto ad attività ed idee da sviluppare con il quartiere. Il movimento Masci ha dato la sua disponibilita’ alla colaborazine con altre organizzazioni del quartiere, come Bond of Union e Naka, ed ha già partecipato alle prime riunioni della Rete Capo prima della chiusura dovuta all’emergenza covid.",
+                "image": "https://i.postimg.cc/9Q6sX86s/DSC04807.jpg",
+                "category": "Rete Capo",
+                "sub-category": "Terzo settore",
+                "tags": [],
+                "category-description": "associazioni e servizi presenti nel quartiere",
+                "links": [
+                    {
+                        "url": "http://mascisicilia.altervista.org/joomla/",
+                        "title": "MASCI ",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": null,
+                "created_date": "2020-06-10T03:28:53.085-07:00",
+                "updated_date": "2020-06-10T03:44:19.102-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3547,
+                    38.1191
+                ]
+            },
+            "id": "ca/masci#91"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "La grotta dei Beati Paoli",
                 "type": "Luogo",
                 "start_date": "",
@@ -880,7 +916,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-06-05T10:33:36.753Z",
+        "published": "2020-06-10T10:58:06.154Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -897,7 +933,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 198,
+        "version": 206,
         "taxonomy": [
             {
                 "category": "Rete Capo",

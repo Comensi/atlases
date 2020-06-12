@@ -356,31 +356,43 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "GEWOBAG",
-                "type": "",
-                "start_date": "",
+                "title": "Gewobag",
+                "type": "Organisation",
+                "start_date": "1919-05-13T16:00:00.000-07:00",
                 "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
+                "description": "Die Gewobag ist ein kommunales Wohnungsunternehmen, das mit rund 62.000 Wohnungen über 100.000 Mieter:innen ein Zuhause in Berlin gibt. Durch das Bauen, Kaufen und Modernisieren von Wohnungen verfügt die Gewobag über ein großes Wohnungsangebot und setzt sich für eine vielfältige Mieter:innenschaft in Berlin und bezahlbaren Wohnraum ein. Am Mehringplatz besitzt die Gewobag aktuell ca. 1.300 Wohnungen; durch Zukauf und Neubau wird sich diese Kennzahl bald auf ca. 1.800 Wohnungen erhöhen.\n\nDie Gewobag arbeitet auch an innovativen Ideen zum Klimaschutz, wirtschaftlicher Effizienz (Ausstattung von 1.500 Gewerbeeinheiten) und sozialer Quartiersentwicklung durch die Stärkung des Zusammenhalts der Nachbarschaft. Dementsprechend übernimmt die Gewobag einige soziale Aktivitäten wie am Mehringplatz mit der Betreibung der \"Kiezstube\" oder den jährlich traditionellen Winter- und Sommerfesten, bei denen sich Bewohner:innen, Gewerbetreibende und Organisationen zum gemeinsamen Austausch treffen können. \nZudem steht ein Mieterbeirat den Bewohner:innen bei Fragen und Anregungen als Ansprechpartner zur Verfügung.    \n                                                                                                                                                 Quelle: https://www.gewobag.de  ",
+                "image": "https://www.gewobag.de/wp-content/uploads/presse/2015/unternehmen_presseinformation_kiezstube_mehringplatz_1.jpg",
+                "category": "Akteur:innen",
+                "sub-category": "Developers and enterprises",
+                "tags": [
+                    "Wohnen"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
                     {
                         "url": "https://www.gewobag.de",
-                        "title": "",
+                        "title": "Gewobag",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.gewobag.de/ueber-uns/ueber-die-gewobag/historie/",
+                        "title": "Geschichte der Gewobag",
                         "description": "",
                         "type": "website"
                     }
                 ],
-                "relationships": [],
-                "created_date": "2020-01-18T09:43:38.087-08:00",
-                "updated_date": "2020-05-05T05:38:13.682-07:00",
-                "weight": -2,
-                "image_credit": ""
+                "relationships": [
+                    "ca/kiezstube_mehringplatz#25",
+                    "ca/quartiersmanagement_am_mehringplatz_#14",
+                    "ca/mehringplatz#39"
+                ],
+                "created_date": "2020-01-18T09:44:19.885-08:00",
+                "updated_date": "2020-06-12T04:20:49.757-07:00",
+                "weight": 0,
+                "image_credit": "https://www.gewobag.de/wp-content/uploads/presse/2015/unternehmen_presseinformation_kiezstube_mehringplatz_1.jpg"
             },
-            "id": "ca/gewobag#53"
+            "id": "ca/gewobag#54"
         },
         {
             "type": "Feature",
@@ -550,7 +562,7 @@
                     "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
                     "ca/quartiersmanagement_am_mehringplatz_#14",
                     "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-                    "ca/gewobag#53",
+                    "",
                     "ca/ehemalige_blumengro_markthalle_#65"
                 ],
                 "created_date": "2019-11-21T03:30:20.027-08:00",
@@ -1521,6 +1533,46 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Impact Hub Berlin ",
+                "type": "Ort",
+                "start_date": "2016-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Der “Impact Hub Berlin” ist ein Co-Working-Space am Mehringplatz und ein Ort der sozialen Innovation. Dieser Raum unterstützt Menschen vor Ort, ihre innovativen Ideen auszugestalten und zu einem Projekt zu formen. Als Mitglied des größten globalen Netzwerks für soziale Innovation (mehr als 90 Hubs in 54 Ländern der Welt) berät, schult und fördert das Impact Hub-Team den Austausch von Personen miteinander, sodass ihre Community derzeit bereits 17.000 Mitglieder umfasst. Dieser Ort ermöglicht es der lokalen Gemeinschaft, ihre Ideen für nachhaltige Projekte zu entwickeln.",
+                "image": "https://berlin.impacthub.net/wp-content/uploads/2018/05/DSC_2255-e1526304748259.jpg",
+                "category": "Akteur:innen",
+                "sub-category": "Kreativwirtschaft",
+                "tags": [
+                    "Büro",
+                    "Plattform",
+                    "Kreativwirtschaft"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [
+                    {
+                        "url": "https://berlin.impacthub.net/de/",
+                        "title": "Impact Hub",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-11-26T07:02:48.725-08:00",
+                "updated_date": "2020-06-12T04:27:05.133-07:00",
+                "weight": 0,
+                "image_credit": "Berlin Impact Hub"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3914,
+                    52.5001
+                ]
+            },
+            "id": "ca/impact_hub_berlin_#46"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Mehringplatz",
                 "type": "Ort",
                 "start_date": "1968-06-20T16:00:00.000-07:00",
@@ -1553,7 +1605,7 @@
                 ],
                 "relationships": [
                     "ca/_das_rondell_#45",
-                    "ca/gewobag#53",
+                    "",
                     "ca/kiezstube_mehringplatz#25",
                     "ca/caf_madame#26"
                 ],
@@ -1984,7 +2036,7 @@
                 ],
                 "relationships": [
                     "ca/mehringplatz#39",
-                    "ca/gewobag#53",
+                    "",
                     "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
                     "ca/die_globale_e_v_#27"
                 ],
@@ -2522,7 +2574,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-06-04T15:56:19.298Z",
+        "published": "2020-06-12T11:29:50.503Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2532,7 +2584,7 @@
                 "type": "translation"
             }
         ],
-        "version": 97,
+        "version": 98,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2771,6 +2823,18 @@
             "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
         },
         {
+            "from": "ca/gewobag#54",
+            "to": "ca/kiezstube_mehringplatz#25"
+        },
+        {
+            "from": "ca/gewobag#54",
+            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
+            "from": "ca/gewobag#54",
+            "to": "ca/mehringplatz#39"
+        },
+        {
             "from": "ca/repair_cafe_#52",
             "to": "ca/kiezstube_mehringplatz#25"
         },
@@ -2820,7 +2884,7 @@
         },
         {
             "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "ca/gewobag#53"
+            "to": ""
         },
         {
             "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
@@ -2832,7 +2896,7 @@
         },
         {
             "from": "ca/mehringplatz#39",
-            "to": "ca/gewobag#53"
+            "to": ""
         },
         {
             "from": "ca/mehringplatz#39",
@@ -2964,7 +3028,7 @@
         },
         {
             "from": "ca/kiezstube_mehringplatz#25",
-            "to": "ca/gewobag#53"
+            "to": ""
         },
         {
             "from": "ca/kiezstube_mehringplatz#25",

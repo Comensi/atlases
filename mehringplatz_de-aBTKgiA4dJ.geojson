@@ -974,7 +974,7 @@
                 "relationships": [
                     "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
                     "ca/kreative_raumpioniere_am_mehringplatz#41",
-                    "ca/das_konzentrationslager_gutschow_keller_#61",
+                    "ca/konzentrationslager_gutschow_keller_#61",
                     "ca/metropolenhaus_am_judisches_museum#19"
                 ],
                 "created_date": "2020-04-03T06:18:05.316-07:00",
@@ -1240,27 +1240,29 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Das Konzentrationslager \"Gutschow-Keller\"",
+                "title": "Konzentrationslager \"Gutschow-Keller\"",
                 "type": "Monument",
                 "start_date": "1933-02-28T16:00:00.000-08:00",
                 "end_date": "1933-05-30T15:00:00.000-08:00",
-                "description": "Auf dem Bild bewacht SA-Mann Gefangene in einem Schuppen des Hinterhofs, 6. März 1933. Hier befand sich das frühe Konzentrationslager \"Gutschow-Keller\"\n\nDie Lebensmittelhändler Hermann und Paul Gutschow, denen auch der gegenüberliegende repräsentative Gründerzeitbau Friedrichstraße 17 gehörte, stellen dem \"SA-Sturmbann III/8\" bereits 1932 Lager und Keller in zweiten Hof ihres Gebäudetraktes in der Friedrichstraße 234 zur Verfügung. Diese Räume waren von März bis Mai 1933 eines der ersten Berliner Konzentrationslager - von Häftlingen auch \"Blutburg\" genaant. Hunderte Gewerkschafter, Kommunisten, Sozialdemokraten und Juden wurden in Wohnungen, Arbeitsstätten und auf offener Straße ergriffen und hierher verschleppt.",
+                "description": "Das Foto zeigt einen historisch bedeutsamen Teil des Mehringplatzes: Zu sehen ist ein SA-Mann, der Gefangene in einem Schuppen des Hinterhofs am 6. März 1933 bewacht. Hier befand sich das frühere Konzentrationslager \"Gutschow-Keller\".\n\nDie Lebensmittelhändler Hermann und Paul Gutschow, denen auch der gegenüberliegende repräsentative Gründerzeitbau Friedrichstraße 17 gehörte, stellten bereits 1932 dem \"SA-Sturmbann III/8\" die Lager und Keller im zweiten Hof ihres Gebäudetraktes in der Friedrichstraße 234 zur Verfügung. Diese Räume waren von März bis Mai 1933 eines der ersten Berliner Konzentrationslager, das von Häftlingen auch \"Blutburg\" genannt wurde. Hunderte Juden, Gewerkschafter:innen, Kommunisten, und Sozialdemokraten wurden in Wohnungen, Arbeitsstätten und auf offener Straße ergriffen und hierher verschleppt.",
                 "image": "https://i.ibb.co/S0gGzzJ/Kozentrationslager-Gutschow-Keller.jpg",
                 "category": "Erinnerungen",
                 "sub-category": "Gedenk- oder Informationstafeln",
-                "tags": [],
+                "tags": [
+                    "Geschichte "
+                ],
                 "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
                 "links": [
                     {
                         "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/gedenktafel-anzeige/tid/konzentrationslager/",
-                        "title": "gedenktafel",
+                        "title": "Gedenktafeln in Berlin",
                         "description": "",
                         "type": "website"
                     }
                 ],
                 "relationships": [],
                 "created_date": "2020-03-25T06:38:06.702-07:00",
-                "updated_date": "2020-03-25T10:51:01.524-07:00",
+                "updated_date": "2020-06-12T04:40:08.321-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1271,7 +1273,7 @@
                     52.5025
                 ]
             },
-            "id": "ca/das_konzentrationslager_gutschow_keller_#61"
+            "id": "ca/konzentrationslager_gutschow_keller_#61"
         },
         {
             "type": "Feature",
@@ -2574,7 +2576,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-06-12T11:29:50.503Z",
+        "published": "2020-06-12T13:10:53.397Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2752,7 +2754,7 @@
         },
         {
             "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/das_konzentrationslager_gutschow_keller_#61"
+            "to": "ca/konzentrationslager_gutschow_keller_#61"
         },
         {
             "from": "ca/ehemalige_blumengro_markthalle_#65",

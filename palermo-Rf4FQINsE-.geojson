@@ -4,7 +4,43 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "MASCI",
+                "title": "La pupaccena",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "Un antico dolce, tipico della festa dei morti, tramandato per tante generazioni ancora realizzato al Capo. La pupaccena é una tradizione del quartiere ed é emerso in tante conversazioni con gli abitanti come esistevano diverse botteghe nel quartiere, anche nel vicolo degli orfani, dedicate alla realizzazioni dei pupi di zucchero. La bottega in vicolo abbadia resta l’ultima dedicata alla sua produzione.",
+                "image": "https://i.postimg.cc/0j7H9h88/pupaccena.jpg",
+                "category": "Storie del quartiere",
+                "sub-category": "Tradizioni culinarie",
+                "tags": [],
+                "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
+                "links": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=Kv6xpuVBRpw",
+                        "title": "Pupi di zucchero",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": null,
+                "created_date": "2020-06-12T08:27:42.210-07:00",
+                "updated_date": "2020-06-12T08:42:36.144-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3537,
+                    38.1179
+                ]
+            },
+            "id": "ca/la_pupaccena#92"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Masci",
                 "type": "Organizzazione",
                 "start_date": "",
                 "end_date": "",
@@ -24,7 +60,7 @@
                 ],
                 "relationships": null,
                 "created_date": "2020-06-10T03:28:53.085-07:00",
-                "updated_date": "2020-06-10T03:44:19.102-07:00",
+                "updated_date": "2020-06-12T08:27:55.300-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -916,7 +952,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-06-10T10:58:06.154Z",
+        "published": "2020-06-12T15:44:18.462Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -933,7 +969,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 206,
+        "version": 208,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -969,7 +1005,8 @@
                     "storie",
                     "interviste ",
                     "memorie",
-                    "personaggi"
+                    "personaggi",
+                    "Tradizioni culinarie"
                 ],
                 "weight": 0,
                 "id": 3

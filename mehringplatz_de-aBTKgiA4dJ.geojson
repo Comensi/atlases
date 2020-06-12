@@ -538,7 +538,7 @@
                 "type": "Projekt",
                 "start_date": "2009-02-24T16:00:00.000-08:00",
                 "end_date": "2011-01-25T16:00:00.000-08:00",
-                "description": "Die Projektstudie „Kreative Raumpioniere am Mehringplatz“ geht aus dem Leitbildprozess “Kreativquartier Südliche Friedrichstadt” hervor, der mit Unterstützung der bezirklichen Wirtschaftsförderung von Friedrichshain-Kreuzberg in den Jahren 2009 und 2010 durchgeführt wurde. Beauftragt wurde die Projektstudie von der Wohnungsbaugesellschaft GEWOBAG. \n \nZiele der Projektstudie „Kreative Raumpioniere am Mehringplatz“ sind:\n1. Die Schaffung von Wirkungsräumen für Kreativwirtschaft, Kultur und impulsgebendem Gewerbe\n2. Förderung von sozialer Vielfalt und Nutzungsvielfalt im Sozialraum Mehringplatz \n3. Etablierung von Begegnungsorten zwischen Kreativwirtschaft und Bewohner:innen.",
+                "description": "Die Projektstudie „Kreative Raumpioniere am Mehringplatz“ geht aus dem Leitbildprozess “Kreativquartier Südliche Friedrichstadt” hervor, der mit Unterstützung der bezirklichen Wirtschaftsförderung von Friedrichshain-Kreuzberg in den Jahren 2009 und 2010 durchgeführt wurde. Beauftragt wurde die Projektstudie von der Wohnungsbaugesellschaft GEWOBAG. \n \nZiele der Projektstudie „Kreative Raumpioniere am Mehringplatz“ sind: 1. Die Schaffung von Wirkungsräumen für Kreativwirtschaft, Kultur und impulsgebendem Gewerbe 2. Förderung von sozialer Vielfalt und Nutzungsvielfalt im Sozialraum Mehringplatz 3. Etablierung von Begegnungsorten zwischen Kreativwirtschaft und Bewohner:innen.",
                 "image": "https://i.ibb.co/sQJbBbz/Kreativ-quartier.png",
                 "category": "Visionen",
                 "sub-category": "Study",
@@ -566,7 +566,7 @@
                     "ca/ehemalige_blumengro_markthalle_#65"
                 ],
                 "created_date": "2019-11-21T03:30:20.027-08:00",
-                "updated_date": "2020-04-10T04:35:14.919-07:00",
+                "updated_date": "2020-06-12T07:34:20.798-07:00",
                 "weight": 0,
                 "image_credit": "Urbanitas  - Projektbüro Kreativquartier S[dliche Friedrichstadt, Berlin 2011"
             },
@@ -2576,7 +2576,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-06-12T13:10:53.397Z",
+        "published": "2020-06-12T15:20:21.991Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2586,7 +2586,7 @@
                 "type": "translation"
             }
         ],
-        "version": 98,
+        "version": 99,
         "taxonomy": [
             {
                 "category": "Initiativen",

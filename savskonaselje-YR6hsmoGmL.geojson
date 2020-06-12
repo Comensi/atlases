@@ -661,17 +661,17 @@
                 "end_date": "",
                 "description": "Po savskih ulicah se širi vest, da se najboljšo kavico in vročo čokolado dobi na drugi strani Linhartove. Primerno tudi za nastavljanje sončnim žarkom.\nOdpiralni čas: vsak dan 8:00 - 23:00",
                 "image": "https://i.postimg.cc/nLmDZJpP/82018575-2296167690488543-2811180181132148736-n.jpg",
-                "category": "Savski lajf",
-                "sub-category": "Park",
+                "category": "Savska ponudba",
+                "sub-category": "Lokal",
                 "tags": [
                     "ponudba",
                     "skupnost"
                 ],
-                "category-description": "Prostori druženja in srečevanja v Savskem naselju",
+                "category-description": "Kavice in druge dobrote za lepši vsakdan",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-03-25T07:52:58.810-07:00",
-                "updated_date": "2020-05-29T01:53:50.489-07:00",
+                "updated_date": "2020-06-10T05:45:48.923-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -785,7 +785,7 @@
                 "type": "Project",
                 "start_date": "",
                 "end_date": "",
-                "description": "Lokalni časopis Savskega naselja, ki izhaja vsakih nekaj mesecev. Namenjen je obveščanju o novicah in dogodkih v Savskem naselju.",
+                "description": "Lokalni časopis Savskega naselja, ki izhaja vsakih nekaj mesecev. Namenjen je obveščanju o novicah in dogodkih v Savskem naselju. ",
                 "image": "https://www.knjiznicareci.si/wp-content/uploads/2019/11/sav%C4%8Dan-cover.png",
                 "category": "Savski lajf",
                 "sub-category": "Projekti",
@@ -811,7 +811,7 @@
                     "ca/spomin_ica_alzheimer_slovenija_slovensko_zdru_enje_za_pomo_pri_demenci_#85"
                 ],
                 "created_date": "2020-02-28T06:28:48.898-08:00",
-                "updated_date": "2020-05-18T06:57:42.231-07:00",
+                "updated_date": "2020-06-12T05:49:41.099-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -877,9 +877,11 @@
                 ],
                 "category-description": "Prostori druženja in srečevanja v Savskem naselju",
                 "links": [],
-                "relationships": [],
+                "relationships": [
+                    "ca/knji_nica_re_i#72"
+                ],
                 "created_date": "2020-02-28T04:26:44.660-08:00",
-                "updated_date": "2020-04-22T05:43:41.958-07:00",
+                "updated_date": "2020-06-12T05:49:05.791-07:00",
                 "weight": 0,
                 "image_credit": "Rok Hočevar"
             },
@@ -1204,11 +1206,10 @@
                     }
                 ],
                 "relationships": [
-                    "ca/knji_nica_re_i#72",
                     "ca/osnovna_ola_savsko_naselje#80"
                 ],
                 "created_date": "2020-02-27T04:37:58.359-08:00",
-                "updated_date": "2020-03-27T05:02:03.242-07:00",
+                "updated_date": "2020-06-12T05:46:22.261-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1254,7 +1255,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-02-27T02:29:46.537-08:00",
-                "updated_date": "2020-04-22T05:51:01.791-07:00",
+                "updated_date": "2020-06-12T05:46:18.149-07:00",
                 "weight": 0,
                 "image_credit": "Matjaz Tancic"
             },
@@ -1298,10 +1299,10 @@
                     }
                 ],
                 "relationships": [
-                    "ca/knji_nica_re_i#72"
+                    "ca/vrtec_mladi_rod#82"
                 ],
                 "created_date": "2020-02-27T02:03:06.185-08:00",
-                "updated_date": "2020-02-27T04:24:50.172-08:00",
+                "updated_date": "2020-06-12T05:46:11.502-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1577,9 +1578,13 @@
                         "type": "website"
                     }
                 ],
-                "relationships": [],
+                "relationships": [
+                    "ca/savski_hrib#102",
+                    "ca/park_ob_erkovi_ulici#100",
+                    "ca/superhi_ka#75"
+                ],
                 "created_date": "2019-12-13T04:47:16.081-08:00",
-                "updated_date": "2020-02-28T04:57:09.801-08:00",
+                "updated_date": "2020-06-12T05:45:57.936-07:00",
                 "weight": 0,
                 "image_credit": "Rok Hočevar"
             },
@@ -1637,9 +1642,12 @@
                         "type": "website"
                     }
                 ],
-                "relationships": [],
+                "relationships": [
+                    "ca/dom_skupnosti_savsko_naselje#78",
+                    "ca/lokalni_asopis_sav_an#93"
+                ],
                 "created_date": "2019-12-13T03:33:00.661-08:00",
-                "updated_date": "2020-04-22T05:48:44.171-07:00",
+                "updated_date": "2020-06-12T05:45:03.850-07:00",
                 "weight": 0,
                 "image_credit": "David Lotrič"
             },
@@ -1659,7 +1667,7 @@
         "id": "savskonaselje",
         "description": "Zemljevid priporočil za savski vsakdan",
         "image": "https://bit.ly/2AFXoDx",
-        "published": "2020-06-10T12:43:46.731Z",
+        "published": "2020-06-12T12:51:26.043Z",
         "links": [
             {
                 "title": "Comensi projekt",
@@ -1683,7 +1691,7 @@
                 "type": ""
             }
         ],
-        "version": 65,
+        "version": 67,
         "taxonomy": [
             {
                 "category": "Savska ponudba",
@@ -1811,6 +1819,10 @@
             "to": "ca/_lovekinje#79"
         },
         {
+            "from": "ca/savsko_dvori_e#91",
+            "to": "ca/knji_nica_re_i#72"
+        },
+        {
             "from": "ca/javne_povr_ine_v_soseskah_so_pomembne#90",
             "to": "ca/knji_nica_re_i#72"
         },
@@ -1844,15 +1856,11 @@
         },
         {
             "from": "ca/vrtec_mladi_rod#82",
-            "to": "ca/knji_nica_re_i#72"
-        },
-        {
-            "from": "ca/vrtec_mladi_rod#82",
             "to": "ca/osnovna_ola_savsko_naselje#80"
         },
         {
             "from": "ca/osnovna_ola_savsko_naselje#80",
-            "to": "ca/knji_nica_re_i#72"
+            "to": "ca/vrtec_mladi_rod#82"
         },
         {
             "from": "ca/_lovekinje#79",
@@ -1885,6 +1893,26 @@
         {
             "from": "ca/vizija_za_javni_prostor_soseske#74",
             "to": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73"
+        },
+        {
+            "from": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73",
+            "to": "ca/savski_hrib#102"
+        },
+        {
+            "from": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73",
+            "to": "ca/park_ob_erkovi_ulici#100"
+        },
+        {
+            "from": "ca/urbani_sadovnjak_in_otro_ko_igri_e#73",
+            "to": "ca/superhi_ka#75"
+        },
+        {
+            "from": "ca/knji_nica_re_i#72",
+            "to": "ca/dom_skupnosti_savsko_naselje#78"
+        },
+        {
+            "from": "ca/knji_nica_re_i#72",
+            "to": "ca/lokalni_asopis_sav_an#93"
         }
     ]
 }

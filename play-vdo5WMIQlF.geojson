@@ -7,6 +7,7 @@
                 "title": "Testing live mode",
                 "type": "Organization",
                 "start_date": "",
+                "end_date": "",
                 "description": "Live!!!",
                 "image": "",
                 "category": "Transformations",
@@ -28,6 +29,7 @@
                 "title": "Retry!!",
                 "type": "",
                 "start_date": "",
+                "end_date": "",
                 "description": "Try again",
                 "image": "",
                 "category": "Simple",
@@ -49,6 +51,7 @@
                 "title": "This is a new feature",
                 "type": "Place",
                 "start_date": "",
+                "end_date": "",
                 "description": "A feature",
                 "image": "",
                 "category": "Places",
@@ -70,6 +73,7 @@
                 "title": "One more time",
                 "type": "",
                 "start_date": "",
+                "end_date": "",
                 "description": "yip. Another test",
                 "image": "",
                 "category": "",
@@ -93,6 +97,7 @@
                 "title": "test geometry",
                 "type": "",
                 "start_date": "",
+                "end_date": "",
                 "description": "",
                 "image": "",
                 "category": "",
@@ -191,6 +196,7 @@
                 "title": "Test 2",
                 "type": "Monument",
                 "start_date": "2019-12-12T16:00:00.000-08:00",
+                "end_date": "2019-12-12T16:00:00.000-08:00",
                 "description": "test",
                 "image": "",
                 "category": "Places",
@@ -215,32 +221,40 @@
                 "coordinates": [
                     [
                         [
-                            -0.703125,
-                            53.644638
+                            4.042969,
+                            50.986099
                         ],
                         [
-                            -4.350586,
-                            49.979488
+                            2.087402,
+                            50.064192
                         ],
                         [
-                            0.219727,
-                            46.042736
+                            1.669922,
+                            48.502048
                         ],
                         [
-                            7.77832,
-                            49.009051
+                            5.646973,
+                            47.680183
                         ],
                         [
-                            10.151367,
-                            52.187405
+                            6.37207,
+                            48.502048
                         ],
                         [
-                            6.020508,
-                            54.927142
+                            6.525879,
+                            49.410973
                         ],
                         [
-                            -0.703125,
-                            53.644638
+                            6.262207,
+                            50.219095
+                        ],
+                        [
+                            5.427246,
+                            51.344339
+                        ],
+                        [
+                            4.042969,
+                            50.986099
                         ]
                     ]
                 ]
@@ -253,6 +267,7 @@
                 "title": "A new example",
                 "type": "Project",
                 "start_date": "",
+                "end_date": "",
                 "description": "Something else",
                 "image": "",
                 "category": "Memories",
@@ -309,6 +324,7 @@
                 "title": "BOU test",
                 "type": "Place",
                 "start_date": "",
+                "end_date": "",
                 "description": "BOU office",
                 "image": "",
                 "category": "Places",
@@ -337,6 +353,7 @@
                 "title": "MCP (María's test)",
                 "type": "Organization",
                 "start_date": "2019-12-03T16:00:00.000-08:00",
+                "end_date": "2020-07-28T16:00:00.000-07:00",
                 "description": "That's exactly where we work!",
                 "image": "https://mildmaycp.org.uk/wp-content/uploads/2019/07/header-5.jpg",
                 "category": "Places",
@@ -404,6 +421,7 @@
                 "title": "Ajuda Jovem",
                 "type": "Project",
                 "start_date": "2020-01-05T16:00:00.000-08:00",
+                "end_date": "2020-09-10T16:00:00.000-07:00",
                 "description": "A map of young people's initiatives in Ajuda's territory",
                 "image": "https://www.facebook.com/ajuda.juntadefreguesia/photos/rpp.237830389733250/1338152153034396/?type=3&theater ",
                 "category": "Itineraries",
@@ -460,6 +478,7 @@
                 "title": "Something",
                 "type": "",
                 "start_date": "",
+                "end_date": "",
                 "description": "An example feature that we will delete. ",
                 "image": "https://i.postimg.cc/4yZZhR0z/comensi-logo-icon-heavy-4x.png",
                 "category": "Delimitations",
@@ -500,6 +519,7 @@
                 "title": "Limehouse Hackspace",
                 "type": "Project",
                 "start_date": "",
+                "end_date": "",
                 "description": "A hackspace. You can make things. ",
                 "image": "",
                 "category": "Places",
@@ -539,6 +559,7 @@
                 "title": "Limehouse town hall",
                 "type": "Building",
                 "start_date": "2001-11-24T16:00:00.000-08:00",
+                "end_date": "",
                 "description": "Limehouse Town Hall is a place where working artists and cultural producers, audiences and communities are supported to share ideas, try out new things, and imagine a better here and now.",
                 "image": "https://i0.wp.com/www.limehousetownhall.co.uk/wp-content/uploads/2015/04/workshop1.jpg?w=1000&ssl=1",
                 "category": "Places",
@@ -607,7 +628,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2020-02-20T22:03:20.194Z",
+        "published": "2020-06-16T11:44:13.110Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -624,7 +645,7 @@
                 "type": "email"
             }
         ],
-        "version": 21,
+        "version": 23,
         "taxonomy": [
             {
                 "category": "Itineraries",

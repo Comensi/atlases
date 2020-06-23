@@ -8,18 +8,27 @@
                 "type": "",
                 "start_date": "",
                 "end_date": "",
-                "description": "“Se non lo facciamo noi chi lo fa?” Alcuni residenti del quartiere si attiva singolarmente ogni giorno per pulire piazze e strade del quartiere sostituendosi, in parte, all’amministrazione pubblica.                                              Le prime discussioni informali sulla posibilita’ di creare un vero e proprio gruppo sono partite dopo il calare dell’emergenza covid con l’idea, implicita, di creare una massa critica di persone che si attivino per migliorare anche in questi termini la vivibilita’ del Capo.",
+                "description": "“Se non lo facciamo noi chi lo fa?” Alcuni residenti del quartiere si attiva singolarmente ogni giorno per pulire piazze e strade del quartiere sostituendosi, in parte, all’amministrazione pubblica.                                              Le prime discussioni informali sulla posibilita’ di creare un vero e proprio gruppo sono partite dopo il calare dell’emergenza covid con l’idea, implicita, di creare una massa critica di persone che si attivino per migliorare anche in questi termini la vivibilita’ del Capo. Il bisogno di maggiore responsabilita’ civica da parte di tutti gli abitanti e dell’amministrazione pubblica per la pulizia del quartiere é in generale uno dei temi forti di discussione emersi anche in precedenti discussioni.",
                 "image": "https://i.postimg.cc/0yNj8m3Z/UNADJUSTEDNONRAW-thumb-82b.jpg",
                 "category": "Idee e Proposte",
                 "sub-category": "",
-                "tags": [],
+                "tags": [
+                    "bene comune"
+                ],
                 "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/J0B3Yv3D/UNADJUSTEDNONRAW-thumb-82f.jpg",
+                        "title": "puliamo il quartiere!",
+                        "description": "",
+                        "type": "image"
+                    }
+                ],
                 "relationships": [
                     "ca/laboratori_di_quartiere#76"
                 ],
                 "created_date": "2020-06-23T06:06:22.259-07:00",
-                "updated_date": "2020-06-23T06:17:18.850-07:00",
+                "updated_date": "2020-06-23T06:26:19.204-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -983,7 +992,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-06-23T13:21:45.446Z",
+        "published": "2020-06-23T13:27:45.422Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1000,7 +1009,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 210,
+        "version": 211,
         "taxonomy": [
             {
                 "category": "Rete Capo",

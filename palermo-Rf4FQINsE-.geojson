@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Atellier pubblici per artigiani e artisti",
+                "title": "Spazi pubblici per artigiani e artisti",
                 "type": "Progetto",
                 "start_date": "",
                 "end_date": "",
@@ -15,9 +15,11 @@
                 "tags": [],
                 "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
                 "links": [],
-                "relationships": null,
+                "relationships": [
+                    "ca/laboratori_di_quartiere#76"
+                ],
                 "created_date": "2020-06-24T07:12:12.654-07:00",
-                "updated_date": "2020-06-25T03:34:58.332-07:00",
+                "updated_date": "2020-06-25T03:40:25.686-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -28,7 +30,7 @@
                     38.1158
                 ]
             },
-            "id": "ca/atellier_pubblici_per_artigiani_e_artisti#94"
+            "id": "ca/spazi_pubblici_per_artigiani_e_artisti#94"
         },
         {
             "type": "Feature",
@@ -1028,7 +1030,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-06-25T10:38:59.335Z",
+        "published": "2020-06-25T10:43:27.683Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1045,8 +1047,61 @@
                 "type": "webpage"
             }
         ],
-        "version": 217,
+        "version": 219,
         "taxonomy": [
+            {
+                "category": "Rete Capo",
+                "description": "associazioni e servizi presenti nel quartiere",
+                "sub-categories": [
+                    "Terzo settore",
+                    "Servizi pubblici",
+                    "Organizzazioni religiose"
+                ],
+                "weight": 0,
+                "id": 6
+            },
+            {
+                "category": "Iniziative",
+                "description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
+                "sub-categories": [
+                    "#r31"
+                ],
+                "weight": 0,
+                "id": 5
+            },
+            {
+                "category": "Idee e Proposte",
+                "description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 4
+            },
+            {
+                "category": "Storie del quartiere",
+                "description": "storie, interviste, memorie raccolte con abitanti del quartiere",
+                "sub-categories": [
+                    "storie",
+                    "interviste ",
+                    "memorie",
+                    "personaggi",
+                    "Tradizioni culinarie"
+                ],
+                "weight": 0,
+                "id": 3
+            },
+            {
+                "category": "Spazi di quartiere",
+                "description": "luoghi fisici di aggregazione o significativi del quartiere",
+                "sub-categories": [
+                    "Luoghi di incontro",
+                    "Spazi pubblici",
+                    "Spazi verdi",
+                    "#r25",
+                    "#r26"
+                ],
+                "weight": 1,
+                "id": 2
+            },
             {
                 "category": "Il Quartiere Capo",
                 "description": "area d'intervento",
@@ -1059,6 +1114,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/spazi_pubblici_per_artigiani_e_artisti#94",
+            "to": "ca/laboratori_di_quartiere#76"
+        },
         {
             "from": "ca/puliamo_il_quartiere_#93",
             "to": "ca/laboratori_di_quartiere#76"

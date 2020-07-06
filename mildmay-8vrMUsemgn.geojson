@@ -7,6 +7,7 @@
                 "title": "N1 Inflatables at Mildmay",
                 "type": "People",
                 "start_date": "2019-02-28T16:00:00.000-08:00",
+                "end_date": "2019-05-30T16:00:00.000-07:00",
                 "description": "Inflatable fun for kids at the Mildmay Community Centre",
                 "image": "https://live.staticflickr.com/65535/49724176472_d6ac001f73_o_d.jpg",
                 "category": "Now",
@@ -40,6 +41,7 @@
                 "title": "Celebrating Community Centre Week",
                 "type": "Events",
                 "start_date": "2019-06-30T16:00:00.000-07:00",
+                "end_date": "2019-07-30T16:00:00.000-07:00",
                 "description": "An afternoon tea provided by volunteers for the local residents to celebrate Community Centre Week 2019",
                 "image": "https://live.staticflickr.com/65535/49723316148_d4182ec666_o_d.jpg",
                 "category": "Now",
@@ -73,6 +75,7 @@
                 "title": "Community Garden at Mildmay Community Centre",
                 "type": "Places",
                 "start_date": "2019-05-30T16:00:00.000-07:00",
+                "end_date": "2019-05-30T16:00:00.000-07:00",
                 "description": "Early summer in the community garden of the Mildmay Community Centre",
                 "image": "https://live.staticflickr.com/65535/49723330898_fe2fa9218e_o_d.jpg",
                 "category": "Now",
@@ -106,6 +109,7 @@
                 "title": "Mapping for Change team meeting the mayor",
                 "type": "Events",
                 "start_date": "2017-06-30T16:00:00.000-07:00",
+                "end_date": "2017-07-30T16:00:00.000-07:00",
                 "description": "An event to celebrate The Great Get Together in memory of Jo Cox",
                 "image": "https://live.staticflickr.com/65535/49724162122_49baf25c96_o_d.jpg",
                 "category": "Now",
@@ -136,6 +140,7 @@
                 "title": "Second floor view Feb 2020",
                 "type": "Places",
                 "start_date": "2020-02-19T16:00:00.000-08:00",
+                "end_date": "2020-02-25T16:00:00.000-08:00",
                 "description": "Recreating 1980s photo from second floor balcony overlooking the playground",
                 "image": "https://live.staticflickr.com/65535/49588612352_7ae2d2f125_b_d.jpg",
                 "category": "Now",
@@ -164,6 +169,7 @@
                 "title": "Mildmay Community Centre Interior",
                 "type": "Places",
                 "start_date": "2013-08-23T16:00:00.000-07:00",
+                "end_date": "2020-02-25T16:00:00.000-08:00",
                 "description": "Photos of the interior of Mildmay Community Centre in 2013 having recently been retrobuilt as a Passive House",
                 "image": "https://live.staticflickr.com/3742/9716569453_904644b667_b_d.jpg",
                 "category": "Then",
@@ -194,6 +200,7 @@
                 "title": "Boundaries",
                 "type": "Places",
                 "start_date": "",
+                "end_date": "",
                 "description": "",
                 "image": "",
                 "category": "Now",
@@ -243,7 +250,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-04-01T15:09:13.948Z",
+        "published": "2020-07-06T09:27:39.812Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -253,7 +260,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 51,
+        "version": 52,
         "taxonomy": [
             {
                 "category": "Next",

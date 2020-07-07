@@ -1,6 +1,110 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mapping for Change",
+                "type": "People",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "Now",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "How our community is now",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-06T07:49:07.377-07:00",
+                "updated_date": "2020-07-06T07:49:22.245-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/mapping_for_change#82"
+        }
+    ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mildmay Community Centre",
+                "type": "Places",
+                "start_date": "2020-06-22T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "blablabla",
+                "image": "https://www.openplay.co.uk/uploads/1704_54748f3e284f1-500x_.jpg",
+                "category": "Now",
+                "sub-category": "",
+                "tags": [
+                    "Events",
+                    "youths",
+                    "architecture",
+                    "office",
+                    "workspace",
+                    "commons",
+                    "Social inclusion",
+                    "gardening",
+                    "Public space",
+                    "Urban regeneration",
+                    "collective",
+                    "charity"
+                ],
+                "category-description": "How our community is now",
+                "links": [
+                    {
+                        "url": "https://mildmaycp.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/mildmay_community_centre_interior#73",
+                    "ca/summer_party#76",
+                    "ca/second_floor_view_feb_2020#75",
+                    "ca/mapping_for_change_team_meeting_the_mayor#77",
+                    "ca/community_garden_at_mildmay_community_centre#78",
+                    "ca/celebrating_community_centre_week#79"
+                ],
+                "created_date": "2020-07-07T08:53:55.274-07:00",
+                "updated_date": "2020-07-07T08:57:14.913-07:00",
+                "weight": 0,
+                "image_credit": "OpenPlay"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.084468,
+                            51.552033
+                        ],
+                        [
+                            -0.083406,
+                            51.552159
+                        ],
+                        [
+                            -0.08096,
+                            51.551906
+                        ],
+                        [
+                            -0.082076,
+                            51.550191
+                        ],
+                        [
+                            -0.084822,
+                            51.550878
+                        ],
+                        [
+                            -0.084468,
+                            51.552033
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/mildmay_community_centre#83"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -250,7 +354,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-07-06T14:39:30.800Z",
+        "published": "2020-07-07T15:59:29.175Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -260,7 +364,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 53,
+        "version": 54,
         "taxonomy": [
             {
                 "category": "Next",
@@ -286,6 +390,30 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/mildmay_community_centre#83",
+            "to": "ca/mildmay_community_centre_interior#73"
+        },
+        {
+            "from": "ca/mildmay_community_centre#83",
+            "to": "ca/summer_party#76"
+        },
+        {
+            "from": "ca/mildmay_community_centre#83",
+            "to": "ca/second_floor_view_feb_2020#75"
+        },
+        {
+            "from": "ca/mildmay_community_centre#83",
+            "to": "ca/mapping_for_change_team_meeting_the_mayor#77"
+        },
+        {
+            "from": "ca/mildmay_community_centre#83",
+            "to": "ca/community_garden_at_mildmay_community_centre#78"
+        },
+        {
+            "from": "ca/mildmay_community_centre#83",
+            "to": "ca/celebrating_community_centre_week#79"
+        },
         {
             "from": "ca/mildmay_community_centre_interior#73",
             "to": "ca/mildmay_community_centre_interior#73"

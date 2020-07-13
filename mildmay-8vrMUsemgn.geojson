@@ -28,11 +28,47 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Newington Green Alliance",
+                "type": "Places",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/51444072_291162074903288_3642974248101740544_n.jpg?_nc_cat=100&_nc_sid=dd9801&_nc_ohc=WNyuAJwMTusAX-jF8w2&_nc_ht=scontent-lht6-1.xx&oh=1820ef723866032e4a170931628782b6&oe=5F31C335",
+                "category": "Now",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "How our community is now",
+                "links": [
+                    {
+                        "url": "https://www.newingtongreenalliance.org",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T03:35:49.808-07:00",
+                "updated_date": "2020-07-13T03:37:55.420-07:00",
+                "weight": 0,
+                "image_credit": "Newington Green Alliance, Facebook "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.552193,
+                    -0.084919
+                ]
+            },
+            "id": "ca/newington_green_alliance#84"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Mildmay Community Centre",
                 "type": "Places",
                 "start_date": "2020-06-22T16:00:00.000-07:00",
                 "end_date": "",
-                "description": "blablabla",
+                "description": "Mildmay Community Centre is committed to working in partnership with local people by providing a hub of activities where everyone can feel welcome and safe to come together, build friendships, learn new skills and reduce feelings of isolation. Originally built around 1890, the place served as an electricity generating station for the North London tram network. Abandoned in the course of the XXst century, it was converted into a community centre, named the Mayville Community Centre back then, by residents of the Mayville Estate in the 1970s. In 2004, Mildmay Community Partnership took over the responsibility and management of the centre. Closed for a few years for renovation, the centre re-opened in 2011, as the first Passive House (an energy-efficient building) of the UK. Today, it hosts many charities and events organized for and with local residents of the Mildmay area. ",
                 "image": "https://www.openplay.co.uk/uploads/1704_54748f3e284f1-500x_.jpg",
                 "category": "Now",
                 "sub-category": "",
@@ -68,7 +104,7 @@
                     "ca/celebrating_community_centre_week#79"
                 ],
                 "created_date": "2020-07-07T08:53:55.274-07:00",
-                "updated_date": "2020-07-07T08:57:14.913-07:00",
+                "updated_date": "2020-07-13T03:23:26.067-07:00",
                 "weight": 0,
                 "image_credit": "OpenPlay"
             },
@@ -354,7 +390,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-07-07T15:59:29.175Z",
+        "published": "2020-07-13T10:41:50.691Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -364,7 +400,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 54,
+        "version": 55,
         "taxonomy": [
             {
                 "category": "Next",

@@ -1227,7 +1227,7 @@
             "properties": {
                 "title": "Mildmay Community Centre",
                 "type": "Places",
-                "start_date": "2020-06-22T16:00:00.000-07:00",
+                "start_date": "1969-12-31T15:00:00.000-08:00",
                 "end_date": "",
                 "description": "Mildmay Community Centre is committed to working in partnership with local people by providing a hub of activities where everyone can feel welcome and safe to come together, build friendships, learn new skills and reduce feelings of isolation. Originally built around 1890, the place served as an electricity generating station for the North London tram network. Abandoned in the course of the XXst century, it was converted into a community centre, named the Mayville Community Centre back then, by residents of the Mayville Estate in the 1970s. In 2004, Mildmay Community Partnership took over the responsibility and management of the centre. Closed for a few years for renovation, the centre re-opened in 2011, as the first Passive House (an energy-efficient building) of the UK. Today, it hosts many charities and events organized for and with local residents of the Mildmay area. ",
                 "image": "https://www.openplay.co.uk/uploads/1704_54748f3e284f1-500x_.jpg",
@@ -1265,7 +1265,7 @@
                     "ca/celebrating_community_centre_week#79"
                 ],
                 "created_date": "2020-07-07T08:53:55.274-07:00",
-                "updated_date": "2020-07-13T03:23:26.067-07:00",
+                "updated_date": "2020-07-14T06:10:03.752-07:00",
                 "weight": 0,
                 "image_credit": "OpenPlay"
             },
@@ -1274,28 +1274,24 @@
                 "coordinates": [
                     [
                         [
-                            -0.084468,
-                            51.552033
+                            -0.082537,
+                            51.55092
                         ],
                         [
-                            -0.083406,
-                            51.552159
+                            -0.082722,
+                            51.550648
                         ],
                         [
-                            -0.08096,
-                            51.551906
+                            -0.082379,
+                            51.550567
                         ],
                         [
-                            -0.082076,
-                            51.550191
+                            -0.082228,
+                            51.550843
                         ],
                         [
-                            -0.084822,
-                            51.550878
-                        ],
-                        [
-                            -0.084468,
-                            51.552033
+                            -0.082537,
+                            51.55092
                         ]
                     ]
                 ]
@@ -1551,7 +1547,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-07-14T10:47:18.227Z",
+        "published": "2020-07-14T13:12:46.772Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1561,7 +1557,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 60,
+        "version": 61,
         "taxonomy": [
             {
                 "category": "Next",

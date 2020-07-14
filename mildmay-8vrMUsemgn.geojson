@@ -86,11 +86,11 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Imece Yoga",
-                "type": "People",
+                "title": "Arsenal Double Club",
+                "type": "Events",
                 "start_date": "",
                 "end_date": "",
-                "description": "",
+                "description": "Afterschool homework club and football sessions for young people aged 8 to 13 years old. ",
                 "image": "",
                 "category": "",
                 "sub-category": "",
@@ -98,10 +98,46 @@
                 "category-description": "",
                 "links": [],
                 "relationships": [],
-                "created_date": "2020-07-14T03:04:37.624-07:00",
-                "updated_date": "2020-07-14T03:04:42.098-07:00",
+                "created_date": "2020-07-14T03:44:18.134-07:00",
+                "updated_date": "2020-07-14T03:45:35.199-07:00",
                 "weight": 0,
                 "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.550805,
+                    -0.082462
+                ]
+            },
+            "id": "ca/arsenal_double_club#120"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Imece Women’s Centre Yoga",
+                "type": "People",
+                "start_date": "",
+                "end_date": "",
+                "description": "IMECE Women’s Centre stands against all forms of violence against women and girls. They support and empower Turkish, Kurdish and Cypriot Turkish women and Black, Asian, minority ethnic, refugee (BAMER) and migrant women to improve the quality of their lives. IMECE organizes Yoga sessions in the Mildmay Community Centre. ",
+                "image": "https://imece.org.uk/wp-content/uploads/2014/11/IMECElogo.jpg",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "https://imece.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-14T03:04:37.624-07:00",
+                "updated_date": "2020-07-14T03:36:01.755-07:00",
+                "weight": 0,
+                "image_credit": "IMECE"
             },
             "geometry": {
                 "type": "Point",
@@ -110,7 +146,7 @@
                     -0.082414
                 ]
             },
-            "id": "ca/imece_yoga#119"
+            "id": "ca/imece_women_s_centre_yoga#119"
         },
         {
             "type": "Feature",
@@ -1515,7 +1551,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-07-14T10:13:41.283Z",
+        "published": "2020-07-14T10:47:18.227Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1525,7 +1561,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 59,
+        "version": 60,
         "taxonomy": [
             {
                 "category": "Next",

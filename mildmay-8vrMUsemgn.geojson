@@ -4,49 +4,20 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Imece Women’s Centre Yoga",
-                "type": "People",
-                "start_date": "",
-                "end_date": "",
-                "description": "IMECE Women’s Centre stands against all forms of violence against women and girls. They support and empower Turkish, Kurdish and Cypriot Turkish women and Black, Asian, minority ethnic, refugee (BAMER) and migrant women to improve the quality of their lives. IMECE organizes Yoga sessions in the Mildmay Community Centre. ",
-                "image": "https://imece.org.uk/wp-content/uploads/2014/11/IMECElogo.jpg",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [
-                    {
-                        "url": "https://imece.org.uk",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2020-07-14T03:04:37.624-07:00",
-                "updated_date": "2020-07-14T03:36:01.755-07:00",
-                "weight": 0,
-                "image_credit": "IMECE"
-            },
-            "id": "ca/imece_women_s_centre_yoga#119"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "People's Place",
-                "type": "People",
+                "type": "Events",
                 "start_date": "",
                 "end_date": "",
                 "description": "",
                 "image": "",
-                "category": "",
+                "category": "Now",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community is now",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-07-14T03:04:00.459-07:00",
-                "updated_date": "2020-07-14T03:04:08.054-07:00",
+                "updated_date": "2020-07-14T09:14:22.840-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -56,19 +27,19 @@
             "type": "Feature",
             "properties": {
                 "title": "Zumba",
-                "type": "People",
+                "type": "Events",
                 "start_date": "",
                 "end_date": "",
                 "description": "",
                 "image": "",
-                "category": "",
+                "category": "Now",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community is now",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-07-14T03:03:42.860-07:00",
-                "updated_date": "2020-07-14T03:03:52.278-07:00",
+                "updated_date": "2020-07-14T09:14:30.144-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -78,19 +49,19 @@
             "type": "Feature",
             "properties": {
                 "title": "Nimble Western Line Dancers",
-                "type": "People",
+                "type": "Events",
                 "start_date": "",
                 "end_date": "",
                 "description": "",
                 "image": "",
-                "category": "",
+                "category": "Now",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community is now",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-07-14T03:03:28.070-07:00",
-                "updated_date": "2020-07-14T03:03:37.470-07:00",
+                "updated_date": "2020-07-14T09:14:36.235-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -105,14 +76,14 @@
                 "end_date": "",
                 "description": "",
                 "image": "",
-                "category": "",
+                "category": "Now",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community is now",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-07-14T03:03:01.036-07:00",
-                "updated_date": "2020-07-14T03:03:11.298-07:00",
+                "updated_date": "2020-07-14T09:14:40.602-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -122,19 +93,19 @@
             "type": "Feature",
             "properties": {
                 "title": "Golden Oldies Senior Citizens and Disabled Group",
-                "type": "People",
+                "type": "Events",
                 "start_date": "",
                 "end_date": "",
                 "description": "",
                 "image": "",
-                "category": "",
+                "category": "Now",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community is now",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-07-14T02:51:59.655-07:00",
-                "updated_date": "2020-07-14T03:01:59.043-07:00",
+                "updated_date": "2020-07-14T09:14:46.363-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -144,19 +115,19 @@
             "type": "Feature",
             "properties": {
                 "title": "Checkers Bingo",
-                "type": "",
+                "type": "Events",
                 "start_date": "",
                 "end_date": "",
                 "description": "Group of Bingo players at the Mildmay Community Centre. ",
                 "image": "",
-                "category": "",
+                "category": "Now",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community is now",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-07-14T02:39:16.600-07:00",
-                "updated_date": "2020-07-14T02:51:01.468-07:00",
+                "updated_date": "2020-07-14T09:14:54.459-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -165,51 +136,22 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "African and Caribbean Senior Citizens Association",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "The African and Caribbean Senior Citizens Association organizes weekly events in the Mildmay Community Centre. Do you enjoy the soft sounds of the Caribbean, soul and country music, whilst playing a relaxing but competitive game of dominoes? If so, this is definitely the group for you. You can pop in the centre to meet a dedicated group of people and be sure to enjoy a game of dominoes.",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [
-                    {
-                        "url": "https://mildmaycp.org.uk/wp-content/uploads/2020/03/Whats-going-on-at-Your-Community-Centre-2020.pdf",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2020-07-13T09:10:46.491-07:00",
-                "updated_date": "2020-07-13T09:13:01.700-07:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "ca/african_and_caribbean_senior_citizens_association#111"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Nisa Local",
                 "type": "Places",
-                "start_date": "",
+                "start_date": "2005-12-31T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "Supermarket in Dalston - the Chain is also a funder of the Mildmay Community Centre.",
-                "image": "data:image/png;base64,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",
-                "category": "",
+                "description": "Nisa Local is a funder of the Mildmay Community Centre, since its rehabilitation in 2006. It is part of the stakeholder network in the Mildmay area. ",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Nisa_logo.svg/1200px-Nisa_logo.svg.png",
+                "category": "Then",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community used to be",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-07-13T08:41:09.369-07:00",
-                "updated_date": "2020-07-13T08:54:30.171-07:00",
+                "updated_date": "2020-07-14T09:20:39.436-07:00",
                 "weight": 0,
-                "image_credit": "The Good Gym"
+                "image_credit": "Wikimedia"
             },
             "id": "ca/nisa_local#107"
         },
@@ -217,15 +159,15 @@
             "type": "Feature",
             "properties": {
                 "title": "Social Investment Business",
-                "type": "",
-                "start_date": "",
+                "type": "People",
+                "start_date": "2005-12-31T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "The Social Investment Business is an investment company which invests in a wide variety of organizations across the UK. The Social Investment Business is notably partnering with Mildmay Community Partnership - the charity running the Mildmay Community Centre.",
-                "image": "",
-                "category": "",
+                "image": "https://www.sibgroup.org.uk/sites/all/themes/foundation/logo.png",
+                "category": "Then",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community used to be",
                 "links": [
                     {
                         "url": "https://www.sibgroup.org.uk",
@@ -236,9 +178,9 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T08:17:15.090-07:00",
-                "updated_date": "2020-07-13T08:31:31.651-07:00",
+                "updated_date": "2020-07-14T09:25:09.377-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "Social Investment Business"
             },
             "id": "ca/social_investment_business#103"
         },
@@ -425,17 +367,24 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Afterschool homework club and football sessions for young people aged 8 to 13 years old. ",
-                "image": "",
-                "category": "",
+                "image": "https://www.arsenaldoubleclub.co.uk/wp-content/uploads/2018/05/Arsenal_double_club.jpg",
+                "category": "Now",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
-                "links": [],
+                "category-description": "How our community is now",
+                "links": [
+                    {
+                        "url": "https://www.arsenaldoubleclub.co.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
                 "relationships": [],
                 "created_date": "2020-07-14T03:44:18.134-07:00",
-                "updated_date": "2020-07-14T03:45:35.199-07:00",
+                "updated_date": "2020-07-14T09:13:20.066-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "Arsenal Double Club "
             },
             "geometry": {
                 "type": "Point",
@@ -449,22 +398,65 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Sports and Life Skills",
-                "type": "People",
+                "title": "Imece Women’s Centre Yoga",
+                "type": "Events",
                 "start_date": "",
                 "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
+                "description": "IMECE Women’s Centre stands against all forms of violence against women and girls. They support and empower Turkish, Kurdish and Cypriot Turkish women and Black, Asian, minority ethnic, refugee (BAMER) and migrant women to improve the quality of their lives. IMECE organizes Yoga sessions in the Mildmay Community Centre. ",
+                "image": "https://imece.org.uk/wp-content/uploads/2014/11/IMECElogo.jpg",
+                "category": "Now",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
-                "links": [],
+                "category-description": "How our community is now",
+                "links": [
+                    {
+                        "url": "https://imece.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-14T03:04:37.624-07:00",
+                "updated_date": "2020-07-14T09:14:00.074-07:00",
+                "weight": 0,
+                "image_credit": "IMECE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082462,
+                    51.550805
+                ]
+            },
+            "id": "ca/imece_women_s_centre_yoga#119"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sports and Life Skills",
+                "type": "Events",
+                "start_date": "2015-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Sports and Life Skills is a charity operating in the Mildmay Community Centre. A community-led initiative, it aims to teach and improve life skills of young people through sports. All sessions are free for all, a commitment that is important to Steve, the founder of the organization, and all the volunteers. Sports and Life Skills was created in 2016. ",
+                "image": "https://sportsandlifeskills.files.wordpress.com/2016/08/cropped-cropped-sportsandlifeskills-logo2.jpg?w=685&h=209",
+                "category": "Now",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "How our community is now",
+                "links": [
+                    {
+                        "url": "https://sportsandlifeskills.co.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
                 "relationships": [],
                 "created_date": "2020-07-14T03:04:18.109-07:00",
-                "updated_date": "2020-07-14T03:04:28.064-07:00",
+                "updated_date": "2020-07-14T09:14:11.467-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "Sports and Life Skills"
             },
             "geometry": {
                 "type": "Point",
@@ -478,16 +470,52 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "African and Caribbean Senior Citizens Association",
+                "type": "Events",
+                "start_date": "",
+                "end_date": "",
+                "description": "The African and Caribbean Senior Citizens Association organizes weekly events in the Mildmay Community Centre. Do you enjoy the soft sounds of the Caribbean, soul and country music, whilst playing a relaxing but competitive game of dominoes? If so, this is definitely the group for you. You can pop in the centre to meet a dedicated group of people and be sure to enjoy a game of dominoes.",
+                "image": "http://www.woodlawns.org.uk/ckeditor_assets/pictures/makeadifference_a17713627a45.jpg",
+                "category": "Now",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "How our community is now",
+                "links": [
+                    {
+                        "url": "https://mildmaycp.org.uk/wp-content/uploads/2020/03/Whats-going-on-at-Your-Community-Centre-2020.pdf",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-13T09:10:46.491-07:00",
+                "updated_date": "2020-07-14T09:15:42.882-07:00",
+                "weight": 0,
+                "image_credit": "Make a difference "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082462,
+                    51.550805
+                ]
+            },
+            "id": "ca/african_and_caribbean_senior_citizens_association#111"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Mildmay Library",
                 "type": "Places",
                 "start_date": "",
                 "end_date": "",
                 "description": "Library for the Mildmay Ward.",
-                "image": "",
-                "category": "",
+                "image": "https://www.allinlondon.co.uk/images/venues/images_all/10018834.jpg",
+                "category": "Now",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community is now",
                 "links": [
                     {
                         "url": "https://www.islington.gov.uk/libraries-arts-and-heritage/libraries/your-local-libraries/mildmay-library",
@@ -498,9 +526,9 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T09:02:34.581-07:00",
-                "updated_date": "2020-07-13T09:04:10.024-07:00",
+                "updated_date": "2020-07-14T09:16:55.099-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "All in London"
             },
             "geometry": {
                 "type": "Point",
@@ -515,15 +543,15 @@
             "type": "Feature",
             "properties": {
                 "title": "Targeted Youth Support",
-                "type": "",
+                "type": "People",
                 "start_date": "",
                 "end_date": "",
                 "description": "Targeted Youth Support (TYS) works with young people aged 10 to 21 years old (12 – 21 for Youth Counselling), who require additional support to enable them to make informed choices and maintain positive pathways.  The team includes specialist Substance Misuse Workers, a Youth Counselling Service and Targeted Youth Support Workers who provide 1:1 support  and group work programmes in community settings and complete  Return Home Interviews for young people reported missing. They are volunteering in the Mildmay Community Centre.",
                 "image": "",
-                "category": "",
+                "category": "Now",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community is now",
                 "links": [
                     {
                         "url": "https://www.islingtonscb.org.uk/key-practice-guidance/Pages/Youth-violence-and-gang-prevention-work-in-Islington.aspx",
@@ -534,7 +562,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T08:55:43.883-07:00",
-                "updated_date": "2020-07-13T08:57:05.141-07:00",
+                "updated_date": "2020-07-14T09:17:25.878-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -555,11 +583,11 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "The Good Gym is a charity which organizes sports events in the Mildmay Community Centre. Their mission is to combine ‘getting fit with doing good’: they stop off on their runs to do physical tasks for community organisations and to support isolated older people with social visits and one-off tasks they can't do on their own. It's a great way to get fit, meet new people and do some good. ",
-                "image": "",
-                "category": "",
+                "image": "https://d2tfd645274ffx.cloudfront.net/assets/goodgym_red-178ac34164a2541343def8acc693b9dffe9e9819d53d95743c2be779b2041930.png",
+                "category": "Now",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community is now",
                 "links": [
                     {
                         "url": "https://www.goodgym.org",
@@ -570,9 +598,9 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T08:50:50.366-07:00",
-                "updated_date": "2020-07-13T08:52:22.118-07:00",
+                "updated_date": "2020-07-14T09:18:24.628-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "The Good Gym"
             },
             "geometry": {
                 "type": "Point",
@@ -587,15 +615,15 @@
             "type": "Feature",
             "properties": {
                 "title": "Kingfisher Cafe",
-                "type": "",
-                "start_date": "",
+                "type": "Places",
+                "start_date": "2005-12-31T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "Kingfisher Cafe is a cafe in Dalston, and a funder of Mildmay Community Centre. ",
-                "image": "",
-                "category": "",
+                "description": "Kingfisher Cafe is a cafe in Dalston, and a funder of Mildmay Community Centre since its rehabilitation in 2006.",
+                "image": "https://b.zmtcdn.com/data/pictures/7/6120567/478b743fd75c1cc1428c2fb835ce0e6c.jpg",
+                "category": "Then",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community used to be",
                 "links": [
                     {
                         "url": "https://www.zomato.com/london/kingfisher-cafe-dalston/menu",
@@ -606,9 +634,9 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T08:37:05.498-07:00",
-                "updated_date": "2020-07-13T08:49:58.645-07:00",
+                "updated_date": "2020-07-14T09:22:58.392-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "Zomato"
             },
             "geometry": {
                 "type": "Point",
@@ -624,14 +652,14 @@
             "properties": {
                 "title": "Mickey's Chip Shop",
                 "type": "Places",
-                "start_date": "",
+                "start_date": "2005-12-31T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "Mickey’s Chip Shop is a multi award winning traditional fish and chip shop in the heart of Stoke Newington. Mickey’s Chip Shop is a funder of the Mildmay Community Centre.",
+                "description": "Mickey’s Chip Shop is a multi award winning traditional fish and chip shop in the heart of Stoke Newington. Mickey’s Chip Shop is a funder of the Mildmay Community Centre, since its rehabilitation in 2006.",
                 "image": "https://fastly.4sqi.net/img/general/width960/585636_hAK-IkOP0NHtqrtQj-n1XoeDqugRgaBSP8l6GWVgxiE.jpg",
-                "category": "",
+                "category": "Then",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community used to be",
                 "links": [
                     {
                         "url": "https://www.facebook.com/Mickys-Chippy-299872083050/",
@@ -642,7 +670,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T08:34:10.375-07:00",
-                "updated_date": "2020-07-13T08:49:33.111-07:00",
+                "updated_date": "2020-07-14T09:23:25.399-07:00",
                 "weight": 0,
                 "image_credit": "Fastly"
             },
@@ -659,15 +687,15 @@
             "type": "Feature",
             "properties": {
                 "title": "Belle Epoque Patisserie",
-                "type": "",
-                "start_date": "",
+                "type": "Places",
+                "start_date": "2005-12-31T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "Belle Epoque Patisserie is a French-inspired bakery and cafe located in front of Newington Green. They are funders of the Mildmay Community Centre.",
+                "description": "Belle Epoque Patisserie is a French-inspired bakery and cafe located in front of Newington Green. They are funders of the Mildmay Community Centre, since its rehabilitation in 2006.",
                 "image": "http://belleepoque.co.uk/wp-content/uploads/2014/07/NG_1_web1.jpg",
-                "category": "",
+                "category": "Then",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "",
+                "category-description": "How our community used to be",
                 "links": [
                     {
                         "url": "http://belleepoque.co.uk/boutiques/newingtongreen",
@@ -678,7 +706,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T08:28:50.250-07:00",
-                "updated_date": "2020-07-13T08:48:42.750-07:00",
+                "updated_date": "2020-07-14T09:24:08.601-07:00",
                 "weight": 0,
                 "image_credit": "Belle Epoque "
             },
@@ -696,14 +724,14 @@
             "properties": {
                 "title": "London Borough of Islington (Townhall)",
                 "type": "Places",
-                "start_date": "",
+                "start_date": "2005-12-31T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "The London Borough of Islington is one of the stakeholders which contributed to the creation and support of the Mildmay Community Centre. ",
+                "description": "The London Borough of Islington is one of the stakeholders which contributed to the creation and support of the Mildmay Community Centre.",
                 "image": "https://sayidoislington.com/app/uploads/2014/10/R2B0183.jpg",
-                "category": "Now",
+                "category": "Then",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "How our community is now",
+                "category-description": "How our community used to be",
                 "links": [
                     {
                         "url": "https://sayidoislington.com/ceremony-venues/town-hall/",
@@ -714,7 +742,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T08:11:46.125-07:00",
-                "updated_date": "2020-07-14T08:23:29.835-07:00",
+                "updated_date": "2020-07-14T09:25:38.998-07:00",
                 "weight": 0,
                 "image_credit": "Say I Do"
             },
@@ -1478,7 +1506,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-07-14T16:03:23.299Z",
+        "published": "2020-07-14T16:26:38.574Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1488,7 +1516,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 62,
+        "version": 63,
         "taxonomy": [
             {
                 "category": "Next",

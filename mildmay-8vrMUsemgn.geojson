@@ -86,6 +86,238 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Imece Yoga",
+                "type": "People",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-14T03:04:37.624-07:00",
+                "updated_date": "2020-07-14T03:04:42.098-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.550835,
+                    -0.082414
+                ]
+            },
+            "id": "ca/imece_yoga#119"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sports and Life Skills",
+                "type": "People",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-14T03:04:18.109-07:00",
+                "updated_date": "2020-07-14T03:04:28.064-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.550835,
+                    -0.082414
+                ]
+            },
+            "id": "ca/sports_and_life_skills#118"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "People's Place",
+                "type": "People",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-14T03:04:00.459-07:00",
+                "updated_date": "2020-07-14T03:04:08.054-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.550835,
+                    -0.082414
+                ]
+            },
+            "id": "ca/people_s_place#117"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Zumba",
+                "type": "People",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-14T03:03:42.860-07:00",
+                "updated_date": "2020-07-14T03:03:52.278-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.550835,
+                    -0.082414
+                ]
+            },
+            "id": "ca/zumba#116"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Nimble Western Line Dancers",
+                "type": "People",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-14T03:03:28.070-07:00",
+                "updated_date": "2020-07-14T03:03:37.470-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.550835,
+                    -0.082414
+                ]
+            },
+            "id": "ca/nimble_western_line_dancers#115"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mildmay Pensioners Association",
+                "type": "People",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-14T03:03:01.036-07:00",
+                "updated_date": "2020-07-14T03:03:11.298-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.550835,
+                    -0.082414
+                ]
+            },
+            "id": "ca/mildmay_pensioners_association#114"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Golden Oldies Senior Citizens and Disabled Group",
+                "type": "People",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-14T02:51:59.655-07:00",
+                "updated_date": "2020-07-14T03:01:59.043-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.550835,
+                    -0.082414
+                ]
+            },
+            "id": "ca/golden_oldies_senior_citizens_and_disabled_group#113"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Checkers Bingo",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "Group of Bingo players at the Mildmay Community Centre. ",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-07-14T02:39:16.600-07:00",
+                "updated_date": "2020-07-14T02:51:01.468-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.550818,
+                    -0.082419
+                ]
+            },
+            "id": "ca/checkers_bingo#112"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "African and Caribbean Senior Citizens Association",
                 "type": "",
                 "start_date": "",
@@ -1283,7 +1515,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-07-14T09:30:27.409Z",
+        "published": "2020-07-14T10:13:41.283Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1293,8 +1525,22 @@
                 "type": "homepage"
             }
         ],
-        "version": 57,
+        "version": 59,
         "taxonomy": [
+            {
+                "category": "Next",
+                "description": "How you would like our community to be in future",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 3
+            },
+            {
+                "category": "Now",
+                "description": "How our community is now",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 2
+            },
             {
                 "category": "Then",
                 "description": "How our community used to be",

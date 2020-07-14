@@ -334,28 +334,6 @@
                 "image_credit": "Highest Praise Prayer Centre Facebook Page"
             },
             "id": "ca/highest_praise_prayer_centre#88"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Mapping for Change",
-                "type": "People",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "Now",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "How our community is now",
-                "links": [],
-                "relationships": [],
-                "created_date": "2020-07-06T07:49:07.377-07:00",
-                "updated_date": "2020-07-06T07:49:22.245-07:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "ca/mapping_for_change#82"
         }
     ],
     "features": [
@@ -913,7 +891,7 @@
                 "start_date": "2006-12-31T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "Room to Heal is a charity which offers support and refuge to people who have had to flee persecution, torture and indefinite detention. Room to Heal has its office in the Mildmay Community Centre and uses the centre’s garden for various kinds of therapeutic activities. ",
-                "image": "data:image/jpeg;base64,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",
+                "image": "https://images.justgiving.com/image/38ee0c09-ab97-41ed-8581-bcfdea9a0fa1.jpg?template=size200x200",
                 "category": "Now",
                 "sub-category": "",
                 "tags": [
@@ -930,9 +908,9 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:12:09.025-07:00",
-                "updated_date": "2020-07-14T08:16:46.655-07:00",
+                "updated_date": "2020-07-14T09:38:00.895-07:00",
                 "weight": 0,
-                "image_credit": "Room to Heal"
+                "image_credit": "Just Giving "
             },
             "geometry": {
                 "type": "Point",
@@ -996,7 +974,7 @@
                 "start_date": "2017-12-31T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "London Gypsies and Travellers (LGT) is a charity aiming to support Gipsies and Travellers living in London as they seek to gain greater control over their lives, more influence on the decisions that affect them, more opportunities and an end to the discrimination they experience every day. LGT has its office in the Mildmay Community Centre since 2018. ",
-                "image": "data:image/png;base64,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",
+                "image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-9/17554334_1366008760147896_958869023619545355_n.png?_nc_cat=102&_nc_sid=85a577&_nc_ohc=Ccvkv20PrMsAX9ijIhT&_nc_ht=scontent-lhr8-1.xx&oh=57116de9be4303b49aeb20e1e1ba0953&oe=5F322871",
                 "category": "Now",
                 "sub-category": "",
                 "tags": [
@@ -1015,9 +993,9 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:06:36.990-07:00",
-                "updated_date": "2020-07-14T08:14:53.489-07:00",
+                "updated_date": "2020-07-14T09:40:48.620-07:00",
                 "weight": 0,
-                "image_credit": "London Gypsies and Travellers "
+                "image_credit": "London Gypsies and Travellers Facebook Page"
             },
             "geometry": {
                 "type": "Point",
@@ -1260,13 +1238,54 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Mapping for Change",
+                "type": "People",
+                "start_date": "2017-06-30T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Mapping for Change is a social entreprise which offers a range of participatory mapping services to empower individuals, authorities and companies who are willing to understand, improve and produce information about the places that matter to them. They have their office in the Mildmay Community Centre. ",
+                "image": "https://mappingforchange.org.uk/wp-content/themes/mfc-caesitas/img/logos/mfc-big.png",
+                "category": "Now",
+                "sub-category": "",
+                "tags": [
+                    "Social inclusion",
+                    "platform",
+                    "digital ",
+                    "office"
+                ],
+                "category-description": "How our community is now",
+                "links": [
+                    {
+                        "url": "https://mappingforchange.org.uk",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-07-06T07:49:07.377-07:00",
+                "updated_date": "2020-07-14T09:33:53.632-07:00",
+                "weight": 0,
+                "image_credit": "Mapping for Change"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082462,
+                    51.550805
+                ]
+            },
+            "id": "ca/mapping_for_change#82"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "N1 Inflatables at Mildmay",
                 "type": "Memories",
                 "start_date": "2019-02-28T16:00:00.000-08:00",
                 "end_date": "2019-05-30T16:00:00.000-07:00",
                 "description": "Inflatable fun for kids at the Mildmay Community Centre",
                 "image": "https://live.staticflickr.com/65535/49724176472_d6ac001f73_o_d.jpg",
-                "category": "Now",
+                "category": "Then",
                 "sub-category": "",
                 "tags": [
                     "youths",
@@ -1274,11 +1293,11 @@
                     "Public space",
                     "charity"
                 ],
-                "category-description": "How our community is now",
+                "category-description": "How our community used to be",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-04-01T08:05:15.921-07:00",
-                "updated_date": "2020-07-14T06:14:27.640-07:00",
+                "updated_date": "2020-07-14T09:27:08.109-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1300,7 +1319,7 @@
                 "end_date": "2019-07-30T16:00:00.000-07:00",
                 "description": "An afternoon tea provided by volunteers for the local residents to celebrate Community Centre Week 2019",
                 "image": "https://live.staticflickr.com/65535/49723316148_d4182ec666_o_d.jpg",
-                "category": "Now",
+                "category": "Then",
                 "sub-category": "",
                 "tags": [
                     "cooking",
@@ -1308,11 +1327,11 @@
                     "Social inclusion",
                     "charity"
                 ],
-                "category-description": "How our community is now",
+                "category-description": "How our community used to be",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-04-01T07:35:51.564-07:00",
-                "updated_date": "2020-07-14T06:14:24.963-07:00",
+                "updated_date": "2020-07-14T09:27:12.245-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1368,16 +1387,16 @@
                 "end_date": "2017-07-30T16:00:00.000-07:00",
                 "description": "An event to celebrate The Great Get Together in memory of Jo Cox",
                 "image": "https://live.staticflickr.com/65535/49724162122_49baf25c96_o_d.jpg",
-                "category": "Now",
+                "category": "Then",
                 "sub-category": "",
                 "tags": [
                     "Events"
                 ],
-                "category-description": "How our community is now",
+                "category-description": "How our community used to be",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-04-01T07:13:46.253-07:00",
-                "updated_date": "2020-07-14T06:14:10.319-07:00",
+                "updated_date": "2020-07-14T09:27:20.714-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1394,19 +1413,19 @@
             "type": "Feature",
             "properties": {
                 "title": "Second floor view Feb 2020",
-                "type": "Places",
+                "type": "Memories",
                 "start_date": "2020-02-19T16:00:00.000-08:00",
                 "end_date": "2020-02-25T16:00:00.000-08:00",
                 "description": "Recreating 1980s photo from second floor balcony overlooking the playground",
                 "image": "https://live.staticflickr.com/65535/49588612352_7ae2d2f125_b_d.jpg",
-                "category": "Now",
+                "category": "Then",
                 "sub-category": "",
                 "tags": [],
-                "category-description": "How our community is now",
+                "category-description": "How our community used to be",
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-02-26T08:43:00.313-08:00",
-                "updated_date": "2020-02-26T09:29:50.395-08:00",
+                "updated_date": "2020-07-14T09:27:33.114-07:00",
                 "weight": 0,
                 "image_credit": "Carla Mildmay"
             },
@@ -1423,7 +1442,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Mildmay Community Centre Interior",
-                "type": "Places",
+                "type": "Memories",
                 "start_date": "2013-08-23T16:00:00.000-07:00",
                 "end_date": "2020-02-25T16:00:00.000-08:00",
                 "description": "Photos of the interior of Mildmay Community Centre in 2013 having recently been retrobuilt as a Passive House",
@@ -1437,7 +1456,7 @@
                     "ca/mildmay_community_centre_interior#73"
                 ],
                 "created_date": "2020-02-26T07:33:46.063-08:00",
-                "updated_date": "2020-02-26T09:41:48.272-08:00",
+                "updated_date": "2020-07-14T09:27:40.132-07:00",
                 "weight": 0,
                 "image_credit": "CEisenhart"
             },
@@ -1506,7 +1525,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-07-14T16:26:38.574Z",
+        "published": "2020-07-14T16:42:04.767Z",
         "links": [
             {
                 "title": "The Comensi project",

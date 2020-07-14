@@ -1283,7 +1283,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-07-13T16:40:34.737Z",
+        "published": "2020-07-14T09:30:27.409Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1295,20 +1295,6 @@
         ],
         "version": 57,
         "taxonomy": [
-            {
-                "category": "Next",
-                "description": "How you would like our community to be in future",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 3
-            },
-            {
-                "category": "Now",
-                "description": "How our community is now",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 2
-            },
             {
                 "category": "Then",
                 "description": "How our community used to be",

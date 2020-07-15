@@ -1013,7 +1013,7 @@
                 "type": "Places",
                 "start_date": "1872-12-31T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "The Army & Navy Pub is an historical pub located in the Mildmay ward of Islington. A funder and current partner of the Mildmay Community Centre, the pub has been around for more than a century, the first photograph of the pub dating from the 1930s. Today, the Army & Navy Pub are still donating to the Mildmay Community Centre. Recently, they participated to food donations happening in the centre as a response to the COVID19 pandemic.",
+                "description": "The Army & Navy Pub is a historical pub located in the Mildmay ward of Islington. A funder and current partner of the Mildmay Community Centre, the pub has been around for more than a century, the first photograph of the pub dating from the 1930s. Today, the Army & Navy Pub are still donating to the Mildmay Community Centre. Recently, they participated to food donations happening in the centre as a response to the COVID19 pandemic.",
                 "image": "https://whatpub.com/img/NLD/5793/army-navy-stoke-newington/298/224/78062",
                 "category": "Now",
                 "sub-category": "",
@@ -1035,7 +1035,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T06:40:10.997-07:00",
-                "updated_date": "2020-07-14T06:57:05.817-07:00",
+                "updated_date": "2020-07-15T01:38:24.848-07:00",
                 "weight": 0,
                 "image_credit": "Whatpub.com"
             },
@@ -1525,7 +1525,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-07-14T16:47:01.972Z",
+        "published": "2020-07-15T08:48:50.311Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1535,7 +1535,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 65,
+        "version": 67,
         "taxonomy": [
             {
                 "category": "Next",

@@ -1575,6 +1575,43 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Belle Alliance Platz",
+                "type": "Ort",
+                "start_date": "1815-01-20T16:00:00.000-08:00",
+                "end_date": "1945-02-02T16:00:00.000-07:00",
+                "description": "Im Jahr 1815 wurde der Name \"Das Rondell\" in Belle-Alliance-Platz als Erinnerung an den Sieg über Napoleon in Waterloo geändert. Die Friedenssäule wurde nur zwanzig Jahre später in der Mitte des Platzes errichtet und die Landschaftsgestaltung vom Direktor des königlichen Gartens Lenné übernommen. Der Platz blieb zunächst unverändert, bis mit dem Abriss der Akzisemauer 1879 und mit der späteren Erschließung durch die Eisenbahn und die U-Bahn das Erscheinungsbild des Platzes stark verändert wurde. Der Belle-Alliance-Platz wurde im II. Weltkrieg stark zerstört und unmittelbar danach in Mehringplatz (nach Franz Mehring) umbenannt. ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/800px-Berlin_Friedenssaeule.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "",
+                "tags": [
+                    "Architektur",
+                    "Kreativwirtschaft",
+                    "Ortsname",
+                    "Geschichte "
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [],
+                "relationships": [
+                    "ca/mehringplatz#39",
+                    "ca/_das_rondell_#45"
+                ],
+                "created_date": "2019-11-21T03:11:07.402-08:00",
+                "updated_date": "2020-06-18T00:59:24.418-07:00",
+                "weight": -1,
+                "image_credit": "Wikimedia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3918,
+                    52.499
+                ]
+            },
+            "id": "ca/belle_alliance_platz#40"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Mehringplatz",
                 "type": "Ort",
                 "start_date": "1968-06-20T16:00:00.000-07:00",
@@ -1894,7 +1931,7 @@
                     },
                     {
                         "url": "https://www.zlb.de/veranstaltungen/agbsonntagsoffen.html",
-                        "title": "Sonntagsbureau Veranstaltungsprogramm",
+                        "title": "Sonntagsöffnung Veranstaltungsprogramm",
                         "description": "",
                         "type": "website"
                     }
@@ -2218,6 +2255,12 @@
                     {
                         "url": "https://www.metropolenhaus.de/ex-blumengrossmarkt-pxb/",
                         "title": "Projektgruppe am Ex-Blumengroßmarkt",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://selbstbaugenossenschaft.de/?page_id=129",
+                        "title": "IBeB",
                         "description": "",
                         "type": "website"
                     }
@@ -2576,7 +2619,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-06-12T15:20:21.991Z",
+        "published": "2020-07-21T13:51:35.371Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2586,7 +2629,7 @@
                 "type": "translation"
             }
         ],
-        "version": 99,
+        "version": 101,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2891,6 +2934,14 @@
         {
             "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
             "to": "ca/ehemalige_blumengro_markthalle_#65"
+        },
+        {
+            "from": "ca/belle_alliance_platz#40",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/belle_alliance_platz#40",
+            "to": "ca/_das_rondell_#45"
         },
         {
             "from": "ca/mehringplatz#39",

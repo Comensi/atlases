@@ -580,7 +580,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-25T07:51:55.885-08:00",
-                "updated_date": "2019-12-11T03:40:51.256-08:00",
+                "updated_date": "2020-06-19T03:21:29.991-07:00",
                 "weight": 0,
                 "image_credit": "Image from Dorkbot"
             },
@@ -628,7 +628,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2020-06-17T03:48:44.828Z",
+        "published": "2020-08-20T15:50:50.568Z",
         "links": [
             {
                 "title": "The Comensi project",

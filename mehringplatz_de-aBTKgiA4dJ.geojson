@@ -798,6 +798,39 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Kreuzberg Tower",
+                "type": "Gebäude",
+                "start_date": "1987-08-23T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "Orte",
+                "sub-category": "Wohnen/ Unterbringung",
+                "tags": [
+                    "Architektur"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [],
+                "relationships": [
+                    "ca/iba#80"
+                ],
+                "created_date": "2020-08-24T06:35:59.141-07:00",
+                "updated_date": "2020-08-24T06:38:18.567-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3922,
+                    52.505
+                ]
+            },
+            "id": "ca/kreuzberg_tower#81"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Dragonerareal - Modellprojekt Rathausblock",
                 "type": "Projekt",
                 "start_date": "2015-07-31T16:00:00.000-07:00",
@@ -2619,7 +2652,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-07-21T13:51:35.371Z",
+        "published": "2020-08-25T11:19:54.089Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2629,7 +2662,7 @@
                 "type": "translation"
             }
         ],
-        "version": 101,
+        "version": 103,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2731,6 +2764,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/kreuzberg_tower#81",
+            "to": "ca/iba#80"
+        },
         {
             "from": "ca/36x_kreuzberg_memoryspiel#76",
             "to": "ca/querformat_b_verein_f_r_kunst_und_kultur#75"

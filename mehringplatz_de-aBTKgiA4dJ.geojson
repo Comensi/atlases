@@ -4,6 +4,48 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "IBA",
+                "type": "Programm",
+                "start_date": "1979-08-20T16:00:00.000-07:00",
+                "end_date": "1987-08-20T16:00:00.000-07:00",
+                "description": "1979 begann der Prozess für eine neue Internationale Bauausstellung in Berlin (IBA). Der Berliner Senat ernannte den Architekten Josef Paul Kleihues zum Direktor, der eine Reihe internationaler Architekten einlud, Projekte für Berlin zu entwerfen. Die Ausstellung gliederte sich in zwei unterschiedliche thematische Bereiche: \"Kritische Rekonstruktion\" und \"Behutsame Stadterneuerung\". Die Friedrichstadt ist eines der Hauptinteressensgebiete für Neubauten, die sich vor allem durch das Konzept der Rückkehr zu traditionellen Stilen und Typologien auszeichnen. Dieses Konzept inspirierte auch weitgehend das Planwerk Innestadt unter der Leitung von Senatsbaudirektor Hans Stimman. Die eigentlichen Arbeiten begannen 1984, und die Ausstellung wurde 1987 eröffnet. ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Stamps_of_Germany_%28Berlin%29_1987%2C_MiNr_785.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "Architektur ",
+                "tags": [
+                    "Architektur",
+                    "Stadterneuerung",
+                    "Stadtpolitik",
+                    "Urbanität"
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://www.bauwelt.de/themen/IBA-87-und-die-Folgen-25-Jahre-Internationale-Bauausstellung-Berlin-2102918.html",
+                        "title": "Bauwelt: IBA 87 und die Folgen",
+                        "description": "",
+                        "type": "document"
+                    },
+                    {
+                        "url": "https://de.wikipedia.org/wiki/Internationale_Bauausstellung_1987",
+                        "title": "Wikipedia page",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/kreuzberg_tower#81"
+                ],
+                "created_date": "2020-08-21T06:39:20.018-07:00",
+                "updated_date": "2020-08-25T05:18:24.004-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/iba#80"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "36x Kreuzberg - Memoryspiel",
                 "type": "Projekt",
                 "start_date": "",
@@ -2652,7 +2694,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-08-25T12:03:14.634Z",
+        "published": "2020-08-25T18:18:11.471Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2662,7 +2704,7 @@
                 "type": "translation"
             }
         ],
-        "version": 105,
+        "version": 106,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2767,6 +2809,10 @@
         {
             "from": "ca/kreuzberg_tower#81",
             "to": "ca/iba#80"
+        },
+        {
+            "from": "ca/iba#80",
+            "to": "ca/kreuzberg_tower#81"
         },
         {
             "from": "ca/36x_kreuzberg_memoryspiel#76",

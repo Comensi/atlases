@@ -436,7 +436,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-05-15T15:13:04.621Z",
+        "published": "2020-09-03T15:36:53.115Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -446,7 +446,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 34,
+        "version": 35,
         "taxonomy": [
             {
                 "category": "#r12",

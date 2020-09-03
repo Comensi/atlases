@@ -9,7 +9,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Erguida na denominada Quinta de Cima, a Real Barraca funcionou como residência-refúgio para a Família Real, da qual a Torre do Galo fazia parte - chamada assim por ter um catavento em forma de galo.\nMas quando em 1794, se deflagra um enorme incêndio que destrói por completo a Real Barraca e grande parte do seu valioso recheio – tapeçarias, pinturas, ourivesaria, mobiliário – a Torre da Paroquial (Torre do Relógio ou do Galo) foi a única que se salvou.\nNo largo desta torre, promoveu-se ao longo de vários anos a Feira do Galo, que juntava população deste território e animava assim, um dos espaços mais característicos da Ajuda. Neste momento, tenta-se reactivar esta tradição, ainda que em 2020 com a pandemia Covid-19, este projeto tenha sido adiado.\n",
-                "image": "https://goo.gl/maps/sykgi7nk1ujbBk7a8",
+                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.timeout.pt%2Flisboa%2Fpt%2Fcoisas-para-fazer%2Ftorre-do-galo&psig=AOvVaw0y_UnQ2ATbMenLzQS781O6&ust=1599234554272000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj4vo6rzesCFQAAAAAdAAAAABAD",
                 "category": "Places",
                 "sub-category": "Public space",
                 "tags": [
@@ -32,9 +32,9 @@
                     "ca/torre_do_galo#81"
                 ],
                 "created_date": "2020-09-03T08:03:23.967-07:00",
-                "updated_date": "2020-09-03T08:36:33.347-07:00",
+                "updated_date": "2020-09-03T08:49:46.176-07:00",
                 "weight": 0,
-                "image_credit": "José Paiva Wolff"
+                "image_credit": "Time Out"
             },
             "geometry": {
                 "type": "Point",
@@ -480,7 +480,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-03T15:42:06.715Z",
+        "published": "2020-09-03T15:51:28.638Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -490,7 +490,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 36,
+        "version": 38,
         "taxonomy": [
             {
                 "category": "#r12",

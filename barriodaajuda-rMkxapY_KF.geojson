@@ -659,7 +659,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-03T16:43:07.825Z",
+        "published": "2020-09-03T16:46:54.114Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -669,8 +669,22 @@
                 "type": "homepage"
             }
         ],
-        "version": 43,
+        "version": 44,
         "taxonomy": [
+            {
+                "category": "#r12",
+                "description": "",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 10
+            },
+            {
+                "category": "Simple",
+                "description": "",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 9
+            },
             {
                 "category": "Itineraries",
                 "description": "to connect different elements in the territory in a geo-spatial experience, e.g. guided tours",

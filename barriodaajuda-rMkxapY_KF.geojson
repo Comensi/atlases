@@ -4,6 +4,52 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Mercado da Ajuda",
+                "type": "Edifício",
+                "start_date": "",
+                "end_date": "",
+                "description": "Também conhecido como Mercado da Boa Hora, por se situar nessa zona da Ajuda, este mercado típico oferece muita variedade de peixe, legumes e frutas, com garantia de frescura e de qualidade. A peixaria recebe a nota máxima, pela qualidade superior dos produtos. E tem parque de estacionamento gratuito!",
+                "image": "https://scontent.flis5-1.fna.fbcdn.net/v/t31.0-8/10537157_1537417709807067_8643152520224991325_o.jpg?_nc_cat=104&_nc_sid=19026a&_nc_ohc=C7nqlEicHy0AX-EHwKz&_nc_ht=scontent.flis5-1.fna&oh=770485a28ba8b7b91333d69085c3da00&oe=5F752FA6",
+                "category": "Places",
+                "sub-category": "commerce",
+                "tags": [
+                    "cooking",
+                    "Social inclusion",
+                    "oral history",
+                    "Public space"
+                ],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "https://www.facebook.com/MercadoAjuda",
+                        "title": "Mercado da Ajuda",
+                        "description": "Os Frescos da Ajuda",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/freguesia_da_ajuda#71",
+                    "ca/envolver_uma_comunidade#72",
+                    "ca/laborat_rio_ideias_para_a_d_cada__mercado_da_ajuda#78",
+                    "ca/mercado_da_ajuda#86"
+                ],
+                "created_date": "2020-09-03T09:28:32.962-07:00",
+                "updated_date": "2020-09-03T09:32:36.574-07:00",
+                "weight": 0,
+                "image_credit": "Carla Dias"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.194847,
+                    38.703795
+                ]
+            },
+            "id": "ca/mercado_da_ajuda#86"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Jardim Botânico da Ajuda",
                 "type": "Lugar",
                 "start_date": "",
@@ -568,7 +614,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-03T16:27:09.907Z",
+        "published": "2020-09-03T16:33:39.628Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -580,84 +626,6 @@
         ],
         "version": 41,
         "taxonomy": [
-            {
-                "category": "#r12",
-                "description": "",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 10
-            },
-            {
-                "category": "Simple",
-                "description": "",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 9
-            },
-            {
-                "category": "Itineraries",
-                "description": "to connect different elements in the territory in a geo-spatial experience, e.g. guided tours",
-                "sub-categories": [
-                    "H-Town Lab (URBEX Youth Lab)"
-                ],
-                "weight": 0,
-                "id": 8
-            },
-            {
-                "category": "Imaginations",
-                "description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 7
-            },
-            {
-                "category": "Narratives",
-                "description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
-                "sub-categories": [
-                    "Place narratives ",
-                    "Stakeholder interviews"
-                ],
-                "weight": 0,
-                "id": 6
-            },
-            {
-                "category": "Memories",
-                "description": "to document material and immaterial heritage\r\n",
-                "sub-categories": [
-                    "Statues",
-                    "Graffiti & Murals",
-                    "Oral histories",
-                    "Plaques/Information displays",
-                    "Architecture "
-                ],
-                "weight": 0,
-                "id": 5
-            },
-            {
-                "category": "Stakeholders",
-                "description": "identifying formal and informal actors in the area",
-                "sub-categories": [
-                    "Public cultural institutions",
-                    "Administration",
-                    "Developers and enterprises",
-                    "NGO/Social work",
-                    "Commerce"
-                ],
-                "weight": 0,
-                "id": 4
-            },
-            {
-                "category": "Transformações",
-                "description": "Descobrir e dar destaque a processos, projetos, conflitos ou iniciativas a decorrer - transformações a decorrer na área ",
-                "sub-categories": [
-                    "Private spaces",
-                    "Public space",
-                    "Infrastructural",
-                    "Commons oriented"
-                ],
-                "weight": 0,
-                "id": 3
-            },
             {
                 "category": "Places",
                 "description": "",
@@ -687,6 +655,22 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/mercado_da_ajuda#86",
+            "to": "ca/freguesia_da_ajuda#71"
+        },
+        {
+            "from": "ca/mercado_da_ajuda#86",
+            "to": "ca/envolver_uma_comunidade#72"
+        },
+        {
+            "from": "ca/mercado_da_ajuda#86",
+            "to": "ca/laborat_rio_ideias_para_a_d_cada__mercado_da_ajuda#78"
+        },
+        {
+            "from": "ca/mercado_da_ajuda#86",
+            "to": "ca/mercado_da_ajuda#86"
+        },
         {
             "from": "ca/jardim_bot_nico_da_ajuda#85",
             "to": "ca/freguesia_da_ajuda#71"

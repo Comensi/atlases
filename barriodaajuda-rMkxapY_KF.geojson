@@ -4,12 +4,49 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Pólo Universitário da Ajuda",
+                "type": "Lugar",
+                "start_date": "",
+                "end_date": "",
+                "description": "Entre o Palácio Nacional da Ajuda, o Parque Florestal de Monsanto e a Tapada da Ajuda, encontramos o Pólo Universitário da Ajuda, um campus da Universidade de Lisboa.\n\nNo Alto da Ajuda, em terrenos contíguos aos do Instituto Superior de Agronomia, foram construídas as novas instalações da Faculdade de Arquitetura, seguidas das da Faculdade de Medicina Veterinária e do Instituto Superior de Ciências Sociais e Políticas, o refeitório, o restaurante e o Centro de Atividade Física e Recreação. Este pólo mantém fluída uma conexão entre as diferentes faculdades, bem como a ligação do espaço com a restante cidade de Lisboa, através da construção de um novo espaço público.",
+                "image": "https://dingo.care2.com/pictures/petition_images/petition/861/832646-1445888639-wide.jpg",
+                "category": "Places",
+                "sub-category": "Venue",
+                "tags": [
+                    "youths",
+                    "workspace",
+                    "commons",
+                    "Urban regeneration",
+                    "collective"
+                ],
+                "category-description": "",
+                "links": [],
+                "relationships": [
+                    "ca/p_lo_universit_rio_da_ajuda#84"
+                ],
+                "created_date": "2020-09-03T08:52:45.749-07:00",
+                "updated_date": "2020-09-03T09:09:27.034-07:00",
+                "weight": 0,
+                "image_credit": "unknown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.196987,
+                    38.714106
+                ]
+            },
+            "id": "ca/p_lo_universit_rio_da_ajuda#84"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Torre do Galo",
                 "type": "Lugar",
                 "start_date": "",
                 "end_date": "",
                 "description": "Erguida na denominada Quinta de Cima, a Real Barraca funcionou como residência-refúgio para a Família Real, da qual a Torre do Galo fazia parte - chamada assim por ter um catavento em forma de galo.\nMas quando em 1794, se deflagra um enorme incêndio que destrói por completo a Real Barraca e grande parte do seu valioso recheio – tapeçarias, pinturas, ourivesaria, mobiliário – a Torre da Paroquial (Torre do Relógio ou do Galo) foi a única que se salvou.\nNo largo desta torre, promoveu-se ao longo de vários anos a Feira do Galo, que juntava população deste território e animava assim, um dos espaços mais característicos da Ajuda. Neste momento, tenta-se reactivar esta tradição, ainda que em 2020 com a pandemia Covid-19, este projeto tenha sido adiado.\n",
-                "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.timeout.pt%2Flisboa%2Fpt%2Fcoisas-para-fazer%2Ftorre-do-galo&psig=AOvVaw0y_UnQ2ATbMenLzQS781O6&ust=1599234554272000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj4vo6rzesCFQAAAAAdAAAAABAD",
+                "image": "https://media.timeout.com/images/105274956/750/422/image.jpg",
                 "category": "Places",
                 "sub-category": "Public space",
                 "tags": [
@@ -32,7 +69,7 @@
                     "ca/torre_do_galo#81"
                 ],
                 "created_date": "2020-09-03T08:03:23.967-07:00",
-                "updated_date": "2020-09-03T08:49:46.176-07:00",
+                "updated_date": "2020-09-03T09:12:52.977-07:00",
                 "weight": 0,
                 "image_credit": "Time Out"
             },
@@ -480,7 +517,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-03T15:51:28.638Z",
+        "published": "2020-09-03T16:14:18.749Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -490,7 +527,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 38,
+        "version": 39,
         "taxonomy": [
             {
                 "category": "#r12",
@@ -599,6 +636,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/p_lo_universit_rio_da_ajuda#84",
+            "to": "ca/p_lo_universit_rio_da_ajuda#84"
+        },
         {
             "from": "ca/torre_do_galo#81",
             "to": "ca/freguesia_da_ajuda#71"

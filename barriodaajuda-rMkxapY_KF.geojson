@@ -4,6 +4,57 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Jardim Botânico da Ajuda",
+                "type": "Lugar",
+                "start_date": "",
+                "end_date": "",
+                "description": "A ajuda respira e é aromatizada pelo Jardim Botânico, fundado em 1768 e projetado por um botânico italiano, Domingos Vandelli, vindo de Pádua a pedido do rei D. José para ensinar os seus príncipes. Este espaço de rigor geométrico, foi o primeiro jardim botânico português, sendo considerado a primeira e a mais importante instituição dedicada à cultura da história natural do País. \n\nEm 1791, Vandelli foi nomeado director do inicialmente denominado «Real Jardim Botânico da Ajuda, Laboratório Químico, Museu de História Natural e Casa do Risco». Mandou vir plantas vivas e sementes dos jardins botânicos de todo o mundo, chegando a colecionar mais de 5000 espécies. No entanto, em finais do século XVIII, apenas existiam 1200 espécies em cultura.\n\nEntre 1993 e 1997, com o apoio do Prémio de Conservação do Património Europeu e do Fundo de Turismo, o Jardim foi restaurado com a recuperação da coleção botânica, o restauro do sistema de rega e a instalação do Jardim dos Aromas.\n",
+                "image": "https://scontent.flis5-1.fna.fbcdn.net/v/t1.0-9/94381847_2907971945917678_7721924433077600256_o.jpg?_nc_cat=100&_nc_sid=e3f864&_nc_ohc=j_cNFzFfR9UAX8Oswdu&_nc_ht=scontent.flis5-1.fna&oh=9d4cc0884f783f3226b2de013f5e19a7&oe=5F77AE9D",
+                "category": "Places",
+                "sub-category": "Park",
+                "tags": [
+                    "art",
+                    "Events",
+                    "park",
+                    "gardening",
+                    "Public space"
+                ],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "http://www.isa.ulisboa.pt/jba/apresentacao",
+                        "title": "Instituto Superior de Agronomia",
+                        "description": "O Jardim Botânico da Ajuda (JBA), Unidade de Apoio Tecnológico do ISA, pertence-lhe desde 1910, integrado como infra-estrutura de ensino e investigação.",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.facebook.com/JardimBotanicodajuda/about/?ref=page_internal",
+                        "title": "Jardim Botânico da Ajuda",
+                        "description": "Fundado em 1768, o Jardim Botânico da Ajuda é o primeiro Jardim Botânico de Portugal.",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/freguesia_da_ajuda#71",
+                    "ca/jardim_bot_nico_da_ajuda#85"
+                ],
+                "created_date": "2020-09-03T09:17:05.839-07:00",
+                "updated_date": "2020-09-03T09:22:28.755-07:00",
+                "weight": 0,
+                "image_credit": "FB Jardim Botânico da Ajuda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.200752,
+                    38.706565
+                ]
+            },
+            "id": "ca/jardim_bot_nico_da_ajuda#85"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Pólo Universitário da Ajuda",
                 "type": "Lugar",
                 "start_date": "",
@@ -517,7 +568,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-03T16:14:59.052Z",
+        "published": "2020-09-03T16:27:09.907Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -527,7 +578,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 40,
+        "version": 41,
         "taxonomy": [
             {
                 "category": "#r12",
@@ -636,6 +687,14 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/jardim_bot_nico_da_ajuda#85",
+            "to": "ca/freguesia_da_ajuda#71"
+        },
+        {
+            "from": "ca/jardim_bot_nico_da_ajuda#85",
+            "to": "ca/jardim_bot_nico_da_ajuda#85"
+        },
         {
             "from": "ca/p_lo_universit_rio_da_ajuda#84",
             "to": "ca/p_lo_universit_rio_da_ajuda#84"

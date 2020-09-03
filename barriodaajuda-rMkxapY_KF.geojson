@@ -1,5 +1,50 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Geomonumento do Rio Seco",
+                "type": "Monumento",
+                "start_date": "",
+                "end_date": "",
+                "description": "Na zona do Rio Seco, uma enorme caverna surpreende quem por ali passa devido às grandes dimensões da sua entrada, enquadradas do ponto de vista paisagístico por um parque urbano que constitui zona de lazer para os moradores da Ajuda. No geomonumento do Rio  Seco  é  possível  interpretar  diferentes fenómenos da natureza, sendo este um dos vários afloramentos rochosos que retratam a evolução paleoambiental da cidade de Lisboa.",
+                "image": "https://nationalgeographic.sapo.pt/images/revistas/173/PlanetaTerra/EXLisboa3.jpg",
+                "category": "Transformações",
+                "sub-category": "Public space",
+                "tags": [
+                    "art",
+                    "architecture",
+                    "culture",
+                    "park",
+                    "gardening",
+                    "oral history",
+                    "Public space",
+                    "Urban regeneration"
+                ],
+                "category-description": "Descobrir e dar destaque a processos, projetos, conflitos ou iniciativas a decorrer - transformações a decorrer na área ",
+                "links": [
+                    {
+                        "url": "https://www.lpn.pt/pt/noticias/geomonumentos-da-cidade-de-lisboa",
+                        "title": "Geomonumentos da Cidade de Lisboa",
+                        "description": "A LPN é uma Organização Não Governamental de Ambiente (ONGA), de âmbito nacional, fundada em 1948, sendo a Associação de defesa do ambiente mais antiga da Península Ibérica. É uma associação sem fins lucrativos com estatuto de Utilidade Pública.",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/freguesia_da_ajuda#71",
+                    "ca/envolver_uma_comunidade#72",
+                    "ca/laborat_rio_ideias_para_a_d_cada__sc_rio_seco#77",
+                    "ca/geomonumento_do_rio_seco#87"
+                ],
+                "created_date": "2020-09-03T09:35:55.590-07:00",
+                "updated_date": "2020-09-03T09:42:17.409-07:00",
+                "weight": 0,
+                "image_credit": "Alexandre Vaz"
+            },
+            "id": "ca/geomonumento_do_rio_seco#87"
+        }
+    ],
     "features": [
         {
             "type": "Feature",
@@ -614,7 +659,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-03T16:35:54.526Z",
+        "published": "2020-09-03T16:43:07.825Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -624,22 +669,8 @@
                 "type": "homepage"
             }
         ],
-        "version": 42,
+        "version": 43,
         "taxonomy": [
-            {
-                "category": "#r12",
-                "description": "",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 10
-            },
-            {
-                "category": "Simple",
-                "description": "",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 9
-            },
             {
                 "category": "Itineraries",
                 "description": "to connect different elements in the territory in a geo-spatial experience, e.g. guided tours",
@@ -733,6 +764,22 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/geomonumento_do_rio_seco#87",
+            "to": "ca/freguesia_da_ajuda#71"
+        },
+        {
+            "from": "ca/geomonumento_do_rio_seco#87",
+            "to": "ca/envolver_uma_comunidade#72"
+        },
+        {
+            "from": "ca/geomonumento_do_rio_seco#87",
+            "to": "ca/laborat_rio_ideias_para_a_d_cada__sc_rio_seco#77"
+        },
+        {
+            "from": "ca/geomonumento_do_rio_seco#87",
+            "to": "ca/geomonumento_do_rio_seco#87"
+        },
         {
             "from": "ca/mercado_da_ajuda#86",
             "to": "ca/freguesia_da_ajuda#71"

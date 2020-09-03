@@ -4,6 +4,50 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Torre do Galo",
+                "type": "Lugar",
+                "start_date": "",
+                "end_date": "",
+                "description": "Erguida na denominada Quinta de Cima, a Real Barraca funcionou como residência-refúgio para a Família Real, da qual a Torre do Galo fazia parte - chamada assim por ter um catavento em forma de galo.\nMas quando em 1794, se deflagra um enorme incêndio que destrói por completo a Real Barraca e grande parte do seu valioso recheio – tapeçarias, pinturas, ourivesaria, mobiliário – a Torre da Paroquial (Torre do Relógio ou do Galo) foi a única que se salvou.\nNo largo desta torre, promoveu-se ao longo de vários anos a Feira do Galo, que juntava população deste território e animava assim, um dos espaços mais característicos da Ajuda. Neste momento, tenta-se reactivar esta tradição, ainda que em 2020 com a pandemia Covid-19, este projeto tenha sido adiado.\n",
+                "image": "https://goo.gl/maps/sykgi7nk1ujbBk7a8",
+                "category": "Places",
+                "sub-category": "Public space",
+                "tags": [
+                    "architecture",
+                    "culture",
+                    "oral history"
+                ],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "https://lisboamonumentos.webnode.pt/products/torre-do-galo/",
+                        "title": "Monumentos de Lisboa",
+                        "description": "Lisboa,tal como muitas outras cidades, têm uma história para contar, e parte dessa historia está contida nos monumentos que pela cidade se encontram.",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/freguesia_da_ajuda#71",
+                    "ca/envolver_uma_comunidade#72",
+                    "ca/torre_do_galo#81"
+                ],
+                "created_date": "2020-09-03T08:03:23.967-07:00",
+                "updated_date": "2020-09-03T08:36:33.347-07:00",
+                "weight": 0,
+                "image_credit": "José Paiva Wolff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.196368,
+                    38.708279
+                ]
+            },
+            "id": "ca/torre_do_galo#81"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Laboratório \"Ideias para a década\"_Mercado da Ajuda",
                 "type": "Evento",
                 "start_date": "2020-03-09T17:00:00.000-07:00",
@@ -436,7 +480,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-03T15:36:53.115Z",
+        "published": "2020-09-03T15:40:31.171Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -446,7 +490,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 35,
+        "version": 36,
         "taxonomy": [
             {
                 "category": "#r12",
@@ -555,6 +599,18 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/torre_do_galo#81",
+            "to": "ca/freguesia_da_ajuda#71"
+        },
+        {
+            "from": "ca/torre_do_galo#81",
+            "to": "ca/envolver_uma_comunidade#72"
+        },
+        {
+            "from": "ca/torre_do_galo#81",
+            "to": "ca/torre_do_galo#81"
+        },
         {
             "from": "ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76",
             "to": "ca/freguesia_da_ajuda#71"

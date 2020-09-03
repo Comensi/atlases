@@ -94,6 +94,41 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Torre do Galo",
+                "type": "Place",
+                "start_date": "",
+                "end_date": "",
+                "description": "Erguida na denominada Quinta de Cima, a Real Barraca funcionou como residência-refúgio para a Família Real, da qual a Torre do Galo fazia parte - chamada assim por ter um catavento em forma de galo.\nMas quando em 1794, se deflagra um enorme incêndio que destrói por completo a Real Barraca e grande parte do seu valioso recheio – tapeçarias, pinturas, ourivesaria, mobiliário – a Torre da Paroquial (Torre do Relógio ou do Galo) foi a única que se salvou.\nNo largo desta torre, promoveu-se ao longo de vários anos a Feira do Galo, que juntava população deste território e animava assim, um dos espaços mais característicos da Ajuda. Neste momento, tenta-se reativar esta tradição, ainda que em 2020 com a pandemia Covid-19, este projeto tenha sido adiado.\n",
+                "image": "https://www.google.pt/maps/place/Torre+Paroquial/@38.7080695,-9.1964217,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMj1Rmh7gaa8eAqGbW8ewaN_a0L159sVYtN7GCC!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMj1Rmh7gaa8eAqGbW8ewaN_a0L159sVYtN7GCC%3Dw203-h304-k-no!7i3004!8i4502!4m14!1m6!3m5!1s0xd1ecb5610db9537:0xb80523145d981396!2sTorre+Paroquial!8m2!3d38.7080695!4d-9.1964217!3m6!1s0xd1ecb5610db9537:0xb80523145d981396!8m2!3d38.7080695!4d-9.1964217!14m1!1BCgIgARICGAI#",
+                "category": "Places",
+                "sub-category": "Public space",
+                "tags": [
+                    "architecture",
+                    "Public space",
+                    "Urban regeneration"
+                ],
+                "category-description": "",
+                "links": null,
+                "relationships": [
+                    "play/torre_do_galo#72"
+                ],
+                "created_date": "2020-09-03T07:42:32.749-07:00",
+                "updated_date": "2020-09-03T07:56:44.691-07:00",
+                "weight": 0,
+                "image_credit": "José Paiva Wolff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.196035,
+                    38.708229
+                ]
+            },
+            "id": "play/torre_do_galo#72"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "test geometry",
                 "type": "",
                 "start_date": "",
@@ -628,7 +663,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2020-08-20T15:50:50.568Z",
+        "published": "2020-09-03T15:00:23.453Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -645,7 +680,7 @@
                 "type": "email"
             }
         ],
-        "version": 23,
+        "version": 24,
         "taxonomy": [
             {
                 "category": "Itineraries",
@@ -740,6 +775,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "play/torre_do_galo#72",
+            "to": "play/torre_do_galo#72"
+        },
         {
             "from": "play/test_2#68",
             "to": "play/mcp_mar_a_s_test_#57"

@@ -851,7 +851,7 @@
                 ],
                 "relationships": [
                     "ca/ehemalige_blumengro_markthalle_#65",
-                    "ca/metropolenhaus_am_judisches_museum#19",
+                    "ca/metropolenhaus_am_j_dischen_museum#19",
                     "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
                     "ca/konzentrationslager_gutschow_keller_#61"
                 ],
@@ -868,6 +868,51 @@
                 ]
             },
             "id": "ca/j_disches_museum_berlin_#79"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Friedenssäule",
+                "type": "Monument",
+                "start_date": "1840-01-31T16:00:00.000-08:00",
+                "end_date": "1843-01-31T16:00:00.000-08:00",
+                "description": "Im Verlauf des 19. Jahrhunderts wurden in Berlin drei monumentale Säulen errichtet, die als preußische oder nationale Gedenkstätten zu den Themen »Frieden«, »Heldenopfer« und »Sieg« die Erinnerungen der Bevölkerung lebendig halten sollten: So entstanden die Friedenssäule, die Invalidensäule und die Siegessäule. Das erste errichtete Säulenmonument war die Friedenssäule, die der König Friedrich Wilhelm III. als Denkmal für die Befreiungskriege errichtet ließ.                                                                                                                                                                       Quelle: Florian Müller-Klug",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/800px-Berlin_Friedenssaeule.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "Statuen",
+                "tags": [
+                    "Architektur",
+                    "Öffentlicher Raum",
+                    "Geschichte ",
+                    "Erbe"
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://clioberlin.de/blog-architektur/108-berliner-saulenmonumente-die-friedenssaeule.html",
+                        "title": "Architektur-Blog zu Berlin",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/belle_alliance_platz#40",
+                    "ca/mehringplatz#39",
+                    "ca/_das_rondell_#45"
+                ],
+                "created_date": "2020-06-12T02:26:03.821-07:00",
+                "updated_date": "2020-09-04T02:48:22.904-07:00",
+                "weight": 0,
+                "image_credit": "Wikimedia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3918,
+                    52.499
+                ]
+            },
+            "id": "ca/friedenss_ule#77"
         },
         {
             "type": "Feature",
@@ -1049,7 +1094,7 @@
                     "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
                     "ca/kreative_raumpioniere_am_mehringplatz#41",
                     "ca/konzentrationslager_gutschow_keller_#61",
-                    "ca/metropolenhaus_am_judisches_museum#19"
+                    "ca/metropolenhaus_am_j_dischen_museum#19"
                 ],
                 "created_date": "2020-04-03T06:18:05.316-07:00",
                 "updated_date": "2020-05-05T07:09:01.702-07:00",
@@ -2032,7 +2077,7 @@
                 "type": "Organisation",
                 "start_date": "2007-09-29T16:00:00.000-07:00",
                 "end_date": "",
-                "description": "\t\tDie Globale e.V. wurde 2007 gegründet und arbeitet schwerpunktmäßig im Bereich frühkindlicher Bildung sowie zu den Themen gesellschaftliche Integration und Gemeinwesenarbeit.  Der Verein ist am Mehringplatz und im Donaukiez aktiv. Im Bereich der Bildungsarbeit betreibt der Verein zwei Lernwerkstätten in Kreuzberg und Neukölln sowie drei Kitas, die mit dem Konzept des entdeckenden Lernens arbeiten. Das Angebot der Lernwerkstätten richtet sich an Kinder im Alter von vier bis 12 Jahren. Es zielt darauf ab, das Lerninteresse und die Lernmotivation der Heranwachsenden und ihr Interesse an der Erforschung ihrer natürlichen und sozialen Umwelt als wesentliche Voraussetzung für einen gelingenden Bildungsprozess zu unterstützen. Bei den unterschiedlichen Angeboten werden die unterschiedlichen Lebensverhältnisse und Lebensentwürfe der Familien berücksichtigt um den Kindern vielfältige Zugänge zu Bildungsprozessen zu ermöglicht. In der Arbeit werden die besonderen Interessen und Fähigkeiten der Kinder gefördert und die Familien als wichtige Bildungspartner ihrer Kinder gestärkt.\nDer zweite Schwerpunkt  liegt in der Entwicklung von Kiezstrukturen am Mehringplatz. Im Rahmen seiner Angebote hat der Verein einen guten Kontakt zur Nachbarschaft aufgebaut. Durch vielfältige Aktivitäten (Feste, Flohmarkt, Bücherverleih) ist der Verein im Gebiet bekannt und hat bereits zu zahlreichen Gelegenheiten Bewohner unterstützt, Angebote für ein nachbarschaftliches Zusammensein zu entwickeln und umzusetzen. Das Nachbarschaftscafé am Mehringplatz 7 bietet zudem einen öffentlichen Ort, an dem sich Menschen des Quartiers treffen, ihre Bedürfnisse und Interessen artikulieren und den Ort für Begegnungen nutzen. Der Verein ist gut vernetzt mit anderen sozialen und kulturellen Einrichtungen und sonstigen Organisationen (Gewobag, Mieterbeirat, Bildungsnetz, Gewerbetreibende, AOK, Platzgärtner etc.) im Quartier. \n",
+                "description": "Die Globale e.V. wurde 2007 gegründet und arbeitet schwerpunktmäßig im Bereich frühkindlicher Bildung sowie zu den Themen gesellschaftliche Integration und Gemeinwesenarbeit. \nDer Verein ist am Mehringplatz und im Donaukiez aktiv. Im Bereich der Bildungsarbeit betreibt der Verein zwei Lernwerkstätten in Kreuzberg und Neukölln (für Kinder im Alter von 4 - 11 Jahren) sowie drei Kitas, die mit dem Konzept des entdeckenden Lernens arbeiten. Die Lernwerkstätten zielen darauf ab, das Lerninteresse und die Motivation der Heranwachsenden an der Erforschung ihrer natürlichen und sozialen Umwelt als wesentliche Voraussetzung für einen gelingenden Bildungsprozess zu unterstützen. Bei den  Angeboten werden die unterschiedlichen Lebensverhältnisse der Familien berücksichtigt, um den Kindern individuell passende Zugänge zu Bildungsprozessen zu ermöglichen. In der Arbeit werden die besonderen Interessen und Fähigkeiten der Kinder gefördert und die Familien als wichtige Bildungspartner*innen ihrer Kinder gestärkt.\n\nDer zweite Schwerpunkt liegt in der Entwicklung von Kiezstrukturen am Mehringplatz. Im Rahmen seiner Angebote hat der Verein einen guten Kontakt zur Nachbarschaft aufgebaut. Durch vielfältige Aktivitäten (Feste, Flohmarkt, Bücherverleih) ist der Verein im Gebiet bekannt und hat bereits zu zahlreichen Gelegenheiten Bewohner*innen unterstützt, Angebote für ein nachbarschaftliches Zusammensein zu entwickeln und umzusetzen. Das Nachbarschaftscafé am Mehringplatz 7 bietet zudem einen öffentlichen Ort, an dem sich Menschen des Quartiers treffen, ihre Bedürfnisse und Interessen artikulieren und den Ort für Begegnungen nutzen. Der Verein ist gut vernetzt mit anderen soziokulturellen Einrichtungen und sonstigen Organisationen (Gewobag, Mieterbeirat, Bildungsnetz, Gewerbetreibende, AOK, Platzgärtner etc.) im Quartier. \n",
                 "image": "https://i.ibb.co/BydwNWY/globale-logo-web-header.png",
                 "category": "Akteur:innen",
                 "sub-category": "NGO/Social work",
@@ -2040,13 +2085,15 @@
                     "Kochen",
                     "soziale Inklusion",
                     "Kultur",
-                    "Jugend"
+                    "Jugend",
+                    "Veranstaltung",
+                    "gemeinschaftlich"
                 ],
                 "category-description": "Im Gebiet engagierte Menschen und Initiativen",
                 "links": [
                     {
                         "url": "http://dieglobale.org/",
-                        "title": "",
+                        "title": "offizielle Website",
                         "description": "",
                         "type": "website"
                     }
@@ -2056,9 +2103,9 @@
                     "ca/karin_l_cker_caf_madame_#31"
                 ],
                 "created_date": "2019-09-27T02:10:08.037-07:00",
-                "updated_date": "2020-05-05T05:39:10.859-07:00",
+                "updated_date": "2020-09-04T03:12:04.287-07:00",
                 "weight": 1,
-                "image_credit": ""
+                "image_credit": "https://dieglobale.org/bildungsarbeit/die-lernwerkstatt-zu-hause/"
             },
             "geometry": {
                 "type": "Point",
@@ -2354,7 +2401,7 @@
                 "relationships": [
                     "ca/bauh_tte#16",
                     "ca/taz_neubau#10",
-                    "ca/metropolenhaus_am_judisches_museum#19",
+                    "ca/metropolenhaus_am_j_dischen_museum#19",
                     "ca/ehemalige_blumengro_markthalle_#65"
                 ],
                 "created_date": "2019-09-26T03:29:19.999-07:00",
@@ -2705,7 +2752,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-09-04T09:48:43.452Z",
+        "published": "2020-09-04T10:14:15.485Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2715,7 +2762,7 @@
                 "type": "translation"
             }
         ],
-        "version": 107,
+        "version": 108,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2831,7 +2878,7 @@
         },
         {
             "from": "ca/j_disches_museum_berlin_#79",
-            "to": "ca/metropolenhaus_am_judisches_museum#19"
+            "to": "ca/metropolenhaus_am_j_dischen_museum#19"
         },
         {
             "from": "ca/j_disches_museum_berlin_#79",
@@ -2840,6 +2887,18 @@
         {
             "from": "ca/j_disches_museum_berlin_#79",
             "to": "ca/konzentrationslager_gutschow_keller_#61"
+        },
+        {
+            "from": "ca/friedenss_ule#77",
+            "to": "ca/belle_alliance_platz#40"
+        },
+        {
+            "from": "ca/friedenss_ule#77",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/friedenss_ule#77",
+            "to": "ca/_das_rondell_#45"
         },
         {
             "from": "ca/36x_kreuzberg_memoryspiel#76",
@@ -2911,7 +2970,7 @@
         },
         {
             "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/metropolenhaus_am_judisches_museum#19"
+            "to": "ca/metropolenhaus_am_j_dischen_museum#19"
         },
         {
             "from": "ca/mehringplatz_anknipsen_interviews#64",
@@ -3227,7 +3286,7 @@
         },
         {
             "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-            "to": "ca/metropolenhaus_am_judisches_museum#19"
+            "to": "ca/metropolenhaus_am_j_dischen_museum#19"
         },
         {
             "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",

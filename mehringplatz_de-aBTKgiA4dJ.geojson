@@ -198,53 +198,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Whenever the Heart Skips a Beat",
-                "type": "Veranstaltung",
-                "start_date": "2017-08-31T16:00:00.000-07:00",
-                "end_date": "2017-09-14T16:00:00.000-07:00",
-                "description": "Whenever the Heart Skips a Beat überführt Rituale und kulturelle Praktiken der Gastfreundschaft (Hospitality) in künstlerische Prozesse. Die überwiegend eigens für den Mehringplatz entstandenen Arbeiten von mehr als zwanzig internationalen Künstler*innen werden als Interventionen im öffentlichen Raum erfahrbar: in Form von Performances, Workshops und einer Ausstellung, die an dem Platz und in den ansässigen Geschäften zu sehen sind. Die Ladenbesitzer*innen werden so zu Gastgeber*innen der jeweiligen Arbeiten. Zwischen Friedrichstraße und Bergmannkiez ruft der Mehringplatz mit seiner präsenten Architektur, dem sozialen Wohnungsbau der 1970er Jahre, entworfen von dem Architekten Werner Düttmann, ein interessantes Spannungsverhältnis auf. Mit Whenever the Heart Skips a Beat sollen nun Räume geöffnet werden, die zumeist übersehen werden oder durch die vermeintliche Geschlossenheit des Platzes unzugänglich erscheinen, um einen Perspektivwechsel einzuleiten, Auseinandersetzungen vor und mit dem Ort zuzulassen, Konflikte aufzuzeigen und diese mit Ritualen der Gastfreundschaft aufzubrechen und aktiv zu beeinflussen.  Bezug nehmend auf den Titel der gleichnamigen Arbeit des Künstler*innenkollektivsRaqs Media Collective, die auf Plakaten am Mehringplatz zu sehen ist, spielt Whenever the Heart Skips a Beat darauf an, dass die Veränderung des Herzschlags sowohl durch einen freudigen Herzsprung wie durch ein beklemmendes Herzrasen aus einer Unsicherheit heraus ausgelöst werden kann. Vor diesem Hintergrund werden individuelle Vorstellungen und kollektives Handeln aus verschiedenen künstlerischen Blickwinkeln politisch und soziologisch untersucht und eigene Vorschläge entwickelt.",
-                "image": "https://i.ibb.co/pPfhtPF/Whenevertheheartskipsabeat.png",
-                "category": "Visionen",
-                "sub-category": "Ausstellung",
-                "tags": [
-                    "Kunst",
-                    "Veranstaltung",
-                    "Medien",
-                    "temporäre Nutzung",
-                    "Kreativwirtschaft"
-                ],
-                "category-description": "Ideen und Ansätze zur Weiterentwicklung des Gebietes",
-                "links": [
-                    {
-                        "url": "https://whenevertheheartskipsabeat.org",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://whenevertheheartskipsabeat.org/wp-content/uploads/2017/08/Booklet_WTHSAB.pdf",
-                        "title": "booklet",
-                        "description": "",
-                        "type": "document"
-                    },
-                    {
-                        "url": "https://whenevertheheartskipsabeat.org/wp-content/uploads/2017/08/MAP_WTHSAB.pdf",
-                        "title": "map",
-                        "description": "",
-                        "type": "document"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2020-04-09T13:55:20.460-07:00",
-                "updated_date": "2020-04-09T14:08:49.520-07:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "ca/whenever_the_heart_skips_a_beat#67"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Mehringplatz Anknipsen Interviews",
                 "type": "Mediensammlung",
                 "start_date": "2017-05-04T16:00:00.000-07:00",
@@ -845,7 +798,7 @@
                 "start_date": "1987-08-23T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "",
-                "image": "",
+                "image": "http://travelogues.me/albums/mehringplatz-1/content/img-0826/lightbox/",
                 "category": "Orte",
                 "sub-category": "Wohnen/ Unterbringung",
                 "tags": [
@@ -857,7 +810,7 @@
                     "ca/iba#80"
                 ],
                 "created_date": "2020-08-24T06:35:59.141-07:00",
-                "updated_date": "2020-08-24T06:38:18.567-07:00",
+                "updated_date": "2020-08-26T03:40:59.915-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -869,6 +822,52 @@
                 ]
             },
             "id": "ca/kreuzberg_tower#81"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Jüdisches Museum Berlin ",
+                "type": "Gebäude",
+                "start_date": "2001-09-08T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Das Jüdische Museum Berlin ist das größte jüdische Museum Europas. Das Gebäude wurde - mit seiner Zickzackform, die wie ein Blitz oder ein zerbrochener Davidstern wirkt - vom Architekten Daniel Libeskind entworfen. Im Mittelpunkt der Dauerausstellung stehen die Geschichte und Gegenwart des Jüdischen Lebens in Deutschland. Mit kreativen Vermittlungsformaten und interaktiven Angeboten wendet sich die Ausstellung gezielt auch an ein jüngeres Publikum. Ziel ist es, jüdisches Leben in Berlin und Deutschland zu erforschen, zu vermitteln und einen Ort der Begegnung zu schaffen.                                     \nQuelle: www.bundesregierung.de",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/JewishMuseumBerlinAerial.jpg",
+                "category": "Orte",
+                "sub-category": "",
+                "tags": [
+                    "Kultur",
+                    "Architektur",
+                    "Erbe",
+                    "Geschichte "
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://www.jmberlin.de/",
+                        "title": "offizielle Website",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/ehemalige_blumengro_markthalle_#65",
+                    "ca/metropolenhaus_am_judisches_museum#19",
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+                    "ca/konzentrationslager_gutschow_keller_#61"
+                ],
+                "created_date": "2020-08-20T06:55:06.440-07:00",
+                "updated_date": "2020-09-04T02:38:19.886-07:00",
+                "weight": 0,
+                "image_credit": "Wikimedia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3952,
+                    52.5018
+                ]
+            },
+            "id": "ca/j_disches_museum_berlin_#79"
         },
         {
             "type": "Feature",
@@ -1337,8 +1336,8 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-03-25T06:38:06.702-07:00",
-                "updated_date": "2020-06-12T04:40:08.321-07:00",
-                "weight": 0,
+                "updated_date": "2020-09-04T02:38:07.829-07:00",
+                "weight": 2,
                 "image_credit": ""
             },
             "geometry": {
@@ -1655,7 +1654,7 @@
                 "start_date": "1815-01-20T16:00:00.000-08:00",
                 "end_date": "1945-02-02T16:00:00.000-07:00",
                 "description": "Im Jahr 1815 wurde der Name \"Das Rondell\" in Belle-Alliance-Platz als Erinnerung an den Sieg über Napoleon in Waterloo geändert. Die Friedenssäule wurde nur zwanzig Jahre später in der Mitte des Platzes errichtet und die Landschaftsgestaltung vom Direktor des königlichen Gartens Lenné übernommen. Der Platz blieb zunächst unverändert, bis mit dem Abriss der Akzisemauer 1879 und mit der späteren Erschließung durch die Eisenbahn und die U-Bahn das Erscheinungsbild des Platzes stark verändert wurde. Der Belle-Alliance-Platz wurde im II. Weltkrieg stark zerstört und unmittelbar danach in Mehringplatz (nach Franz Mehring) umbenannt. ",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/800px-Berlin_Friedenssaeule.jpg",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/19061207_berlin_belle_alliance_platz.jpg",
                 "category": "Erinnerungen",
                 "sub-category": "",
                 "tags": [
@@ -1671,7 +1670,7 @@
                     "ca/_das_rondell_#45"
                 ],
                 "created_date": "2019-11-21T03:11:07.402-08:00",
-                "updated_date": "2020-06-18T00:59:24.418-07:00",
+                "updated_date": "2020-08-27T08:43:11.737-07:00",
                 "weight": -1,
                 "image_credit": "Wikimedia"
             },
@@ -2320,13 +2319,25 @@
                 "type": "Projekt",
                 "start_date": "2012-11-30T16:00:00.000-08:00",
                 "end_date": "2019-09-26T03:00:00.000-07:00",
-                "description": "Die Projektgruppe am Ex-Blumengroßmarkt (PxB) ist aus Berlins erstem konzeptbasierten Immobilienvergabeprozess hervorgegangen. Die Projektgruppe ist ein Zusammenschluss aus Architekt:innen und Planer:innen, die an der Entwicklung der Baustellen II, IV und V auf dem ehemaligen Blumengroßmarkt mitwirken. \n\r\nZiel der Projektgruppe ist es, mit der Nachbarschaft, dem Senat und dem Bezirk Friedrichshain-Kreuzberg im Dialog zu den jeweiligen Bauprojekten zu sein und so gemeinschaftlich über die künftige Nutzung zu entscheiden und diese modellhaft umzusetzen. Die Preisentscheidung war im Dezember 2012. Mittlerweile ist die bauliche Entwicklung des Ex-Blumengroßmarktes größtenteils abgeschlossen.",
+                "description": "Die Projektgruppe am Ex-Blumengroßmarkt (PxB) ist aus Berlins erstem konzeptbasierten Immobilienvergabeprozess hervorgegangen. Die Projektgruppe ist ein Zusammenschluss aus Architekt:innen und Planer:innen, die an der Entwicklung der Baustellen II, IV und V auf dem ehemaligen Blumengroßmarkt mitwirken. \n\nZiel der Projektgruppe ist es, mit der Nachbarschaft, dem Senat und dem Bezirk Friedrichshain-Kreuzberg im Dialog zu den jeweiligen Bauprojekten zu sein und so gemeinschaftlich über die künftige Nutzung zu entscheiden und diese modellhaft umzusetzen. Zu diesem Zweck haben sich die Bauherren in einem Standortentwicklungsvertrag verpflichtet gemeinsame Projekte zu organisieren und finanzieren.Die Preisentscheidung war im Dezember 2012. Mittlerweile ist die bauliche Entwicklung des Ex-Blumengroßmarktes größtenteils abgeschlossen.\n",
                 "image": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg",
                 "category": "Veränderungen",
                 "sub-category": "Privater Raum",
                 "tags": [],
                 "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
                 "links": [
+                    {
+                        "url": "https://frizz23.com/en/",
+                        "title": "Frizz23 (Kreuzbergs Baugruppe für kulturelles Gewerbe) ",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.metropolenhaus.de/",
+                        "title": "Metropolenhaus",
+                        "description": "",
+                        "type": "website"
+                    },
                     {
                         "url": "https://www.metropolenhaus.de/ex-blumengrossmarkt-pxb/",
                         "title": "Projektgruppe am Ex-Blumengroßmarkt",
@@ -2347,7 +2358,7 @@
                     "ca/ehemalige_blumengro_markthalle_#65"
                 ],
                 "created_date": "2019-09-26T03:29:19.999-07:00",
-                "updated_date": "2020-05-07T08:39:37.765-07:00",
+                "updated_date": "2020-08-27T04:38:04.668-07:00",
                 "weight": -4,
                 "image_credit": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg"
             },
@@ -2694,7 +2705,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-08-25T18:18:11.471Z",
+        "published": "2020-09-04T09:48:43.452Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2704,7 +2715,7 @@
                 "type": "translation"
             }
         ],
-        "version": 106,
+        "version": 107,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2813,6 +2824,22 @@
         {
             "from": "ca/iba#80",
             "to": "ca/kreuzberg_tower#81"
+        },
+        {
+            "from": "ca/j_disches_museum_berlin_#79",
+            "to": "ca/ehemalige_blumengro_markthalle_#65"
+        },
+        {
+            "from": "ca/j_disches_museum_berlin_#79",
+            "to": "ca/metropolenhaus_am_judisches_museum#19"
+        },
+        {
+            "from": "ca/j_disches_museum_berlin_#79",
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+        },
+        {
+            "from": "ca/j_disches_museum_berlin_#79",
+            "to": "ca/konzentrationslager_gutschow_keller_#61"
         },
         {
             "from": "ca/36x_kreuzberg_memoryspiel#76",

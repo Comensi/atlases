@@ -2078,7 +2078,7 @@
                 "start_date": "2007-09-29T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "Die Globale e.V. wurde 2007 gegründet und arbeitet schwerpunktmäßig im Bereich frühkindlicher Bildung sowie zu den Themen gesellschaftliche Integration und Gemeinwesenarbeit. \nDer Verein ist am Mehringplatz und im Donaukiez aktiv. Im Bereich der Bildungsarbeit betreibt der Verein zwei Lernwerkstätten in Kreuzberg und Neukölln (für Kinder im Alter von 4 - 11 Jahren) sowie drei Kitas, die mit dem Konzept des entdeckenden Lernens arbeiten. Die Lernwerkstätten zielen darauf ab, das Lerninteresse und die Motivation der Heranwachsenden an der Erforschung ihrer natürlichen und sozialen Umwelt als wesentliche Voraussetzung für einen gelingenden Bildungsprozess zu unterstützen. Bei den  Angeboten werden die unterschiedlichen Lebensverhältnisse der Familien berücksichtigt, um den Kindern individuell passende Zugänge zu Bildungsprozessen zu ermöglichen. In der Arbeit werden die besonderen Interessen und Fähigkeiten der Kinder gefördert und die Familien als wichtige Bildungspartner*innen ihrer Kinder gestärkt.\n\nDer zweite Schwerpunkt liegt in der Entwicklung von Kiezstrukturen am Mehringplatz. Im Rahmen seiner Angebote hat der Verein einen guten Kontakt zur Nachbarschaft aufgebaut. Durch vielfältige Aktivitäten (Feste, Flohmarkt, Bücherverleih) ist der Verein im Gebiet bekannt und hat bereits zu zahlreichen Gelegenheiten Bewohner*innen unterstützt, Angebote für ein nachbarschaftliches Zusammensein zu entwickeln und umzusetzen. Das Nachbarschaftscafé am Mehringplatz 7 bietet zudem einen öffentlichen Ort, an dem sich Menschen des Quartiers treffen, ihre Bedürfnisse und Interessen artikulieren und den Ort für Begegnungen nutzen. Der Verein ist gut vernetzt mit anderen soziokulturellen Einrichtungen und sonstigen Organisationen (Gewobag, Mieterbeirat, Bildungsnetz, Gewerbetreibende, AOK, Platzgärtner etc.) im Quartier. \n",
-                "image": "https://i.ibb.co/BydwNWY/globale-logo-web-header.png",
+                "image": "https://i.ibb.co/nbPwXwf/ballons.jpg",
                 "category": "Akteur:innen",
                 "sub-category": "NGO/Social work",
                 "tags": [
@@ -2103,7 +2103,7 @@
                     "ca/karin_l_cker_caf_madame_#31"
                 ],
                 "created_date": "2019-09-27T02:10:08.037-07:00",
-                "updated_date": "2020-09-04T03:12:04.287-07:00",
+                "updated_date": "2020-09-04T03:13:51.093-07:00",
                 "weight": 1,
                 "image_credit": "https://dieglobale.org/bildungsarbeit/die-lernwerkstatt-zu-hause/"
             },
@@ -2752,7 +2752,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-09-04T10:14:15.485Z",
+        "published": "2020-09-04T11:42:20.606Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2762,7 +2762,7 @@
                 "type": "translation"
             }
         ],
-        "version": 108,
+        "version": 110,
         "taxonomy": [
             {
                 "category": "Initiativen",

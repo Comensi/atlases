@@ -4,6 +4,55 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Ideias do Casalinho para a Ajuda",
+                "type": "Entrevista",
+                "start_date": "",
+                "end_date": "",
+                "description": "À pergunta de partida “O que gostavam que surgisse na Ajuda”, lançada a moradores e moradoras do Casalinho, desenvolveram-se diferentes respostas:\nBiblioteca Intergeracional: transporte solidário; incursões e visitas; histórias que dão origem a livros; Feira de Trocas; Loja Solidária_eco-brigadas;\nCriação de rede de casas comunitárias na Ajuda; cartão de morador; dias temáticos; Percursos através de photovoice; quebra de barreiras na Ajuda;\nEspaço de utopia: férias; caravana; festas e feiras; atividades empáticas;  histórias que dão origem a livros; excursões e visitas de estudo;\nFeira de trocas: workshops e espetáculos; carta de reivindicação;\nApadrinhamento Teatro Comunitário: rádio digital e/ou tv para divulgação; moeda local; formação para bolsas de trabalho; férias;\nConcurso de talentos: Banco do tempo; certificação; voluntários\n\nA conclusão foi natural, ideias não faltam, falta só quem invista nelas!",
+                "image": "https://scontent.flis5-1.fna.fbcdn.net/v/t1.0-9/118806158_3252310881522648_1136382531674436808_o.jpg?_nc_cat=103&_nc_sid=0debeb&_nc_ohc=IW4YIUMYrnAAX94_DmW&_nc_ht=scontent.flis5-1.fna&oh=ff214094ea104480f7764162f44294d5&oe=5F7D5DE8",
+                "category": "Imaginations",
+                "sub-category": "",
+                "tags": [
+                    "Events",
+                    "architecture",
+                    "culture",
+                    "workspace",
+                    "park",
+                    "commons",
+                    "coop",
+                    "Social inclusion",
+                    "quartiersmanagement",
+                    "Public space",
+                    "Urban regeneration",
+                    "collective",
+                    "hackspace"
+                ],
+                "category-description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
+                "links": [],
+                "relationships": [
+                    "ca/freguesia_da_ajuda#71",
+                    "ca/envolver_uma_comunidade#72",
+                    "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73",
+                    "ca/mem_rias_da_ajuda_hist_ria_do_casalinho_da_ajuda#90",
+                    "ca/ideias_do_casalinho_para_a_ajuda#91"
+                ],
+                "created_date": "2020-09-07T12:56:18.308-07:00",
+                "updated_date": "2020-09-07T13:00:24.397-07:00",
+                "weight": 0,
+                "image_credit": "Sandra "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19199,
+                    38.709422
+                ]
+            },
+            "id": "ca/ideias_do_casalinho_para_a_ajuda#91"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Memórias da Ajuda: História do Casalinho da Ajuda",
                 "type": "Entrevista",
                 "start_date": "",
@@ -798,7 +847,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-07T19:54:23.185Z",
+        "published": "2020-09-07T20:03:41.131Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -808,8 +857,38 @@
                 "type": "homepage"
             }
         ],
-        "version": 50,
+        "version": 52,
         "taxonomy": [
+            {
+                "category": "#r12",
+                "description": "",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 10
+            },
+            {
+                "category": "Simple",
+                "description": "",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 9
+            },
+            {
+                "category": "Itineraries",
+                "description": "to connect different elements in the territory in a geo-spatial experience, e.g. guided tours",
+                "sub-categories": [
+                    "H-Town Lab (URBEX Youth Lab)"
+                ],
+                "weight": 0,
+                "id": 8
+            },
+            {
+                "category": "Imaginations",
+                "description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 7
+            },
             {
                 "category": "Narratives",
                 "description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
@@ -887,6 +966,26 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/ideias_do_casalinho_para_a_ajuda#91",
+            "to": "ca/freguesia_da_ajuda#71"
+        },
+        {
+            "from": "ca/ideias_do_casalinho_para_a_ajuda#91",
+            "to": "ca/envolver_uma_comunidade#72"
+        },
+        {
+            "from": "ca/ideias_do_casalinho_para_a_ajuda#91",
+            "to": "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73"
+        },
+        {
+            "from": "ca/ideias_do_casalinho_para_a_ajuda#91",
+            "to": "ca/mem_rias_da_ajuda_hist_ria_do_casalinho_da_ajuda#90"
+        },
+        {
+            "from": "ca/ideias_do_casalinho_para_a_ajuda#91",
+            "to": "ca/ideias_do_casalinho_para_a_ajuda#91"
+        },
         {
             "from": "ca/mem_rias_da_ajuda_hist_ria_do_casalinho_da_ajuda#90",
             "to": "ca/freguesia_da_ajuda#71"

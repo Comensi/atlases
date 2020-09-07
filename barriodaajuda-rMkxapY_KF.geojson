@@ -9,7 +9,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Para percebermos melhor o bairro e a nossa zona de intervenção, realizou-se um levantamento de necessidades da população do bairro 2 de maio, na Ajuda. Neste sentido, realizamos um inquérito à população, num total de 287 fogos.\nEm estreita colaboração com os cursos de Antropologia e Design da Faculdade de Arquitetura de Lisboa, mais de 80 alunos voluntariaram-se para aplicar os questionários. Assim, foi possível obter um diagnóstico sobre a saúde e bem-estar das pessoas mais velhas e/ou dependentes residentes na freguesia da Ajuda.",
-                "image": "https://scontent.flis5-1.fna.fbcdn.net/v/t1.0-9/119034429_3252272538193149_3908383849006480965_o.jpg?_nc_cat=107&_nc_sid=0debeb&_nc_ohc=rLaMX5HMZkcAX8v8rzF&_nc_ht=scontent.flis5-1.fna&oh=8a64e2549e29e859bd9ccd61ad2cd65c&oe=5F7DA4AA",
+                "image": "https://scontent.flis5-1.fna.fbcdn.net/v/t1.0-9/118949355_3252330461520690_2082424995672140016_n.jpg?_nc_cat=104&_nc_sid=0debeb&_nc_ohc=WSDMA91ye00AX_rhZvc&_nc_ht=scontent.flis5-1.fna&oh=eacdbae5117e5627e9541ccd31b5262b&oe=5F7DB6E4",
                 "category": "Transformações",
                 "sub-category": "Commons oriented",
                 "tags": [
@@ -30,7 +30,7 @@
                     "ca/envolver_uma_comunidade#72"
                 ],
                 "created_date": "2020-09-07T07:50:34.500-07:00",
-                "updated_date": "2020-09-07T11:31:10.463-07:00",
+                "updated_date": "2020-09-07T11:55:08.762-07:00",
                 "weight": 0,
                 "image_credit": "Sandra Oliveira"
             },
@@ -453,7 +453,7 @@
                 "start_date": "2020-02-19T16:00:00.000-08:00",
                 "end_date": "2020-02-19T16:00:00.000-08:00",
                 "description": "Este foi o primeiro laboratório de Ideias para a Década: no bairro do Casalinho da Ajuda, estivemos no espaço da Fundação LIGA com um grupo de moradores da Ajuda a partilhar as ideias, anseios e desejos para melhorar a freguesia da Ajuda.\nEste primeiro Lab de iniciativas cívicas ou de economia local foi animado por boas ideias para acompanhar durante 2020. Até 17 de Abril recebemos mais sugestões via e-mail omeubairro.ajuda@gmail.com - #Ajuda #COMENSI #Ideiasparaadecada #incubadorapopular #Erasmus+  ",
-                "image": "https://scontent.flis5-1.fna.fbcdn.net/v/t1.0-0/s261x260/91062534_10157304822083741_6668496378458537984_o.jpg?_nc_cat=111&_nc_sid=dbeb18&_nc_ohc=aDlLu5FbNT8AX8_YHdO&_nc_ht=scontent.flis5-1.fna&_nc_tp=7&oh=eb675deeef6550c9064cf64872ff2147&oe=5EA55616",
+                "image": "https://scontent.flis5-1.fna.fbcdn.net/v/t1.0-9/118766045_3252348338185569_4304515500670947092_o.jpg?_nc_cat=107&_nc_sid=0debeb&_nc_ohc=6QIm-x0ioFcAX8U0PuW&_nc_ht=scontent.flis5-1.fna&oh=3969f38af60fed73994c0834f13618b3&oe=5F7A1D02",
                 "category": "",
                 "sub-category": "",
                 "tags": [
@@ -478,7 +478,7 @@
                     "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73"
                 ],
                 "created_date": "2020-03-26T07:36:53.751-07:00",
-                "updated_date": "2020-03-27T04:11:59.545-07:00",
+                "updated_date": "2020-09-07T12:04:16.370-07:00",
                 "weight": 0,
                 "image_credit": "Sara Nasi"
             },
@@ -756,7 +756,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-07T18:46:48.897Z",
+        "published": "2020-09-07T19:05:16.146Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -766,7 +766,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 48,
+        "version": 49,
         "taxonomy": [
             {
                 "category": "#r12",

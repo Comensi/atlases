@@ -4,6 +4,48 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Inquéritos à população da Ajuda",
+                "type": "Evento",
+                "start_date": "",
+                "end_date": "",
+                "description": "Para percebermos melhor o bairro e a nossa zona de intervenção, realizou-se um levantamento de necessidades da população do bairro 2 de maio, na Ajuda. Neste sentido, realizamos um inquérito à população, num total de 287 fogos.\nEm estreita colaboração com os cursos de Antropologia e Design da Faculdade de Arquitetura de Lisboa, mais de 80 alunos voluntariaram-se para aplicar os questionários. Assim, foi possível obter um diagnóstico sobre a saúde e bem-estar das pessoas mais velhas e/ou dependentes residentes na freguesia da Ajuda.",
+                "image": "https://documentviewer.herokuapp.com/?state=%7B%22ids%22:%5B%221SLU8oFTPkM7tKypiaS4mtB3mM7-plDeK%22%5D,%22action%22:%22open%22,%22userId%22:%22111371774695948904230%22%7D",
+                "category": "Transformações",
+                "sub-category": "Commons oriented",
+                "tags": [
+                    "Events",
+                    "youths",
+                    "commons",
+                    "Social inclusion",
+                    "quartiersmanagement",
+                    "Urban regeneration",
+                    "collective"
+                ],
+                "category-description": "Descobrir e dar destaque a processos, projetos, conflitos ou iniciativas a decorrer - transformações a decorrer na área ",
+                "links": [],
+                "relationships": [
+                    "ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76",
+                    "ca/inqu_ritos_popula_o_da_ajuda#89",
+                    "ca/freguesia_da_ajuda#71",
+                    "ca/envolver_uma_comunidade#72"
+                ],
+                "created_date": "2020-09-07T07:50:34.500-07:00",
+                "updated_date": "2020-09-07T10:54:00.634-07:00",
+                "weight": 0,
+                "image_credit": "Sandra Oliveira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.198729,
+                    38.709712
+                ]
+            },
+            "id": "ca/inqu_ritos_popula_o_da_ajuda#89"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Palácio Nacional da Ajuda",
                 "type": "Monumento",
                 "start_date": "",
@@ -714,7 +756,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-07T12:20:54.363Z",
+        "published": "2020-09-07T18:19:10.627Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -724,7 +766,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 46,
+        "version": 47,
         "taxonomy": [
             {
                 "category": "#r12",
@@ -833,6 +875,22 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/inqu_ritos_popula_o_da_ajuda#89",
+            "to": "ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76"
+        },
+        {
+            "from": "ca/inqu_ritos_popula_o_da_ajuda#89",
+            "to": "ca/inqu_ritos_popula_o_da_ajuda#89"
+        },
+        {
+            "from": "ca/inqu_ritos_popula_o_da_ajuda#89",
+            "to": "ca/freguesia_da_ajuda#71"
+        },
+        {
+            "from": "ca/inqu_ritos_popula_o_da_ajuda#89",
+            "to": "ca/envolver_uma_comunidade#72"
+        },
         {
             "from": "ca/pal_cio_nacional_da_ajuda#88",
             "to": "ca/freguesia_da_ajuda#71"

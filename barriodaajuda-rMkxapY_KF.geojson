@@ -1,6 +1,56 @@
 {
     "type": "FeatureCollection",
-    "nonGeoFeatures": [
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Palácio Nacional da Ajuda",
+                "type": "Monumento",
+                "start_date": "",
+                "end_date": "",
+                "description": "No coração da Ajuda encontra-se o Palácio Nacional, construído no fim do século XVIII e declarado Monumento Nacional em 1910. Durante as primeiras décadas do regime republicano dependia da Fazenda Pública, mantendo-se como palco para cerimónias oficiais e recebendo os visitantes que a Fazenda autorizava.\nCenário dignificante das cerimónias protocolares de representação de Estado, o Palácio da Ajuda desempenhou sempre essa função desde os primeiros tempos até aos dias de hoje. É nessa condição que continua a emprestar o seu brilho às cerimónias da Presidência da República, para além de constituir um dos mais importantes museus, estando instalados no restante edifício a Biblioteca Nacional da Ajuda, o Ministério da Cultura, a Galeria de Pintura do rei D. Luís I e a Direção Geral do Património Cultural.\nEm 1974,um grande incêndio destrói grande parte da “galeria de pintura de Dom Luís I” que, segundo a imprensa, continha cerca de quinhentas telas pintadas por nomes famosos da pintura portuguesa e muitos móveis do século XIX. A sua recuperação encontra-se agora na fase final.\n",
+                "image": "http://www.palacioajuda.gov.pt/Data/ContentImages/palacio_ajuda3.jpg",
+                "category": "Memories",
+                "sub-category": "Architecture ",
+                "tags": [
+                    "culture",
+                    "architecture",
+                    "oral history",
+                    "commons"
+                ],
+                "category-description": "to document material and immaterial heritage\r\n",
+                "links": [
+                    {
+                        "url": "https://arquivos.rtp.pt/conteudos/incendio-no-palacio-de-ajuda/",
+                        "title": "Incêndio no Palácio Nacional da Ajuda",
+                        "description": "Lisboa, incêndio no Palácio de Ajuda, que fez desaparecer a galeria de pintura fundada por Dom Luís I, e que continha quinhentas telas pintadas por nomes famosos da pintura portuguesa e muitos móveis do século XIX.",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://www.palacioajuda.gov.pt/pt-PT/Default.aspx",
+                        "title": "Palácio Nacional da Ajuda",
+                        "description": "O Palácio Nacional da Ajuda, monumento nacional desde 1910, não é apenas a antiga habitação real e museu de artes decorativas, é também a sede de outras instituições portuguesas ligadas à cultura e palco de cerimónias protocolares.",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/freguesia_da_ajuda#71",
+                    "ca/pal_cio_nacional_da_ajuda#88"
+                ],
+                "created_date": "2020-09-07T05:01:30.757-07:00",
+                "updated_date": "2020-09-07T05:11:32.872-07:00",
+                "weight": 0,
+                "image_credit": "www.palacioajuda.gov.pt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19801,
+                    38.707834
+                ]
+            },
+            "id": "ca/pal_cio_nacional_da_ajuda#88"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -42,10 +92,15 @@
                 "weight": 0,
                 "image_credit": "Alexandre Vaz"
             },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.193085,
+                    38.706054
+                ]
+            },
             "id": "ca/geomonumento_do_rio_seco#87"
-        }
-    ],
-    "features": [
+        },
         {
             "type": "Feature",
             "properties": {
@@ -659,7 +714,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-03T16:46:54.114Z",
+        "published": "2020-09-07T12:20:53.384Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -669,7 +724,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 44,
+        "version": 46,
         "taxonomy": [
             {
                 "category": "#r12",
@@ -778,6 +833,14 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/pal_cio_nacional_da_ajuda#88",
+            "to": "ca/freguesia_da_ajuda#71"
+        },
+        {
+            "from": "ca/pal_cio_nacional_da_ajuda#88",
+            "to": "ca/pal_cio_nacional_da_ajuda#88"
+        },
         {
             "from": "ca/geomonumento_do_rio_seco#87",
             "to": "ca/freguesia_da_ajuda#71"

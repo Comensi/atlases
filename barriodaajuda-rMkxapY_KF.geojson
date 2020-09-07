@@ -4,6 +4,48 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Memórias da Ajuda: História do Casalinho da Ajuda",
+                "type": "Entrevista",
+                "start_date": "",
+                "end_date": "",
+                "description": "A Fundação LIGA disponibiliza o espaço e em volta de uma grande mesa oval surge entre moradores, de forma quase espontânea, a conversa sobre a história desta zona da Ajuda: o Casalinho. “Quando nasci nos anos 50, a Rua do Cruzeiro estava toda escavacada - ainda está - e o Casalinho era só pedregulhos. Na Ajuda só havia 4 cabines telefónicas e ninguém ligava às fronteiras entre bairros.”\nNos anos 60, começou a ser habitado o Bairro do Casalinho “era uma grande quinta sem prédios”, “eram só barracas e lotes para funcionários da CML”! A câmara autorizou os desalojados a construírem barracas de madeira provisórias, muitas mantiveram-se até 1970, “altura em que são entregues as primeiras chaves de casas para pobres”, da política de urbanismo do Estado Novo.\n“O que me lembro nessa altura é que havia mais entreajuda, toda a gente era solidária, partilhava-se o que se tinha, quase todos tinham uma horta”.\n",
+                "image": "https://scontent.flis5-1.fna.fbcdn.net/v/t1.0-9/118908972_3252292688191134_6142372456522046785_o.jpg?_nc_cat=101&_nc_sid=0debeb&_nc_ohc=zQIyzW9Y_BwAX8p--cA&_nc_ht=scontent.flis5-1.fna&oh=49af93271c8947602e8afebbeec1070e&oe=5F7DE47F",
+                "category": "Memories",
+                "sub-category": "Oral histories",
+                "tags": [
+                    "Events",
+                    "culture",
+                    "Social inclusion",
+                    "oral history",
+                    "Urban regeneration",
+                    "Public space",
+                    "collective"
+                ],
+                "category-description": "to document material and immaterial heritage\r\n",
+                "links": null,
+                "relationships": [
+                    "ca/freguesia_da_ajuda#71",
+                    "ca/envolver_uma_comunidade#72",
+                    "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73",
+                    "ca/mem_rias_da_ajuda_hist_ria_do_casalinho_da_ajuda#90"
+                ],
+                "created_date": "2020-09-07T12:46:48.765-07:00",
+                "updated_date": "2020-09-07T12:52:35.851-07:00",
+                "weight": 0,
+                "image_credit": "Sara Nasi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19392,
+                    38.710849
+                ]
+            },
+            "id": "ca/mem_rias_da_ajuda_hist_ria_do_casalinho_da_ajuda#90"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Inquéritos à população da Ajuda",
                 "type": "Evento",
                 "start_date": "",
@@ -756,7 +798,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-07T19:05:16.146Z",
+        "published": "2020-09-07T19:54:23.185Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -766,38 +808,8 @@
                 "type": "homepage"
             }
         ],
-        "version": 49,
+        "version": 50,
         "taxonomy": [
-            {
-                "category": "#r12",
-                "description": "",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 10
-            },
-            {
-                "category": "Simple",
-                "description": "",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 9
-            },
-            {
-                "category": "Itineraries",
-                "description": "to connect different elements in the territory in a geo-spatial experience, e.g. guided tours",
-                "sub-categories": [
-                    "H-Town Lab (URBEX Youth Lab)"
-                ],
-                "weight": 0,
-                "id": 8
-            },
-            {
-                "category": "Imaginations",
-                "description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 7
-            },
             {
                 "category": "Narratives",
                 "description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
@@ -875,6 +887,22 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/mem_rias_da_ajuda_hist_ria_do_casalinho_da_ajuda#90",
+            "to": "ca/freguesia_da_ajuda#71"
+        },
+        {
+            "from": "ca/mem_rias_da_ajuda_hist_ria_do_casalinho_da_ajuda#90",
+            "to": "ca/envolver_uma_comunidade#72"
+        },
+        {
+            "from": "ca/mem_rias_da_ajuda_hist_ria_do_casalinho_da_ajuda#90",
+            "to": "ca/laborat_rio_ideias_para_a_d_cada__casalinho_da_ajuda#73"
+        },
+        {
+            "from": "ca/mem_rias_da_ajuda_hist_ria_do_casalinho_da_ajuda#90",
+            "to": "ca/mem_rias_da_ajuda_hist_ria_do_casalinho_da_ajuda#90"
+        },
         {
             "from": "ca/inqu_ritos_popula_o_da_ajuda#89",
             "to": "ca/laborat_rio_ideias_para_a_d_cada__b_2_maio#76"

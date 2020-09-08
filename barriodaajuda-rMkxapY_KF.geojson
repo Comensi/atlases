@@ -745,7 +745,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Limites administrativos que compõem a freguesia da ajuda.",
-                "image": "",
+                "image": "https://scontent.flis5-1.fna.fbcdn.net/v/t1.0-9/118991267_3254228974664172_4995555364228391622_o.png?_nc_cat=106&_nc_sid=0debeb&_nc_ohc=nTIkDTE2L1kAX_tEsEL&_nc_oc=AQlt_tFx7DJ8-NRKxZrvi9z6MAzKgqlmGZgHwy99yu85rY0Zn2I-4OfLI4okcvPZW0UZI4fldfIxc3KWiAOYUnLp&_nc_ht=scontent.flis5-1.fna&oh=7e0504de7b4688d0f6e1919049fadd13&oe=5F7C5B4F",
                 "category": "Fronteiras",
                 "sub-category": "Fronteiras",
                 "tags": [
@@ -755,7 +755,7 @@
                 "links": [],
                 "relationships": null,
                 "created_date": "2020-01-17T07:11:12.443-08:00",
-                "updated_date": "2020-01-17T07:19:09.449-08:00",
+                "updated_date": "2020-09-08T04:15:56.208-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -951,7 +951,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-08T10:48:54.361Z",
+        "published": "2020-09-08T15:40:40.536Z",
         "links": [
             {
                 "title": "The Comensi project",

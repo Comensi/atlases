@@ -4,6 +4,43 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Hasenpark",
+                "type": "Ort",
+                "start_date": "",
+                "end_date": "",
+                "description": "Nord-Östlich des Mehringplatzes, eingerahmt von Häuserblöcken, befindet sich zwischen der Friedrichstraße und der Brandesstraße, eine öffentliche Grünalage, die inoffiziell den Namen “Hasenpark” trägt. Die Fläche ist gehört zu den angrenzenden Wohnblöcken und ist als Hinterhof mit Bänken, Tischtennisplatten und einem Spielplatz angelegt. Gleichzeitig, ist hier ein wichtiger Treffpunkt für die Jugendlichen aus der Nachbarschaft, alternativ zur KMAntenne. Daruch kann es manchmal, auf Grund von zu hoher Lautstärke, zu Konflikten mit den Anwohner:innen kommen.  ",
+                "image": "https://vimeo.com/showcase/6905959/video/379315993",
+                "category": "Orte",
+                "sub-category": "Park",
+                "tags": [
+                    "Jugend",
+                    "Park",
+                    "gemeinschaftlich",
+                    "Öffentlicher Raum"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/showcase/6905959/video/379315993",
+                        "title": "",
+                        "description": "H-TOWN Tour - Hasenpark",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/kma_e_v_#7",
+                    "ca/kmantenne#59"
+                ],
+                "created_date": "2020-09-09T06:31:10.246-07:00",
+                "updated_date": "2020-09-09T06:50:24.858-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/hasenpark#86"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "IBA",
                 "type": "Programm",
                 "start_date": "1979-08-20T16:00:00.000-07:00",
@@ -2752,7 +2789,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-09-04T11:42:20.606Z",
+        "published": "2020-09-09T13:51:42.388Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2762,7 +2799,7 @@
                 "type": "translation"
             }
         ],
-        "version": 110,
+        "version": 111,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -2864,6 +2901,14 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/hasenpark#86",
+            "to": "ca/kma_e_v_#7"
+        },
+        {
+            "from": "ca/hasenpark#86",
+            "to": "ca/kmantenne#59"
+        },
         {
             "from": "ca/kreuzberg_tower#81",
             "to": "ca/iba#80"

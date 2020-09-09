@@ -756,7 +756,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:59:29.020-07:00",
-                "updated_date": "2020-09-01T01:50:55.104-07:00",
+                "updated_date": "2020-09-09T07:59:59.836-07:00",
                 "weight": 0,
                 "image_credit": "Octopus Communities "
             },
@@ -1525,7 +1525,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-09-09T14:55:54.629Z",
+        "published": "2020-09-09T15:01:27.798Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1535,8 +1535,43 @@
                 "type": "homepage"
             }
         ],
-        "version": 73,
+        "version": 75,
         "taxonomy": [
+            {
+                "category": "Services",
+                "description": "Services available in Mildmay and Newington Green ",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 6
+            },
+            {
+                "category": "Neighbours",
+                "description": "Who are your neighbours?",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 5
+            },
+            {
+                "category": "Local Organisations and Businesses",
+                "description": "Who works in the area?",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 4
+            },
+            {
+                "category": "Activities and events",
+                "description": "What’s on in Mildmay and Newington Green?",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 3
+            },
+            {
+                "category": "Local stories",
+                "description": "Thoughts, memories and experiences of the area",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 2
+            },
             {
                 "category": "Venues",
                 "description": "Spaces to hire or use in the neighbourhood",

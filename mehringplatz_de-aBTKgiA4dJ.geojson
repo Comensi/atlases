@@ -22,7 +22,7 @@
                 "links": [
                     {
                         "url": "https://vimeo.com/showcase/6905959/video/379315993",
-                        "title": "",
+                        "title": "H-TOWN TOUR - Hasenpark",
                         "description": "H-TOWN Tour - Hasenpark",
                         "type": "website"
                     }
@@ -32,9 +32,9 @@
                     "ca/kmantenne#59"
                 ],
                 "created_date": "2020-09-09T06:31:10.246-07:00",
-                "updated_date": "2020-09-09T06:50:24.858-07:00",
+                "updated_date": "2020-09-09T07:31:47.289-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "Tesserae"
             },
             "id": "ca/hasenpark#86"
         },
@@ -827,6 +827,86 @@
         }
     ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wolfgang Thiess",
+                "type": "Personen",
+                "start_date": "",
+                "end_date": "",
+                "description": "Text der Gedenktafel: \n\n[WOLFGANG THIESS *30.10.1911 +9.9.1943 HINGERICHTET IN PLÖTZENSEE\nHIER WARF ER ANTIFASCHISTISCHE FLUGBLÄTTER AUS DEM ZUG.]\n\nThiess gehörte zunächst seit Oktober 1929 der HJ an, wechselte im Oktober 1931 zum KJVD. Er war nach 1933 bei der illegalen Zeitschrift \"Die innere Front\" für den Wirtschaftsteil verantwortlich. Im April 1942 klebte er Zettel gegen die NS-Propagandaausstellung \"Das Sowjetparadies\". Am 20.10.1942 wurde er verhaftet, dann wurde ihm zusammen mit anderen aus seiner Gruppe der Prozeß gemacht. Eugen Neutert, Wilhelm Schürmann-Horster und Wolfgang Thiess verurteilte der Volksgerichtshof zum Tode. Der Entwurf der Tafel im Rahmen des Kreuzberger Antifaschistischen Gedenktafelprogramms stammt von dem Berliner Bildhauer Gerhard Moritzen. Enthüllt wurde sie am 16.12.1988 an der Außenmauer des Bahnhofs zum Halleschen Ufer. Hans-Heinz Havel schrieb dazu fast ein jahr später (taz, 4.10.1989): \"Die Tafel ist aufgeteilt in 13 Felder, auf denen die Lebensstationen des Mannes bildhaft dargestellt sind. Einige der Felder sind mit Absicht leer gelassen, weil zu wenig über Thiess bekannt ist. Ein Sprayer hat stellvertretend für viele zugelangt: Die hochverschlüsselte Kunst vermasselt die Botschaft.\"",
+                "image": "https://www.gedenktafeln-in-berlin.de/typo3temp/pics/Gedenktafel_Hallesche-Tor-Bru__cke__Kreu_1b5649d785.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "Gedenk- oder Informationstafeln",
+                "tags": [
+                    "Kunst",
+                    "Medien",
+                    "Geschichte "
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/person/alph/T/person/1698/",
+                        "title": "Gedenktafeln in Berlin",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-09-09T08:07:11.267-07:00",
+                "updated_date": "2020-09-09T08:44:34.225-07:00",
+                "weight": 0,
+                "image_credit": "OTFW, CC BY-SA 3.0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3906,
+                    52.4977
+                ]
+            },
+            "id": "ca/wolfgang_thiess#88"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sanierungszeitung Südseite ",
+                "type": "Mediensammlung",
+                "start_date": "",
+                "end_date": "",
+                "description": "Seit 2014 gibt es die lokale Zeitung “Südseite”, herausgegeben von der asum GmbH für angewandte Sozialforschung und urbanes Management im Auftrag des Bezirksamtes. Vierteljährlich, wird sie an zentralen Stellen ausgelegt und an alle Haushalte im Gebiet verteilt. Die Zeitschrift informiert über Veränderungen und aktuelles Geschehen im Kiez und erzählt Hintergrundgeschichten zu lokalen Orten. ",
+                "image": "https://payload.cargocollective.com/1/9/293282/9569300/IMG_6915_b-Kopie_800.jpg",
+                "category": "Initiativen",
+                "sub-category": "Bildung",
+                "tags": [
+                    "Medien",
+                    "Stadterneuerung",
+                    "Geschichte "
+                ],
+                "category-description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/links-und-downloads/sanierungszeitung-suedseite/",
+                        "title": "Sanierungszeitung Südseite",
+                        "description": "Download",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-09-07T02:43:39.198-07:00",
+                "updated_date": "2020-09-09T07:22:54.276-07:00",
+                "weight": 0,
+                "image_credit": "Veronica Teichmann"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3918,
+                    52.499
+                ]
+            },
+            "id": "ca/sanierungszeitung_s_dseite_#85"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -2739,6 +2819,45 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "TAZ Neubau",
+                "type": "Gebäude",
+                "start_date": "2018-09-29T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Das neue Gebäude der taz, Tageszeitung, wird durch Investitionen seiner Genossenschaftsmitglieder ermöglicht. Es steht auf der ehemaligen Kriegsbrache nahe dem Blumengroßmarkt und schafft neue Büroräume, die an die Veränderungen von neuen digitalen Strukturen und Arbeitsformen angepasst sind und gleichzeitig die Arbeitsbedingungen verbessern, sowie eine Kapitalanlage der Genossenschaft darstellen. \nDesignt wurde der Neubau vom E2A Architekturbüro und folgt der Idee “ein System ohne Hierarchien” (Zitat), bei dem das innere Netzwerk das Leitprinzip sein soll. Es soll ein (Zitat) “lebender Organismus” sein: Abgesehen davon, dass es ermöglicht, dass alle Angestellten nun unter einem Dach zusammen arbeiten können - und nicht, wie vorher in drei verschiedenen Häusern - nimmt es eine neue Rolle als Teil des kreativen Quartierprojekts ein und soll eine Offenheit nach außen ausstrahlen, die nicht nur Unterstützer:innen der taz, Genossenschaftsmitglieder, Gründer:innen, Partner:innen, Leser:innen und Abonnent:innen einläd, sondern alle, die das Hausprojekt grundsätzlich unterstützen und daran teilnehmen wollen. \nDer Neubau wurde im Oktober 2018 eröffnet. ",
+                "image": "https://i.pinimg.com/564x/9b/fe/fe/9bfefe50ca7507a3c783edb501f9d376.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Private spaces",
+                "tags": [
+                    "Medien",
+                    "Kultur"
+                ],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "http://www.taz.de/!p4820/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-09-25T07:59:09.170-07:00",
+                "updated_date": "2020-09-09T07:16:53.576-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39135,
+                    52.50315
+                ]
+            },
+            "id": "ca/taz_neubau#10"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "KMA e.V.",
                 "type": "Organisation",
                 "start_date": "1987-03-12T16:00:00.000-08:00",
@@ -2789,7 +2908,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-09-09T13:51:42.388Z",
+        "published": "2020-09-09T15:47:40.591Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2799,7 +2918,7 @@
                 "type": "translation"
             }
         ],
-        "version": 111,
+        "version": 113,
         "taxonomy": [
             {
                 "category": "Initiativen",

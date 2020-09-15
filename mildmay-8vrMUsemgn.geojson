@@ -345,7 +345,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "[Online Event] Weekly Event. Every Friday 16:00 -17:00 PM beginning 7 August, 2020. This is a programme for white and other privileged people to learn and reflect together about racism. It is deep learning since the vast majority of us were raised in a culture where racism against people of Afro-Caribbean heritage is endemic and because we all play a part in systemic racism. To register: https://us02web.zoom.us/meeting/register/tZcrc-utqzgrH9AOvMZLbB5q-F_Q7JQi64ci. ",
-                "image": "",
+                "image": "https://live.staticflickr.com/65535/50344908107_0f645fa369_b_d.jpg",
                 "category": "Activities and events",
                 "sub-category": "",
                 "tags": [],
@@ -355,7 +355,7 @@
                     "ca/newington_green_alliance#84"
                 ],
                 "created_date": "2020-09-09T08:41:18.009-07:00",
-                "updated_date": "2020-09-09T08:43:02.626-07:00",
+                "updated_date": "2020-09-15T02:57:26.099-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -376,7 +376,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "[Online story telling - Youtube] Weekly Event. Hosted by Emily, our local Storyteller, this storytelling event will celebrate the rich and diverse cultures in Newington Green. Watch and be part of these amazing stories. -brought to you by Newington Green Alliance and the Newington Green MeetingHouse: Revolutionary Ideas project, with funding from the National Heritage Lottery Fund.To Watch: https://www.youtube.com/playlist?list=PLq5kueRJ7GDUBjOgXm89Mntesr8TjXKVM ",
-                "image": "",
+                "image": "https://live.staticflickr.com/65535/50344061823_890462e7a6_o_d.jpg",
                 "category": "Local stories",
                 "sub-category": "",
                 "tags": [],
@@ -386,7 +386,7 @@
                     "ca/newington_green_alliance#84"
                 ],
                 "created_date": "2020-09-09T08:38:31.670-07:00",
-                "updated_date": "2020-09-09T08:40:56.589-07:00",
+                "updated_date": "2020-09-15T02:56:53.763-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -407,7 +407,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "[Online Event] The mission of the Youth Group, targeting youth between ages 14 -17, is to support young people’s development by providing a safe and stimulating communication environment and to help them become compassionate, active and open members of their community and peer group.The virtual sessions will take place weekly for 1 hour via Zoom video-conferencing and include up to 15 participants.Launching 18 September. Find out more: https://www.newingtongreenalliance.org/whats-on.",
-                "image": "",
+                "image": "https://live.staticflickr.com/65535/50344752526_bb22d0a17c_o_d.jpg",
                 "category": "Activities and events",
                 "sub-category": "",
                 "tags": [],
@@ -417,7 +417,7 @@
                     "ca/newington_green_alliance#84"
                 ],
                 "created_date": "2020-09-09T08:36:25.351-07:00",
-                "updated_date": "2020-09-09T08:38:23.878-07:00",
+                "updated_date": "2020-09-15T02:56:27.954-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -438,7 +438,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "[Online activity] The missionof the one-to-one youth mentoring program, targeting youth between ages 14 -17, is to support young people’s personal development and help them become compassionate, active and open members of their communities. The virtual sessions will take place every two(2) weeks for 1 hour via Zoom video-conferencing and include one young person (mentee) and one adult (mentor). Launching 18th of September 2020 –To find out more: https://www.newingtongreenalliance.org/whats-on.",
-                "image": "https://www.flickr.com/photos/190134457@N04/50323737971/in/dateposted-public/",
+                "image": "https://live.staticflickr.com/65535/50323737971_7e965d5fb6_o_d.jpg",
                 "category": "Activities and events",
                 "sub-category": "",
                 "tags": [],
@@ -448,7 +448,7 @@
                     "ca/newington_green_alliance#84"
                 ],
                 "created_date": "2020-09-09T08:27:29.681-07:00",
-                "updated_date": "2020-09-09T08:36:22.196-07:00",
+                "updated_date": "2020-09-15T02:55:23.729-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1662,7 +1662,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-09-09T16:55:11.871Z",
+        "published": "2020-09-15T10:53:12.086Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1672,7 +1672,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 78,
+        "version": 79,
         "taxonomy": [
             {
                 "category": "Services",

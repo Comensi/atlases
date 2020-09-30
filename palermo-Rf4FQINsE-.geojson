@@ -4,6 +4,44 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Il Mercato del Capo",
+                "type": "Luogo",
+                "start_date": "",
+                "end_date": "",
+                "description": "Lo storico mercto del Capo",
+                "image": "https://i.postimg.cc/Bbd8pZps/DSC05007.jpg",
+                "category": "Spazi di quartiere",
+                "sub-category": "Spazi pubblici",
+                "tags": [],
+                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/461411257",
+                        "title": "Voci dal Mercato",
+                        "description": "Interviste ai lavoratori del mercato Capo per i Laboratori Locali #IDEEPERILCAPO",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76"
+                ],
+                "created_date": "2020-09-25T02:19:48.365-07:00",
+                "updated_date": "2020-09-25T02:30:30.016-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3537,
+                    38.1193
+                ]
+            },
+            "id": "ca/il_mercato_del_capo#95"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Spazi pubblici per artigiani e artisti",
                 "type": "Progetto",
                 "start_date": "",
@@ -14,9 +52,16 @@
                 "sub-category": "",
                 "tags": [],
                 "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://vimeo.com/461402155",
+                        "title": "Artigiani e capo",
+                        "description": "Interviste agli artigiani del Capo per i Laboratori Locali #IDEEPERILCAPO",
+                        "type": "video"
+                    }
+                ],
                 "relationships": [
-                    "ca/laboratori_di_quartiere#76"
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76"
                 ],
                 "created_date": "2020-06-24T07:12:12.654-07:00",
                 "updated_date": "2020-06-25T03:40:25.686-07:00",
@@ -49,8 +94,14 @@
                 "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
                 "links": [
                     {
+                        "url": "https://vimeo.com/461404627",
+                        "title": "puliamo il quartiere",
+                        "description": "Voci e immagini dei cittadini del quartiere Capo di Palermo che si attivano per la pulizia e la valorizzazione del loro quartiere. Il video é parte dei laboratori locali #IDEEPERILCAPO",
+                        "type": "video"
+                    },
+                    {
                         "url": "https://i.postimg.cc/J0B3Yv3D/UNADJUSTEDNONRAW-thumb-82f.jpg",
-                        "title": "puliamo il quartiere!",
+                        "title": "strade del capo",
                         "description": "",
                         "type": "image"
                     },
@@ -62,7 +113,7 @@
                     }
                 ],
                 "relationships": [
-                    "ca/laboratori_di_quartiere#76",
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
                     "ca/spazi_di_quartiere#72"
                 ],
                 "created_date": "2020-06-23T06:06:22.259-07:00",
@@ -174,7 +225,7 @@
                 ],
                 "relationships": [
                     "ca/vicolo_degli_orfani#75",
-                    "ca/laboratori_di_quartiere#76"
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76"
                 ],
                 "created_date": "2020-05-13T02:50:02.685-07:00",
                 "updated_date": "2020-06-05T03:22:50.518-07:00",
@@ -214,7 +265,7 @@
                     }
                 ],
                 "relationships": [
-                    "ca/laboratori_di_quartiere#76",
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
                     "ca/cinema_all_aperto#78"
                 ],
                 "created_date": "2020-05-12T02:25:50.935-07:00",
@@ -349,7 +400,7 @@
                 ],
                 "relationships": [
                     "ca/spazi_di_quartiere#72",
-                    "ca/laboratori_di_quartiere#76",
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
                     "ca/vicolo_degli_orfani#75"
                 ],
                 "created_date": "2020-05-11T08:33:02.763-07:00",
@@ -451,7 +502,7 @@
                 "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
                 "links": [],
                 "relationships": [
-                    "ca/laboratori_di_quartiere#76",
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
                     "ca/cartello_informativo_capo#77"
                 ],
                 "created_date": "2020-05-11T07:41:27.641-07:00",
@@ -592,7 +643,7 @@
                 ],
                 "relationships": [
                     "ca/cartello_informativo_capo#77",
-                    "ca/laboratori_di_quartiere#76"
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76"
                 ],
                 "created_date": "2020-02-14T08:48:29.637-08:00",
                 "updated_date": "2020-05-16T02:23:09.593-07:00",
@@ -632,7 +683,7 @@
                     }
                 ],
                 "relationships": [
-                    "ca/laboratori_di_quartiere#76",
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
                     "ca/cortile_ecce_homo#88"
                 ],
                 "created_date": "2020-02-14T08:29:46.329-08:00",
@@ -666,7 +717,7 @@
                 "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
                 "links": [],
                 "relationships": [
-                    "ca/laboratori_di_quartiere#76",
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
                     "ca/la_bottega_del_fabbro#79"
                 ],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
@@ -686,11 +737,11 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Laboratori di Quartiere",
+                "title": "Laboratori di Quartiere #IDEEPERILCAPO",
                 "type": "Azione partecipativa",
                 "start_date": "2020-01-13T16:00:00.000-08:00",
                 "end_date": "2020-06-29T16:00:00.000-07:00",
-                "description": "Laboratorio di raccolta, progettazione e realizzazione di idee e proposte dei residenti in significativi spazi del quartiere Capo. Il laboratorio ha portato Bond of Union a confrontarsi con gli abitanti del quartiere per lo sviluppo e la realizzazione di proposte da sviluppare insieme. Tra le interessanti proposte emerse nella prima fase, antecedente al blocco dovuto all'emergenza Covid-19, un cartello informativo per il mercato ed il cinema all'aperto in Cortile Ecce Homo. ",
+                "description": "Laboratorio di raccolta, progettazione e realizzazione di idee e proposte dei residenti in significativi spazi del quartiere Capo. Il laboratorio ha portato Bond of Union a confrontarsi con gli abitanti del quartiere per lo sviluppo e la realizzazione di proposte da sviluppare insieme. Tra le interessanti proposte emerse nella prima fase, antecedente al blocco dovuto all'emergenza Covid-19, un cartello informativo per il mercato ed il cinema all'aperto in Cortile Ecce Homo. Video interviste completano e danno voce ai laboratori #IDEEPERILCAPO",
                 "image": "https://i.postimg.cc/T3RXcZ55/83456042-2600819766703543-6129873214291050496-o.jpg",
                 "category": "Iniziative",
                 "sub-category": "",
@@ -711,7 +762,7 @@
                     "ca/cartello_informativo_capo#77"
                 ],
                 "created_date": "2019-12-12T04:32:10.764-08:00",
-                "updated_date": "2020-05-13T06:50:14.659-07:00",
+                "updated_date": "2020-09-25T04:05:37.806-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -722,7 +773,7 @@
                     38.1168
                 ]
             },
-            "id": "ca/laboratori_di_quartiere#76"
+            "id": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
             "type": "Feature",
@@ -1036,7 +1087,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-07-07T14:45:08.862Z",
+        "published": "2020-09-30T14:15:50.031Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1053,7 +1104,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 221,
+        "version": 237,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -1121,12 +1172,16 @@
     },
     "relationships": [
         {
+            "from": "ca/il_mercato_del_capo#95",
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
+        },
+        {
             "from": "ca/spazi_pubblici_per_artigiani_e_artisti#94",
-            "to": "ca/laboratori_di_quartiere#76"
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
             "from": "ca/puliamo_il_quartiere_#93",
-            "to": "ca/laboratori_di_quartiere#76"
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
             "from": "ca/puliamo_il_quartiere_#93",
@@ -1138,11 +1193,11 @@
         },
         {
             "from": "ca/la_grotta_dei_beati_paoli#89",
-            "to": "ca/laboratori_di_quartiere#76"
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
             "from": "ca/cortile_ecce_homo#88",
-            "to": "ca/laboratori_di_quartiere#76"
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
             "from": "ca/cortile_ecce_homo#88",
@@ -1162,7 +1217,7 @@
         },
         {
             "from": "ca/bond_of_union#85",
-            "to": "ca/laboratori_di_quartiere#76"
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
             "from": "ca/bond_of_union#85",
@@ -1182,7 +1237,7 @@
         },
         {
             "from": "ca/piazza_beati_paoli#82",
-            "to": "ca/laboratori_di_quartiere#76"
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
             "from": "ca/piazza_beati_paoli#82",
@@ -1206,11 +1261,11 @@
         },
         {
             "from": "ca/la_bottega_del_fabbro#79",
-            "to": "ca/laboratori_di_quartiere#76"
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
             "from": "ca/cinema_all_aperto#78",
-            "to": "ca/laboratori_di_quartiere#76"
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
             "from": "ca/cinema_all_aperto#78",
@@ -1218,18 +1273,18 @@
         },
         {
             "from": "ca/cartello_informativo_capo#77",
-            "to": "ca/laboratori_di_quartiere#76"
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
             "from": "ca/cartello_informativo_capo#77",
             "to": "ca/la_bottega_del_fabbro#79"
         },
         {
-            "from": "ca/laboratori_di_quartiere#76",
+            "from": "ca/laboratori_di_quartiere_ideeperilcapo#76",
             "to": "ca/cinema_all_aperto#78"
         },
         {
-            "from": "ca/laboratori_di_quartiere#76",
+            "from": "ca/laboratori_di_quartiere_ideeperilcapo#76",
             "to": "ca/cartello_informativo_capo#77"
         },
         {

@@ -8,7 +8,7 @@
                 "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "Lo storico mercto del Capo",
+                "description": "Il mercato del Capo, insieme agli altri mercati di Palermo come Ballarò, La Vucciria, Lattarini e il Mercato delle Pulci, è un importante punto di smercio agroalimentare al dettaglio. È un animatissimo e caratteristico mercato alimentare: i colori, le urla (i vuci) dei venditori, l'animazione delle bancarelle ne fanno un elemento essenziale del carattere della città di Palermo. È un mercato attivo tutti i giorni, dando la possibilità di acquistare sia generi alimentari, sia altre mercanzie. Si estende lungo la via Carini e via Beati Paoli, la via di Sant'Agostino e la via Cappuccinelle. Nel tempo ha visto ridurre la sua dimensione e importanza presso i cittadini acquistando una connotoazione turistica. Le voci del mercato raccolte nel video parte del labaoratorio #IDEEPERILCAPO illustrano la situazione attuale, le problematiche e le idee per il futuro del mercato.",
                 "image": "https://i.postimg.cc/Bbd8pZps/DSC05007.jpg",
                 "category": "Spazi di quartiere",
                 "sub-category": "Spazi pubblici",
@@ -26,7 +26,7 @@
                     "ca/laboratori_di_quartiere_ideeperilcapo#76"
                 ],
                 "created_date": "2020-09-25T02:19:48.365-07:00",
-                "updated_date": "2020-09-25T02:30:30.016-07:00",
+                "updated_date": "2020-09-30T07:47:30.284-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -503,7 +503,7 @@
                 "links": [],
                 "relationships": [
                     "ca/laboratori_di_quartiere_ideeperilcapo#76",
-                    "ca/cartello_informativo_capo#77"
+                    "ca/cartello_informativo_benvenuti_al_capo_#77"
                 ],
                 "created_date": "2020-05-11T07:41:27.641-07:00",
                 "updated_date": "2020-05-16T02:27:37.714-07:00",
@@ -642,7 +642,7 @@
                     }
                 ],
                 "relationships": [
-                    "ca/cartello_informativo_capo#77",
+                    "ca/cartello_informativo_benvenuti_al_capo_#77",
                     "ca/laboratori_di_quartiere_ideeperilcapo#76"
                 ],
                 "created_date": "2020-02-14T08:48:29.637-08:00",
@@ -703,7 +703,7 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Cartello informativo Capo",
+                "title": "Cartello informativo Benvenuti al Capo!",
                 "type": "Azione partecipativa",
                 "start_date": "",
                 "end_date": "",
@@ -721,7 +721,7 @@
                     "ca/la_bottega_del_fabbro#79"
                 ],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
-                "updated_date": "2020-05-21T04:02:43.208-07:00",
+                "updated_date": "2020-09-30T07:43:15.534-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -732,7 +732,7 @@
                     38.1167
                 ]
             },
-            "id": "ca/cartello_informativo_capo#77"
+            "id": "ca/cartello_informativo_benvenuti_al_capo_#77"
         },
         {
             "type": "Feature",
@@ -741,7 +741,7 @@
                 "type": "Azione partecipativa",
                 "start_date": "2020-01-13T16:00:00.000-08:00",
                 "end_date": "2020-06-29T16:00:00.000-07:00",
-                "description": "Laboratorio di raccolta, progettazione e realizzazione di idee e proposte dei residenti in significativi spazi del quartiere Capo. Il laboratorio ha portato Bond of Union a confrontarsi con gli abitanti del quartiere per lo sviluppo e la realizzazione di proposte da sviluppare insieme. Tra le interessanti proposte emerse nella prima fase, antecedente al blocco dovuto all'emergenza Covid-19, un cartello informativo per il mercato ed il cinema all'aperto in Cortile Ecce Homo. Video interviste completano e danno voce ai laboratori #IDEEPERILCAPO",
+                "description": "Laboratorio di raccolta, progettazione e realizzazione di idee e proposte dei residenti in significativi spazi del quartiere Capo. Il laboratorio ha portato Bond of Union a confrontarsi con gli abitanti del quartiere per lo sviluppo e la realizzazione di proposte da sviluppare insieme. Tra le interessanti proposte emerse nella prima fase, antecedente al blocco dovuto all'emergenza Covid-19, un cartello informativo per il mercato ed il cinema all'aperto in Cortile Ecce Homo. Video interviste completano e danno voce al quartiere, alle sue probelamtiche, alle sue proposte nei laboratori #IDEEPERILCAPO",
                 "image": "https://i.postimg.cc/T3RXcZ55/83456042-2600819766703543-6129873214291050496-o.jpg",
                 "category": "Iniziative",
                 "sub-category": "",
@@ -759,10 +759,10 @@
                 ],
                 "relationships": [
                     "ca/cinema_all_aperto#78",
-                    "ca/cartello_informativo_capo#77"
+                    "ca/cartello_informativo_benvenuti_al_capo_#77"
                 ],
                 "created_date": "2019-12-12T04:32:10.764-08:00",
-                "updated_date": "2020-09-25T04:05:37.806-07:00",
+                "updated_date": "2020-09-30T07:41:40.058-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1087,7 +1087,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-09-30T14:15:50.031Z",
+        "published": "2020-09-30T17:02:19.522Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1104,7 +1104,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 237,
+        "version": 239,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -1241,7 +1241,7 @@
         },
         {
             "from": "ca/piazza_beati_paoli#82",
-            "to": "ca/cartello_informativo_capo#77"
+            "to": "ca/cartello_informativo_benvenuti_al_capo_#77"
         },
         {
             "from": "ca/piazzetta_alla_guilla#81",
@@ -1257,7 +1257,7 @@
         },
         {
             "from": "ca/la_bottega_del_fabbro#79",
-            "to": "ca/cartello_informativo_capo#77"
+            "to": "ca/cartello_informativo_benvenuti_al_capo_#77"
         },
         {
             "from": "ca/la_bottega_del_fabbro#79",
@@ -1272,11 +1272,11 @@
             "to": "ca/cortile_ecce_homo#88"
         },
         {
-            "from": "ca/cartello_informativo_capo#77",
+            "from": "ca/cartello_informativo_benvenuti_al_capo_#77",
             "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
-            "from": "ca/cartello_informativo_capo#77",
+            "from": "ca/cartello_informativo_benvenuti_al_capo_#77",
             "to": "ca/la_bottega_del_fabbro#79"
         },
         {
@@ -1285,7 +1285,7 @@
         },
         {
             "from": "ca/laboratori_di_quartiere_ideeperilcapo#76",
-            "to": "ca/cartello_informativo_capo#77"
+            "to": "ca/cartello_informativo_benvenuti_al_capo_#77"
         },
         {
             "from": "ca/vicolo_degli_orfani#75",

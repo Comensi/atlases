@@ -340,12 +340,57 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Islington Boat Club",
+                "type": "Present",
+                "start_date": "1969-12-31T15:00:00.000-08:00",
+                "end_date": "",
+                "description": "Watersports activity & training centre on City Road Basin. Royal Yachting Association and British Canoeing approved. Youth Club Tues/Weds 5pm-7pm & Sats 11pm-4pm Over 50’s Tues 11am-1pm Additional needs club Thurs 5pm-7pm Schools term-time Youth holiday programme Narrowboat trips Adult kayaking SUP All activities bookable in advance.",
+                "image": "https://live.staticflickr.com/65535/50431681591_d47594734e_h_d.jpg",
+                "category": "Activities and events",
+                "sub-category": "",
+                "tags": [
+                    "youths",
+                    "kayaking",
+                    "SUP",
+                    "watersports",
+                    "community",
+                    "narrowboat"
+                ],
+                "category-description": "What’s on in Mildmay and Newington Green?",
+                "links": [
+                    {
+                        "url": "https://www.islingtonboatclub.com/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/voluntary_action_islington#100"
+                ],
+                "created_date": "2020-10-07T05:10:03.796-07:00",
+                "updated_date": "2020-10-07T05:19:49.260-07:00",
+                "weight": 0,
+                "image_credit": "Simon King Photography"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0999,
+                    51.5325
+                ]
+            },
+            "id": "ca/islington_boat_club#128"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "North London Cares",
                 "type": "Present",
                 "start_date": "2010-04-30T16:00:00.000-07:00",
                 "end_date": "",
                 "description": " A community network of young professionals and older neighbours hanging out and helping one another in our rapidly changing city. Opening Hours Mon-Fri -9am-5.30pm Tel: 020 7118 3838",
-                "image": "",
+                "image": "https://live.staticflickr.com/65535/50430980558_e553d2b1da_o_d.jpg",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [
@@ -357,14 +402,21 @@
                     "Fundraising"
                 ],
                 "category-description": "Who works in the area?",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://donate.northlondoncares.org.uk/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
                 "relationships": [
                     "ca/octopus_communities#101",
                     "ca/voluntary_action_islington#100",
                     "ca/london_borough_of_islington_townhall_#102"
                 ],
                 "created_date": "2020-10-07T04:49:17.984-07:00",
-                "updated_date": "2020-10-07T04:58:38.208-07:00",
+                "updated_date": "2020-10-07T05:08:42.222-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1709,7 +1761,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-10-07T12:09:03.134Z",
+        "published": "2020-10-07T12:24:29.371Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1719,7 +1771,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 85,
+        "version": 87,
         "taxonomy": [
             {
                 "category": "Services",
@@ -1766,6 +1818,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/islington_boat_club#128",
+            "to": "ca/voluntary_action_islington#100"
+        },
         {
             "from": "ca/north_london_cares#127",
             "to": "ca/octopus_communities#101"

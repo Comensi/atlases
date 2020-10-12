@@ -42,7 +42,7 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Spazi pubblici per artigiani e artisti",
+                "title": "Spazi per artigiani e coinvolgimento giovani",
                 "type": "Progetto",
                 "start_date": "",
                 "end_date": "",
@@ -64,7 +64,7 @@
                     "ca/laboratori_di_quartiere_ideeperilcapo#76"
                 ],
                 "created_date": "2020-06-24T07:12:12.654-07:00",
-                "updated_date": "2020-06-25T03:40:25.686-07:00",
+                "updated_date": "2020-10-12T04:01:44.864-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -75,7 +75,7 @@
                     38.1158
                 ]
             },
-            "id": "ca/spazi_pubblici_per_artigiani_e_artisti#94"
+            "id": "ca/spazi_per_artigiani_e_coinvolgimento_giovani#94"
         },
         {
             "type": "Feature",
@@ -740,7 +740,7 @@
                 "title": "Laboratori di Quartiere #IDEEPERILCAPO",
                 "type": "Azione partecipativa",
                 "start_date": "2020-01-13T16:00:00.000-08:00",
-                "end_date": "2020-06-29T16:00:00.000-07:00",
+                "end_date": "2020-09-29T16:00:00.000-07:00",
                 "description": "Laboratorio di raccolta, progettazione e realizzazione di idee e proposte dei residenti in significativi spazi del quartiere Capo. Il laboratorio ha portato Bond of Union a confrontarsi con gli abitanti del quartiere per lo sviluppo e la realizzazione di proposte da sviluppare insieme. Tra le interessanti proposte emerse nella prima fase, antecedente al blocco dovuto all'emergenza Covid-19, un cartello informativo per il mercato ed il cinema all'aperto in Cortile Ecce Homo. Video interviste completano e danno voce al quartiere, alle sue probelamtiche, alle sue proposte nei laboratori #IDEEPERILCAPO",
                 "image": "https://i.postimg.cc/T3RXcZ55/83456042-2600819766703543-6129873214291050496-o.jpg",
                 "category": "Iniziative",
@@ -762,7 +762,7 @@
                     "ca/cartello_informativo_benvenuti_al_capo_#77"
                 ],
                 "created_date": "2019-12-12T04:32:10.764-08:00",
-                "updated_date": "2020-09-30T07:41:40.058-07:00",
+                "updated_date": "2020-10-01T02:52:59.080-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1087,7 +1087,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-10-01T09:53:21.857Z",
+        "published": "2020-10-12T11:06:39.232Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1104,7 +1104,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 239,
+        "version": 240,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -1176,7 +1176,7 @@
             "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
-            "from": "ca/spazi_pubblici_per_artigiani_e_artisti#94",
+            "from": "ca/spazi_per_artigiani_e_coinvolgimento_giovani#94",
             "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {

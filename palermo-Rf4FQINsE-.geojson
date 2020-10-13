@@ -1,6 +1,61 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Da Capo a Capo",
+                "type": "Evento",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "Iniziative",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
+                "links": [],
+                "relationships": null,
+                "created_date": "2020-10-13T04:46:43.550-07:00",
+                "updated_date": "2020-10-13T04:47:11.385-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "ca/da_capo_a_capo#98"
+        }
+    ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "“Da Capo a Capo”",
+                "type": "Evento",
+                "start_date": "2020-11-13T16:00:00.000-08:00",
+                "end_date": "2020-10-14T16:00:00.000-07:00",
+                "description": "Il progetto “Da Capo a Capo”, ha l’obiettivo di riscoprire la bellezza dello storico quartiere del Capo attraverso l’arte, la creatività e soprattutto con il coinvolgimento e la partecipazione dei residenti, dei commercianti, delle associazioni attive sul territorio e degli artigiani, portavoce delle tradizioni più antiche della città.  \nIl programma, articolato attraverso eventi diversi, intende raggiungere un pubblico eterogeneo: residenti del quartiere, turisti, cittadini, ma anche bambini, ragazzi e appassionati di storia e di arte. Per questo sono previste performance teatrali ed happening di danza contemporanea, percorsi narrativi storico-culturali, concerti e laboratori didattico-creativi rivolti a bambini e ragazzi che vedranno come protagonisti artisti locali di qualità",
+                "image": "https://i.postimg.cc/y6yC3sqK/Schermata-2020-10-13-alle-13-51-44.png",
+                "category": "Iniziative",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
+                "links": [],
+                "relationships": [
+                    "ca/teatro_alla_guilla#84"
+                ],
+                "created_date": "2020-10-13T04:46:35.191-07:00",
+                "updated_date": "2020-10-13T04:52:26.764-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3563,
+                    38.1157
+                ]
+            },
+            "id": "ca/_da_capo_a_capo_#97"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -1123,7 +1178,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-10-13T11:42:41.858Z",
+        "published": "2020-10-13T11:54:58.693Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1140,7 +1195,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 242,
+        "version": 243,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -1207,6 +1262,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/_da_capo_a_capo_#97",
+            "to": "ca/teatro_alla_guilla#84"
+        },
         {
             "from": "ca/il_mercato_del_capo#95",
             "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"

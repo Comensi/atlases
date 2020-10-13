@@ -54,8 +54,8 @@
                 "type": "Evento",
                 "start_date": "2020-11-13T16:00:00.000-08:00",
                 "end_date": "2020-10-14T16:00:00.000-07:00",
-                "description": "Il progetto “Da Capo a Capo”, ha l’obiettivo di riscoprire la bellezza dello storico quartiere del Capo attraverso l’arte, la creatività e soprattutto con il coinvolgimento e la partecipazione dei residenti, dei commercianti, delle associazioni attive sul territorio e degli artigiani, portavoce delle tradizioni più antiche della città.  \nIl programma, articolato attraverso eventi diversi, intende raggiungere un pubblico eterogeneo: residenti del quartiere, turisti, cittadini, ma anche bambini, ragazzi e appassionati di storia e di arte. Per questo sono previste performance teatrali ed happening di danza contemporanea, percorsi narrativi storico-culturali, concerti e laboratori didattico-creativi rivolti a bambini e ragazzi che vedranno come protagonisti artisti locali di qualità",
-                "image": "https://i.postimg.cc/y6yC3sqK/Schermata-2020-10-13-alle-13-51-44.png",
+                "description": "Il progetto “Da Capo a Capo”, ha l’obiettivo di riscoprire la bellezza dello storico quartiere del Capo attraverso l’arte, la creatività e soprattutto con il coinvolgimento e la partecipazione dei residenti, dei commercianti, delle associazioni attive sul territorio e degli artigiani, portavoce delle tradizioni più antiche della città.  \nIl programma, articolato attraverso eventi diversi, intende raggiungere un pubblico eterogeneo: residenti del quartiere, turisti, cittadini, ma anche bambini, ragazzi e appassionati di storia e di arte. Per questo sono previste performance teatrali ed happening di danza contemporanea, percorsi narrativi storico-culturali, concerti e laboratori didattico-creativi rivolti a bambini e ragazzi che vedranno come protagonisti artisti locali di qualità.",
+                "image": "https://i.postimg.cc/SNfHThkr/97488310-3533061200054520-5349241940212711424-n.jpg",
                 "category": "Iniziative",
                 "sub-category": "",
                 "tags": [],
@@ -65,7 +65,7 @@
                     "ca/teatro_alla_guilla#84"
                 ],
                 "created_date": "2020-10-13T04:46:35.191-07:00",
-                "updated_date": "2020-10-13T04:52:26.764-07:00",
+                "updated_date": "2020-10-13T05:34:59.076-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -94,8 +94,8 @@
                 "links": [
                     {
                         "url": "https://livesicilia.it/2020/09/30/capo-la-vita-oltre-lo-spacciogiuseppe-ha-chiesto-i-libri/?refresh_ce=",
-                        "title": "",
-                        "description": "Sant’Egidio al Capo",
+                        "title": "Scuola della pace",
+                        "description": "Scuola della pace",
                         "type": "website"
                     }
                 ],
@@ -1200,7 +1200,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-10-13T12:25:49.434Z",
+        "published": "2020-10-13T12:37:01.994Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1217,7 +1217,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 248,
+        "version": 251,
         "taxonomy": [
             {
                 "category": "Rete Capo",

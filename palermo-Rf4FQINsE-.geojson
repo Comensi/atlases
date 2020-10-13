@@ -14,7 +14,14 @@
                 "sub-category": "",
                 "tags": [],
                 "category-description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://vimeo.com/channels/1432859",
+                        "title": "",
+                        "description": "i video di #IDEEPERILCAPO",
+                        "type": "video"
+                    }
+                ],
                 "relationships": [
                     "ca/laboratori_di_quartiere_ideeperilcapo#76",
                     "ca/bond_of_union#85",
@@ -1187,7 +1194,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-10-13T12:04:58.496Z",
+        "published": "2020-10-13T12:08:35.760Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1204,7 +1211,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 245,
+        "version": 246,
         "taxonomy": [
             {
                 "category": "Rete Capo",

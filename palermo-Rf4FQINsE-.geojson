@@ -4,6 +4,42 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Comunita’ di Sant’egidio - Scuola della pace",
+                "type": "Organizzazione",
+                "start_date": "",
+                "end_date": "",
+                "description": "La Comunita’ di Sant’Egidio opera a Palermo nel quartiere Capo da diversi anni attarverso il doposcuola “scuola della pace” ed il supporto con beni alimenari a famiglie in difficolta’. Attivi nella rete Capo attraverso i numerosi volontari che hanno parteciapato a diverse attivita’ in comune con Bond of Union.",
+                "image": "https://i.postimg.cc/hv88CX0S/Schermata-2020-10-12-alle-13-12-12.png",
+                "category": "Rete Capo",
+                "sub-category": "Terzo settore",
+                "tags": [],
+                "category-description": "associazioni e servizi presenti nel quartiere",
+                "links": [
+                    {
+                        "url": "https://livesicilia.it/2020/09/30/capo-la-vita-oltre-lo-spacciogiuseppe-ha-chiesto-i-libri/?refresh_ce=",
+                        "title": "",
+                        "description": "Sant’Egidio al Capo",
+                        "type": "website"
+                    }
+                ],
+                "relationships": null,
+                "created_date": "2020-10-12T04:08:53.082-07:00",
+                "updated_date": "2020-10-13T04:41:40.072-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3555,
+                    38.1168
+                ]
+            },
+            "id": "ca/comunita_di_sant_egidio_scuola_della_pace#96"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Il Mercato del Capo",
                 "type": "Luogo",
                 "start_date": "",
@@ -46,7 +82,7 @@
                 "type": "Progetto",
                 "start_date": "",
                 "end_date": "",
-                "description": "Nelle discussioni con gli artigiani e gli artisti del quartiere sta emergendo la necessita’ e l’idea di proporre la nascita di uno spazio pubblico (un atellier) in cui esercitare regolarmente l’attivita’ di produzione, vendita e insegnamento artistica e artigianale. L’idea educativa alla base e di fornire a nuove generazione di artisti e artigiani la possibilita’ di imparare o innamorarsi di mestieri che in parte stanno scomparendo: fabbri, marmisti, falegnami, intagliatori di pietre e scultori, sarti. Il quartiere ha delle ricchezze artigianili forti ed estremamente concentrate localmente non supportante da nessun tipo di politica o aiuto pubblico: tante promesse ma zero azioni. Si vuole provare a creare del movimento. Vi terremo aggiornati!",
+                "description": "Nelle discussioni con gli artigiani e gli artisti del quartiere é emersa la necessita’ e l’idea di proporre la nascita di uno spazio pubblico (un atellier) in cui esercitare regolarmente l’attivita’ di produzione, vendita e insegnamento artistica e artigianale. L’idea educativa alla base e di fornire a nuove generazione di artisti e artigiani la possibilita’ di imparare o innamorarsi di mestieri che in parte stanno scomparendo: fabbri, marmisti, falegnami, intagliatori di pietre e scultori, sarti. Il quartiere ha delle ricchezze artigianili forti ed estremamente concentrate localmente non supportante da nessun tipo di politica o aiuto pubblico: tante promesse ma zero azioni. Il coinvogimento dei giovani é un altro elemento importante sul quale viene richiesto supporto pubblico per valorizzare il trasferimento generazionale delle competenze prima che scompaiano definitivamente con effetti negativi sull’economia del quartiere.",
                 "image": "https://i.postimg.cc/x8cv2JMZ/IMG-20200624-113537423.jpg",
                 "category": "Idee e Proposte",
                 "sub-category": "",
@@ -64,7 +100,7 @@
                     "ca/laboratori_di_quartiere_ideeperilcapo#76"
                 ],
                 "created_date": "2020-06-24T07:12:12.654-07:00",
-                "updated_date": "2020-10-12T04:01:44.864-07:00",
+                "updated_date": "2020-10-12T04:06:14.219-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1087,7 +1123,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-10-12T11:06:39.232Z",
+        "published": "2020-10-13T11:42:41.858Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1104,7 +1140,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 240,
+        "version": 242,
         "taxonomy": [
             {
                 "category": "Rete Capo",

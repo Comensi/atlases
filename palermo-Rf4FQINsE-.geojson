@@ -857,20 +857,33 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee Laboratori di quartiere tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti interessati a migliorare la segnaletica turistica, la visibilità e la vivibilità del mercato del Capo. L'idea è di rivolgersi sia a turisti, che a cittadini palermitani interessati a scoprire il quartiere e di ricreare un legame tra Piazza Beati Paoli ed il mercato del Capo.",
-                "image": "https://i.postimg.cc/Kz65WgGX/benvenuti-capo-01.png",
+                "image": "https://i.postimg.cc/QdYSVSsc/Whats-App-Image-2020-10-15-at-15-46-42.jpg",
                 "category": "Idee e Proposte",
                 "sub-category": "",
                 "tags": [
                     "partecipazione"
                 ],
                 "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/3N6JdPLP/IMG-20201015-121817964-HDR.jpg",
+                        "title": "Il quartiere da una mano!",
+                        "description": "Il quartiere da una mano!",
+                        "type": "image"
+                    },
+                    {
+                        "url": "https://vimeo.com/468550077",
+                        "title": "Benevenuti al Capo!",
+                        "description": "Benventuti al Capo!",
+                        "type": "video"
+                    }
+                ],
                 "relationships": [
                     "ca/laboratori_di_quartiere_ideeperilcapo#76",
                     "ca/la_bottega_del_fabbro#79"
                 ],
                 "created_date": "2020-02-05T05:51:25.211-08:00",
-                "updated_date": "2020-09-30T07:43:15.534-07:00",
+                "updated_date": "2020-10-15T06:51:52.481-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1236,7 +1249,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-10-15T10:58:18.885Z",
+        "published": "2020-10-15T13:56:27.675Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1253,7 +1266,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 259,
+        "version": 261,
         "taxonomy": [
             {
                 "category": "Rete Capo",

@@ -4,6 +4,42 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Biblioteca Il Piccolo Principe",
+                "type": "Organizzazione",
+                "start_date": "",
+                "end_date": "",
+                "description": "La Biblioteca comunale Il Piccolo Principe, è specializzata per una fascia di utenza dai 5/6 anni ai 16/18 anni. Nel quartiere lavora con scuole e abitanti per la fruizione gratuita di libri e del suo splendido giradino interno.",
+                "image": "https://i.postimg.cc/mgxXNd04/Schermata-2020-10-14-alle-11-38-01.png",
+                "category": "Rete Capo",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "associazioni e servizi presenti nel quartiere",
+                "links": [
+                    {
+                        "url": "http://librarsi.comune.palermo.it/polo/biblioteche-del-polo/sezione-territoriale-cortile-scalilla-biblioteca-dei-ragazzi/biblioteca/home/#prettyPhoto",
+                        "title": "Il piccolo principe",
+                        "description": "Il piccolo principe",
+                        "type": "website"
+                    }
+                ],
+                "relationships": null,
+                "created_date": "2020-10-13T04:56:42.587-07:00",
+                "updated_date": "2020-10-14T02:38:46.703-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3555,
+                    38.1173
+                ]
+            },
+            "id": "ca/biblioteca_il_piccolo_principe#99"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "#IDEEPERILCAPO - Evento Finale",
                 "type": "Evento",
                 "start_date": "2020-10-15T16:00:00.000-07:00",
@@ -1200,7 +1236,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-10-13T12:43:02.799Z",
+        "published": "2020-10-15T09:04:48.136Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1217,7 +1253,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 253,
+        "version": 259,
         "taxonomy": [
             {
                 "category": "Rete Capo",

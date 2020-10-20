@@ -10,7 +10,7 @@
                 "end_date": "",
                 "description": "Town Hall",
                 "image": "https://lh5.googleusercontent.com/p/AF1QipME-ZBuCsGfm-LLpUpdLCk6IAFwzf8DC78jbXzU=w426-h240-k-no",
-                "category": "Places",
+                "category": "category 7",
                 "sub-category": "",
                 "tags": [
                     "architecture"
@@ -30,16 +30,16 @@
                     52.4838959
                 ]
             },
-            "id": "/rathaus_sch_neberg#74"
+            "id": "schoeneberg/rathaus_sch_neberg#74"
         }
     ],
     "properties": {
-        "title": "Schoeneberg",
+        "title": "Schoeneberg heritage and the commons",
         "url": "http://schoeneberg.community-atlas.net",
         "id": "schoeneberg",
-        "description": "",
-        "image": "",
-        "published": "2020-10-19T16:43:24.578Z",
+        "description": "This digital atlas was created as part of the Collaborative Atlas for Heritage and the Commons training program, funded by the Erasmus+ project OpenCCCP. It has the purpose of collecting exercises and materials produced during the laboratories and to support the dissemination of open educational practices.",
+        "image": "http://www.tesserae.eu/wp-content/uploads/2020/06/Collaborative-Atlases-for-Heritage-and-the-Commons-cover.png",
+        "published": "2020-10-20T10:19:01.520Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -56,10 +56,10 @@
                 "type": "email"
             }
         ],
-        "version": 25,
+        "version": 26,
         "taxonomy": [
             {
-                "category": "Itineraries",
+                "category": "category 6",
                 "description": "to connect different elements in the territory in a geo-spatial experience, e.g. guided tours",
                 "sub-categories": [
                     "H-Town Lab (URBEX Youth Lab)"
@@ -68,14 +68,14 @@
                 "id": 6
             },
             {
-                "category": "Imaginations",
+                "category": "Category 5",
                 "description": "to present visions for transformation, projects and hypothesis. \nTo represent alternative realities",
                 "sub-categories": [],
                 "weight": 0,
                 "id": 7
             },
             {
-                "category": "Narratives",
+                "category": "Category 4",
                 "description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
                 "sub-categories": [
                     "Place narratives ",
@@ -85,7 +85,7 @@
                 "id": 5
             },
             {
-                "category": "Memories",
+                "category": " Category 3",
                 "description": "to document material and immaterial heritage\r\n",
                 "sub-categories": [
                     "Statues",
@@ -98,20 +98,7 @@
                 "id": 3
             },
             {
-                "category": "Stakeholders",
-                "description": "identifying formal and informal actors in the area",
-                "sub-categories": [
-                    "Public cultural institutions",
-                    "Administration",
-                    "Developers and enterprises",
-                    "NGO/Social work",
-                    "Commerce"
-                ],
-                "weight": 0,
-                "id": 4
-            },
-            {
-                "category": "Transformations",
+                "category": "Category 2",
                 "description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
                 "sub-categories": [
                     "Private spaces",
@@ -123,7 +110,7 @@
                 "id": 2
             },
             {
-                "category": "Places",
+                "category": "category 7",
                 "description": "",
                 "sub-categories": [
                     "Community hub",
@@ -137,7 +124,7 @@
                 "id": 9
             },
             {
-                "category": "Delimitations",
+                "category": "Category 1",
                 "description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
                 "sub-categories": [
                     "Area of interest",

@@ -345,7 +345,7 @@
                 "start_date": "1891-01-09T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "Cripplegate Foundation is a local charitable foundation which works to achieve better lives for the people of Islington. Islington Giving supports local, grassroots projects to address poverty and inequality in our borough. 13 Elliott's Place, London N1 8HX  https://islingtongiving.org.uk/\nhttps://www.cripplegate.org/",
-                "image": "https://live.staticflickr.com/65535/50511887788_db54a205aa_o_d.png",
+                "image": "https://live.staticflickr.com/65535/50513433457_9e4b21d8c7_k_d.jpg",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [
@@ -361,7 +361,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-10-21T02:42:10.827-07:00",
-                "updated_date": "2020-10-21T02:58:30.434-07:00",
+                "updated_date": "2020-10-21T07:50:08.347-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1798,7 +1798,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-10-21T14:50:20.139Z",
+        "published": "2020-10-21T15:05:29.783Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1808,36 +1808,8 @@
                 "type": "homepage"
             }
         ],
-        "version": 88,
+        "version": 91,
         "taxonomy": [
-            {
-                "category": "Services",
-                "description": "Services available in Mildmay and Newington Green ",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 6
-            },
-            {
-                "category": "Neighbours",
-                "description": "Who are your neighbours?",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 5
-            },
-            {
-                "category": "Local Organisations and Businesses",
-                "description": "Who works in the area?",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 4
-            },
-            {
-                "category": "Activities and events",
-                "description": "What’s on in Mildmay and Newington Green?",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 3
-            },
             {
                 "category": "Local stories",
                 "description": "Thoughts, memories and experiences of the area",

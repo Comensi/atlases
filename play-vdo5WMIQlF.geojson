@@ -74,7 +74,7 @@
             "type": "Feature",
             "properties": {
                 "title": "One more time",
-                "type": "",
+                "type": "Person",
                 "start_date": "",
                 "end_date": "",
                 "description": "yip. Another test",
@@ -86,10 +86,10 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2019-11-26T08:37:53.523-08:00",
-                "updated_date": "2020-10-22T07:58:06.247-07:00",
+                "updated_date": "2020-10-26T05:02:08.396-07:00",
                 "weight": 0,
                 "image_credit": "",
-                "icon_css_class": ""
+                "icon_css_class": "fas fa-user"
             },
             "id": "play/one_more_time#62"
         }
@@ -522,7 +522,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Something",
-                "type": "",
+                "type": "Organization",
                 "start_date": "",
                 "end_date": "",
                 "description": "An example feature that we will delete. ",
@@ -546,10 +546,10 @@
                     "play/limehouse_hackspace#53"
                 ],
                 "created_date": "2019-11-26T06:13:06.072-08:00",
-                "updated_date": "2020-10-22T07:58:06.247-07:00",
+                "updated_date": "2020-10-26T05:01:44.474-07:00",
                 "weight": 0,
                 "image_credit": "",
-                "icon_css_class": ""
+                "icon_css_class": "fas fa-building"
             },
             "geometry": {
                 "type": "Point",
@@ -564,7 +564,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Limehouse Hackspace",
-                "type": "Project",
+                "type": "Organization",
                 "start_date": "",
                 "end_date": "",
                 "description": "A hackspace. You can make things. ",
@@ -587,10 +587,10 @@
                     "play/limehouse_town_hall#47"
                 ],
                 "created_date": "2019-11-26T05:49:27.729-08:00",
-                "updated_date": "2020-10-22T07:58:06.247-07:00",
+                "updated_date": "2020-10-26T05:01:34.701-07:00",
                 "weight": 0,
                 "image_credit": "",
-                "icon_css_class": "fas fa-project-diagram"
+                "icon_css_class": "fas fa-building"
             },
             "geometry": {
                 "type": "Point",
@@ -634,7 +634,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-25T07:51:55.885-08:00",
-                "updated_date": "2020-10-22T07:58:06.247-07:00",
+                "updated_date": "2020-10-26T04:24:57.518-07:00",
                 "weight": 0,
                 "image_credit": "Image from Dorkbot",
                 "icon_css_class": "fas fa-building"
@@ -683,7 +683,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2020-10-24T22:02:06.579Z",
+        "published": "2020-10-26T12:02:54.001Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -700,7 +700,7 @@
                 "type": "email"
             }
         ],
-        "version": 25,
+        "version": 26,
         "taxonomy": [
             {
                 "category": "Itineraries",

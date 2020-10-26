@@ -27,29 +27,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Retry!!",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "Try again",
-                "image": "",
-                "category": "Simple",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-12-10T08:05:37.273-08:00",
-                "updated_date": "2020-10-22T07:58:06.247-07:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "play/retry_#66"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "This is a new feature",
                 "type": "Place",
                 "start_date": "",
@@ -69,29 +46,6 @@
                 "icon_css_class": "fas fa-archway"
             },
             "id": "play/this_is_a_new_feature#65"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "One more time",
-                "type": "Person",
-                "start_date": "",
-                "end_date": "",
-                "description": "yip. Another test",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-11-26T08:37:53.523-08:00",
-                "updated_date": "2020-10-26T05:02:08.396-07:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": "fas fa-user"
-            },
-            "id": "play/one_more_time#62"
         }
     ],
     "features": [
@@ -302,6 +256,186 @@
                 ]
             },
             "id": "play/test_2#68"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Retry!!",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "Try again",
+                "image": "",
+                "category": "Simple",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-12-10T08:05:37.273-08:00",
+                "updated_date": "2020-10-22T07:58:06.247-07:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            7.070041,
+                            53.278148
+                        ],
+                        [
+                            5.444979,
+                            53.317544
+                        ],
+                        [
+                            4.522647,
+                            52.948431
+                        ],
+                        [
+                            4.566568,
+                            52.415613
+                        ],
+                        [
+                            4.083441,
+                            51.916956
+                        ],
+                        [
+                            3.051307,
+                            51.4264
+                        ],
+                        [
+                            2.612101,
+                            50.95821
+                        ],
+                        [
+                            3.226989,
+                            50.471272
+                        ],
+                        [
+                            6.147709,
+                            49.425044
+                        ],
+                        [
+                            6.499074,
+                            49.936859
+                        ],
+                        [
+                            6.718677,
+                            50.583019
+                        ],
+                        [
+                            5.950066,
+                            50.777938
+                        ],
+                        [
+                            6.081828,
+                            51.206668
+                        ],
+                        [
+                            6.433193,
+                            51.957596
+                        ],
+                        [
+                            7.048081,
+                            52.052279
+                        ],
+                        [
+                            7.201803,
+                            52.829113
+                        ],
+                        [
+                            7.070041,
+                            53.278148
+                        ]
+                    ]
+                ]
+            },
+            "id": "play/retry_#66"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "One more time",
+                "type": "Person",
+                "start_date": "",
+                "end_date": "",
+                "description": "yip. Another test",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-11-26T08:37:53.523-08:00",
+                "updated_date": "2020-10-26T05:02:08.396-07:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": "fas fa-user"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.146811,
+                            45.95115
+                        ],
+                        [
+                            5.592469,
+                            44.715514
+                        ],
+                        [
+                            -1.78619,
+                            39.232253
+                        ],
+                        [
+                            -6.880979,
+                            36.597889
+                        ],
+                        [
+                            -1.78619,
+                            32.249974
+                        ],
+                        [
+                            12.795446,
+                            30.145127
+                        ],
+                        [
+                            22.106612,
+                            27.059126
+                        ],
+                        [
+                            32.471872,
+                            28.149503
+                        ],
+                        [
+                            37.215296,
+                            32.10119
+                        ],
+                        [
+                            37.215296,
+                            37.857507
+                        ],
+                        [
+                            29.836637,
+                            40.979898
+                        ],
+                        [
+                            20.349788,
+                            43.834527
+                        ],
+                        [
+                            13.146811,
+                            45.95115
+                        ]
+                    ]
+                ]
+            },
+            "id": "play/one_more_time#62"
         },
         {
             "type": "Feature",
@@ -683,7 +817,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2020-10-26T12:12:32.231Z",
+        "published": "2020-10-26T12:28:09.097Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -700,7 +834,7 @@
                 "type": "email"
             }
         ],
-        "version": 27,
+        "version": 28,
         "taxonomy": [
             {
                 "category": "Itineraries",

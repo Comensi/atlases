@@ -66,7 +66,7 @@
                 "updated_date": "2020-10-22T07:58:06.247-07:00",
                 "weight": 0,
                 "image_credit": "",
-                "icon_css_class": "fas fa-map"
+                "icon_css_class": "fas fa-building"
             },
             "id": "play/this_is_a_new_feature#65"
         },
@@ -120,7 +120,7 @@
                 "updated_date": "2020-10-22T07:58:06.247-07:00",
                 "weight": 0,
                 "image_credit": "José Paiva Wolff",
-                "icon_css_class": "fas fa-map"
+                "icon_css_class": "fas fa-building"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +380,7 @@
                 "updated_date": "2020-10-22T07:58:06.247-07:00",
                 "weight": 0,
                 "image_credit": "",
-                "icon_css_class": "fas fa-map"
+                "icon_css_class": "fas fa-building"
             },
             "geometry": {
                 "type": "Point",
@@ -683,7 +683,7 @@
         "id": "play",
         "description": "A playground atlas for the community-atlas project",
         "image": "https://images.unsplash.com/photo-1569466126773-842a038eae3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-        "published": "2020-10-26T12:02:54.001Z",
+        "published": "2020-10-26T12:04:04.287Z",
         "links": [
             {
                 "title": "The Comensi project",

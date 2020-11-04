@@ -4,42 +4,27 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "People's Place",
-                "type": "Present",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "Local Organisations and Businesses",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "Who works in the area?",
-                "links": [],
-                "relationships": [],
-                "created_date": "2020-07-14T03:04:00.459-07:00",
-                "updated_date": "2020-09-01T01:53:05.644-07:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "ca/people_s_place#117"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Zumba",
                 "type": "Present",
                 "start_date": "",
                 "end_date": "",
                 "description": "",
-                "image": "",
+                "image": "https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/20604572_668115390060909_1377041303197506613_n.png?_nc_cat=105&ccb=2&_nc_sid=e3f864&_nc_ohc=zywHm5ceIxIAX_AduGn&_nc_ht=scontent-mad1-1.xx&oh=315e9c3dd5822ed126b591b1984e5113&oe=5FC6BFB0",
                 "category": "Activities and events",
                 "sub-category": "",
                 "tags": [],
                 "category-description": "What’s on in Mildmay and Newington Green?",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://www.facebook.com/yaybazumba/",
+                        "title": "Facebook page",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
                 "relationships": [],
                 "created_date": "2020-07-14T03:03:42.860-07:00",
-                "updated_date": "2020-09-01T01:52:51.770-07:00",
+                "updated_date": "2020-11-04T00:59:03.336-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -53,7 +38,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "",
-                "image": "",
+                "image": "https://mildmaycp.org.uk/wp-content/uploads/2019/07/header-4.jpg",
                 "category": "Activities and events",
                 "sub-category": "",
                 "tags": [],
@@ -61,7 +46,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-07-14T03:03:28.070-07:00",
-                "updated_date": "2020-09-01T01:52:42.594-07:00",
+                "updated_date": "2020-11-04T00:56:10.760-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -75,7 +60,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "",
-                "image": "",
+                "image": "https://mildmaycp.org.uk/wp-content/uploads/2019/07/header-7.jpg",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -83,7 +68,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-07-14T03:03:01.036-07:00",
-                "updated_date": "2020-09-01T01:52:29.183-07:00",
+                "updated_date": "2020-11-04T00:54:42.591-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -97,7 +82,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "",
-                "image": "",
+                "image": "https://www.islingtongazette.co.uk/polopoly_fs/1.865513.1302775912!/image/1901215261.jpg_gen/derivatives/landscape_630/1901215261.jpg",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -105,7 +90,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-07-14T02:51:59.655-07:00",
-                "updated_date": "2020-09-01T01:52:17.367-07:00",
+                "updated_date": "2020-11-04T00:53:51.953-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -192,7 +177,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Local Insight in a company providing data analysis insights for businesses about their local community. They are a part of the network of stakeholders found in the Mildmay area. ",
-                "image": "",
+                "image": "https://local.communityinsight.org/media/logo_small_la.png",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -207,7 +192,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:53:15.397-07:00",
-                "updated_date": "2020-09-01T01:50:43.191-07:00",
+                "updated_date": "2020-11-04T00:44:37.446-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -314,7 +299,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Highest Praise Prayer Centre is a religious charity organizing events in the Mildmay Community Centre for its community members.",
-                "image": "https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/83301144_961418797617321_8476217951934357181_n.jpg?_nc_cat=103&_nc_sid=dd9801&_nc_ohc=KR4po5SrWs0AX8UJ36K&_nc_ht=scontent-lht6-1.xx&oh=d52f1d69b0ce479d49ecb3e69419437f&oe=5F32AC38",
+                "image": "https://live.staticflickr.com/65535/50565732141_6450475ea2_o_d.jpg",
                 "category": "Activities and events",
                 "sub-category": "",
                 "tags": [],
@@ -329,7 +314,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T06:43:45.742-07:00",
-                "updated_date": "2020-09-01T01:49:38.443-07:00",
+                "updated_date": "2020-11-04T01:39:56.273-08:00",
                 "weight": 0,
                 "image_credit": "Highest Praise Prayer Centre Facebook Page"
             },
@@ -598,17 +583,24 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "[Online Event] Weekly Event every Tuesday 12:30-13:30 PM beginning 23 June, 2020. This is a great opportunity to learn about Turkish language and culture and to fuel the growing sense of community and solidarity in the Newington Green area! To Register: https://us02web.zoom.us/meeting/register/tZMlce-opjkoGt0WjCJHG-Jvj-HbgoSKBm4G. ",
-                "image": "",
+                "image": "https://www.ngmh.org.uk/wp-content/themes/communitysites_ngmh/images-ngmh/logo.png",
                 "category": "Activities and events",
                 "sub-category": "",
                 "tags": [],
                 "category-description": "What’s on in Mildmay and Newington Green?",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://www.newingtongreenalliance.org/whats-on",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
                 "relationships": [
                     "ca/newington_green_alliance#84"
                 ],
                 "created_date": "2020-09-09T08:24:55.862-07:00",
-                "updated_date": "2020-09-09T08:27:22.656-07:00",
+                "updated_date": "2020-11-04T01:04:18.627-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -629,17 +621,24 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Event organized by Newington Green Alliance. We invite you to a talking and hearing session of black and white voices--your voices--through a structured exchange of thoughts/experiences. “What Are They Thinking?” is an opportunity to listen actively to the perspectivesof others.",
-                "image": "",
+                "image": "https://images.squarespace-cdn.com/content/54f1d5d4e4b09389aa3572cc/1512146797274-NBRF2Q78BIQZ2SEZWHP6/Website+Banner.jpg?format=1500w&content-type=image%2Fjpeg",
                 "category": "Activities and events",
                 "sub-category": "",
                 "tags": [],
                 "category-description": "What’s on in Mildmay and Newington Green?",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://www.newingtongreenalliance.org/whats-on",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
                 "relationships": [
                     "ca/newington_green_alliance#84"
                 ],
                 "created_date": "2020-09-09T08:14:17.270-07:00",
-                "updated_date": "2020-09-09T08:23:45.352-07:00",
+                "updated_date": "2020-11-04T01:04:58.184-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -768,7 +767,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "The African and Caribbean Senior Citizens Association organizes weekly events in the Mildmay Community Centre. Do you enjoy the soft sounds of the Caribbean, soul and country music, whilst playing a relaxing but competitive game of dominoes? If so, this is definitely the group for you. You can pop in the centre to meet a dedicated group of people and be sure to enjoy a game of dominoes.",
-                "image": "http://www.woodlawns.org.uk/ckeditor_assets/pictures/makeadifference_a17713627a45.jpg",
+                "image": "",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -783,7 +782,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T09:10:46.491-07:00",
-                "updated_date": "2020-09-01T01:52:03.913-07:00",
+                "updated_date": "2020-11-04T02:09:13.281-08:00",
                 "weight": 0,
                 "image_credit": "Make a difference "
             },
@@ -840,7 +839,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Targeted Youth Support (TYS) works with young people aged 10 to 21 years old (12 – 21 for Youth Counselling), who require additional support to enable them to make informed choices and maintain positive pathways.  The team includes specialist Substance Misuse Workers, a Youth Counselling Service and Targeted Youth Support Workers who provide 1:1 support  and group work programmes in community settings and complete  Return Home Interviews for young people reported missing. They are volunteering in the Mildmay Community Centre.",
-                "image": "",
+                "image": "https://www.platformislington.org.uk/media/1555/tys.jpg?width=960&center=0.5,0.5&mode=crop",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -855,7 +854,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T08:55:43.883-07:00",
-                "updated_date": "2020-09-01T01:51:51.189-07:00",
+                "updated_date": "2020-11-04T00:51:40.104-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -984,7 +983,7 @@
                 "start_date": "2005-12-31T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "Belle Epoque Patisserie is a French-inspired bakery and cafe located in front of Newington Green. They are funders of the Mildmay Community Centre, since its rehabilitation in 2006.",
-                "image": "http://belleepoque.co.uk/wp-content/uploads/2014/07/NG_1_web1.jpg",
+                "image": "https://live.staticflickr.com/65535/50565119028_6d874daa48_b_d.jpg",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -999,15 +998,15 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T08:28:50.250-07:00",
-                "updated_date": "2020-09-01T01:51:17.380-07:00",
+                "updated_date": "2020-11-04T01:57:09.764-08:00",
                 "weight": 0,
-                "image_credit": "Belle Epoque "
+                "image_credit": "Belle Epoque http://belleepoque.co.uk/boutiques/newingtongreen"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.084782,
-                    51.552154
+                    -0.0845,
+                    51.5521
                 ]
             },
             "id": "ca/belle_epoque_patisserie#104"
@@ -1020,14 +1019,14 @@
                 "start_date": "2005-12-31T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "The London Borough of Islington is one of the stakeholders which contributed to the creation and support of the Mildmay Community Centre.",
-                "image": "https://sayidoislington.com/app/uploads/2014/10/R2B0183.jpg",
+                "image": "https://live.staticflickr.com/65535/50565093998_e3bb015fa7_b_d.jpg",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
                 "category-description": "Who works in the area?",
                 "links": [
                     {
-                        "url": "https://sayidoislington.com/ceremony-venues/town-hall/",
+                        "url": "https://www.islington.gov.uk/contact-us/our-offices/islington-town-hall",
                         "title": "",
                         "description": "",
                         "type": "website"
@@ -1035,9 +1034,9 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T08:11:46.125-07:00",
-                "updated_date": "2020-09-01T01:51:02.982-07:00",
+                "updated_date": "2020-11-04T01:43:43.195-08:00",
                 "weight": 0,
-                "image_credit": "Say I Do"
+                "image_credit": "AlanFord at English Wikipedia"
             },
             "geometry": {
                 "type": "Point",
@@ -1170,7 +1169,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "The Islington Childcare Trust (ICT) is committed to the provision of high quality childcare across the borough of Islington. The ICT is a licensee in the Mildmay community centre.",
-                "image": "http://islingtonchildcaretrust.org.uk/images/islingtonchildcaretrust.gif",
+                "image": "https://lh3.googleusercontent.com/proxy/Xa57CU7lhENvzKV47XLzKqz_cTuejspypR-Ixm2kYV2FF4XhkvBpjs3lo6xOOsR5_TcCPbsny0q9bSZQB0krrfm-MJkOi0TwZts8zLGv5HUE71ndoWNeJ6brMsMAYWlO",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -1185,7 +1184,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:15:48.820-07:00",
-                "updated_date": "2020-09-01T01:50:29.104-07:00",
+                "updated_date": "2020-11-04T00:49:54.095-08:00",
                 "weight": 0,
                 "image_credit": "The Islington Childcare Trust"
             },
@@ -1289,7 +1288,7 @@
                 "start_date": "2017-12-31T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "London Gypsies and Travellers (LGT) is a charity aiming to support Gipsies and Travellers living in London as they seek to gain greater control over their lives, more influence on the decisions that affect them, more opportunities and an end to the discrimination they experience every day. LGT has its office in the Mildmay Community Centre since 2018. ",
-                "image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-9/17554334_1366008760147896_958869023619545355_n.png?_nc_cat=102&_nc_sid=85a577&_nc_ohc=h5yO1fXe2qwAX-xc8nP&_nc_ht=scontent-lhr8-1.xx&oh=6c686b7c3c2c5c0a79edfd2a4e092f53&oe=5F7D4DF1",
+                "image": "https://live.staticflickr.com/65535/50565738661_4cf88ef566_o_d.png",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [
@@ -1308,7 +1307,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:06:36.990-07:00",
-                "updated_date": "2020-09-09T07:51:32.281-07:00",
+                "updated_date": "2020-11-04T01:38:10.941-08:00",
                 "weight": 0,
                 "image_credit": "London Gypsies and Travellers Facebook Page"
             },
@@ -1583,9 +1582,11 @@
                         "type": "website"
                     }
                 ],
-                "relationships": [],
+                "relationships": [
+                    "ca/mapping_for_change_team_meeting_the_mayor#77"
+                ],
                 "created_date": "2020-07-06T07:49:07.377-07:00",
-                "updated_date": "2020-09-01T01:48:44.483-07:00",
+                "updated_date": "2020-11-04T01:38:41.467-08:00",
                 "weight": 0,
                 "image_credit": "Mapping for Change"
             },
@@ -1798,7 +1799,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-10-21T15:05:29.783Z",
+        "published": "2020-11-04T10:13:56.368Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1808,8 +1809,36 @@
                 "type": "homepage"
             }
         ],
-        "version": 91,
+        "version": 93,
         "taxonomy": [
+            {
+                "category": "Services",
+                "description": "Services available in Mildmay and Newington Green ",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 6
+            },
+            {
+                "category": "Neighbours",
+                "description": "Who are your neighbours?",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 5
+            },
+            {
+                "category": "Local Organisations and Businesses",
+                "description": "Who works in the area?",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 4
+            },
+            {
+                "category": "Activities and events",
+                "description": "What’s on in Mildmay and Newington Green?",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 3
+            },
             {
                 "category": "Local stories",
                 "description": "Thoughts, memories and experiences of the area",
@@ -1914,6 +1943,10 @@
         {
             "from": "ca/mildmay_community_centre#83",
             "to": "ca/celebrating_community_centre_week#79"
+        },
+        {
+            "from": "ca/mapping_for_change#82",
+            "to": "ca/mapping_for_change_team_meeting_the_mayor#77"
         },
         {
             "from": "ca/mildmay_community_centre_interior#73",

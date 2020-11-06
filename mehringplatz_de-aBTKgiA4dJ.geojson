@@ -870,42 +870,48 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Sanierungszeitung Südseite ",
-                "type": "Mediensammlung",
-                "start_date": "",
+                "title": "Hebbel am Ufer (HAU)",
+                "type": "Veranstaltung",
+                "start_date": "2002-12-31T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "Seit 2014 gibt es die lokale Zeitung “Südseite”, herausgegeben von der asum GmbH für angewandte Sozialforschung und urbanes Management im Auftrag des Bezirksamtes. Vierteljährlich, wird sie an zentralen Stellen ausgelegt und an alle Haushalte im Gebiet verteilt. Die Zeitschrift informiert über Veränderungen und aktuelles Geschehen im Kiez und erzählt Hintergrundgeschichten zu lokalen Orten. ",
-                "image": "https://payload.cargocollective.com/1/9/293282/9569300/IMG_6915_b-Kopie_800.jpg",
-                "category": "Initiativen",
-                "sub-category": "Bildung",
+                "description": "Der Zusammenschluss dreier Kreuzberger Bühnen zum Theaterkombinat Hebbel am Ufer (HAU 1, 2 und 3) begann 2003. Matthias Lilienthal und Frank Castorfs begründeten das Theater, das wie ein permanenter Festivalbetrieb funktioniert und keine genre- und kulturellen Grenzen kennt. \nDas HAU Hebbel am Ufer präsentiert in seinen drei Spielstätten HAU1, HAU2 und HAU3 aktuelle künstlerische Positionen an der Schnittstelle von Theater, Tanz und Performance. Darüber hinaus sind Musik, Bildende Kunst und Diskurs feste Bestandteile des Programms. Quelle: www.berlin-buehnen.de und www.berlin.de",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Hebbel-Theater%2C_Berlin.jpg",
+                "category": "Orte",
+                "sub-category": "",
                 "tags": [
-                    "Medien",
-                    "Stadterneuerung",
-                    "Geschichte "
+                    "Kultur",
+                    "Musik",
+                    "Kunst"
                 ],
-                "category-description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
                 "links": [
                     {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/links-und-downloads/sanierungszeitung-suedseite/",
-                        "title": "Sanierungszeitung Südseite",
-                        "description": "Download",
+                        "url": "https://www.hebbel-am-ufer.de/",
+                        "title": "offizielle Website",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "www.berlin-buehnen.de",
+                        "title": "Berlin Bühnen",
+                        "description": "",
                         "type": "website"
                     }
                 ],
                 "relationships": [],
-                "created_date": "2020-09-07T02:43:39.198-07:00",
-                "updated_date": "2020-09-09T07:22:54.276-07:00",
+                "created_date": "2020-08-25T04:18:58.301-07:00",
+                "updated_date": "2020-11-06T04:23:04.698-08:00",
                 "weight": 0,
-                "image_credit": "Veronica Teichmann"
+                "image_credit": "Wikimedia"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3918,
-                    52.499
+                    13.3868,
+                    52.5004
                 ]
             },
-            "id": "ca/sanierungszeitung_s_dseite_#85"
+            "id": "ca/hebbel_am_ufer_hau_#82"
         },
         {
             "type": "Feature",
@@ -2908,7 +2914,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-09-09T15:47:40.591Z",
+        "published": "2020-11-06T15:45:15.327Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2918,7 +2924,7 @@
                 "type": "translation"
             }
         ],
-        "version": 113,
+        "version": 114,
         "taxonomy": [
             {
                 "category": "Initiativen",

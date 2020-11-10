@@ -830,11 +830,53 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Marie-Juchacz-Denkmal",
+                "type": "Monument",
+                "start_date": "",
+                "end_date": "",
+                "description": "Die Skulptur von Gerd Winner, 2017, steht in dem kleinen Grünstreifen zwischen dem Wohnkomplex am Mehringplatz und der Gitschiner Straße. Es stellt aus einem bestimmten Winkel das Porträt von Marie Juchacz dar. Neben der Skulptur steht eine Gedenktafel, die über das Leben von Marie Juchacz informiert (ein Auszug):\n\nMarie Juchacz (1879 - 1956) war eine Politikerin, Frauenrechtlerin und Gründerin der Arbeiterwohlfahrt, deren Zentrale sich bis 1933 Nahe des Mehringplatzes befand.\nSie wurde in die verfassungsgebende Weimarer Nationalversammlung gewählt und sprach am 19. Februar 1919 als erste Frau vor einem deutschen Parlament. \nBis 1933 blieb sie als führende Sozial- und Frauenpolitikerin in der SPD Mitglied des Reichstags. Nach Auflösung der AWO 1933 floh Marie Juchacz ins Exil und kehrte erst 1949 aus den USA nach Deutschland zurück. Hier begleitete sie als Ehrenvorsitzende die Arbeit der wiedergegründeten AWO. ",
+                "image": "https://www.gedenktafeln-in-berlin.de/uploads/tx_tafeln/Juchacz_Denkmal.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "Statuen",
+                "tags": [
+                    "Kunst",
+                    "Kultur",
+                    "Feminismus",
+                    "Ortsname",
+                    "Ausbildung"
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/person/alph/J/person/1581/",
+                        "title": "Gedenktafeln in Berlin",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-09-09T08:55:41.788-07:00",
+                "updated_date": "2020-11-10T06:26:19.587-08:00",
+                "weight": 0,
+                "image_credit": "Holger Hübner"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3929,
+                    52.4983
+                ]
+            },
+            "id": "ca/marie_juchacz_denkmal#89"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Wolfgang Thiess",
                 "type": "Personen",
                 "start_date": "",
                 "end_date": "",
-                "description": "Text der Gedenktafel: \n\n[WOLFGANG THIESS *30.10.1911 +9.9.1943 HINGERICHTET IN PLÖTZENSEE\nHIER WARF ER ANTIFASCHISTISCHE FLUGBLÄTTER AUS DEM ZUG.]\n\nThiess gehörte zunächst seit Oktober 1929 der HJ an, wechselte im Oktober 1931 zum KJVD. Er war nach 1933 bei der illegalen Zeitschrift \"Die innere Front\" für den Wirtschaftsteil verantwortlich. Im April 1942 klebte er Zettel gegen die NS-Propagandaausstellung \"Das Sowjetparadies\". Am 20.10.1942 wurde er verhaftet, dann wurde ihm zusammen mit anderen aus seiner Gruppe der Prozeß gemacht. Eugen Neutert, Wilhelm Schürmann-Horster und Wolfgang Thiess verurteilte der Volksgerichtshof zum Tode. Der Entwurf der Tafel im Rahmen des Kreuzberger Antifaschistischen Gedenktafelprogramms stammt von dem Berliner Bildhauer Gerhard Moritzen. Enthüllt wurde sie am 16.12.1988 an der Außenmauer des Bahnhofs zum Halleschen Ufer. Hans-Heinz Havel schrieb dazu fast ein jahr später (taz, 4.10.1989): \"Die Tafel ist aufgeteilt in 13 Felder, auf denen die Lebensstationen des Mannes bildhaft dargestellt sind. Einige der Felder sind mit Absicht leer gelassen, weil zu wenig über Thiess bekannt ist. Ein Sprayer hat stellvertretend für viele zugelangt: Die hochverschlüsselte Kunst vermasselt die Botschaft.\"",
+                "description": "An der U-Bahn Haltestelle Hallesches Tor ist eine Gedenktafel angebracht, die an den Widerstandskämpfer und Antifaschisten Wolfgang Thiess erinnert, der an diesem Ort Flugblätter aus dem Zug warf und in Plötzensee hingerichtet wurde. Ein Auszug aus dem Text auf der Gedenktafel: \n\nWolfgang Thiess (1911 - 1943) \nwar nach 1933 bei der illegalen Zeitschrift \"Die innere Front\" für den Wirtschaftsteil verantwortlich. Im April 1942 klebte er Zettel gegen die NS-Propagandaausstellung \"Das Sowjetparadies\". Am 20.10.1942 wurde er verhaftet, dann wurde ihm zusammen mit anderen aus seiner Gruppe der Prozeß gemacht und zum Tode verurteilt. \n\nDer Entwurf der Tafel im Rahmen des Kreuzberger Antifaschistischen Gedenktafelprogramms stammt von dem Berliner Bildhauer Gerhard Moritzen und stellt in 13 Feldern die Lebensstationen von Thiess dar.\n",
                 "image": "https://www.gedenktafeln-in-berlin.de/typo3temp/pics/Gedenktafel_Hallesche-Tor-Bru__cke__Kreu_1b5649d785.jpg",
                 "category": "Erinnerungen",
                 "sub-category": "Gedenk- oder Informationstafeln",
@@ -854,7 +896,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-09-09T08:07:11.267-07:00",
-                "updated_date": "2020-09-09T08:44:34.225-07:00",
+                "updated_date": "2020-11-10T06:33:50.386-08:00",
                 "weight": 0,
                 "image_credit": "OTFW, CC BY-SA 3.0"
             },
@@ -866,6 +908,45 @@
                 ]
             },
             "id": "ca/wolfgang_thiess#88"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Hallesches Tor",
+                "type": "Ort",
+                "start_date": "",
+                "end_date": "",
+                "description": "Die U-Bahn Station Hallesches Tor hat ihren Namen von dem einstigen Durchgang in der alten Stadtmauer, der sich im 18. Jahrhundert am selben Platz befand. Bis 1812 war dies das einzige Tor im Süden Berlins, durch das Juden:Jüdinnen mit Registrierung in die Stadt gelangen konnten.\nAls eine Haltestelle der ersten U-Bahn Linie in berlin, gehört die Station zu den ältesten der Stadt. Heutzutage, fungiert sie hauptsächlich als Umsteige- und Kreuzungspunkt dreier U-Bahn Linien, die den Ort mit allen Himmelsrichtungen verbinden:\nDie U1 führt direkt in den Osten, zur Warschauer Straße in Friedrichshain, sowie zu der gehobenen Einkaufsstraße Kurfürstenstraße im Westen. Mit der U6 gelangt man richtung Norden, vorbei an zentralen Orten wie der Friedrichstraße und dem Checkpoint Charlie in das Industriegebiet im Wedding oder Richtung Süden durch Kreuzberberg nach Tempelhof. Außerdem verbindet die U3 das Hallesche Tor direkt mit dem Campus der Freien Universität.\nWährend U1 und U3 über einen Hochbahnhof erreichbar sind, befindet sich der Eingang zum unterirdischen Bahnsteig der U6 direkt auf dem Mehringplatz. Die Station steht unter Denkmalschutz.",
+                "image": "https://kondius.com/wp-content/uploads/2017/06/hallesches-tor-web.jpg",
+                "category": "Orte",
+                "sub-category": "Öffentlicher Raum",
+                "tags": [
+                    "Architektur",
+                    "Öffentlicher Raum",
+                    "Urbanität",
+                    "Erbe",
+                    "Geschichte ",
+                    "Ortsname"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [],
+                "relationships": [
+                    "ca/mehringplatz#39",
+                    "ca/belle_alliance_platz#40"
+                ],
+                "created_date": "2020-09-09T07:36:41.016-07:00",
+                "updated_date": "2020-11-10T06:17:40.445-08:00",
+                "weight": 0,
+                "image_credit": "Kondius AG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3906,
+                    52.4977
+                ]
+            },
+            "id": "ca/hallesches_tor#87"
         },
         {
             "type": "Feature",
@@ -2914,7 +2995,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-11-06T15:45:15.327Z",
+        "published": "2020-11-10T14:36:26.062Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -2924,7 +3005,7 @@
                 "type": "translation"
             }
         ],
-        "version": 114,
+        "version": 115,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -3026,6 +3107,14 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/hallesches_tor#87",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/hallesches_tor#87",
+            "to": "ca/belle_alliance_platz#40"
+        },
         {
             "from": "ca/hasenpark#86",
             "to": "ca/kma_e_v_#7"

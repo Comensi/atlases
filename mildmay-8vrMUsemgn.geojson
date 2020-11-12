@@ -8,7 +8,7 @@
                 "type": "Present",
                 "start_date": "",
                 "end_date": "",
-                "description": "",
+                "description": "Reggie teaches zumba at the Mildmay Community Centre. At the moment, Reggie and Marie are teaching online.",
                 "image": "https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/20604572_668115390060909_1377041303197506613_n.png?_nc_cat=105&ccb=2&_nc_sid=e3f864&_nc_ohc=zywHm5ceIxIAX_AduGn&_nc_ht=scontent-mad1-1.xx&oh=315e9c3dd5822ed126b591b1984e5113&oe=5FC6BFB0",
                 "category": "Activities and events",
                 "sub-category": "",
@@ -22,9 +22,11 @@
                         "type": "website"
                     }
                 ],
-                "relationships": [],
+                "relationships": [
+                    "ca/mildmay_community_centre#83"
+                ],
                 "created_date": "2020-07-14T03:03:42.860-07:00",
-                "updated_date": "2020-11-04T00:59:03.336-08:00",
+                "updated_date": "2020-11-11T09:08:14.944-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1169,7 +1171,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "The Islington Childcare Trust (ICT) is committed to the provision of high quality childcare across the borough of Islington. The ICT is a licensee in the Mildmay community centre.",
-                "image": "https://lh3.googleusercontent.com/proxy/Xa57CU7lhENvzKV47XLzKqz_cTuejspypR-Ixm2kYV2FF4XhkvBpjs3lo6xOOsR5_TcCPbsny0q9bSZQB0krrfm-MJkOi0TwZts8zLGv5HUE71ndoWNeJ6brMsMAYWlO",
+                "image": "http://islingtonchildcaretrust.org.uk/images/islingtonchildcaretrust.gif",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -1184,7 +1186,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:15:48.820-07:00",
-                "updated_date": "2020-11-04T00:49:54.095-08:00",
+                "updated_date": "2020-11-05T02:32:13.693-08:00",
                 "weight": 0,
                 "image_credit": "The Islington Childcare Trust"
             },
@@ -1242,7 +1244,7 @@
                 "type": "Present",
                 "start_date": "2013-12-31T16:00:00.000-08:00",
                 "end_date": "",
-                "description": "Creative Opportunities is a social enterprise that facilitates and encourages creativity amongst young Londoners, supporting them to develop skills, make connections and lead change. Founded in January 2014, we work to reduce isolation, poverty and inequality by increasing the social skills, sense of community and employability of our young members. Creative Opportunities is a licensee in the Mildmay Community Centre.",
+                "description": "Creative Opportunities is a social enterprise that facilitates and encourages creativity amongst young Londoners, supporting them to develop skills, make connections and lead change. Founded in January 2014, we work to reduce isolation, poverty and inequality by increasing the social skills, sense of community and employability of our young members.",
                 "image": "https://creativeopportunities.s3.amazonaws.com/images/creativeopps.original.png",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
@@ -1267,7 +1269,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:09:46.967-07:00",
-                "updated_date": "2020-09-01T01:50:14.468-07:00",
+                "updated_date": "2020-11-05T02:25:56.352-08:00",
                 "weight": 0,
                 "image_credit": "Creative Opportunities"
             },
@@ -1799,7 +1801,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-11-04T10:13:56.368Z",
+        "published": "2020-11-12T07:37:00.214Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1809,7 +1811,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 93,
+        "version": 94,
         "taxonomy": [
             {
                 "category": "Services",
@@ -1895,6 +1897,10 @@
         {
             "from": "ca/what_are_they_thinking_#121",
             "to": "ca/newington_green_alliance#84"
+        },
+        {
+            "from": "ca/zumba#116",
+            "to": "ca/mildmay_community_centre#83"
         },
         {
             "from": "ca/newington_green_alliance#84",

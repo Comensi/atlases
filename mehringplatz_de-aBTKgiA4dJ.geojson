@@ -829,6 +829,60 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Theodor-Wolff-Park",
+                "type": "Ort",
+                "start_date": "1989-12-31T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Der Theodor-Wolff-Park wurde im Rahmen der Internationalen Bauausstellung (IBA) 1984 angelegt.\nBenannt wurde er 1993 nach dem Schriftsteller und Publizisten, an dessen 50. Todestag.\nDie Idee war es, einzelne geometrische Elemente mit verschiedenen Texturen wie Rasen, Sand oder Wasser anzulegen. Die Wege sind dabei die ausgebauten Trampelpfade, die vorher über den Platz führten. Der Park ist mit Skulpturen des Bildhauers Heinrich Brummack geschmückt.\nSeit 2014 ist der Park als Gartendenkmal eingetragen, als beispielhaftes Projekt zur Reparatur und Verbindung des durch Zerstörung und Baulücken geprägten Gebiets.\nUm der Verwahrlosung entgegen zu wirken, wurde der Park 2015 mit Hilfe eines Bürgerbegehrens in das Förderprogramm Städtebaulicher Denkmalschutz aufgenommen und bis 2019 saniert.",
+                "image": "https://geomantie-berlin.de/wp-content/uploads/2017/07/vor_ort_august.jpg",
+                "category": "Orte",
+                "sub-category": "Park",
+                "tags": [
+                    "Kunst",
+                    "Park",
+                    "gemeinschaftlich",
+                    "Öffentlicher Raum",
+                    "Stadterneuerung",
+                    "Umwelt"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://www.landschaftsarchitektur-heute.de/themen/berliner-kulturlandschaften/landschaftsarchitektur-als-kulturelles-erbe/details/16",
+                        "title": "Landschaftsarchitektur heute: Theodor-Wolff-Park",
+                        "description": "Beschreibung des Projekts",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.stadtentwicklung.berlin.de/staedtebau/foerderprogramme/lebendige_zentren/de/gebiete/fri_kre/suedl_friedrichstadt/theodor_wolff_park.shtml",
+                        "title": "Lebendige Zentren und Quartiere: Theodor-Wolff-Park",
+                        "description": "Website vom Land Berlin über Geförderte Projekte",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/besselpark_sanierung#11",
+                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+                    "ca/iba#80"
+                ],
+                "created_date": "2020-11-17T08:15:35.223-08:00",
+                "updated_date": "2020-11-23T07:20:10.887-08:00",
+                "weight": 0,
+                "image_credit": "Geomantie Berlin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3899,
+                    52.5015
+                ]
+            },
+            "id": "ca/theodor_wolff_park#93"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Marie-Juchacz-Denkmal",
                 "type": "Monument",
                 "start_date": "",
@@ -3072,7 +3126,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-11-23T15:01:38.086Z",
+        "published": "2020-11-23T15:40:02.099Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -3082,7 +3136,7 @@
                 "type": "translation"
             }
         ],
-        "version": 121,
+        "version": 123,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -3195,6 +3249,22 @@
         {
             "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
             "to": "ca/axel_springer_verlag_neubau#66"
+        },
+        {
+            "from": "ca/theodor_wolff_park#93",
+            "to": "ca/besselpark_sanierung#11"
+        },
+        {
+            "from": "ca/theodor_wolff_park#93",
+            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "from": "ca/theodor_wolff_park#93",
+            "to": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
+        },
+        {
+            "from": "ca/theodor_wolff_park#93",
+            "to": "ca/iba#80"
         },
         {
             "from": "ca/hallesches_tor#87",

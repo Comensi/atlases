@@ -823,114 +823,9 @@
                 "image_credit": ""
             },
             "id": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "BAUHÜTTE",
-                "type": "Gebäude",
-                "start_date": "2015-04-30T16:00:00.000-07:00",
-                "end_date": "",
-                "description": "Die BAUHÜTTE ist ein Ort des Austausches über Prozesse in der Südlichen Friedrichstadt. Entstanden ist die BAUHÜTTE  im Zuge der baulichen Entwicklung des ehemaligen Blumengroßmarktes, die auf der Beteiligung von Bürger:innen beruhte. Die nur 60 Quadratmeter große BAUHÜTTE bietet einen Raum, in dem Nachbar:innen, Bauarbeiter:innen und Architekt:innen über temporäre Nutzungen und bauliche Veränderungen im Gebiet diskutieren können. Hier treffen also die Planer:innen und künftigen Nutzer:innen aufeinander! Ziel ist es, den sozialen Zusammenhalt zu stärken und voneinander zu lernen. Seit dem Sommer 2019 hat die BAUHÜTTE einen neuen Standort neben dem TAZ-Neubau bezogen, der von einem Gemeinschaftsgarten umgeben ist. Zusätzlich lädt ein Café auf dem Gelände alle Interessierten zum Verweilen im Nachbarschaftsgarten ein.",
-                "image": "https://i.ibb.co/pJ4HtCY/SWITCH-ON-MEHRINGPLATZ-45-copia.jpg",
-                "category": "Veränderungen",
-                "sub-category": "Private spaces common oriented",
-                "tags": [
-                    "Kultur",
-                    "gemeinschaftlich",
-                    "soziale Inklusion",
-                    "temporäre Nutzung",
-                    "Gärtnern"
-                ],
-                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
-                "links": [
-                    {
-                        "url": "http://www.bauhuette-berlin.de",
-                        "title": "BAUHÜTTE Website",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
-                ],
-                "created_date": "2019-09-26T03:07:19.608-07:00",
-                "updated_date": "2020-05-07T08:38:35.051-07:00",
-                "weight": 4,
-                "image_credit": "Photo Manuela Conti - oginoknauss"
-            },
-            "id": "ca/bauh_tte#16"
         }
     ],
     "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Theodor-Wolff-Park",
-                "type": "Ort",
-                "start_date": "1989-12-31T16:00:00.000-08:00",
-                "end_date": "",
-                "description": "Der Theodor-Wolff-Park wurde im Rahmen der Internationalen Bauausstellung (IBA) 1984 angelegt.\nBenannt wurde er 1993 nach dem Schriftsteller und Publizisten, der beim Berliner Tagesblatt arbeitete und in der NS-Zeit aus Deutschland floh, an dessen 50. Todestag.\nDie Idee war es, nicht ein komplettes Nutzungskonzept zu erstellen, sondern einzelne geometrische Elemente mit verschiedenen Texturen wie Rasen, Sand oder Wasser anzulegen. Die Wege sind dabei die ausgebauten Trampelpfade, die vorher über den Platz fühten. Der Park ist mit Skulpturen des Bildhauers Heinrich Brummack geschmückt.\nSeit 2014 ist der Park als Gartendenkmal eingetragen, als beispielhaftes Projekt zur Reparatur und Verbindung des durch Zerstörung und Baulücken geprägten Gebiets.\nUm der Verwahrlosung entgegen zu wirken, wurde der Park 2015 mit Hilfe eines Bürgerbegehrens in das Förderprogramm Städtebaulicher Denkmalschutz aufgenommen und bis 2019 saniert.",
-                "image": "data:image/jpeg;base64,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",
-                "category": "Orte",
-                "sub-category": "Park",
-                "tags": [
-                    "Kunst",
-                    "Park",
-                    "gemeinschaftlich",
-                    "Öffentlicher Raum",
-                    "Stadterneuerung",
-                    "Umwelt"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "https://www.landschaftsarchitektur-heute.de/themen/berliner-kulturlandschaften/landschaftsarchitektur-als-kulturelles-erbe/details/16",
-                        "title": "Landschaftsarchitektur heute: Theodor-Wolff-Park",
-                        "description": "Beschreibung des Projekts",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.stadtentwicklung.berlin.de/staedtebau/foerderprogramme/lebendige_zentren/de/gebiete/fri_kre/suedl_friedrichstadt/theodor_wolff_park.shtml",
-                        "title": "Lebendige Zentren und Quartiere: Theodor-Wolff-Park",
-                        "description": "Website vom Land Berlin über Geförderte Projekte",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/besselpark_sanierung#11",
-                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
-                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
-                    "ca/iba#80"
-                ],
-                "created_date": "2020-11-17T08:15:35.223-08:00",
-                "updated_date": "2020-11-23T06:45:19.191-08:00",
-                "weight": 0,
-                "image_credit": "Reinhard Görner"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        13.3912,
-                        52.5018
-                    ],
-                    [
-                        13.3913,
-                        52.5009
-                    ],
-                    [
-                        13.3898,
-                        52.5009
-                    ],
-                    [
-                        13.3894,
-                        52.5017
-                    ]
-                ]
-            },
-            "id": "ca/theodor_wolff_park#93"
-        },
         {
             "type": "Feature",
             "properties": {
@@ -2815,6 +2710,50 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "BAUHÜTTE",
+                "type": "Projekt",
+                "start_date": "2015-04-30T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "Die BAUHÜTTE ist ein Ort des Austausches über Prozesse in der Südlichen Friedrichstadt. Entstanden ist die BAUHÜTTE  im Zuge der baulichen Entwicklung des ehemaligen Blumengroßmarktes, die auf der Beteiligung von Bürger:innen beruhte. Die nur 60 Quadratmeter große BAUHÜTTE bietet einen Raum, in dem Nachbar:innen, Bauarbeiter:innen und Architekt:innen über temporäre Nutzungen und bauliche Veränderungen im Gebiet diskutieren können. Hier treffen also die Planer:innen und künftigen Nutzer:innen aufeinander! Ziel ist es, den sozialen Zusammenhalt zu stärken und voneinander zu lernen. Seit dem Sommer 2019 hat die BAUHÜTTE einen neuen Standort neben dem TAZ-Neubau bezogen, der von einem Gemeinschaftsgarten umgeben ist. Zusätzlich lädt ein Café auf dem Gelände alle Interessierten zum Verweilen im Nachbarschaftsgarten ein.",
+                "image": "https://i.ibb.co/pJ4HtCY/SWITCH-ON-MEHRINGPLATZ-45-copia.jpg",
+                "category": "Akteur:innen",
+                "sub-category": "Private spaces common oriented",
+                "tags": [
+                    "Kultur",
+                    "gemeinschaftlich",
+                    "soziale Inklusion",
+                    "temporäre Nutzung",
+                    "Gärtnern"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [
+                    {
+                        "url": "http://www.bauhuette-berlin.de",
+                        "title": "BAUHÜTTE Website",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+                ],
+                "created_date": "2019-09-26T03:07:19.608-07:00",
+                "updated_date": "2020-11-23T07:00:54.290-08:00",
+                "weight": 4,
+                "image_credit": "Photo Manuela Conti - oginoknauss"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3925,
+                    52.5039
+                ]
+            },
+            "id": "ca/bauh_tte#16"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Quartiersmanagement am Mehringplatz  ",
                 "type": "Programm",
                 "start_date": "2005-09-26T00:00:00.000-07:00",
@@ -3133,7 +3072,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-11-23T14:49:19.697Z",
+        "published": "2020-11-23T15:01:38.086Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -3143,7 +3082,7 @@
                 "type": "translation"
             }
         ],
-        "version": 120,
+        "version": 121,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -3256,22 +3195,6 @@
         {
             "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
             "to": "ca/axel_springer_verlag_neubau#66"
-        },
-        {
-            "from": "ca/theodor_wolff_park#93",
-            "to": "ca/besselpark_sanierung#11"
-        },
-        {
-            "from": "ca/theodor_wolff_park#93",
-            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
-        },
-        {
-            "from": "ca/theodor_wolff_park#93",
-            "to": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
-        },
-        {
-            "from": "ca/theodor_wolff_park#93",
-            "to": "ca/iba#80"
         },
         {
             "from": "ca/hallesches_tor#87",

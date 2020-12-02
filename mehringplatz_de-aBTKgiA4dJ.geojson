@@ -46,7 +46,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Nord-Östlich des Mehringplatzes, eingerahmt von Häuserblöcken, befindet sich zwischen der Friedrichstraße und der Brandesstraße, eine öffentliche Grünalage, die inoffiziell den Namen “Hasenpark” trägt. Die Fläche ist gehört zu den angrenzenden Wohnblöcken und ist als Hinterhof mit Bänken, Tischtennisplatten und einem Spielplatz angelegt. Gleichzeitig, ist hier ein wichtiger Treffpunkt für die Jugendlichen aus der Nachbarschaft, alternativ zur KMAntenne. Daruch kann es manchmal, auf Grund von zu hoher Lautstärke, zu Konflikten mit den Anwohner:innen kommen.  ",
-                "image": "https://vimeo.com/showcase/6905959/video/379315993",
+                "image": "https://drive.google.com/file/d/1umLk6_Osm5yfob8stcYI1P4Lu0A_B25Z/view?usp=sharing",
                 "category": "Orte",
                 "sub-category": "Park",
                 "tags": [
@@ -69,7 +69,7 @@
                     "ca/kmantenne#59"
                 ],
                 "created_date": "2020-09-09T06:31:10.246-07:00",
-                "updated_date": "2020-09-09T07:31:47.289-07:00",
+                "updated_date": "2020-12-02T09:05:17.569-08:00",
                 "weight": 0,
                 "image_credit": "Tesserae",
                 "icon_css_class": ""
@@ -473,33 +473,6 @@
                 "icon_css_class": ""
             },
             "id": "ca/gewobag#54"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Repair Cafe ",
-                "type": "Organisation",
-                "start_date": "2013-01-16T16:00:00.000-08:00",
-                "end_date": "",
-                "description": "Unter dem Motto \"Reparieren statt Wegwerfen\" laden jeden 1. Montag im Monat Ehrenamtliche zum sogenannten Repair Café ein. Es können technische Geräte oder andere Gegenstände mit in die Kiezstube (Mehringplatz 7) gebracht werden, denen wieder Leben eingehaucht werden. Die Reperatur erfolgt mit Beratung und Unterstützung der technisch begabten Ehrenamtlichen vor Ort, um dem Ansatz \"Hilfe zur Selbsthilfe\" gerecht zu werden. Das Angebot ist kostenlos.",
-                "image": "https://i.ibb.co/YNvHyBS/Repair-Cafe.png ",
-                "category": "Initiativen",
-                "sub-category": "",
-                "tags": [
-                    "Umwelt"
-                ],
-                "category-description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
-                "links": [],
-                "relationships": [
-                    "ca/kiezstube_mehringplatz#25"
-                ],
-                "created_date": "2020-01-17T05:53:12.876-08:00",
-                "updated_date": "2020-04-30T09:47:52.960-07:00",
-                "weight": 0,
-                "image_credit": "www.123RF.com",
-                "icon_css_class": ""
-            },
-            "id": "ca/repair_cafe_#52"
         },
         {
             "type": "Feature",
@@ -1169,7 +1142,7 @@
                 "start_date": "1987-08-23T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "",
-                "image": "http://travelogues.me/albums/mehringplatz-1/content/img-0826/lightbox/",
+                "image": "http://travelogues.me/storage/cache/images/001/861/IMG-0826,xlarge.2x.1563868171.jpg",
                 "category": "Orte",
                 "sub-category": "Wohnen/ Unterbringung",
                 "tags": [
@@ -1181,7 +1154,7 @@
                     "ca/iba#80"
                 ],
                 "created_date": "2020-08-24T06:35:59.141-07:00",
-                "updated_date": "2020-08-26T03:40:59.915-07:00",
+                "updated_date": "2020-12-02T08:59:17.087-08:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -1935,6 +1908,40 @@
                 ]
             },
             "id": "ca/kmantenne#59"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Repair Cafe ",
+                "type": "Organisation",
+                "start_date": "2013-01-16T16:00:00.000-08:00",
+                "end_date": "",
+                "description": "Unter dem Motto \"Reparieren statt Wegwerfen\" laden jeden 1. Montag im Monat Ehrenamtliche zum sogenannten Repair Café ein. Es können technische Geräte oder andere Gegenstände mit in die Kiezstube (Mehringplatz 7) gebracht werden, denen wieder Leben eingehaucht werden. Die Reperatur erfolgt mit Beratung und Unterstützung der technisch begabten Ehrenamtlichen vor Ort, um dem Ansatz \"Hilfe zur Selbsthilfe\" gerecht zu werden. Das Angebot ist kostenlos.",
+                "image": "https://i.ibb.co/YNvHyBS/Repair-Cafe.png ",
+                "category": "Initiativen",
+                "sub-category": "",
+                "tags": [
+                    "Umwelt"
+                ],
+                "category-description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
+                "links": [],
+                "relationships": [
+                    "ca/kiezstube_mehringplatz#25"
+                ],
+                "created_date": "2020-01-17T05:53:12.876-08:00",
+                "updated_date": "2020-04-30T09:47:52.960-07:00",
+                "weight": 0,
+                "image_credit": "www.123RF.com",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3931,
+                    52.4992
+                ]
+            },
+            "id": "ca/repair_cafe_#52"
         },
         {
             "type": "Feature",
@@ -3235,7 +3242,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-12-02T16:41:05.786Z",
+        "published": "2020-12-02T17:18:21.595Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -3245,7 +3252,7 @@
                 "type": "translation"
             }
         ],
-        "version": 124,
+        "version": 126,
         "taxonomy": [
             {
                 "category": "Initiativen",

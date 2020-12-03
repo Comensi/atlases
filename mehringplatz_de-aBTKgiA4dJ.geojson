@@ -429,7 +429,7 @@
                 "start_date": "1919-05-13T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "Die Gewobag ist ein kommunales Wohnungsunternehmen, das mit rund 62.000 Wohnungen über 100.000 Mieter:innen ein Zuhause in Berlin gibt. Durch das Bauen, Kaufen und Modernisieren von Wohnungen verfügt die Gewobag über ein großes Wohnungsangebot und setzt sich für eine vielfältige Mieter:innenschaft in Berlin und bezahlbaren Wohnraum ein. Am Mehringplatz besitzt die Gewobag aktuell ca. 1.300 Wohnungen; durch Zukauf und Neubau wird sich diese Kennzahl bald auf ca. 1.800 Wohnungen erhöhen.\n\nDie Gewobag arbeitet auch an innovativen Ideen zum Klimaschutz, wirtschaftlicher Effizienz (Ausstattung von 1.500 Gewerbeeinheiten) und sozialer Quartiersentwicklung durch die Stärkung des Zusammenhalts der Nachbarschaft. Dementsprechend übernimmt die Gewobag einige soziale Aktivitäten wie am Mehringplatz mit der Betreibung der \"Kiezstube\" oder den jährlich traditionellen Winter- und Sommerfesten, bei denen sich Bewohner:innen, Gewerbetreibende und Organisationen zum gemeinsamen Austausch treffen können. \nZudem steht ein Mieterbeirat den Bewohner:innen bei Fragen und Anregungen als Ansprechpartner zur Verfügung.    \n                                                                                                                                                 Quelle: https://www.gewobag.de  ",
-                "image": "https://www.gewobag.de/wp-content/uploads/presse/2015/unternehmen_presseinformation_kiezstube_mehringplatz_1.jpg",
+                "image": "https://i.ibb.co/5BTcBWJ/unternehmen-presseinformation-richtfest-mehringplatz-1140x760.jpg",
                 "category": "Akteur:innen",
                 "sub-category": "Developers and enterprises",
                 "tags": [
@@ -456,9 +456,9 @@
                     "ca/mehringplatz#39"
                 ],
                 "created_date": "2020-01-18T09:44:19.885-08:00",
-                "updated_date": "2020-06-12T04:20:49.757-07:00",
+                "updated_date": "2020-12-03T11:35:32.088-08:00",
                 "weight": 0,
-                "image_credit": "https://www.gewobag.de/wp-content/uploads/presse/2015/unternehmen_presseinformation_kiezstube_mehringplatz_1.jpg",
+                "image_credit": "Copyright: City-Press",
                 "icon_css_class": ""
             },
             "id": "ca/gewobag#54"
@@ -3197,7 +3197,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-12-03T18:48:38.188Z",
+        "published": "2020-12-03T19:38:30.942Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -3207,7 +3207,7 @@
                 "type": "translation"
             }
         ],
-        "version": 128,
+        "version": 129,
         "taxonomy": [
             {
                 "category": "Initiativen",

@@ -65,11 +65,11 @@
                     }
                 ],
                 "relationships": [
-                    "ca/kma_e_v_#7",
-                    "ca/kmantenne#59"
+                    "ca/h_town_tour#56",
+                    "ca/theodor_wolff_park#93"
                 ],
                 "created_date": "2020-09-09T06:31:10.246-07:00",
-                "updated_date": "2020-12-02T09:05:17.569-08:00",
+                "updated_date": "2020-12-02T13:18:45.639-08:00",
                 "weight": 0,
                 "image_credit": "Tesserae",
                 "icon_css_class": ""
@@ -177,6 +177,32 @@
                 "icon_css_class": ""
             },
             "id": "ca/querformat_b_verein_f_r_kunst_und_kultur#75"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Adalbert von Chemisso Gedenktafel",
+                "type": "Monument",
+                "start_date": "1822-04-29T16:00:00.000-08:00",
+                "end_date": "1838-08-20T16:00:00.000-08:00",
+                "description": "Diese Gra­nit­tafel mit \"Bron­ze-Medail­lon-Por­trät\" befand sich bis zum Abriss des Hauses 1909 \"in der Mit­tel­nische des ersten Stock­werks\" und wurde dann im Märki­schen Mu­seum auf­be­wahrt.  Cha­misso verließ Frankreich mit seiner Familie während der Revolu­tion und lebte seit 1796 in Berlin. Er fand zunächst eine An­stel­lung am Hofe, war dann bis 1808 im preu­ßischen Militär. Er wirkte als Schrift­stel­ler (\"Peter Schle­mihls wun­dersame Ge­schichte\", 1814), Dich­ter und Naturforscher, wurde 1819 - nach einer drei­jäh­rigen For­schungs­weltreise - Kustos am Botani­schen Garten, 1835 Mitglied der Akademie der Wissenschaf­ten. Seine Grabstät­te befindet sich auf dem Friedhof III der Jeru­salems- und Neuen Kirchen-Gemeinde, Kreuzberg, Mehring­damm/ Blücherstra­ße, Abt. 3/1 38/1 ( Eh­rengrab).",
+                "image": "https://trello-attachments.s3.amazonaws.com/5e49b10b4b8dc84e5d00ffa0/5eab09bac4be1c6e0b5b61eb/9b5b02b5eb684e20acb4f966f2976f1d/IMG_8275.jpeg",
+                "category": "Erinnerungen",
+                "sub-category": "Gedenk- oder Informationstafeln",
+                "tags": [
+                    "Kultur",
+                    "Geschichte "
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-04-30T10:08:27.275-07:00",
+                "updated_date": "2020-12-03T08:49:49.243-08:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/adalbert_von_chemisso_gedenktafel#72"
         },
         {
             "type": "Feature",
@@ -368,10 +394,11 @@
                     }
                 ],
                 "relationships": [
-                    "ca/kma_e_v_#7"
+                    "ca/kma_e_v_#7",
+                    "ca/hasenpark#86"
                 ],
                 "created_date": "2020-03-03T06:16:13.705-08:00",
-                "updated_date": "2020-05-14T06:29:25.832-07:00",
+                "updated_date": "2020-12-02T13:17:54.190-08:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -2420,7 +2447,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Die Stiftung Zentral- und Landesbibliothek Berlin (ZLB) ist die größte Öffentliche Bibliothek Deutschlands. Ihre beiden Standorte sind die Amerika-Gedenkbibliothek (AGB) in Berlin-Kreuzberg nahe des Mehringplatzes und die Berliner Stadtbibliothek (BStB) in Berlin-Mitte.  \n\nDie Amerika-Gedenkbibliothek ist wochentags von 10.00 bis 21.00 Uhr geöffnet. Der Standort ist auf geisteswissenschaftliche Fachgebiete und die „schönen“ Künste spezialisiert. Es finden sich allerdings auch eine Vielzahl von Büchern zu anderen Themen und Genres sowie Filme, Musik und eine Artothek. Hier ist auch die Kinder- und Jugendbibliothek mit einem Lernzentrum angesiedelt.\n\nJeden Sonntag von 11.00 – 17.00 Uhr ist die Amerika-Gedenkbibliothek geöffnet und bietet ein wöchentlich wechselndes Veranstaltungsprogramm an. Wenn Sie auch Ideen für das Programm haben oder selbst einen Veranstaltungspunkt anbieten möchten, können Sie eine E-Mail schicken an: sonntagsbureau@berlin.de\n\nZudem bietet die Amerika-Gedenkbibliothek einen Lesesaal mit kostenlosen Zeitungen und Zeitschriften sowie einen Klavierraum zum Musizieren an. ",
-                "image": "https://i.postimg.cc/28sSnvr9/agb.jpg",
+                "image": "https://i.ibb.co/8cg9dWR/M-2784-Mosch.jpg",
                 "category": "Orte",
                 "sub-category": "Public cultural institutions",
                 "tags": [
@@ -2452,9 +2479,9 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-10-30T03:56:51.891-07:00",
-                "updated_date": "2020-05-29T06:46:09.275-07:00",
+                "updated_date": "2020-12-03T09:59:51.036-08:00",
                 "weight": 0,
-                "image_credit": "Foto: http://text-der-stadt.blogspot.com/2014/09/facelifting-die-amerika.html",
+                "image_credit": " ©ZLB; Foto: Vincent Mosch",
                 "icon_css_class": ""
             },
             "geometry": {
@@ -3242,7 +3269,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-12-02T17:18:21.595Z",
+        "published": "2020-12-03T18:02:50.241Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -3252,7 +3279,7 @@
                 "type": "translation"
             }
         ],
-        "version": 126,
+        "version": 127,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -3392,11 +3419,11 @@
         },
         {
             "from": "ca/hasenpark#86",
-            "to": "ca/kma_e_v_#7"
+            "to": "ca/h_town_tour#56"
         },
         {
             "from": "ca/hasenpark#86",
-            "to": "ca/kmantenne#59"
+            "to": "ca/theodor_wolff_park#93"
         },
         {
             "from": "ca/parkhaus_franz_kl_hs_stra_e_wilhelmstra_e#83",
@@ -3553,6 +3580,10 @@
         {
             "from": "ca/h_town_tour#56",
             "to": "ca/kma_e_v_#7"
+        },
+        {
+            "from": "ca/h_town_tour#56",
+            "to": "ca/hasenpark#86"
         },
         {
             "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",

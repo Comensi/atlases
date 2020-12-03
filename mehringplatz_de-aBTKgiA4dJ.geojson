@@ -41,44 +41,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Hasenpark",
-                "type": "Ort",
-                "start_date": "",
-                "end_date": "",
-                "description": "Nord-Östlich des Mehringplatzes, eingerahmt von Häuserblöcken, befindet sich zwischen der Friedrichstraße und der Brandesstraße, eine öffentliche Grünalage, die inoffiziell den Namen “Hasenpark” trägt. Die Fläche ist gehört zu den angrenzenden Wohnblöcken und ist als Hinterhof mit Bänken, Tischtennisplatten und einem Spielplatz angelegt. Gleichzeitig, ist hier ein wichtiger Treffpunkt für die Jugendlichen aus der Nachbarschaft, alternativ zur KMAntenne. Daruch kann es manchmal, auf Grund von zu hoher Lautstärke, zu Konflikten mit den Anwohner:innen kommen.  ",
-                "image": "https://drive.google.com/file/d/1umLk6_Osm5yfob8stcYI1P4Lu0A_B25Z/view?usp=sharing",
-                "category": "Orte",
-                "sub-category": "Park",
-                "tags": [
-                    "Jugend",
-                    "Park",
-                    "gemeinschaftlich",
-                    "Öffentlicher Raum"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/showcase/6905959/video/379315993",
-                        "title": "H-TOWN TOUR - Hasenpark",
-                        "description": "H-TOWN Tour - Hasenpark",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/h_town_tour#56",
-                    "ca/theodor_wolff_park#93"
-                ],
-                "created_date": "2020-09-09T06:31:10.246-07:00",
-                "updated_date": "2020-12-02T13:18:45.639-08:00",
-                "weight": 0,
-                "image_credit": "Tesserae",
-                "icon_css_class": ""
-            },
-            "id": "ca/hasenpark#86"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "IBA",
                 "type": "Programm",
                 "start_date": "1979-08-20T16:00:00.000-07:00",
@@ -212,7 +174,7 @@
                 "start_date": "2017-09-08T16:00:00.000-07:00",
                 "end_date": "2017-09-08T16:00:00.000-07:00",
                 "description": "Urban Sketches ist eine Serie von kurzen Video-Postkarten zum Mehringplatz. Diese audiovisuellen Arbeiten wurden von den Teilnehmer:innen des EULER-Labors “ Mehringplatz Anknipsen” im Jahr 2017 erstellt. Die Teilnehmer:innen und Autor:innen der Arbeiten experimentierten mit Videos mit einem einfach zugänglichen Format, um  ihre Eindrücke und Beobachtungen festzuhalten oder eine Geschichte über die lokale Identität des Gebietes zu erzählen. Diese Videos ergänzen die bereits bestehende Sammlung historischer sowie analytischer Dokumente und bieten neue persönliche Interpretationen zum sozialräumlichen Umfeld des Mehringplatzes.\n",
-                "image": "http://www.tesserae.eu/wp-content/uploads/2018/06/US5-copia.jpg",
+                "image": "https://i.ibb.co/tPDDXhw/US5-copia.jpg",
                 "category": "Geschichten",
                 "sub-category": "Urban Sketch ",
                 "tags": [
@@ -256,9 +218,9 @@
                     "ca/urban_sketches_alienation#36"
                 ],
                 "created_date": "2020-04-22T03:24:03.685-07:00",
-                "updated_date": "2020-06-04T04:24:56.393-07:00",
+                "updated_date": "2020-12-03T10:40:47.314-08:00",
                 "weight": 0,
-                "image_credit": "http://www.tesserae.eu/wp-content/uploads/2018/06/US5-copia.jpg",
+                "image_credit": "Tesserae",
                 "icon_css_class": ""
             },
             "id": "ca/sammlung_mehringplatz_urban_sketches_#70"
@@ -1160,40 +1122,6 @@
                 ]
             },
             "id": "ca/hebbel_am_ufer_hau_#82"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Kreuzberg Tower",
-                "type": "Gebäude",
-                "start_date": "1987-08-23T16:00:00.000-07:00",
-                "end_date": "",
-                "description": "",
-                "image": "http://travelogues.me/storage/cache/images/001/861/IMG-0826,xlarge.2x.1563868171.jpg",
-                "category": "Orte",
-                "sub-category": "Wohnen/ Unterbringung",
-                "tags": [
-                    "Architektur"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [],
-                "relationships": [
-                    "ca/iba#80"
-                ],
-                "created_date": "2020-08-24T06:35:59.141-07:00",
-                "updated_date": "2020-12-02T08:59:17.087-08:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3922,
-                    52.505
-                ]
-            },
-            "id": "ca/kreuzberg_tower#81"
         },
         {
             "type": "Feature",
@@ -2598,7 +2526,7 @@
                 "start_date": "2015-04-08T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "Die Kiezstube ist ein Ort für die Nachbarschaft, an dem alle willkommen sind. Seit 2015 bietet die Kiezstube am Mehringplatz den Anwohner:innen einen Raum, um sich zu treffen, auszutauschen, gemeinsam zu kochen, Feste zu feiern, Bücher auszuleihen oder die Sozialberatung in Anspruch zu nehmen. Die inhaltliche Ausgestaltung soll sich an den Bedarfen im Kiez orientieren. Die Kiezstube fördert  Menschen dabei, sich gemeinwesenorientiert in ihrem Bezirk engagieren zu können. \n\nAnfangs wurde die Kiezstube von Die Globale e.V. verwaltet, was nach der Renovierung der Räumlichkeiten 2017 von der Gewobag übernommen wurde. Zurzeit betreibt die Gewobag zehn Kiezstuben in verschiedenen Quartieren Berlins.  ",
-                "image": "http://qm-mehringplatz.info/fileadmin/_processed_/csm_2018_eroeffn_kiezstube06_b9c3ae922e.jpg",
+                "image": "https://i.ibb.co/0MTpC1v/csm-2018-eroeffn-kiezstube06-b9c3ae922e.jpg",
                 "category": "Orte",
                 "sub-category": "Gemeinschaftsmittelpunkt",
                 "tags": [
@@ -2626,7 +2554,7 @@
                     "ca/die_globale_e_v_#27"
                 ],
                 "created_date": "2019-09-27T01:27:56.456-07:00",
-                "updated_date": "2020-05-29T06:04:45.375-07:00",
+                "updated_date": "2020-12-03T10:39:12.054-08:00",
                 "weight": 0,
                 "image_credit": "Foto: M. Hühn",
                 "icon_css_class": ""
@@ -2648,7 +2576,7 @@
                 "start_date": "2011-04-01T06:00:00.000-07:00",
                 "end_date": "",
                 "description": "Das Gebiet der Südlichen Friedrichstadt wurde mit Rechtsverordnung vom 15. März 2011 mit Rechtskraft am 1. April 2011 förmlich als Sanierungsgebiet festgesetzt. Die zuvor im Gebiet durchgeführten Vorbereitenden Untersuchungen kamen zu dem Ergebnis, dass die Südliche Friedrichstadt durch erhebliche städtebauliche und funktionale Schwächen gekennzeichnet ist. Das Gebiet wird seiner Lage und Bedeutung in der Innenstadt nicht gerecht, wichtige Areale und öffentliche Standorte sind städtebaulich nicht eingebunden. Darüber hinaus bestehen funktionale und gestalterische Mängel bei den Einrichtungen der sozialen Infrastruktur und im öffentlichen Raum.\nIm Gebiet gilt nun für den Zeitraum der Sanierungsdurchführung das „Besondere Städtebaurecht” gemäß §§ 136-191 BauGB. Die Sanierung erfolgt im „vereinfachten Verfahren” in dem die besonderen sanierungsrechtlichen Vorschriften (Kaufpreisprüfung, Ausgleichsbetrag des Eigentümers, §§ 152-156a BauGB) nicht angewendet werden.",
-                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
+                "image": "https://i.ibb.co/MBpXTVW/SFS-Luftild-Geltungsbereich-753x1024.jpg",
                 "category": "Gebiet",
                 "sub-category": "Public space",
                 "tags": [
@@ -2676,9 +2604,9 @@
                     "ca/besselpark_sanierung#11"
                 ],
                 "created_date": "2019-09-26T06:31:05.747-07:00",
-                "updated_date": "2020-02-05T07:05:27.320-08:00",
+                "updated_date": "2020-12-03T10:37:55.776-08:00",
                 "weight": 0,
-                "image_credit": "",
+                "image_credit": "fis-Broker",
                 "icon_css_class": ""
             },
             "geometry": {
@@ -3103,7 +3031,7 @@
                 "start_date": "2019-08-14T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "Aufgrund seines schlechten Zustands wird der Besselpark in den kommenden Monaten (März bis September 2020) umgestaltet. Dieses Projekt findet im Rahmen der Neugestaltung des Sanierungsgebietes statt. Ziel der Planung ist es, den Besselpark, den Spielplatz, die Besselstraße und die Freiflächen an der Charlottenstraße 98 zusammen zu koordinieren um einen städtischen Gesamtraum herzustellen.   \nIm Rahmen einer Bürger*innenbefragung wurden Wünsche und Anregungen der Bewohner*innen in das landschaftsplanerische Auswahlverfahren aufgenommen. Das Auswahlgremium berücksichtigte die Anmerkungen und das Büro von Rehwaldt Landschaftsarchitekten hat die Verantwortung übernommen, dies in das Projekt hinzuzufügen. Im Mai 2017 wurde der Entwurf im Sanierungsbeirat noch einmal vorgestellt und über Angebote für Jugendliche diskutiert. Dies ist in der weiteren Planung eingeflossen.                                                            ",
-                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/03/Besselpark-Perspektive-komp-768x402.jpg",
+                "image": "https://i.ibb.co/N6zB15d/Besselpark-Perspektive-komp-768x402.jpg",
                 "category": "Veränderungen",
                 "sub-category": "Öffentlicher Raum",
                 "tags": [
@@ -3125,7 +3053,7 @@
                     "ca/mehringplatz_im_umbau_#62"
                 ],
                 "created_date": "2019-09-25T08:52:03.678-07:00",
-                "updated_date": "2020-04-03T09:28:11.077-07:00",
+                "updated_date": "2020-12-03T10:35:53.345-08:00",
                 "weight": 0,
                 "image_credit": " Rehwaldt Landschaftsarchitekten Mai 2017",
                 "icon_css_class": ""
@@ -3269,7 +3197,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-12-03T18:02:50.241Z",
+        "published": "2020-12-03T18:48:38.188Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -3279,7 +3207,7 @@
                 "type": "translation"
             }
         ],
-        "version": 127,
+        "version": 128,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -3418,24 +3346,12 @@
             "to": "ca/belle_alliance_platz#40"
         },
         {
-            "from": "ca/hasenpark#86",
-            "to": "ca/h_town_tour#56"
-        },
-        {
-            "from": "ca/hasenpark#86",
-            "to": "ca/theodor_wolff_park#93"
-        },
-        {
             "from": "ca/parkhaus_franz_kl_hs_stra_e_wilhelmstra_e#83",
             "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
         },
         {
             "from": "ca/parkhaus_franz_kl_hs_stra_e_wilhelmstra_e#83",
             "to": "ca/urban_sketches_alienation#36"
-        },
-        {
-            "from": "ca/kreuzberg_tower#81",
-            "to": "ca/iba#80"
         },
         {
             "from": "ca/iba#80",

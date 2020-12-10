@@ -4,6 +4,59 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Incubadora em Movimento - Multiplier event",
+                "type": "Evento",
+                "start_date": "2020-10-16T16:00:00.000-07:00",
+                "end_date": "2020-10-16T16:00:00.000-07:00",
+                "description": "Obrigada pelo maravilhoso dia de tertúlia, ação cívica, arte e muita animação no Bairro 2 de Maio - foi um prazer trabalhar convosco Amigos do B2M, Locals, Junta De Freguesia Ajuda - e DINÂMIA-CET (ISCTE-IUL), Laboratório de Estudos Urbanos , Recycle Lab, Sporting Clube Rio Seco, Coro Comunitário da Ajuda/ Cusca - Cultura e Comunidade e todos os moradores e cidadãos que participaram nas iniciativas cívicas com muitaEnergia BIP/ZIP!\nThank you to all the local partners and the international partners of #comensiEU project - #ErasmusPlus - Bond Of Union, Prostorož, Mapping for Change and Tesserae.eu. It was a full day Multiplier event (with a lot of effort and creativity, due to COVID-19 security measures): debates in small groups, civic initiatives as the food garden, recycle contest, the mural painting. Theatre and the community choir concluded a beautiful day!",
+                "image": "https://www.facebook.com/4Change.org/photos/pcb.3384454288308306/3384451758308559/",
+                "category": "Transformações",
+                "sub-category": "",
+                "tags": [
+                    "Events",
+                    "music",
+                    "youths",
+                    "architecture",
+                    "culture",
+                    "commons",
+                    "Social inclusion",
+                    "temporary structure",
+                    "gardening",
+                    "oral history",
+                    "Public space",
+                    "Urban regeneration",
+                    "collective",
+                    "hackspace"
+                ],
+                "category-description": "Descoberta e destaque de processos, projetos, conflitos ou iniciativas a decorrer - transformações a decorrer no território. ",
+                "links": [
+                    {
+                        "url": "https://www.facebook.com/4Change.org/videos/791238425002637",
+                        "title": "Clip Incubadora em Movimento",
+                        "description": "Summary clip of Incubadora Em Movimento Multiplier event",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/envolver_uma_comunidade#72"
+                ],
+                "created_date": "2020-12-10T06:17:11.124-08:00",
+                "updated_date": "2020-12-10T06:29:17.478-08:00",
+                "weight": 0,
+                "image_credit": "Janita Zacarias"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1985353,
+                    38.7107921
+                ]
+            },
+            "id": "ca/incubadora_em_movimento_multiplier_event#95"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Ideias do B2M para a Ajuda",
                 "type": "Evento",
                 "start_date": "",
@@ -958,7 +1011,7 @@
         "id": "barriodaajuda",
         "description": "",
         "image": "https://playground.community-atlas.net/browser/images/comensi-logo-atlas-heavy4x.png",
-        "published": "2020-09-08T16:07:18.480Z",
+        "published": "2020-12-10T14:35:09.988Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -968,7 +1021,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 57,
+        "version": 58,
         "taxonomy": [
             {
                 "category": "Itinerários",
@@ -1072,6 +1125,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/incubadora_em_movimento_multiplier_event#95",
+            "to": "ca/envolver_uma_comunidade#72"
+        },
         {
             "from": "ca/ideias_do_b2m_para_a_ajuda#93",
             "to": "ca/freguesia_da_ajuda#71"

@@ -19,7 +19,8 @@
                 "created_date": "2020-10-14T02:34:57.340-07:00",
                 "updated_date": "2020-10-15T08:31:22.154-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -61,7 +62,8 @@
                 "created_date": "2020-10-13T04:56:42.587-07:00",
                 "updated_date": "2020-10-30T02:01:45.035-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -107,7 +109,8 @@
                 "created_date": "2020-10-13T04:46:43.550-07:00",
                 "updated_date": "2020-10-16T06:28:13.350-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -136,9 +139,10 @@
                     "ca/teatro_alla_guilla#84"
                 ],
                 "created_date": "2020-10-13T04:46:35.191-07:00",
-                "updated_date": "2020-10-13T05:34:59.076-07:00",
+                "updated_date": "2020-11-24T06:24:25.765-08:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -174,7 +178,8 @@
                 "created_date": "2020-10-12T04:08:53.082-07:00",
                 "updated_date": "2020-10-13T04:41:40.072-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +217,8 @@
                 "created_date": "2020-09-25T02:19:48.365-07:00",
                 "updated_date": "2020-09-30T07:47:30.284-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +256,8 @@
                 "created_date": "2020-06-24T07:12:12.654-07:00",
                 "updated_date": "2020-10-12T04:06:14.219-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +316,8 @@
                 "created_date": "2020-06-23T06:06:22.259-07:00",
                 "updated_date": "2020-06-23T09:09:29.596-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -345,7 +353,8 @@
                 "created_date": "2020-06-12T08:27:42.210-07:00",
                 "updated_date": "2020-06-12T08:42:36.144-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +390,8 @@
                 "created_date": "2020-06-10T03:28:53.085-07:00",
                 "updated_date": "2020-06-12T08:27:55.300-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +430,8 @@
                 "created_date": "2020-05-13T02:50:02.685-07:00",
                 "updated_date": "2020-06-05T03:22:50.518-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -461,7 +472,8 @@
                 "created_date": "2020-05-12T02:25:50.935-07:00",
                 "updated_date": "2020-05-16T02:36:36.943-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -502,7 +514,8 @@
                 "created_date": "2020-05-12T01:55:00.433-07:00",
                 "updated_date": "2020-05-25T02:51:22.916-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -541,7 +554,8 @@
                 "created_date": "2020-05-12T01:40:26.868-07:00",
                 "updated_date": "2020-05-16T02:35:14.361-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -596,7 +610,8 @@
                 "created_date": "2020-05-11T08:33:02.763-07:00",
                 "updated_date": "2020-05-16T02:33:55.073-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -631,7 +646,8 @@
                 "created_date": "2020-05-11T08:18:38.887-07:00",
                 "updated_date": "2020-05-16T02:30:52.420-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -664,7 +680,8 @@
                 "created_date": "2020-05-11T07:56:52.755-07:00",
                 "updated_date": "2020-05-16T02:29:27.613-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -698,7 +715,8 @@
                 "created_date": "2020-05-11T07:41:27.641-07:00",
                 "updated_date": "2020-05-16T02:27:37.714-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -739,7 +757,8 @@
                 "created_date": "2020-05-08T07:53:34.707-07:00",
                 "updated_date": "2020-05-16T02:26:13.325-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -785,7 +804,8 @@
                 "created_date": "2020-04-15T03:18:20.078-07:00",
                 "updated_date": "2020-05-16T02:24:01.639-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -838,7 +858,8 @@
                 "created_date": "2020-02-14T08:48:29.637-08:00",
                 "updated_date": "2020-05-16T02:23:09.593-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -856,7 +877,7 @@
                 "type": "Azione partecipativa",
                 "start_date": "",
                 "end_date": "",
-                "description": "L'idea del cinema all'aperto è una delle proposte emerse nelle discussioni \"Laboratori di quartiere\" con i cittadini ed i ristoratori di Piazzetta Saponeria (febbraio 2019) per Cortile Ecce Homo. Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato esistevano due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati.",
+                "description": "L'idea del cinema all'aperto è una delle proposte emerse nelle discussioni \"Laboratori di quartiere\" con i cittadini ed i ristoratori di Piazzetta Saponeria (febbraio 2019) per Cortile Ecce Homo. Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato esistevano due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati. l’idea come spiegato nel video é attualmente sospesa a causa dell’emergenza covid ma la volonta’ di realizzarla da parte dei residenti rimane.",
                 "image": "https://i.postimg.cc/fyfPMSMx/IMG-20200511-WA0008.jpg",
                 "category": "Idee e Proposte",
                 "sub-category": "",
@@ -883,9 +904,10 @@
                     "ca/cortile_ecce_homo#88"
                 ],
                 "created_date": "2020-02-14T08:29:46.329-08:00",
-                "updated_date": "2020-05-16T02:20:41.392-07:00",
+                "updated_date": "2020-11-17T07:16:33.579-08:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -932,7 +954,8 @@
                 "created_date": "2020-02-05T05:51:25.211-08:00",
                 "updated_date": "2020-10-15T06:51:52.481-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -973,7 +996,8 @@
                 "created_date": "2019-12-12T04:32:10.764-08:00",
                 "updated_date": "2020-10-01T02:52:59.080-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1020,7 +1044,8 @@
                 "created_date": "2019-12-12T03:28:00.260-08:00",
                 "updated_date": "2020-05-16T02:16:14.964-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1058,7 +1083,8 @@
                 "created_date": "2019-12-12T02:55:40.353-08:00",
                 "updated_date": "2020-05-16T02:06:40.343-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1094,7 +1120,8 @@
                 "created_date": "2019-12-12T02:24:26.427-08:00",
                 "updated_date": "2020-05-16T02:00:43.058-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1136,7 +1163,8 @@
                 "created_date": "2019-12-12T02:11:40.236-08:00",
                 "updated_date": "2020-05-28T07:18:04.916-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -1238,7 +1266,8 @@
                 "created_date": "2019-12-11T08:12:02.170-08:00",
                 "updated_date": "2020-05-16T02:13:20.443-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1269,7 +1298,7 @@
                         "url": "https://i.postimg.cc/cH2MTyDR/UNADJUSTEDNONRAW-thumb-7ec.jpg",
                         "title": "Spazi di quartiere a Cortile Mangano",
                         "description": "uno dei cittadini che si prende cura del gardino del cortile",
-                        "type": "image"
+                        "type": "contributor"
                     }
                 ],
                 "relationships": [
@@ -1278,7 +1307,8 @@
                 "created_date": "2019-12-11T05:30:08.220-08:00",
                 "updated_date": "2020-05-16T01:57:34.402-07:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "",
+                "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1294,9 +1324,9 @@
         "title": "Atlante di Quartiere",
         "url": "https://palermo.community-atlas.net",
         "id": "palermo",
-        "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
+        "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto, video interviste e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-11-17T15:16:49.292Z",
+        "published": "2020-12-10T10:53:16.535Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1313,7 +1343,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 280,
+        "version": 281,
         "taxonomy": [
             {
                 "category": "Rete Capo",

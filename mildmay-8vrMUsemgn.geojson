@@ -1207,7 +1207,7 @@
                 "start_date": "2006-12-31T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "Room to Heal is a charity which offers support and refuge to people who have had to flee persecution, torture and indefinite detention. Room to Heal has its office in the Mildmay Community Centre and uses the centre’s garden for various kinds of therapeutic activities. ",
-                "image": "https://live.staticflickr.com/65535/50726341251_b63f1cc81f_o_d.jpg",
+                "image": "",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [
@@ -1224,7 +1224,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:12:09.025-07:00",
-                "updated_date": "2020-12-16T06:06:24.541-08:00",
+                "updated_date": "2020-12-16T06:14:26.192-08:00",
                 "weight": 0,
                 "image_credit": "Just Giving "
             },
@@ -1801,7 +1801,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-12-16T14:07:17.449Z",
+        "published": "2020-12-16T14:15:12.533Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1811,7 +1811,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 97,
+        "version": 98,
         "taxonomy": [
             {
                 "category": "Services",
@@ -1833,27 +1833,6 @@
                 "sub-categories": [],
                 "weight": 0,
                 "id": 4
-            },
-            {
-                "category": "Activities and events",
-                "description": "What’s on in Mildmay and Newington Green?",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 3
-            },
-            {
-                "category": "Local stories",
-                "description": "Thoughts, memories and experiences of the area",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 2
-            },
-            {
-                "category": "Venues",
-                "description": "Spaces to hire or use in the neighbourhood",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 1
             }
         ]
     },

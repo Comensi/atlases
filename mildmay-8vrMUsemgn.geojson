@@ -84,7 +84,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "",
-                "image": "https://www.islingtongazette.co.uk/polopoly_fs/1.865513.1302775912!/image/1901215261.jpg_gen/derivatives/landscape_630/1901215261.jpg",
+                "image": "",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -92,7 +92,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-07-14T02:51:59.655-07:00",
-                "updated_date": "2020-11-04T00:53:51.953-08:00",
+                "updated_date": "2020-12-16T09:12:44.437-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1801,7 +1801,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-12-16T17:10:01.504Z",
+        "published": "2020-12-16T17:14:56.999Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1811,7 +1811,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 103,
+        "version": 104,
         "taxonomy": [
             {
                 "category": "Services",

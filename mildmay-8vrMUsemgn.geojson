@@ -9,7 +9,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Reggie teaches zumba at the Mildmay Community Centre. At the moment, Reggie and Marie are teaching online.",
-                "image": "https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/20604572_668115390060909_1377041303197506613_n.png?_nc_cat=105&ccb=2&_nc_sid=e3f864&_nc_ohc=zywHm5ceIxIAX_AduGn&_nc_ht=scontent-mad1-1.xx&oh=315e9c3dd5822ed126b591b1984e5113&oe=5FC6BFB0",
+                "image": "https://live.staticflickr.com/65535/50726989697_f78e5be330_k_d.jpg ",
                 "category": "Activities and events",
                 "sub-category": "",
                 "tags": [],
@@ -26,7 +26,7 @@
                     "ca/mildmay_community_centre#83"
                 ],
                 "created_date": "2020-07-14T03:03:42.860-07:00",
-                "updated_date": "2020-11-11T09:08:14.944-08:00",
+                "updated_date": "2020-12-16T08:56:30.423-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -106,7 +106,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Group of Bingo players at the Mildmay Community Centre. ",
-                "image": "",
+                "image": "https://live.staticflickr.com/65535/50726893631_5494d565ae_k_d.jpg ",
                 "category": "Activities and events",
                 "sub-category": "",
                 "tags": [],
@@ -114,7 +114,7 @@
                 "links": [],
                 "relationships": [],
                 "created_date": "2020-07-14T02:39:16.600-07:00",
-                "updated_date": "2020-09-01T01:52:11.168-07:00",
+                "updated_date": "2020-12-16T08:56:00.074-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -585,7 +585,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "[Online Event] Weekly Event every Tuesday 12:30-13:30 PM beginning 23 June, 2020. This is a great opportunity to learn about Turkish language and culture and to fuel the growing sense of community and solidarity in the Newington Green area! To Register: https://us02web.zoom.us/meeting/register/tZMlce-opjkoGt0WjCJHG-Jvj-HbgoSKBm4G. ",
-                "image": "",
+                "image": "https://live.staticflickr.com/65535/50726162498_9b12865414_k_d.jpg ",
                 "category": "Activities and events",
                 "sub-category": "",
                 "tags": [],
@@ -602,7 +602,7 @@
                     "ca/newington_green_alliance#84"
                 ],
                 "created_date": "2020-09-09T08:24:55.862-07:00",
-                "updated_date": "2020-12-16T08:40:01.799-08:00",
+                "updated_date": "2020-12-16T08:57:08.891-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1801,7 +1801,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-12-16T16:42:34.252Z",
+        "published": "2020-12-16T17:01:36.727Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1811,7 +1811,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 100,
+        "version": 101,
         "taxonomy": [
             {
                 "category": "Services",

@@ -150,7 +150,7 @@
                 "start_date": "2005-12-31T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "The Social Investment Business is an investment company which invests in a wide variety of organizations across the UK. The Social Investment Business is notably partnering with Mildmay Community Partnership - the charity running the Mildmay Community Centre.",
-                "image": "https://live.staticflickr.com/65535/50726801187_cc01f95169_o_d.png ",
+                "image": "https://live.staticflickr.com/65535/50729288947_55b1997ee7_b_d.jpg ",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -165,7 +165,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T08:17:15.090-07:00",
-                "updated_date": "2020-12-16T08:11:44.730-08:00",
+                "updated_date": "2020-12-17T01:06:48.726-08:00",
                 "weight": 0,
                 "image_credit": "Social Investment Business"
             },
@@ -266,7 +266,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "The New Testament Church of God is a religious charity which organizes events in the Mildmay Community Centre. ",
-                "image": "https://live.staticflickr.com/65535/50726799962_afc4285dba_o_d.png ",
+                "image": "https://live.staticflickr.com/65535/50729288992_cd4d45f336_o_d.png ",
                 "category": "Activities and events",
                 "sub-category": "",
                 "tags": [],
@@ -287,7 +287,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T06:51:42.920-07:00",
-                "updated_date": "2020-12-16T08:08:17.761-08:00",
+                "updated_date": "2020-12-17T01:07:15.198-08:00",
                 "weight": 0,
                 "image_credit": "New Testament Church of God "
             },
@@ -1093,7 +1093,7 @@
                 "start_date": "2009-10-31T17:00:00.000-07:00",
                 "end_date": "",
                 "description": "Voluntary Action Islington is a charity which provides information, training and support to volunteers, staff and trustees within the voluntary and community sector in Islington. They are the accredited Volunteer Centre for Islington. They support the Islington Community Network and influence the development of the voluntary sector in the borough.\n\n",
-                "image": "https://live.staticflickr.com/65535/50726708771_1e62d01ecd_b_d.jpg ",
+                "image": "https://live.staticflickr.com/65535/50728463643_3d2058fd8a_o_d.png ",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -1108,7 +1108,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:56:08.017-07:00",
-                "updated_date": "2020-12-16T08:07:21.464-08:00",
+                "updated_date": "2020-12-17T01:07:58.328-08:00",
                 "weight": 0,
                 "image_credit": "MVSC "
             },
@@ -1171,7 +1171,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "The Islington Childcare Trust (ICT) is committed to the provision of high quality childcare across the borough of Islington. The ICT is a licensee in the Mildmay community centre.",
-                "image": "https://live.staticflickr.com/65535/50725974658_cc7e258e28_o_d.gif ",
+                "image": "https://live.staticflickr.com/65535/50729193571_c3a6fa8d5a_o_d.png ",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -1186,7 +1186,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:15:48.820-07:00",
-                "updated_date": "2020-12-16T08:07:55.164-08:00",
+                "updated_date": "2020-12-17T01:06:27.997-08:00",
                 "weight": 0,
                 "image_credit": "The Islington Childcare Trust"
             },
@@ -1801,7 +1801,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-12-17T08:59:03.476Z",
+        "published": "2020-12-17T09:11:06.380Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1811,7 +1811,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 108,
+        "version": 109,
         "taxonomy": [
             {
                 "category": "Services",

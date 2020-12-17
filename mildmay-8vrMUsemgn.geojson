@@ -675,7 +675,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "IMECE Women’s Centre stands against all forms of violence against women and girls. They support and empower Turkish, Kurdish and Cypriot Turkish women and Black, Asian, minority ethnic, refugee (BAMER) and migrant women to improve the quality of their lives. IMECE organizes Yoga sessions in the Mildmay Community Centre. ",
-                "image": "https://live.staticflickr.com/65535/50725975833_f5fa4e8239_o_d.jpg ",
+                "image": "https://live.staticflickr.com/65535/50729239656_1c093a2bf3_o_d.jpg ",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -690,7 +690,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-14T03:04:37.624-07:00",
-                "updated_date": "2020-12-16T08:36:02.316-08:00",
+                "updated_date": "2020-12-17T01:32:37.820-08:00",
                 "weight": 0,
                 "image_credit": "IMECE"
             },
@@ -1779,7 +1779,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-12-17T09:20:03.277Z",
+        "published": "2020-12-17T09:33:24.377Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1789,7 +1789,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 110,
+        "version": 111,
         "taxonomy": [
             {
                 "category": "Services",

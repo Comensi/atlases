@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Golden Oldies Senior Citizens and Disabled Group",
-                "type": "Present",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "Local Organisations and Businesses",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "Who works in the area?",
-                "links": [],
-                "relationships": [],
-                "created_date": "2020-12-17T00:41:37.109-08:00",
-                "updated_date": "2020-12-17T00:41:48.284-08:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "ca/golden_oldies_senior_citizens_and_disabled_group#130"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Zumba",
                 "type": "Present",
                 "start_date": "",
@@ -1801,7 +1779,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-12-17T09:11:06.380Z",
+        "published": "2020-12-17T09:20:03.277Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1811,7 +1789,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 109,
+        "version": 110,
         "taxonomy": [
             {
                 "category": "Services",

@@ -179,7 +179,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Local Insight in a company providing data analysis insights for businesses about their local community. They are a part of the network of stakeholders found in the Mildmay area. ",
-                "image": "https://live.staticflickr.com/65535/50726707366_8b7f0819df_o_d.png ",
+                "image": "https://live.staticflickr.com/65535/50729175006_2282127983_o_d.png ",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [],
@@ -194,7 +194,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:53:15.397-07:00",
-                "updated_date": "2020-12-16T08:07:30.112-08:00",
+                "updated_date": "2020-12-17T00:58:15.227-08:00",
                 "weight": 0,
                 "image_credit": ""
             },
@@ -1801,7 +1801,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-12-17T08:43:53.848Z",
+        "published": "2020-12-17T08:59:03.476Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1811,7 +1811,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 107,
+        "version": 108,
         "taxonomy": [
             {
                 "category": "Services",

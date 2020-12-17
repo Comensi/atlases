@@ -1129,7 +1129,7 @@
                 "start_date": "1997-04-30T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "Hackney CVS is a charity focused on tackling inequalities in Hackney, working with community groups, charities and voluntary organisations to help local residents. Hackney CVS does this in different ways: they provide advice and training and they also act as a bridge between the public sector and local community groups, allowing them to influence how the public sector does its work. Hackney CVS is a part of the network of stakeholders found in the Mildmay area.",
-                "image": "https://hcvs.org.uk/wp-content/themes/hcvs/build/imgs/logo--main.svg",
+                "image": "https://live.staticflickr.com/65535/50728395263_3ba5cde3ff_b_d.jpg ",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [
@@ -1150,7 +1150,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:46:05.701-07:00",
-                "updated_date": "2020-09-01T01:50:35.861-07:00",
+                "updated_date": "2020-12-17T00:33:39.499-08:00",
                 "weight": 0,
                 "image_credit": "Hackney CVS"
             },
@@ -1290,7 +1290,7 @@
                 "start_date": "2017-12-31T16:00:00.000-08:00",
                 "end_date": "",
                 "description": "London Gypsies and Travellers (LGT) is a charity aiming to support Gipsies and Travellers living in London as they seek to gain greater control over their lives, more influence on the decisions that affect them, more opportunities and an end to the discrimination they experience every day. LGT has its office in the Mildmay Community Centre since 2018. ",
-                "image": "https://live.staticflickr.com/65535/50565738661_4cf88ef566_o_d.png ",
+                "image": "https://live.staticflickr.com/65535/50729134146_ba475c1624_o_d.png ",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [
@@ -1309,7 +1309,7 @@
                 ],
                 "relationships": [],
                 "created_date": "2020-07-13T07:06:36.990-07:00",
-                "updated_date": "2020-12-16T08:08:05.194-08:00",
+                "updated_date": "2020-12-17T00:34:47.395-08:00",
                 "weight": 0,
                 "image_credit": "London Gypsies and Travellers Facebook Page"
             },
@@ -1566,7 +1566,7 @@
                 "start_date": "2017-06-30T16:00:00.000-07:00",
                 "end_date": "",
                 "description": "Mapping for Change is a social entreprise which offers a range of participatory mapping services to empower individuals, authorities and companies who are willing to understand, improve and produce information about the places that matter to them. They have their office in the Mildmay Community Centre. ",
-                "image": "https://live.staticflickr.com/65535/50726707776_17892e2454_o_d.png ",
+                "image": "https://live.staticflickr.com/65535/50729130446_24d8c73975_k_d.jpg ",
                 "category": "Local Organisations and Businesses",
                 "sub-category": "",
                 "tags": [
@@ -1588,7 +1588,7 @@
                     "ca/mapping_for_change_team_meeting_the_mayor#77"
                 ],
                 "created_date": "2020-07-06T07:49:07.377-07:00",
-                "updated_date": "2020-12-16T08:08:57.605-08:00",
+                "updated_date": "2020-12-17T00:33:14.908-08:00",
                 "weight": 0,
                 "image_credit": "Mapping for Change"
             },
@@ -1801,7 +1801,7 @@
         "id": "mildmay",
         "description": "Mildmay is a ward within the London borough of Islington, on the border of Hackney. The area is undergoing gradual change as more affluent people move into the area, altering the dynamics of the neighbourhood. Mildmay Community Partnership aims to maintain a sense of community and celebrate the diversity of the area, offering a number of services and activities for local people. However, as the area loses members of the older generations, it is also at risk of losing its history and identity. Therefore, this atlas brings together memories, activities and aspirations of the Mayville Estate and Mildmay community so that it can live on to benefit future generations. ",
         "image": "https://live.staticflickr.com/7455/9716609751_b8f643950e_b_d.jpg",
-        "published": "2020-12-16T17:14:56.999Z",
+        "published": "2020-12-17T08:36:12.106Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -1811,7 +1811,7 @@
                 "type": "homepage"
             }
         ],
-        "version": 104,
+        "version": 106,
         "taxonomy": [
             {
                 "category": "Services",

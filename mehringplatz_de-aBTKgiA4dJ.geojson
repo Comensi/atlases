@@ -26,12 +26,12 @@
                     }
                 ],
                 "relationships": [
-                    "ca/taz_neubau#10",
                     "ca/gewobag#54",
-                    "ca/axel_springer_verlag_neubau#66"
+                    "ca/axel_springer_verlag_neubau#66",
+                    "ca/taz_neubau#10"
                 ],
                 "created_date": "2020-11-13T09:10:07.432-08:00",
-                "updated_date": "2020-11-13T09:37:29.586-08:00",
+                "updated_date": "2020-12-08T07:16:14.498-08:00",
                 "weight": 0,
                 "image_credit": "Gewobag",
                 "icon_css_class": ""
@@ -1704,12 +1704,12 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Neues ZLB Projekt",
+                "title": "Neubau der ZLB am Blücherplatz",
                 "type": "Projekt",
                 "start_date": "2018-05-31T16:00:00.000-07:00",
                 "end_date": "2025-12-31T16:00:00.000-08:00",
-                "description": "Die Zentral- und Landesbibliothek (ZLB) ist gegenwärtig auf drei Standorte in der Stadt verteilt. Deshalb sind die räumlichen Bedingungen für Nutzer:innen und Arbeiter:innen aktuell nicht ideal. Im Juni 2018 hat sich der Berliner Senat nach einer intensiven Prüfung unterschiedlicher Standorte entschieden, die ZLB am Blücherplatz zu errichten. Die neue ZLB wird ergänzend zur bestehenden Amerika-Gedenkbibliothek (AGB) weitere Gebäudeteile benötigen und den Blücherplatz städtebaulich verändern. Die komplexe Verkehrssituation in der Umgebung inkl. der Blücherstraße werden dafür auch von dem interdisziplinären Planungsteam untersucht. \n\nBislang wurden unterschiedliche städtebauliche Lösungen erarbeitet. Dafür wurde in den letzten Monaten das Dialogverfahren \"Städtebauliche Machbarkeitsstudie ZLB am Blücherplatz\" durchgeführt. In einer Reihe von Beteiligungsformaten hat das Planungsteam mit Angestellten und Bürger:innen über Möglichkeiten diskutiert, wie der Neubau auf dem Blücherplatz gut integriert werden kann. Ziel ist es, die Meinungen von Bewohner:innen und Angestellten zu berücksichtigen, um den Erwartungen und Bedarfen mit dem künftigen Projekt nachkommen zu können. Wichtig sind z.B. die Besonderheiten 'Altbau der AGB' oder der Erhalt von Erholungsflächen und Wegverbindungen. \n\nDas konkrete Konzept mit den architektonischen Aspekten und der Entwicklung der Umgebung wird nach der Machbarkeitsstudie in einem Architekturwettbewerb ermittelt. Anschließend wird ein Projekt ausgewählt, sodass der Bau 2026 beginnen soll.\n\nQuelle: Offiziell Website (s.u.)",
-                "image": "https://www.zlb.de/fileadmin/_processed_/3/1/csm_IMG_2561_154d2d37f1.jpg",
+                "description": "Die Zentral- und Landesbibliothek Berlin (ZLB) ist gegenwärtig auf drei Standorte in der Stadt verteilt. Deshalb sind die räumlichen Bedingungen für Nutzer*innen und Mitarbeiter*innen aktuell nicht ideal. Im Juni 2018 hat sich der Berliner Senat nach einer intensiven Prüfung unterschiedlicher Standorte entschieden, die ZLB am Blücherplatz zu errichten. Die neue ZLB wird ergänzend zur bestehenden Amerika-Gedenkbibliothek (AGB) weitere Gebäudeteile benötigen und den Blücherplatz städtebaulich verändern. Dazu wird auch die komplexe Verkehrssituation in der Umgebung inkl. der Blücherstraße untersucht.                                                                                                                                          Im Herbst 2019 bis Frühjahr 2020 wurde ein Dialogverfahren „städtebauliche Machbarkeitsstudie ZLB am Blücherplatz“ durchgeführt. Hier diskutierten Stadtplaner*innen, Architekt*innen, Landschaftsplaner*innen, Verkehrsplaner*innen, Bibliothekar*innen und Bürger*innen miteinander darüber, wie der Neubau auf dem Gelände an der AGB gut eingepasst werden kann. Besondere Beachtung fand dabei der Umgang mit dem Baudenkmal der Amerika-Gedenkbibliothek, mit der Grünanlage am Blücherplatz und der komplexen Verkehrssituation sowie mit der Blücherstraße. Die gewonnenen Erkenntnisse bilden die Grundlage der weiteren Planung des Neubaus und der Freianlagen.\nMit abgeschlossener Prüfung des Bedarfsprogramms sind dann die Rahmenbedingungen, Anforderungen und auch ein erster Kostenrahmen für das Bauprojekt ZLB-Neubau festgelegt. Auf dieser Grundlage beginnen dann die Vorbereitungen für den Architekturwettbewerb. Anschließend wird ein Projekt ausgewählt, sodass der Bau 2026 beginnen soll.\nQuelle: https://www.zlb.de/neubau",
+                "image": "https://i.ibb.co/6v5WFZ6/Interaktive-Wand-2.jpg",
                 "category": "Veränderungen",
                 "sub-category": "Infrastruktur",
                 "tags": [
@@ -1730,9 +1730,9 @@
                     "ca/amerika_gedenkbibliothek#30"
                 ],
                 "created_date": "2020-03-21T12:14:08.963-07:00",
-                "updated_date": "2020-05-05T06:02:43.561-07:00",
+                "updated_date": "2020-12-18T07:09:07.215-08:00",
                 "weight": 0,
-                "image_credit": "https://www.zlb.de/fileadmin/_processed_/3/1/csm_IMG_2561_154d2d37f1.jpg",
+                "image_credit": "©ZLB ",
                 "icon_css_class": ""
             },
             "geometry": {
@@ -1818,7 +1818,7 @@
                     ]
                 ]
             },
-            "id": "ca/neues_zlb_projekt#60"
+            "id": "ca/neubau_der_zlb_am_bl_cherplatz#60"
         },
         {
             "type": "Feature",
@@ -3197,7 +3197,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2020-12-03T19:38:30.942Z",
+        "published": "2020-12-18T15:10:44.807Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -3207,7 +3207,7 @@
                 "type": "translation"
             }
         ],
-        "version": 129,
+        "version": 130,
         "taxonomy": [
             {
                 "category": "Initiativen",
@@ -3311,15 +3311,15 @@
     "relationships": [
         {
             "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
-            "to": "ca/taz_neubau#10"
-        },
-        {
-            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
             "to": "ca/gewobag#54"
         },
         {
             "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
             "to": "ca/axel_springer_verlag_neubau#66"
+        },
+        {
+            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
+            "to": "ca/taz_neubau#10"
         },
         {
             "from": "ca/theodor_wolff_park#93",
@@ -3486,7 +3486,7 @@
             "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
         },
         {
-            "from": "ca/neues_zlb_projekt#60",
+            "from": "ca/neubau_der_zlb_am_bl_cherplatz#60",
             "to": "ca/amerika_gedenkbibliothek#30"
         },
         {

@@ -4,6 +4,45 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Le Edicole votive del Capo",
+                "type": "Azione partecipativa",
+                "start_date": "",
+                "end_date": "",
+                "description": "Nella raccolta di #IdeePerIlCapo il tema della valorizzazione e salvaguardia delle edicole votive, o \"cappelluzze\" in palermitano, pone l'accento su quanti elementi del patrimonio culturale possono essere valorizzati insieme agli abitanti del quartiere ascoltando le loro voci, i loro racconti e le loro idee",
+                "image": "https://i.postimg.cc/MGcKsQvJ/Schermata-2021-01-11-alle-16-57-37.png",
+                "category": "Idee e Proposte",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/499197521",
+                        "title": "",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76"
+                ],
+                "created_date": "2020-10-15T08:25:23.446-07:00",
+                "updated_date": "2021-01-11T07:59:19.204-08:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3559,
+                    38.117
+                ]
+            },
+            "id": "ca/le_edicole_votive_del_capo#102"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "AGESCI PALERMO 15°",
                 "type": "Organizzazione",
                 "start_date": "",
@@ -1326,7 +1365,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto, video interviste e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2020-12-10T10:53:16.535Z",
+        "published": "2021-01-11T16:02:18.119Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1343,7 +1382,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 281,
+        "version": 282,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -1410,6 +1449,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "ca/le_edicole_votive_del_capo#102",
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
+        },
         {
             "from": "ca/_ideeperilcapo_evento_finale#98",
             "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"

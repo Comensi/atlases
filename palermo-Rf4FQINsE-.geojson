@@ -48,7 +48,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "Il Gruppo scout AGESCI PALERMO 15° nasce nel 1956 e da allora ha la propria sede in Via Mura San Vito n.12 al Capo. I locali utilizzati dal Gruppo sono parte di un vasto edificio conventuale dei Padri Agostiniani Scalzi e attigui alla chiesa di San Gregorio Magno. Il Gruppo dalla propria costituzione ha offerto la proposta educativa scout a migliaia di ragazzi dagli 8 ai 21 anni del quartiere Capo e dell’intera città. L’azione educativa è proposta dagli educatori/capi attraverso il metodo scout su 4 ambiti: “Formazione del carattere, salute e forza fisica, abilità manuale e servizio al prossimo”. I valori dell’accoglienza, dell’amicizia, del rispetto dell’ambiente, della pace, della legalità, del credo cattolico sono alla base di tutte le attività svolte. In coerenza con il motto del fondatore dello scoutismo Baden Powell di “lascia il mondo un po’ migliore di come lo hai trovato” il Gruppo organizza, anche in collaborazione con le altre realtà che agiscono nel quartiere, attività per la promozione e la riqualificazione del territorio. ",
-                "image": "https://i.postimg.cc/YSFpSm3r/IMG-20180610-154802.jpg",
+                "image": "https://i.postimg.cc/25Pqwhzm/Whats-App-Image-2021-02-10-at-13-28-01.jpg ",
                 "category": "Rete Capo",
                 "sub-category": "",
                 "tags": [],
@@ -56,7 +56,7 @@
                 "links": [],
                 "relationships": null,
                 "created_date": "2020-10-14T02:34:57.340-07:00",
-                "updated_date": "2020-10-15T08:31:22.154-07:00",
+                "updated_date": "2021-02-15T05:48:53.394-08:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -78,7 +78,7 @@
                 "start_date": "",
                 "end_date": "",
                 "description": "La Biblioteca comunale Il Piccolo Principe, è specializzata per una fascia di utenza dai 5/6 anni ai 16/18 anni. Nel quartiere lavora con scuole e abitanti per la fruizione gratuita di libri e del suo splendido giradino interno.",
-                "image": "https://i.postimg.cc/N0qF6BG3/Pieghevole-PDF-page-0001.jpg",
+                "image": "https://i.postimg.cc/3wgytWWv/Whats-App-Image-2021-02-10-at-13-27-32.jpg  ",
                 "category": "Rete Capo",
                 "sub-category": "",
                 "tags": [],
@@ -99,7 +99,7 @@
                 ],
                 "relationships": null,
                 "created_date": "2020-10-13T04:56:42.587-07:00",
-                "updated_date": "2020-10-30T02:01:45.035-07:00",
+                "updated_date": "2021-02-15T05:52:29.155-08:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -1365,7 +1365,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto, video interviste e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2021-01-11T16:02:18.119Z",
+        "published": "2021-02-15T13:54:17.653Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1382,7 +1382,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 282,
+        "version": 284,
         "taxonomy": [
             {
                 "category": "Rete Capo",

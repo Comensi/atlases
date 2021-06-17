@@ -4,6 +4,41 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Nie Wieder",
+                "type": "Interview",
+                "start_date": "2020-12-01T16:00:00.000-08:00",
+                "end_date": "2020-12-01T16:00:00.000-08:00",
+                "description": "Who remembers? - A Story to find the people who care. Realised by Wiebke Blum during the Collaborative Atlas Storylab",
+                "image": "https://trello-attachments.s3.amazonaws.com/5f659fb7ddd6a2793a4e77f9/5fb257d2e6a9eb3143525fd9/4545d0b99d0507b6c4fa057d32cb9895/image.png",
+                "category": "Narratives",
+                "sub-category": "Biographies",
+                "tags": [
+                    "oral history",
+                    "history",
+                    "memory",
+                    "culture",
+                    "media"
+                ],
+                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "http://narrability.oginoknauss.org/stories/schoeneberg/nie-wieder/",
+                        "title": "Nie wieder",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2021-06-17T05:52:26.224-07:00",
+                "updated_date": "2021-06-17T06:08:15.456-07:00",
+                "weight": 0,
+                "image_credit": "Photo Wiebke Blum"
+            },
+            "id": "schoeneberg/nie_wieder#82"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Dear Klaus",
                 "type": "Person",
                 "start_date": "",
@@ -71,6 +106,157 @@
         }
     ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Schöneberg love and commons",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "During the Urban reconnaissance lab of the Collaborative Atlases training program Ben Sassen and Lorenzo Tripodi had a walk in the neighbourhood while discussing how  to explore love in the city. The outcomes of this exploration have been published by Ben as a blog post on the Urban reconnaissance platform. ",
+                "image": "",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "art",
+                    "language ",
+                    "culture",
+                    "commons",
+                    "Social inclusion"
+                ],
+                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [],
+                "relationships": [],
+                "created_date": "2021-06-17T04:29:10.825-07:00",
+                "updated_date": "2021-06-17T04:33:50.437-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.351518,
+                            52.484035
+                        ],
+                        [
+                            13.357609,
+                            52.486753
+                        ],
+                        [
+                            13.362706,
+                            52.489052
+                        ],
+                        [
+                            13.358846,
+                            52.490986
+                        ],
+                        [
+                            13.344863,
+                            52.489209
+                        ],
+                        [
+                            13.344692,
+                            52.492815
+                        ],
+                        [
+                            13.34126,
+                            52.494383
+                        ],
+                        [
+                            13.336028,
+                            52.494592
+                        ],
+                        [
+                            13.3368,
+                            52.488268
+                        ],
+                        [
+                            13.3368,
+                            52.485603
+                        ],
+                        [
+                            13.338344,
+                            52.485707
+                        ],
+                        [
+                            13.344778,
+                            52.485498
+                        ],
+                        [
+                            13.345292,
+                            52.484714
+                        ],
+                        [
+                            13.347437,
+                            52.485446
+                        ],
+                        [
+                            13.347444,
+                            52.485354
+                        ],
+                        [
+                            13.349717,
+                            52.48278
+                        ],
+                        [
+                            13.351518,
+                            52.484035
+                        ]
+                    ]
+                ]
+            },
+            "id": "schoeneberg/sch_neberg_love_and_commons#81"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Pigeons of Schöneberg",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "How do pigeons inhabit the urban space? Taking as an example three particular spots in Schöneberg, this storytelling experiment carried during the story lab at Collaborative Atlases aims to show how these birds have made sense out of the human environment, which at the end of the day is their very own as well.",
+                "image": "https://trello-attachments.s3.amazonaws.com/5f659fb7ddd6a2793a4e77f9/5f844c8f3b23b93cdba05311/d6a0e89d4afeb011fb5d22c406ca7a39/Fotos2.jpg",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "nature"
+                ],
+                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "http://narrability.oginoknauss.org/stories/schoeneberg/pigeons-of-schoeneberg/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2021-06-17T03:31:07.128-07:00",
+                "updated_date": "2021-06-17T04:28:35.717-07:00",
+                "weight": 0,
+                "image_credit": "photo by Ina Schebler"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        13.357081,
+                        52.486613
+                    ],
+                    [
+                        13.344259,
+                        52.478356
+                    ],
+                    [
+                        13.351222,
+                        52.479028
+                    ]
+                ]
+            },
+            "id": "schoeneberg/pigeons_of_sch_neberg#80"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -236,7 +422,7 @@
         "id": "schoeneberg",
         "description": "This digital atlas was created as part of the Collaborative Atlas for Heritage and the Commons training program, funded by the Erasmus+ project OpenCCCP. It has the purpose of collecting exercises and materials produced during the laboratories and to support the dissemination of open educational practices.",
         "image": "http://www.tesserae.eu/wp-content/uploads/2020/06/Collaborative-Atlases-for-Heritage-and-the-Commons-cover.png",
-        "published": "2021-06-17T10:52:51.768Z",
+        "published": "2021-06-17T13:21:22.817Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -253,7 +439,7 @@
                 "type": "email"
             }
         ],
-        "version": 32,
+        "version": 34,
         "taxonomy": [
             {
                 "category": "Places",

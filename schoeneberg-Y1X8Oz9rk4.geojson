@@ -1,5 +1,75 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Dear Klaus",
+                "type": "Person",
+                "start_date": "",
+                "end_date": "",
+                "description": "A short interactive storytelling on the death of Klaus Jürgen Rattay created by Emma Zerial during the Storylab of the  Collaborative Atlases training. ",
+                "image": "https://trello-attachments.s3.amazonaws.com/5f659fb7ddd6a2793a4e77f9/5fb692b022d36e81f90f3fca/eacd0def8d1c7deb2865d894389cbc0c/klaus.jpg",
+                "category": "Narratives",
+                "sub-category": "Biographies",
+                "tags": [
+                    "Events",
+                    "history",
+                    "protest"
+                ],
+                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "http://narrability.oginoknauss.org/stories/2/",
+                        "title": "Dear Klaus",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "schoeneberg/klaus_j_rgen_rattay#78"
+                ],
+                "created_date": "2021-06-17T03:30:56.136-07:00",
+                "updated_date": "2021-06-17T03:46:58.986-07:00",
+                "weight": 0,
+                "image_credit": "Lothar Schmid worldwidephotos.de"
+            },
+            "id": "schoeneberg/dear_klaus#79"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Klaus-Jürgen Rattay",
+                "type": "Person",
+                "start_date": "1981-09-21T16:00:00.000-07:00",
+                "end_date": "1981-09-21T16:00:00.000-07:00",
+                "description": "22.09.1981\nWhile the Interior Senator Lummer is holding a provocative press conference in the nearby, just vacated Bülowstrasse 55, the police are driving the 18-year-old protester Klaus-Jürgen Rattay under a BVG bus.\nAfter the death of Klaus-Jürgen Rattay, there is a funeral march in the evening and serious nocturnal arguments.  A memorial plaque was placed at the place of death. In autumn 2017, during cable work, the concrete, which was already broken, was taken out and not put back in after the end of the construction work.",
+                "image": "https://trello-attachments.s3.amazonaws.com/5f659fb7ddd6a2793a4e77f9/5fb692b022d36e81f90f3fca/a6f35af2af0e9e68d73b0b7cfc985732/800px-Gedenktafel_Potsdamer_Str_127_(Schön)_Klaus_Jürgen_Rattay.jpg",
+                "category": "Memories",
+                "sub-category": "Plaques",
+                "tags": [
+                    "Events",
+                    "history",
+                    "protest"
+                ],
+                "category-description": "Artifacts, places and signs embodying memories ",
+                "links": [
+                    {
+                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/gedenktafel-anzeige/tid/klaus-juergen-rattay/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2021-06-17T03:12:02.489-07:00",
+                "updated_date": "2021-06-17T03:28:36.380-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "schoeneberg/klaus_j_rgen_rattay#78"
+        }
+    ],
     "features": [
         {
             "type": "Feature",
@@ -166,7 +236,7 @@
         "id": "schoeneberg",
         "description": "This digital atlas was created as part of the Collaborative Atlas for Heritage and the Commons training program, funded by the Erasmus+ project OpenCCCP. It has the purpose of collecting exercises and materials produced during the laboratories and to support the dissemination of open educational practices.",
         "image": "http://www.tesserae.eu/wp-content/uploads/2020/06/Collaborative-Atlases-for-Heritage-and-the-Commons-cover.png",
-        "published": "2021-06-17T10:11:44.405Z",
+        "published": "2021-06-17T10:47:33.635Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -183,7 +253,7 @@
                 "type": "email"
             }
         ],
-        "version": 30,
+        "version": 31,
         "taxonomy": [
             {
                 "category": "Places",
@@ -257,5 +327,10 @@
             }
         ]
     },
-    "relationships": []
+    "relationships": [
+        {
+            "from": "schoeneberg/dear_klaus#79",
+            "to": "schoeneberg/klaus_j_rgen_rattay#78"
+        }
+    ]
 }

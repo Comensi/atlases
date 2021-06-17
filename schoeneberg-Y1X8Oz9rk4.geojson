@@ -4,31 +4,67 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Tuntenhaus",
-                "type": "Building",
-                "start_date": "2021-06-16T16:00:00.000-07:00",
-                "end_date": "2021-07-09T16:00:00.000-07:00",
-                "description": "The first Tuntenhaus in Berlin was founded on February 12, 1981 by occupying Bülowstrasse 55. It was mainly, but not exclusively, inhabited by homosexual men in shared flats after it had been renovated and expanded on their own. After the electoral victory of the CDU and the evacuation of some occupied houses, during which Senator Heinrich Lummer personally inspected occupied houses and the squatter Klaus-Jürgen Rattay died, it was clear that only a few of the 165 occupied houses would be legalized. In December 1983 the house was cleared and shortly afterwards partially demolished.",
-                "image": "",
-                "category": "Memories",
-                "sub-category": "Architectures",
-                "tags": [
-                    "collective",
-                    "housing",
-                    "history",
-                    "protest",
-                    "squat",
-                    "architecture"
+                "title": "Pigeons of Schöneberg",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "https://vimeo.com/481677690",
+                "image": "https://trello-attachments.s3.amazonaws.com/5f659fb7ddd6a2793a4e77f9/5f844c8f3b23b93cdba05311/d6a0e89d4afeb011fb5d22c406ca7a39/Fotos2.jpg",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": [],
+                "category-description": "To collect personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/481677690",
+                        "title": "Pigeons of Schöneberg",
+                        "description": "",
+                        "type": "video"
+                    }
                 ],
-                "category-description": "Artifacts, places and signs embodying memories ",
-                "links": [],
-                "relationships": [],
-                "created_date": "2021-06-17T06:48:17.144-07:00",
-                "updated_date": "2021-06-17T06:53:26.488-07:00",
+                "relationships": [
+                    "schoeneberg/pigeons_of_sch_neberg#80"
+                ],
+                "created_date": "2021-06-17T07:17:29.314-07:00",
+                "updated_date": "2021-06-17T07:26:25.852-07:00",
                 "weight": 0,
                 "image_credit": ""
             },
-            "id": "schoeneberg/tuntenhaus#83"
+            "id": "schoeneberg/pigeons_of_sch_neberg#85"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "BEGINE - Women's Culture Project",
+                "type": "Organization",
+                "start_date": "",
+                "end_date": "",
+                "description": "It's a historic location. Die Begine is found at Potsdamer Straße 139 and is the last major autonomous women's project that was able to develop without being threatened by the rent increases in the past 25 years. This autonomous Berlin women’s cultural centre serves as an alternative venue for lesbian and feminist women. \n\nThis cultural centre is a space exclusively for women. Begine was established in 1986 in a squatted building that the women living there had refurbished, to provide a place for meeting others and for self-help. Ever since then, it has been both a meeting point and a cultural centre.",
+                "image": "https://trello-attachments.s3.amazonaws.com/5f659fb7ddd6a2793a4e77f9/5fb68ef121522114af6d03d9/fb6e849a12d7f92725b5ddfc5bfb4d66/Begine.jpg",
+                "category": "Places",
+                "sub-category": "Venue",
+                "tags": [
+                    "culture",
+                    "feminism",
+                    "Social inclusion",
+                    "collective"
+                ],
+                "category-description": "Venues, building, public spaces, locations that convey memories, feelings or emotions in the neighbourhood",
+                "links": [
+                    {
+                        "url": "https://www.begine.de",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2021-06-17T07:08:16.724-07:00",
+                "updated_date": "2021-06-17T07:10:31.748-07:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "schoeneberg/begine_women_s_culture_project#84"
         },
         {
             "type": "Feature",
@@ -473,7 +509,7 @@
         "id": "schoeneberg",
         "description": "This digital atlas was created as part of the Collaborative Atlas for Heritage and the Commons training program, funded by the Erasmus+ project OpenCCCP. It has the purpose of collecting exercises and materials produced during the laboratories and to support the dissemination of open educational practices.",
         "image": "http://www.tesserae.eu/wp-content/uploads/2020/06/Collaborative-Atlases-for-Heritage-and-the-Commons-cover.png",
-        "published": "2021-06-17T14:06:14.250Z",
+        "published": "2021-06-17T14:29:48.234Z",
         "links": [
             {
                 "title": "The Comensi project",
@@ -490,7 +526,7 @@
                 "type": "email"
             }
         ],
-        "version": 38,
+        "version": 40,
         "taxonomy": [
             {
                 "category": "Places",
@@ -565,6 +601,10 @@
         ]
     },
     "relationships": [
+        {
+            "from": "schoeneberg/pigeons_of_sch_neberg#85",
+            "to": "schoeneberg/pigeons_of_sch_neberg#80"
+        },
         {
             "from": "schoeneberg/dear_klaus#79",
             "to": "schoeneberg/klaus_j_rgen_rattay#78"

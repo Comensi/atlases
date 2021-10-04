@@ -4,36 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Centro de Inovação da Mouraria",
-                "type": "Place",
-                "start_date": "2017-03-31T16:00:00.000-07:00",
-                "end_date": "",
-                "description": "",
-                "image": "https://madeoflisboa.com/imgcache/avatar_teaser/centro-de-inovacao-da-mouraria-7j9FQh76xKTtjjDz.jpg",
-                "category": "Places",
-                "sub-category": "Venue",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2021-05-21T02:48:39.019-07:00",
-                "updated_date": "2021-10-04T12:33:32.997-07:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": "fas fa-archway"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -9.1327258,
-                    38.716413
-                ]
-            },
-            "id": "/centro_de_inova_o_da_mouraria#74"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Circular Economy Portugal",
                 "type": "Organization",
                 "start_date": "",
@@ -67,6 +37,73 @@
                 ]
             },
             "id": "/circular_economy_portugal#75"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Fablab Lisboa",
+                "type": "Organization",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "http://fablablisboa.pt/wp-content/uploads/2013/07/fablab_logo_gif.gif",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "http://fablablisboa.pt/",
+                        "title": "Website",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2021-10-04T12:48:32.335-07:00",
+                "updated_date": "2021-10-04T12:49:41.317-07:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": "fas fa-building"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.132,
+                    38.721
+                ]
+            },
+            "id": "/fablab_lisboa#76"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Centro de Inovação da Mouraria",
+                "type": "Place",
+                "start_date": "2017-03-31T16:00:00.000-07:00",
+                "end_date": "",
+                "description": "",
+                "image": "https://madeoflisboa.com/imgcache/avatar_teaser/centro-de-inovacao-da-mouraria-7j9FQh76xKTtjjDz.jpg",
+                "category": "Places",
+                "sub-category": "Venue",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2021-05-21T02:48:39.019-07:00",
+                "updated_date": "2021-10-04T12:33:32.997-07:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": "fas fa-archway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1327258,
+                    38.716413
+                ]
+            },
+            "id": "/centro_de_inova_o_da_mouraria#74"
         }
     ],
     "properties": {
@@ -75,7 +112,7 @@
         "id": "zwlpt",
         "description": "The ZeroWasteLab.pt atlas",
         "image": "data:image/png;base64,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",
-        "published": "2021-10-04T19:46:27.631Z",
+        "published": "2021-10-04T19:52:49.832Z",
         "links": [
             {
                 "title": "Contact ",
@@ -85,7 +122,7 @@
                 "type": "email"
             }
         ],
-        "version": 33,
+        "version": 34,
         "taxonomy": [
             {
                 "category": "Imaginations",

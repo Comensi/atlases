@@ -1,7 +1,10 @@
 {
-    "type": "FeatureCollection",
   "features": [
     {
+      "geometry": {
+        "coordinates": [ -9.133470396, 38.71762262 ],
+        "type": "Point"
+      },
       "id": "/cozinha_popular_da_mouraria#648",
       "properties": {
         "category":
@@ -10,10 +13,6 @@
         "created_date": "2021-10-26T07:29:11.798-07:00",
         "description": "R. das Olarias 5, 1100-012\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.133470396, 38.71762262 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -30,6 +29,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.136209620000001, 38.71362882 ],
+        "type": "Point"
+      },
       "id": "/renovar_a_mouraria#646",
       "properties": {
         "category":
@@ -38,10 +41,6 @@
         "created_date": "2021-10-26T07:29:09.563-07:00",
         "description": " Beco do Rosendo, 8-10 1100-555 Lisboa\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.136209620000001, 38.71362882 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -71,6 +70,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.13620987, 38.71363046 ],
+        "type": "Point"
+      },
       "id": "/rizoma_mercearia#645",
       "properties": {
         "category":
@@ -79,10 +82,6 @@
         "created_date": "2021-10-26T07:29:08.658-07:00",
         "description": "Beco do Rosendo 8, 1100-555\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.13620987, 38.71363046 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -112,6 +111,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.128451434, 38.7119101 ],
+        "type": "Point"
+      },
       "id": "/gaia_grupo_de_ac_o_e_interven_o_ambiental_lisboa_#644",
       "properties": {
         "category":
@@ -120,10 +123,6 @@
         "created_date": "2021-10-26T07:29:07.205-07:00",
         "description": "R. da Regueira 40, 1100-437 \n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.128451434, 38.7119101 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -153,6 +152,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.13572243, 38.71277188 ],
+        "type": "Point"
+      },
       "id": "/contentores_c_ritas#642",
       "properties": {
         "category": "Recolha de resíduos",
@@ -160,10 +163,6 @@
         "created_date": "2021-10-26T07:29:05.076-07:00",
         "description": "Largo São Cristóvão, 1100-179\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.13572243, 38.71277188 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -180,6 +179,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.130431128, 38.71196315 ],
+        "type": "Point"
+      },
       "id": "/contentores_c_ritas#640",
       "properties": {
         "category": "Recolha de resíduos",
@@ -187,10 +190,6 @@
         "created_date": "2021-10-26T07:29:03.090-07:00",
         "description": "Rua de Santiago (Igreja)\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.130431128, 38.71196315 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -207,6 +206,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.139089468, 38.71492513 ],
+        "type": "Point"
+      },
       "id": "/contentores_c_ritas#641",
       "properties": {
         "category": "Recolha de resíduos",
@@ -214,10 +217,6 @@
         "created_date": "2021-10-26T07:29:04.105-07:00",
         "description": "Largo de São Domingos\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.139089468, 38.71492513 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -234,6 +233,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.140370917, 38.71137138 ],
+        "type": "Point"
+      },
       "id": "/contentores_c_ritas#639",
       "properties": {
         "category": "Recolha de resíduos",
@@ -241,10 +244,6 @@
         "created_date": "2021-10-26T07:29:02.404-07:00",
         "description": "Calçada do Sacramento, 11, 1200-092\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.140370917, 38.71137138 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -261,6 +260,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.126160507, 38.71502128 ],
+        "type": "Point"
+      },
       "id": "/municipal#636",
       "properties": {
         "category": "Recolha de resíduos",
@@ -269,10 +272,6 @@
         "description":
           "Posto de Higiene Urbana Campo de Santa Clara (em frente ao nº 108 A)\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.126160507, 38.71502128 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -304,6 +303,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.125695540000001, 38.71615884 ],
+        "type": "Point"
+      },
       "id": "/peda_os_do_tempo_#619",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -311,10 +314,6 @@
         "created_date": "2021-10-26T07:28:44.439-07:00",
         "description": "Rua da Verónica, 11A, 1170 - 384\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.125695540000001, 38.71615884 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -344,6 +343,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.13620987, 38.71363046 ],
+        "type": "Point"
+      },
       "id": "/circular_wear_swap_spot_cooperativa_rizoma_#618",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -351,10 +354,6 @@
         "created_date": "2021-10-26T07:28:43.431-07:00",
         "description": "Beco do Rosendo 8, 1100-555\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.13620987, 38.71363046 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -371,6 +370,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.132727322999999, 38.71642379 ],
+        "type": "Point"
+      },
       "id": "/circular_wear_swap_spot_cim_mouraria_#617",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -378,10 +381,6 @@
         "created_date": "2021-10-26T07:28:42.707-07:00",
         "description": "Rua dos Lagares 23, 1100-022\n\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.132727322999999, 38.71642379 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -398,6 +397,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.136562297999999, 38.71199335 ],
+        "type": "Point"
+      },
       "id": "/humana_vintage#615",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -406,10 +409,6 @@
         "description":
           "Rua dos Fanqueiros, 197, 1100-229\n   Horário de segunda a sexta: 09:30 – 19:30 . Horário sábado: 09:30 – 19:30 . Horário domingo: 11:00 – 18:30",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.136562297999999, 38.71199335 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -439,6 +438,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.13547149, 38.71297203 ],
+        "type": "Point"
+      },
       "id": "/tropical_bairro#614",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -447,10 +450,6 @@
         "description":
           "Rua de São Cristóvão, 3, 1100-514\n   2ª-Sáb. 11h -14h&15h-19h",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.13547149, 38.71297203 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -480,6 +479,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.137050668000001, 38.71236644 ],
+        "type": "Point"
+      },
       "id": "/_flamingos_vintage_kilo_roupa_granel_#612",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -487,10 +490,6 @@
         "created_date": "2021-10-26T07:28:36.925-07:00",
         "description": "RUA DOS DOURADORES 168, 1100 - 207\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.137050668000001, 38.71236644 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -520,6 +519,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.137010086, 38.71207742 ],
+        "type": "Point"
+      },
       "id": "/a_outra_face_da_lua#613",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -527,10 +530,6 @@
         "created_date": "2021-10-26T07:28:38.253-07:00",
         "description": "Rua da Assunção, 22, 1100-044\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.137010086, 38.71207742 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -560,6 +559,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.141007381, 38.71308895 ],
+        "type": "Point"
+      },
       "id": "/zip_gum_boogie_acess_rios_#611",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -567,10 +570,6 @@
         "created_date": "2021-10-26T07:28:35.773-07:00",
         "description": "Calçada do Carmo 26, 1200-091 \n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.141007381, 38.71308895 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -587,6 +586,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.140997436999999, 38.71287842 ],
+        "type": "Point"
+      },
       "id": "/_s_de_espadas#609",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -595,10 +598,6 @@
         "description":
           "Calçada do Carmo 42, 1200-091\n   2ª-Dom. 11h30 -20h",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.140997436999999, 38.71287842 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -628,6 +627,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ 9.140862165, 38.7131711 ],
+        "type": "Point"
+      },
       "id": "/new_jester_vintage_for_men_#610",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -635,10 +638,6 @@
         "created_date": "2021-10-26T07:28:34.993-07:00",
         "description": "Calçada do Carmo 59, 1200-092 \n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ 9.140862165, 38.7131711 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -655,6 +654,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.140412269, 38.71161628 ],
+        "type": "Point"
+      },
       "id": "/pop_closet_vintage_e_moderna_#608",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -663,10 +666,6 @@
         "description":
           "Calçada do Sacramento, 48, 1200-394 \n   2ª-Sáb. 12h -20h",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.140412269, 38.71161628 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -696,6 +695,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.138214113, 38.71418883 ],
+        "type": "Point"
+      },
       "id": "/hospital_de_bonecas#605",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -704,10 +707,6 @@
         "description":
           "Praça da Figueira 7, 1100-240\n   2ª-Sáb. 10h -19h",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.138214113, 38.71418883 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -737,6 +736,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.135942511, 38.70954744 ],
+        "type": "Point"
+      },
       "id": "/rpn_rel_gio_praticamente_novo#606",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -744,10 +747,6 @@
         "created_date": "2021-10-26T07:28:30.104-07:00",
         "description": "R. de São Julião, 66, 1100-413\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.135942511, 38.70954744 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -777,6 +776,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.135442735, 38.71053076 ],
+        "type": "Point"
+      },
       "id": "/ferragens_g_lemos#587",
       "properties": {
         "category": "Lojas a Granel",
@@ -785,10 +788,6 @@
         "description":
           "Rua da Madalena 101/107, 1100-319\n   2ª A 6ª 11:00 — 19:00\nSÁBADO 09:00 — 13:00",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.135442735, 38.71053076 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -818,6 +817,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.139787221000001, 38.71560549 ],
+        "type": "Point"
+      },
       "id": "/ferragens_guedes#586",
       "properties": {
         "category": "Lojas a Granel",
@@ -826,10 +829,6 @@
         "description":
           "Rua Portas Santo Antão 32,\n1150-268\n   2ª A 6ª 09:30 – 13:00 / 14:30 – 19:00",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.139787221000001, 38.71560549 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -859,6 +858,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.136398448, 38.71395766 ],
+        "type": "Point"
+      },
       "id": "/silpes#584",
       "properties": {
         "category": "Lojas a Granel",
@@ -866,10 +869,6 @@
         "created_date": "2021-10-26T07:28:09.533-07:00",
         "description": "Poço do Borratém 30, 1100-408\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.136398448, 38.71395766 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -886,6 +885,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.134571069, 38.71734836 ],
+        "type": "Point"
+      },
       "id": "/domingos_nogueira#585",
       "properties": {
         "category": "Lojas a Granel",
@@ -894,10 +897,6 @@
         "description":
           "Rua Terreirinho 78 1100-599\n   Seg-Sex 09:00-12:30 | 14:00-18:30",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.134571069, 38.71734836 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -927,6 +926,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.136405392, 38.71388422 ],
+        "type": "Point"
+      },
       "id": "/casa_forra#583",
       "properties": {
         "category": "Lojas a Granel",
@@ -934,10 +937,6 @@
         "created_date": "2021-10-26T07:28:08.295-07:00",
         "description": "Poço do Borratém 32\n1100-240 Lisboa\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.136405392, 38.71388422 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -967,6 +966,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.137170686999999, 38.71183068 ],
+        "type": "Point"
+      },
       "id": "/drogaria_central#580",
       "properties": {
         "category": "Lojas a Granel",
@@ -975,10 +978,6 @@
         "description":
           "Rua da Prata 192, 1100-421 \n   2ª A 6ª 09:00 — 19:00\nSÁBADO 09:30 — 14:00 / 15:00 — 18:30",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.137170686999999, 38.71183068 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -995,6 +994,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.135290918000001, 38.71900392 ],
+        "type": "Point"
+      },
       "id": "/casa_do_campo_de_fernandes_jacinto_ld_#581",
       "properties": {
         "category": "Lojas a Granel",
@@ -1003,10 +1006,6 @@
         "description":
           "Rua da Palma 268, porta 2, Pátio das Palmeiras, 1100-089\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.135290918000001, 38.71900392 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1023,6 +1022,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.136446765000001, 38.71222638 ],
+        "type": "Point"
+      },
       "id": "/drogaria_oriental#579",
       "properties": {
         "category": "Lojas a Granel",
@@ -1031,10 +1034,6 @@
         "description":
           "Rua dos Fanqueiros, 238, 1100-232\n   Seg-Sex 09.00-19.00, Sáb 09.00-13.0",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.136446765000001, 38.71222638 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1051,6 +1050,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.138608404999999, 38.71430427 ],
+        "type": "Point"
+      },
       "id": "/drogaria_s_o_domingos#578",
       "properties": {
         "category": "Lojas a Granel",
@@ -1059,10 +1062,6 @@
         "description":
           "Rua Dom Antão de Almada, 4 A, 1100-372\n   Seg-Sex 09.00-19.00, Sáb 09.00-13.00/14.00-18.00",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.138608404999999, 38.71430427 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1092,6 +1091,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.133345558, 38.71618915 ],
+        "type": "Point"
+      },
       "id": "/bomercado_biol_gico_#576",
       "properties": {
         "category": "Lojas a Granel",
@@ -1099,10 +1102,6 @@
         "created_date": "2021-10-26T07:28:01.137-07:00",
         "description": "Rua dos Cavaleiros, 10, Lisboa\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.133345558, 38.71618915 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1119,6 +1118,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.136242568, 38.71171931 ],
+        "type": "Point"
+      },
       "id": "/charcutaria_garrafeira_dom_pedro#575",
       "properties": {
         "category": "Lojas a Granel",
@@ -1126,10 +1129,6 @@
         "created_date": "2021-10-26T07:28:00.233-07:00",
         "description": "Rua dos fanqueiros, 200\n1100-232\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.136242568, 38.71171931 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1159,6 +1158,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.134757616, 38.71075831 ],
+        "type": "Point"
+      },
       "id": "/prado_mercearia_produtos_locais_a_granel_#573",
       "properties": {
         "category": "Lojas a Granel",
@@ -1166,10 +1169,6 @@
         "created_date": "2021-10-26T07:27:58.434-07:00",
         "description": "Rua das Pedras Negras, 35\n1100-404\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.134757616, 38.71075831 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1199,6 +1198,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.136210769, 38.71363033 ],
+        "type": "Point"
+      },
       "id": "/cooperativa_rizoma_distribuidor_ecox_#574",
       "properties": {
         "category": "Lojas a Granel",
@@ -1206,10 +1209,6 @@
         "created_date": "2021-10-26T07:27:59.507-07:00",
         "description": "Beco do Rosendo 8, 1100-555\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.136210769, 38.71363033 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1239,6 +1238,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.136240000000001, 38.71312 ],
+        "type": "Point"
+      },
       "id": "/ervan_ria_o_rosil_1950_#571",
       "properties": {
         "category": "Lojas a Granel",
@@ -1247,10 +1250,6 @@
         "description":
           "R. da Madalena 210, 1100-213\n   Segunda a Sexta: 9h - 19h\nSábado: 9h - 13h",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.136240000000001, 38.71312 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1280,6 +1279,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.138444228999999, 38.71408889 ],
+        "type": "Point"
+      },
       "id": "/manteigaria_silva_charcutaria_#572",
       "properties": {
         "category": "Lojas a Granel",
@@ -1288,10 +1291,6 @@
         "description":
           "Rua D. Antão de Almada 1 C e D, 1100-197 Lisboa\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.138444228999999, 38.71408889 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1321,6 +1320,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.137387484, 38.71016777 ],
+        "type": "Point"
+      },
       "id": "/casa_pereira_da_concei_o#568",
       "properties": {
         "category": "Lojas a Granel",
@@ -1328,10 +1331,6 @@
         "created_date": "2021-10-26T07:27:53.745-07:00",
         "description": "Rua Augusta 102, 1100-548\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.137387484, 38.71016777 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1363,6 +1362,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.138632749999999, 38.71356143 ],
+        "type": "Point"
+      },
       "id": "/p_rola_do_rossio#569",
       "properties": {
         "category": "Lojas a Granel",
@@ -1371,10 +1374,6 @@
         "description":
           "Praça Dom Pedro IV, 105, 1100-202\n   2ª A SÁBADO 09:30 – 13:00 / 15:00 – 19:00",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.138632749999999, 38.71356143 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1404,6 +1403,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.140478296, 38.71093757 ],
+        "type": "Point"
+      },
       "id": "/casa_pereira#567",
       "properties": {
         "category": "Lojas a Granel",
@@ -1411,10 +1414,6 @@
         "created_date": "2021-10-26T07:27:52.811-07:00",
         "description": "Rua Garrett 38, 1200-022\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.140478296, 38.71093757 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1444,6 +1443,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.138339058, 38.71267926 ],
+        "type": "Point"
+      },
       "id": "/casa_mac_rio_1913_#565",
       "properties": {
         "category": "Lojas a Granel",
@@ -1451,10 +1454,6 @@
         "created_date": "2021-10-26T07:27:50.953-07:00",
         "description": "Rua Augusta, 272, 1100-422\n   2ª a 6ª 10-18h",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.138339058, 38.71267926 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1484,6 +1483,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.12995572, 38.71776615 ],
+        "type": "Point"
+      },
       "id": "/feira_de_artesanato_urbana_da_gra_a#563",
       "properties": {
         "category": "Feiras & Mercados",
@@ -1492,10 +1495,6 @@
         "description":
           "Largo da Graça, 1170-165\n   Último fim de semana de cada mês",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.12995572, 38.71776615 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1512,6 +1511,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.143043113999999, 38.71106181 ],
+        "type": "Point"
+      },
       "id": "/a_carioca#564",
       "properties": {
         "category": "Lojas a Granel",
@@ -1520,10 +1523,6 @@
         "description":
           "Rua da Misericórdia, 9, 1200-270\n   2ª a 6ª das 09h-19h, Sáb 09h-13h",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.143043113999999, 38.71106181 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1553,6 +1552,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.124923374, 38.71570446 ],
+        "type": "Point"
+      },
       "id": "/feira_da_ladra#562",
       "properties": {
         "category": "Feiras & Mercados",
@@ -1561,10 +1564,6 @@
         "description":
           "Campo de Santa Clara, 1100-472\n   Sábados e Terças",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.124923374, 38.71570446 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1581,6 +1580,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.124301431999999, 38.71583317 ],
+        "type": "Point"
+      },
       "id": "/mercado_agrobio_#559",
       "properties": {
         "category": "Feiras & Mercados",
@@ -1589,10 +1592,6 @@
         "description":
           "Jardim Botto Machado, Campo de Santa Clara 26, 1100-475\n   Sábados 08:00 às 14:00",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.124301431999999, 38.71583317 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1622,6 +1621,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.125455393999999, 38.71562072 ],
+        "type": "Point"
+      },
       "id": "/mercado_de_santa_clara#560",
       "properties": {
         "category": "Feiras & Mercados",
@@ -1630,10 +1633,6 @@
         "description":
           "Campo de Santa Clara, 1100-472\n   2ªf a Sáb: 09-19h",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.125455393999999, 38.71562072 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1665,6 +1664,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.13620987, 38.71363046 ],
+        "type": "Point"
+      },
       "id": "/mouraria_composta_associa_o_renovar_a_mouraria#558",
       "properties": {
         "category": "Compostores",
@@ -1672,10 +1675,6 @@
         "created_date": "2021-10-26T07:27:42.254-07:00",
         "description": "Beco do Rosendo 8, 1100-555\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.13620987, 38.71363046 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1692,6 +1691,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.128451539, 38.71191147 ],
+        "type": "Point"
+      },
       "id": "/recicleta_do_gaia_ex_cicloficina_de_alfama_#556",
       "properties": {
         "category": "Mobilidade Suave",
@@ -1699,10 +1702,6 @@
         "created_date": "2021-10-26T07:27:38.723-07:00",
         "description": "Rua da Regueira, nº 40, 1100-437\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.128451539, 38.71191147 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1732,6 +1731,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.140310886, 38.70893761 ],
+        "type": "Point"
+      },
       "id": "/cicloficina_de_belas_artes#557",
       "properties": {
         "category": "Mobilidade Suave",
@@ -1739,10 +1742,6 @@
         "created_date": "2021-10-26T07:27:40.171-07:00",
         "description": "Largo da Academia Nacional de Belas Artes\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.140310886, 38.70893761 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1759,6 +1758,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.121741839, 38.71573058 ],
+        "type": "Point"
+      },
       "id": "/bina_cl_nica_loja_1_2_m_o_e_oficina_e_restauro_#555",
       "properties": {
         "category": "Mobilidade Suave",
@@ -1766,10 +1769,6 @@
         "created_date": "2021-10-26T07:27:37.225-07:00",
         "description": "Rua da Bica do Sapato, 50B, 1100-049 \n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.121741839, 38.71573058 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1786,6 +1785,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.136343941, 38.71398611 ],
+        "type": "Point"
+      },
       "id": "/gabinete_empreendorismo_social_coworking#553",
       "properties": {
         "category": "Junta de Freguesia",
@@ -1794,10 +1797,6 @@
         "description":
           "Poço do Borratém 25 - 2º, 1100-059\n   Dias úteis - 9h30 -13h / 14h -17h30",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.136343941, 38.71398611 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1829,6 +1828,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.139018576, 38.70888677 ],
+        "type": "Point"
+      },
       "id": "/biclas_chiado_loja_1_2_m_o_aluguer_e_oficina#554",
       "properties": {
         "category": "Mobilidade Suave",
@@ -1836,10 +1839,6 @@
         "created_date": "2021-10-26T07:27:36.259-07:00",
         "description": "Largo de São Julião, 20/21 1200-417\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.139018576, 38.70888677 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1869,6 +1868,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.133412485999999, 38.71016381 ],
+        "type": "Point"
+      },
       "id": "/ambijovem_apoio_escolar_e_atividades_extracurriculares_#550",
       "properties": {
         "category": "Junta de Freguesia",
@@ -1877,10 +1880,6 @@
         "description":
           "Rua Augusto Rosa, 72\n   Dias úteis - 9h30 -13h / 14h -17h30",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.133412485999999, 38.71016381 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1897,6 +1896,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.133412485999999, 38.71016381 ],
+        "type": "Point"
+      },
       "id": "/servi_o_de_explica_es#551",
       "properties": {
         "category": "Junta de Freguesia",
@@ -1905,10 +1908,6 @@
         "description":
           "Rua Augusto Rosa, 72\n   Dias úteis - 9h30 -13h / 14h -17h30",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.133412485999999, 38.71016381 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1925,6 +1924,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.136550017999999, 38.70974538 ],
+        "type": "Point"
+      },
       "id": "/universidade_s_nior_saber_maior_#549",
       "properties": {
         "category": "Junta de Freguesia",
@@ -1932,10 +1935,6 @@
         "created_date": "2021-10-26T07:27:33.074-07:00",
         "description": "Rua da Prata, 59, 1º andar, 1100-413\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.136550017999999, 38.70974538 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1965,6 +1964,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.133412485999999, 38.71016381 ],
+        "type": "Point"
+      },
       "id":
         "/repara_es_dom_sticas_a_junta_resolve_eletricidade_serralharia_canaliza_o_pinturas_e_pequenas_obras_nas_habita_es_de_residentes#548",
       "properties": {
@@ -1974,10 +1977,6 @@
         "description":
           "Rua Augusto Rosa, 72\n   Dias úteis - 9h30 -13h / 14h -17h30",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.133412485999999, 38.71016381 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -1995,6 +1994,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.127221585999999, 38.71279322 ],
+        "type": "Point"
+      },
       "id": "/cabeleireiro_social#546",
       "properties": {
         "category": "Junta de Freguesia",
@@ -2003,10 +2006,6 @@
         "description":
           "Rua do Vigário, 60, 1100-405\n   2ªa6ª 09h30-13h / 14h-17h30",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.127221585999999, 38.71279322 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2036,6 +2035,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.133412485999999, 38.71016381 ],
+        "type": "Point"
+      },
       "id": "/loja_social_t_xtil_vestu_rio_peq_electrodom_sticos_#547",
       "properties": {
         "category": "Junta de Freguesia",
@@ -2043,10 +2046,6 @@
         "created_date": "2021-10-26T07:27:31.952-07:00",
         "description": "Rua Augusto Rosa, 72\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.133412485999999, 38.71016381 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2063,6 +2062,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.132698178, 38.71311422 ],
+        "type": "Point"
+      },
       "id": "/posto_de_limpeza_de_castelo_alfama#540",
       "properties": {
         "category": "Junta de Freguesia",
@@ -2070,10 +2073,6 @@
         "created_date": "2021-10-26T07:27:27.478-07:00",
         "description": "Rua de Santa Cruz do Castelo, 29\n   8h-16h30",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.132698178, 38.71311422 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2090,6 +2089,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.131990629000001, 38.71470087 ],
+        "type": "Point"
+      },
       "id": "/posto_de_limpeza_da_mouraria#541",
       "properties": {
         "category": "Junta de Freguesia",
@@ -2097,10 +2100,6 @@
         "created_date": "2021-10-26T07:27:28.113-07:00",
         "description": "Rua Costa do Castelo, 132\n   8h-16h30",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.131990629000001, 38.71470087 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2117,6 +2116,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.138925512, 38.71252323 ],
+        "type": "Point"
+      },
       "id": "/posto_de_limpeza_da_baixa_chiado#539",
       "properties": {
         "category": "Junta de Freguesia",
@@ -2125,10 +2128,6 @@
         "description":
           "Rua dos Sapateiros, 209\n   8h-16h30 / 13h-21h / 23h-5h",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.138925512, 38.71252323 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2145,6 +2144,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.158643056000001, 38.76832889 ],
+        "type": "Point"
+      },
       "id": "/contentores_c_ritas#510",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2153,10 +2156,6 @@
         "description":
           "CATR - Azinhaga do Frade - Alameda das Linhas de Torres\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.158643056000001, 38.76832889 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2173,6 +2172,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.16394333, 38.76484658 ],
+        "type": "Point"
+      },
       "id": "/contentores_c_ritas#504",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2180,10 +2183,6 @@
         "created_date": "2021-10-26T07:24:28.763-07:00",
         "description": "Av. Padre Cruz (Inst. Ricardo Jorge)\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.16394333, 38.76484658 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2200,6 +2199,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.164379738999999, 38.75921978 ],
+        "type": "Point"
+      },
       "id": "/contentores_c_ritas#505",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2207,10 +2210,6 @@
         "created_date": "2021-10-26T07:24:29.599-07:00",
         "description": "Estrada de Telheiras, 113, 1600-768\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.164379738999999, 38.75921978 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2227,6 +2226,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.157465147, 38.76589101 ],
+        "type": "Point"
+      },
       "id": "/contentores_c_ritas#503",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2235,10 +2238,6 @@
         "description":
           "Hospital Pulido Valente (Alameda das Linhas de Torres 117\n1750-147)\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.157465147, 38.76589101 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2255,6 +2254,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.165281924, 38.77457874 ],
+        "type": "Point"
+      },
       "id": "/contentores_c_ritas#502",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2262,10 +2265,6 @@
         "created_date": "2021-10-26T07:24:27.079-07:00",
         "description": "Largo de São João Baptista\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.165281924, 38.77457874 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2282,6 +2281,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.155925519, 38.76646908 ],
+        "type": "Point"
+      },
       "id": "/contentores_c_ritas#500",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2289,10 +2292,6 @@
         "created_date": "2021-10-26T07:24:25.123-07:00",
         "description": "Av. Maria Helena Vieira da Silva, 12, Largo\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.155925519, 38.76646908 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2309,6 +2308,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.162548697, 38.77575117 ],
+        "type": "Point"
+      },
       "id": "/r_coat#499",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2317,10 +2320,6 @@
         "description":
           "Loja do Zero - R. Alexandre Ferreira 17B, 1750-163 Lisboa\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.162548697, 38.77575117 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2337,6 +2336,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.170817561, 38.76216702 ],
+        "type": "Point"
+      },
       "id": "/reno_rede_nacional_de_ole_es#486",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2344,10 +2347,6 @@
         "created_date": "2021-10-26T07:24:13.932-07:00",
         "description": "Rua Professor João Barreira, fte 25\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.170817561, 38.76216702 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2364,6 +2363,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.175016904, 38.76214269 ],
+        "type": "Point"
+      },
       "id": "/reno_rede_nacional_de_ole_es#485",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2371,10 +2374,6 @@
         "created_date": "2021-10-26T07:24:12.981-07:00",
         "description": "Rua Professor Mário Albuquerque, jto 1\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.175016904, 38.76214269 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2391,6 +2390,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.174695955000001, 38.77734413 ],
+        "type": "Point"
+      },
       "id": "/rede_electr_o#468",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2399,10 +2402,6 @@
         "description":
           "Valorsul - Ecocentro do Lumiar -Estrada Militar, Lumiar, 1600-516 \n   2ª e 3ª feira: 8:00h - 14:30h / 16:15h - 20:00h;\n4 a 6ª feira: 8:00h - 13:30h / 15:15h - 20:00h",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.174695955000001, 38.77734413 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2434,6 +2433,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.160527663, 38.77222241 ],
+        "type": "Point"
+      },
       "id": "/rog_rio_reis_repara_o_de_cal_ado_e_afins#466",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -2442,10 +2445,6 @@
         "description":
           "CC Lumiar - Alameda das Linhas de Torres 236 A, 1750-151\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.160527663, 38.77222241 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2462,6 +2461,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.159668168, 38.76697977 ],
+        "type": "Point"
+      },
       "id": "/circular_wear_swap_spot_resid_ncia_unl_lumiar_#467",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -2469,10 +2472,6 @@
         "created_date": "2021-10-26T07:23:58.796-07:00",
         "description": "rua rainha dona luísa de gusmão 3, 1600-003\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.159668168, 38.76697977 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2502,6 +2501,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.162799955000001, 38.77514944 ],
+        "type": "Point"
+      },
       "id": "/marcenaria_e_carpintaria_agostinho_figueiredo_filho_ld_#462",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -2509,10 +2512,6 @@
         "created_date": "2021-10-26T07:23:54.267-07:00",
         "description": "R. do Lumiar 31, 1750-148 Lisboa\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.162799955000001, 38.77514944 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2530,6 +2529,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.166369999, 38.76071033 ],
+        "type": "Point"
+      },
       "id": "/zen_organic_hair_concept#458",
       "properties": {
         "category": "Lojas a Granel",
@@ -2538,10 +2541,6 @@
         "description":
           "R. Prof. Francisco Gentil 16-A, 1600-616\n   3ª a Sáb.: 9h30-19h.",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.166369999, 38.76071033 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2571,6 +2570,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.172172045, 38.76925598 ],
+        "type": "Point"
+      },
       "id": "/kaprixu_krunch#457",
       "properties": {
         "category": "Lojas a Granel",
@@ -2578,10 +2581,6 @@
         "created_date": "2021-10-26T07:23:48.816-07:00",
         "description": "Rua Fernando Lopes Graça, 28A, 1600-501\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.172172045, 38.76925598 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2611,6 +2610,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.178137692, 38.76403004 ],
+        "type": "Point"
+      },
       "id": "/gaya_veggie_market#455",
       "properties": {
         "category": "Lojas a Granel",
@@ -2618,10 +2621,6 @@
         "created_date": "2021-10-26T07:23:46.545-07:00",
         "description": "Avenida Nações Unidas 21, 1600-531\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.178137692, 38.76403004 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2651,6 +2650,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.165924772, 38.76151573 ],
+        "type": "Point"
+      },
       "id": "/mercado_naboa#456",
       "properties": {
         "category": "Lojas a Granel",
@@ -2658,10 +2661,6 @@
         "created_date": "2021-10-26T07:23:47.776-07:00",
         "description": "Rua Professor Fernando da Fonseca 23, 1600-617\n   ",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.165924772, 38.76151573 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2691,6 +2690,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.161946894, 38.77388214 ],
+        "type": "Point"
+      },
       "id": "/mios_tis#454",
       "properties": {
         "category": "Lojas a Granel",
@@ -2699,10 +2702,6 @@
         "description":
           "Mercado Municipal do Lumiar, Alameda das Linhas de Torres 1750-139 Lisboa\n   3ª a 6ª: 9h-20h Sáb.: 9h-17h.",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.161946894, 38.77388214 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2732,6 +2731,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.162757107999999, 38.77372254 ],
+        "type": "Point"
+      },
       "id": "/feira_da_bagageira#453",
       "properties": {
         "category": "Feiras & Mercados",
@@ -2740,10 +2743,6 @@
         "description":
           "Parque estacionamento Mercado Municipal Lumiar - Alameda das Linhas de Torres, 1750-139\n   1 vez por mês",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.162757107999999, 38.77372254 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2774,6 +2773,10 @@
       "type": "Feature"
     },
     {
+      "geometry": {
+        "coordinates": [ -9.151449676, 38.77303128 ],
+        "type": "Point"
+      },
       "id": "/feira_dos_sorrisos_associa_o_espa_o_mundo_#451",
       "properties": {
         "category": "Feiras & Mercados",
@@ -2782,10 +2785,6 @@
         "description":
           "Rua José Cardoso Pires lote 7.13, Alta de Lisboa, 1750-356\n   1 a 2 vezes por ano",
         "end_date": "",
-        "geometry": {
-          "coordinates": [ -9.151449676, 38.77303128 ],
-          "type": "Point"
-        },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2804,6 +2803,7 @@
   ],
   "nonGeoFeatures": [
     {
+      "geometry": { "type": "" },
       "id": "/appa_associa_o_patrim_nio_e_popula_o_de_alfama#647",
       "properties": {
         "category":
@@ -2812,7 +2812,6 @@
         "created_date": "2021-10-26T07:29:10.622-07:00",
         "description": "\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2829,6 +2828,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#643",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2836,7 +2836,6 @@
         "created_date": "2021-10-26T07:29:06.296-07:00",
         "description": "Rua Marquês Ponte de Lima\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2853,6 +2852,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/r_coat#638",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2860,7 +2860,6 @@
         "created_date": "2021-10-26T07:29:00.572-07:00",
         "description": "A Outra Face daLua\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2877,6 +2876,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/green_cork#637",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2885,7 +2885,6 @@
         "description":
           "Praça Martim Moniz 1, 1100-198 (Continente Bom Dia Martim Moniz)\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2902,6 +2901,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#635",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2909,7 +2909,6 @@
         "created_date": "2021-10-26T07:28:56.491-07:00",
         "description": " Rua Terreiro do Trigo\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2926,6 +2925,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#633",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2933,7 +2933,6 @@
         "created_date": "2021-10-26T07:28:54.991-07:00",
         "description": "Rua das Pedras Negras\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2950,6 +2949,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#634",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2957,7 +2957,6 @@
         "created_date": "2021-10-26T07:28:55.645-07:00",
         "description": "Rua dos Arameiros\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2974,6 +2973,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#632",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2981,7 +2981,6 @@
         "created_date": "2021-10-26T07:28:54.306-07:00",
         "description": "CPLP - Largo Contador Mor\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -2998,6 +2997,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#631",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3006,7 +3006,6 @@
         "description":
           "Costa do Castelo - R. do Milagre de Santo António\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3023,6 +3022,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#629",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3030,7 +3030,6 @@
         "created_date": "2021-10-26T07:28:51.964-07:00",
         "description": "Costa do Castelo/Escadinhas da Achada\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3047,6 +3046,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#630",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3054,7 +3054,6 @@
         "created_date": "2021-10-26T07:28:52.658-07:00",
         "description": "Rua da madalena\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3071,6 +3070,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#628",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3078,7 +3078,6 @@
         "created_date": "2021-10-26T07:28:51.462-07:00",
         "description": "Rua Poço do Borratém\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3095,6 +3094,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#627",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3102,7 +3102,6 @@
         "created_date": "2021-10-26T07:28:50.766-07:00",
         "description": "Rua Capelo Cruzamento com Serpa Pinto\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3119,6 +3118,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#625",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3127,7 +3127,6 @@
         "description":
           "Rua de Santa Apolónia - Estação\n1100-486 - Pingo Doce\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3144,6 +3143,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#626",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3151,7 +3151,6 @@
         "created_date": "2021-10-26T07:28:49.956-07:00",
         "description": "Lg. do Picadeiro/Teatro São Luís\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3168,6 +3167,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#624",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3175,7 +3175,6 @@
         "created_date": "2021-10-26T07:28:48.460-07:00",
         "description": "Rua da Palma, 274/6\n1100-394 - Minipreço\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3192,6 +3191,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#622",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3200,7 +3200,6 @@
         "description":
           "Rua do Carmo, 2 - Armazéns do Chiado\n1200-094 - FNAC Chiado\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3217,6 +3216,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#623",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3225,7 +3225,6 @@
         "description":
           "Rua 1º Dezembro, nº 67 - 83\n1200-358 - Pingo Doce\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3242,6 +3241,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#621",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3250,7 +3250,6 @@
         "description":
           "Rua dos Correeiros nº 61 A a 61 C\n1100-162 - Minipreço\n   REEE + RPA",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3267,6 +3266,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/sound_club_vinyl_store#620",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -3275,7 +3275,6 @@
         "description":
           "Rua da Misericórdia 14 piso SS loja 24, 1200-273\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3305,6 +3304,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/circular_wear_swap_spot_impact_hub_#616",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -3312,7 +3312,6 @@
         "created_date": "2021-10-26T07:28:41.753-07:00",
         "description": "tv. pedras negras, 1, 1.º dto\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3342,6 +3341,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/hospital_das_camisas#607",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -3349,7 +3349,6 @@
         "created_date": "2021-10-26T07:28:31.526-07:00",
         "description": "Poço do Borratém nr 25 r/c frente\n1100-408\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3379,6 +3378,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/a_feira_dos_tecidos#604",
       "properties": {
         "category": "Lojas a Granel",
@@ -3386,7 +3386,6 @@
         "created_date": "2021-10-26T07:28:27.323-07:00",
         "description": "Rua do Ouro 280\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3416,6 +3415,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/londres_sal_o#603",
       "properties": {
         "category": "Lojas a Granel",
@@ -3424,7 +3424,6 @@
         "description":
           "Rua Augusta 277-279, 1100-052\n   2ª A 6ª 10:00 – 19:00\nSÁBADO 10:00 – 13:00",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3454,6 +3453,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/entretex_ld_produtos_t_xteis#601",
       "properties": {
         "category": "Lojas a Granel",
@@ -3461,7 +3461,6 @@
         "created_date": "2021-10-26T07:28:24.035-07:00",
         "description": "Rua do Crucifixo 76, 1º dtº\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3478,6 +3477,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/marques_sequeira#602",
       "properties": {
         "category": "Lojas a Granel",
@@ -3485,7 +3485,6 @@
         "created_date": "2021-10-26T07:28:25.272-07:00",
         "description": "Praça da Figueira 4 - 2º, 1100-240\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3515,6 +3514,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/lu_s_s_fernandes_ld_#600",
       "properties": {
         "category": "Lojas a Granel",
@@ -3522,7 +3522,6 @@
         "created_date": "2021-10-26T07:28:23.313-07:00",
         "description": "Rua da Conceição 79-81\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3539,6 +3538,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/lara_retrosaria#599",
       "properties": {
         "category": "Lojas a Granel",
@@ -3546,7 +3546,6 @@
         "created_date": "2021-10-26T07:28:22.262-07:00",
         "description": "Rua da Conceição 39\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3563,6 +3562,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/eduardo_gomes_ld_import_e_export_de_retrosaria_#597",
       "properties": {
         "category": "Lojas a Granel",
@@ -3570,7 +3570,6 @@
         "created_date": "2021-10-26T07:28:20.557-07:00",
         "description": "Rua da Madalena 110, 1100-319\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3587,6 +3586,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/j_r_silva_ld_#598",
       "properties": {
         "category": "Lojas a Granel",
@@ -3594,7 +3594,6 @@
         "created_date": "2021-10-26T07:28:21.322-07:00",
         "description": "Rua da Conceição 95\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3611,6 +3610,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/o_bras_o#596",
       "properties": {
         "category": "Lojas a Granel",
@@ -3618,7 +3618,6 @@
         "created_date": "2021-10-26T07:28:19.810-07:00",
         "description": "Rua dos Sapateiros, 209,1100-578 Lisboa\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3635,6 +3634,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/bot_o_dourado#595",
       "properties": {
         "category": "Lojas a Granel",
@@ -3642,7 +3642,6 @@
         "created_date": "2021-10-26T07:28:19.083-07:00",
         "description": "Rua da Conceição 115\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3659,6 +3658,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/botil_bot_es_l_s_e_retrosaria_lda#593",
       "properties": {
         "category": "Lojas a Granel",
@@ -3666,7 +3666,6 @@
         "created_date": "2021-10-26T07:28:17.579-07:00",
         "description": "Praça da Figueira, 18, 1ºEsq, 1100-241\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3683,6 +3682,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/arquichique_de_coucellos_coelho_ld_#594",
       "properties": {
         "category": "Lojas a Granel",
@@ -3690,7 +3690,6 @@
         "created_date": "2021-10-26T07:28:18.339-07:00",
         "description": "Rua da Conceição 83, 1100-152\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3707,6 +3706,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/alexandre_bento#590",
       "properties": {
         "category": "Lojas a Granel",
@@ -3714,7 +3714,6 @@
         "created_date": "2021-10-26T07:28:15.544-07:00",
         "description": "Rua da Conceição 67/69, 1100-152\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3744,6 +3743,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/retrosaria_bijou#591",
       "properties": {
         "category": "Lojas a Granel",
@@ -3751,7 +3751,6 @@
         "created_date": "2021-10-26T07:28:16.106-07:00",
         "description": "Rua da Conceição, 91, 1100-152\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3781,6 +3780,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/adriano_coelho#592",
       "properties": {
         "category": "Lojas a Granel",
@@ -3789,7 +3789,6 @@
         "description":
           "Rua da Conceição 123, 1100-153\n   2ª A 6ª 09:00 —19:00\nSÁBADO 09:00 —13:00",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3819,6 +3818,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/batista_reis_nardo#589",
       "properties": {
         "category": "Lojas a Granel",
@@ -3826,7 +3826,6 @@
         "created_date": "2021-10-26T07:28:14.705-07:00",
         "description": "Rua da Conceição 61/62, 1100-154\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3856,6 +3855,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/m_rio_ramos_nardo#588",
       "properties": {
         "category": "Lojas a Granel",
@@ -3864,7 +3864,6 @@
         "description":
           "Rua da Conceição 87/89, 1100-152\n   2ª A 6ª 09:00 — 19:00\nSÁBADO 09:00 — 13:00",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3894,6 +3893,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/sementes_hortel_o#582",
       "properties": {
         "category": "Lojas a Granel",
@@ -3901,7 +3901,6 @@
         "created_date": "2021-10-26T07:28:07.283-07:00",
         "description": "Rua do Amparo 2, Rua D.Antão de Almada\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3931,6 +3930,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/celeiro_rossio#577",
       "properties": {
         "category": "Lojas a Granel",
@@ -3938,7 +3938,6 @@
         "created_date": "2021-10-26T07:28:02.022-07:00",
         "description": "R. 1º de Dezembro 65, Lisboa\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3955,6 +3954,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/caf_s_del_cia#570",
       "properties": {
         "category": "Lojas a Granel",
@@ -3962,7 +3962,6 @@
         "created_date": "2021-10-26T07:27:55.483-07:00",
         "description": "Rua dos Remédios, 69 1100-449\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -3992,6 +3991,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/nicola_gourmet#566",
       "properties": {
         "category": "Lojas a Granel",
@@ -3999,7 +3999,6 @@
         "created_date": "2021-10-26T07:27:52.014-07:00",
         "description": "Rua 1º Dezembro 10 - 12, Lisboa \n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4016,6 +4015,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/trienal_de_arquitectura_de_lisboa#561",
       "properties": {
         "category": "Feiras & Mercados",
@@ -4023,7 +4023,6 @@
         "created_date": "2021-10-26T07:27:46.629-07:00",
         "description": "Campo de Santa Clara nº 144, 1100-471 Lisboa\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4040,6 +4039,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/transporte_porta_a_porta_na_freguesia_mob_reduzida_#552",
       "properties": {
         "category": "Junta de Freguesia",
@@ -4047,7 +4047,6 @@
         "created_date": "2021-10-26T07:27:35.064-07:00",
         "description": "-\n   8h Às 18h (hora a hora)",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4079,6 +4078,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/lavandaria_mouraria_2#545",
       "properties": {
         "category": "Junta de Freguesia",
@@ -4086,7 +4086,6 @@
         "created_date": "2021-10-26T07:27:30.414-07:00",
         "description": "Largo da Rosa\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4103,6 +4102,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/balne_rio_lavandaria_alfama_ii#542",
       "properties": {
         "category": "Junta de Freguesia",
@@ -4110,7 +4110,6 @@
         "created_date": "2021-10-26T07:27:28.760-07:00",
         "description": "Largo da Palmeira\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4127,6 +4126,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/balne_rio_lavandaria_mouraria_#543",
       "properties": {
         "category": "Junta de Freguesia",
@@ -4134,7 +4134,6 @@
         "created_date": "2021-10-26T07:27:29.313-07:00",
         "description": "Rua dos Cavaleiros\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4151,6 +4150,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/lavandaria_alfama_1#544",
       "properties": {
         "category": "Junta de Freguesia",
@@ -4158,7 +4158,6 @@
         "created_date": "2021-10-26T07:27:29.934-07:00",
         "description": "Rua dos Corvos\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4175,6 +4174,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id":
         "/cultura_urbana_alta_de_lisboa_aral_preservar_e_divulgar_a_cultura_identit_ria_da_alta_#536",
       "properties": {
@@ -4185,7 +4185,6 @@
         "description":
           "Centro comunitário - Rua Luís Piçarra 6A\n1750-101\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4216,6 +4215,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_internacional_de_voluntariado_serve_the_city#537",
       "properties": {
         "category":
@@ -4224,7 +4224,6 @@
         "created_date": "2021-10-26T07:24:53.493-07:00",
         "description": "\n   https://www.facebook.com/ServetheCity.pt/",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4241,6 +4240,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/clip_recursos_e_desenvolvimento#538",
       "properties": {
         "category": "Moeda Local",
@@ -4248,7 +4248,6 @@
         "created_date": "2021-10-26T07:24:54.757-07:00",
         "description": "R. Luís Piçarra 12A, 1750-448\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4278,6 +4277,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/ra_zes_associa_o_de_apoio_crian_a_e_ao_jovem_ipss_#533",
       "properties": {
         "category":
@@ -4286,7 +4286,6 @@
         "created_date": "2021-10-26T07:24:50.412-07:00",
         "description": "Rua Leopoldo de Almeida, 9B 1750-137\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4317,6 +4316,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/grupo_comunit_rio_das_galinheiras_e_ameixoeira#534",
       "properties": {
         "category":
@@ -4325,7 +4325,6 @@
         "created_date": "2021-10-26T07:24:51.074-07:00",
         "description": "\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4342,6 +4341,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/associa_o_de_moradores_do_bairro_da_cruz_vermelha#535",
       "properties": {
         "category":
@@ -4350,7 +4350,6 @@
         "created_date": "2021-10-26T07:24:51.720-07:00",
         "description": "Rua Maria Carlota nº 8 Loja A/ B\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4367,6 +4366,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/associa_o_espa_o_mundo_per9#531",
       "properties": {
         "category":
@@ -4376,7 +4376,6 @@
         "description":
           "Rua José Cardoso Pires lote 7.13, Alta de Lisboa, 1750-356\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4393,6 +4392,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/associa_o_de_moradores_do_per11#532",
       "properties": {
         "category":
@@ -4401,7 +4401,6 @@
         "created_date": "2021-10-26T07:24:49.698-07:00",
         "description": "R RAUL REGO LOTE 8 2ºB, 1750-424, SANTA CLARA\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4418,6 +4417,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/caf_centro_artes_e_forma_o#530",
       "properties": {
         "category":
@@ -4427,7 +4427,6 @@
         "description":
           "Rua Maria Margarida, Bairro da Cruz Vermelha, 1750-186\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4457,6 +4456,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/csm_centro_social_da_musgueira#528",
       "properties": {
         "category":
@@ -4465,7 +4465,6 @@
         "created_date": "2021-10-26T07:24:46.571-07:00",
         "description": "Rua Maria Margarida, 6/6A 1750-186\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4495,6 +4494,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/aral_associa_o_de_residentes_da_alta_de_lisboa#529",
       "properties": {
         "category":
@@ -4503,7 +4503,6 @@
         "created_date": "2021-10-26T07:24:47.133-07:00",
         "description": "Rua Luis Piçarra, 6A 1750 – 101\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4533,6 +4532,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/grupo_comunit_rio_da_alta_de_lisboa_gcal_#527",
       "properties": {
         "category":
@@ -4541,7 +4541,6 @@
         "created_date": "2021-10-26T07:24:45.874-07:00",
         "description": "\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4571,6 +4570,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/entr_hortas#525",
       "properties": {
         "category":
@@ -4579,7 +4579,6 @@
         "created_date": "2021-10-26T07:24:44.468-07:00",
         "description": "\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4596,6 +4595,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/clip_recursos_e_desenvolvimento_2012_#526",
       "properties": {
         "category":
@@ -4604,7 +4604,6 @@
         "created_date": "2021-10-26T07:24:45.293-07:00",
         "description": "R. Luís Piçarra 12A, 1750-448\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4634,6 +4633,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id":
         "/avaal_associa_o_para_a_valoriza_o_ambiental_da_alta_de_lisboa_2009_#524",
       "properties": {
@@ -4643,7 +4643,6 @@
         "created_date": "2021-10-26T07:24:43.947-07:00",
         "description": "Rua Luís Piçarra, Nº 5B, 1750-101\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4674,6 +4673,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/garrafas_pet_latas#522",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4682,7 +4682,6 @@
         "description":
           "Continente Alto do Lumiar - Av. David Mourão-Ferreira 62, 1750-314\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4699,6 +4698,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/garrafas_pet_latas_vidro#523",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4707,7 +4707,6 @@
         "description":
           "Pingo Doce Telheiras - Rua Projectada à Azinhaga dos Ulmeiros 1600-776\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4724,6 +4723,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#521",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4731,7 +4731,6 @@
         "created_date": "2021-10-26T07:24:41.870-07:00",
         "description": "Rua Agostinho Neto, 20, 1750-003\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4748,6 +4747,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#520",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4755,7 +4755,6 @@
         "created_date": "2021-10-26T07:24:41.210-07:00",
         "description": "Rua Jaime Lopes Dias, 3, 1750-124\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4772,6 +4771,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#518",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4779,7 +4779,6 @@
         "created_date": "2021-10-26T07:24:39.435-07:00",
         "description": "Rua Hermano Neves, 7, 1600-477\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4796,6 +4795,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#519",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4803,7 +4803,6 @@
         "created_date": "2021-10-26T07:24:40.359-07:00",
         "description": "Rua Prof. Hernâni Cidade\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4820,6 +4819,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#516",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4827,7 +4827,6 @@
         "created_date": "2021-10-26T07:24:38.121-07:00",
         "description": "Mercado Lumiar \n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4844,6 +4843,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#517",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4851,7 +4851,6 @@
         "created_date": "2021-10-26T07:24:38.948-07:00",
         "description": "Rua Helena VAZ DA SILVA, 15\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4868,6 +4867,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#515",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4876,7 +4876,6 @@
         "description":
           "Alameda da Quinta de Sto. António, 1A, 1600-675\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4893,6 +4892,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#514",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4901,7 +4901,6 @@
         "description":
           "Av. Nações Unidas com Azinhaga Torre do Fato, 1600-528\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4918,6 +4917,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#513",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4925,7 +4925,6 @@
         "created_date": "2021-10-26T07:24:35.254-07:00",
         "description": "Rua Fernando Lopes Graça, 27\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4942,6 +4941,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#511",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4949,7 +4949,6 @@
         "created_date": "2021-10-26T07:24:34.338-07:00",
         "description": "Rua Prof. Henrique Vilhena, 11\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4966,6 +4965,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#512",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4973,7 +4973,6 @@
         "created_date": "2021-10-26T07:24:34.747-07:00",
         "description": "Rua Prof. Prado Coelho, 21A\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -4990,6 +4989,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#508",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4997,7 +4997,6 @@
         "created_date": "2021-10-26T07:24:32.200-07:00",
         "description": "Av. David Mourão Ferreira, 14A\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5014,6 +5013,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#509",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5021,7 +5021,6 @@
         "created_date": "2021-10-26T07:24:32.753-07:00",
         "description": "Calçada de Carriche\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5038,6 +5037,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#507",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5045,7 +5045,6 @@
         "created_date": "2021-10-26T07:24:31.539-07:00",
         "description": "Av. Nuno Krus Abecassis, 34, 1750-456\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5062,6 +5061,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#506",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5069,7 +5069,6 @@
         "created_date": "2021-10-26T07:24:30.846-07:00",
         "description": "Av. Sérgio Vieira de Mello, 19 A, 1750-246\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5086,6 +5085,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#501",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5093,7 +5093,6 @@
         "created_date": "2021-10-26T07:24:26.145-07:00",
         "description": "Estrada da Ameixoeira (porta azul)\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5110,6 +5109,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/green_cork#498",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5118,7 +5118,6 @@
         "description":
           "Continente Alto do Lumiar - Avenida David Mourão-Ferreira 62, 1750-314 Lisboa\n   2ª - dom. , 08 - 22",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5135,6 +5134,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/green_cork#497",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5143,7 +5143,6 @@
         "description":
           "Continente Telheiras - Avenida das Nações Unidas, 1600-528 Lisboa\n   2ª - dom. , 08 - 23",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5160,6 +5159,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#495",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5167,7 +5167,6 @@
         "created_date": "2021-10-26T07:24:21.361-07:00",
         "description": "Rua Ventura Abrantes\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5184,6 +5183,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/e_cycle#496",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5192,7 +5192,6 @@
         "description":
           "Estrada do Paço do Lumiar, 22 - Campus do Lumiar, Edifício Q, 1649-038 Lisboa - CATIM Lisboa\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5224,6 +5223,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#494",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5231,7 +5231,6 @@
         "created_date": "2021-10-26T07:24:20.527-07:00",
         "description": "Praça Rainha Santa, ft 3\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5248,6 +5247,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#493",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5255,7 +5255,6 @@
         "created_date": "2021-10-26T07:24:19.483-07:00",
         "description": "Rua Luís de Freitas Branco, 1\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5272,6 +5271,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#491",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5279,7 +5279,6 @@
         "created_date": "2021-10-26T07:24:18.069-07:00",
         "description": "Rua Luís Piçarra, nº 4\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5296,6 +5295,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#492",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5303,7 +5303,6 @@
         "created_date": "2021-10-26T07:24:18.828-07:00",
         "description": "Alameda Linhas Torres, Mercado do Lumiar\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5320,6 +5319,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#489",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5327,7 +5327,6 @@
         "created_date": "2021-10-26T07:24:16.771-07:00",
         "description": " Rua Frederico George, Jt 18\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5344,6 +5343,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#490",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5351,7 +5351,6 @@
         "created_date": "2021-10-26T07:24:17.477-07:00",
         "description": "Rua André Gouveia, Fte 2\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5368,6 +5367,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#488",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5376,7 +5376,6 @@
         "description":
           "Rua Filipe Duarte, Posto de Limpeza de Telheiras\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5393,6 +5392,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#487",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5400,7 +5400,6 @@
         "created_date": "2021-10-26T07:24:14.654-07:00",
         "description": " Rua Professora Virgínia Rau\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5417,6 +5416,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#483",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5425,7 +5425,6 @@
         "description":
           "RUA PROFESSOR FRANCISCO GENTIL 21\n1600-622 (Minipreço Telheiras_L_PLUS)\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5442,6 +5441,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#484",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5450,7 +5450,6 @@
         "description":
           "R. Prof. Barbosa Sueiro, loja 14 F\n1600-598 (Papelaria de Alberto Costa)\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5467,6 +5466,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#482",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5475,7 +5475,6 @@
         "description":
           "Rua Frederico George, nº 20 1600-414 (Aldi Telheiras)\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5492,6 +5491,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#480",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5500,7 +5500,6 @@
         "description":
           "Alameda das Linhas de Torres, 149\n1750-145 Minipreço Lumiar I\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5517,6 +5516,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#481",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5525,7 +5525,6 @@
         "description":
           "Av. Maria Helena Vieira da Silva, Lt.121 G6 Parque Europa\n1600-000 Pingo Doce \n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5542,6 +5541,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#479",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5550,7 +5550,6 @@
         "description":
           "RUA HELENA VAZ DA SILVA 7 A\n1750-441 (Minipreço Lumiar_L_Plus_Clarel)\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5567,6 +5566,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#478",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5575,7 +5575,6 @@
         "description":
           "Alameda Das Linhas de Torres, nº 257\n1750-145 Minipreço Lumiar\n\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5592,6 +5591,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#476",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5600,7 +5600,6 @@
         "description":
           "Rua Alexandre Ferreira, 33\n1750-010 (Minipreço Lumiar II)\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5617,6 +5616,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#477",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5625,7 +5625,6 @@
         "description":
           "Rua Alexandre Ferreira, nº 20 B\n1750-011 (Livraria 2001, Lda)\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5642,6 +5641,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#475",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5650,7 +5650,6 @@
         "description":
           "RUA PROJECTADA À AZINHAGA DOS ULMEIROS - LISBOA\n1600-776 (Pingo Doce Telheiras)\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5667,6 +5666,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#473",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5675,7 +5675,6 @@
         "description":
           "C.C. Continente, Lj 41, Av. das Nações Unidas\n1600-528(Aki Telheiras)\n\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5692,6 +5691,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#474",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5700,7 +5700,6 @@
         "description":
           "Centro Comercial Continente de Telheiras - Loja 26, Avenida das Nações Unidas\n1600-528 (Decathlon Telheiras)\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5717,6 +5716,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#472",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5725,7 +5725,6 @@
         "description":
           "Avenida das Nações Unidas\n1600-528 (Worten Telheiras)\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5742,6 +5741,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_electr_o#470",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5750,7 +5750,6 @@
         "description":
           "Rua Prof. Fernando da Fonseca, 1600-617 (LIDL (Alvaláxia))\n   2ª - dom. , 08:30 - 21:30",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5767,6 +5766,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#471",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5775,7 +5775,6 @@
         "description":
           "Rua Aristides Sousa Mendes, nº 4A a 4F\n1600-413 Minipreço Telheiras\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5792,6 +5791,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/rede_electr_o#469",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5800,7 +5800,6 @@
         "description":
           "Alameda das Linhas de Torres, 179, 1750-142 (Cimo da rua de entrada, do lado direito, perto dos outros ecopontos)\nUniversitas \n   2ª - 6ª , 09:00 - 18:00",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5817,6 +5816,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/catag_s_ld_#465",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -5824,7 +5824,6 @@
         "created_date": "2021-10-26T07:23:56.883-07:00",
         "description": "R. Lumiar 126\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5841,6 +5840,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/fabrica_de_moveis_central_da_ameixoeira_m_rio_seixas_ld_#463",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -5848,7 +5848,6 @@
         "created_date": "2021-10-26T07:23:55.117-07:00",
         "description": "R. do Lumiar 47-49\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5866,6 +5865,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/restauro#464",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -5873,7 +5873,6 @@
         "created_date": "2021-10-26T07:23:56.008-07:00",
         "description": "R. Lumiar 76\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5890,6 +5889,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/com_rcio_de_telheiras_lumiar_e_carnide#461",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -5897,7 +5897,6 @@
         "created_date": "2021-10-26T07:23:52.922-07:00",
         "description": "-\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5927,6 +5926,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/lavandaria_ecol_gica_super_av_#459",
       "properties": {
         "category": "Serviços Partilhados",
@@ -5935,7 +5935,6 @@
         "description":
           "Av. Nuno Krus Abecassis,28A, Alta de Lisboa, 1750-456\n   Todos os dias: 08 às 23h",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5965,6 +5964,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/com_rcio_e_servi_os_da_alta_de_lisboa_#460",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -5972,7 +5972,6 @@
         "created_date": "2021-10-26T07:23:52.141-07:00",
         "description": "-\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -5989,6 +5988,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/mercado_no_bairro#452",
       "properties": {
         "category": "Feiras & Mercados",
@@ -5996,7 +5996,6 @@
         "created_date": "2021-10-26T07:23:43.042-07:00",
         "description": "Lumiar e Telheiras\n   1 vez por mês",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -6026,6 +6025,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/lagar_de_s_o_vicente#449",
       "properties": {
         "category": "Feiras & Mercados",
@@ -6034,7 +6034,6 @@
         "description":
           "Rua Professor Francisco Gentil 33, 1600-622 Lisboa\n   ",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -6051,6 +6050,7 @@
       "type": "Feature"
     },
     {
+      "geometry": { "type": "" },
       "id": "/urban_market_alta_de_lx_2013_#450",
       "properties": {
         "category": "Feiras & Mercados",
@@ -6059,7 +6059,6 @@
         "description":
           "Parque Oeste/Quinta das Conchas\n   2º Sábado de cada mês",
         "end_date": "",
-        "geometry": { "type": "" },
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
@@ -6252,5 +6251,6 @@
     "title": "ZeroWasteLab",
     "url": "https://lisboalixozero.zerowastelab.pt/",
     "version": 42
-  }
+  },
+  "type": "FeatureCollection"
 }

@@ -180,33 +180,6 @@
     },
     {
       "geometry": {
-        "coordinates": [ -9.130431128, 38.71196315 ],
-        "type": "Point"
-      },
-      "id": "/contentores_c_ritas#640",
-      "properties": {
-        "category": "Recolha de resíduos",
-        "category-description": "",
-        "created_date": "2021-10-26T07:29:03.090-07:00",
-        "description": "Rua de Santiago (Igreja)\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Roupa",
-        "tags": [],
-        "title": "Contentores Cáritas",
-        "type": "",
-        "updated_date": "2021-10-26T07:29:03.090-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
         "coordinates": [ -9.139089468, 38.71492513 ],
         "type": "Point"
       },
@@ -255,6 +228,33 @@
         "title": "Contentores Cáritas",
         "type": "",
         "updated_date": "2021-10-26T07:29:02.404-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.130431128, 38.71196315 ],
+        "type": "Point"
+      },
+      "id": "/contentores_c_ritas#640",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2021-10-26T07:29:03.090-07:00",
+        "description": "Rua de Santiago (Igreja)\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Roupa",
+        "tags": [],
+        "title": "Contentores Cáritas",
+        "type": "",
+        "updated_date": "2021-10-26T07:29:03.090-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -344,33 +344,6 @@
     },
     {
       "geometry": {
-        "coordinates": [ -9.13620987, 38.71363046 ],
-        "type": "Point"
-      },
-      "id": "/circular_wear_swap_spot_cooperativa_rizoma_#618",
-      "properties": {
-        "category": "Lojas de Segunda mão",
-        "category-description": "",
-        "created_date": "2021-10-26T07:28:43.431-07:00",
-        "description": "Beco do Rosendo 8, 1100-555\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Troca de roupa",
-        "tags": [],
-        "title": "Circular Wear - Swap Spot (Cooperativa Rizoma)",
-        "type": "",
-        "updated_date": "2021-10-26T07:28:43.431-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
         "coordinates": [ -9.132727322999999, 38.71642379 ],
         "type": "Point"
       },
@@ -392,6 +365,33 @@
         "title": "Circular Wear - Swap Spot (CIM Mouraria)",
         "type": "",
         "updated_date": "2021-10-26T07:28:42.707-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.13620987, 38.71363046 ],
+        "type": "Point"
+      },
+      "id": "/circular_wear_swap_spot_cooperativa_rizoma_#618",
+      "properties": {
+        "category": "Lojas de Segunda mão",
+        "category-description": "",
+        "created_date": "2021-10-26T07:28:43.431-07:00",
+        "description": "Beco do Rosendo 8, 1100-555\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Troca de roupa",
+        "tags": [],
+        "title": "Circular Wear - Swap Spot (Cooperativa Rizoma)",
+        "type": "",
+        "updated_date": "2021-10-26T07:28:43.431-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -433,6 +433,46 @@
         "title": "Humana Vintage",
         "type": "",
         "updated_date": "2021-10-26T07:28:40.508-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.137010086, 38.71207742 ],
+        "type": "Point"
+      },
+      "id": "/a_outra_face_da_lua#613",
+      "properties": {
+        "category": "Lojas de Segunda mão",
+        "category-description": "",
+        "created_date": "2021-10-26T07:28:38.253-07:00",
+        "description": "Rua da Assunção, 22, 1100-044\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://aoutrafacedalua.com/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://aoutrafacedalua.com/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Venda de Roupa",
+        "tags": [],
+        "title": "A Outra Face da Lua",
+        "type": "",
+        "updated_date": "2021-10-26T07:28:38.253-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -520,40 +560,27 @@
     },
     {
       "geometry": {
-        "coordinates": [ -9.137010086, 38.71207742 ],
+        "coordinates": [ 9.140862165, 38.7131711 ],
         "type": "Point"
       },
-      "id": "/a_outra_face_da_lua#613",
+      "id": "/new_jester_vintage_for_men_#610",
       "properties": {
         "category": "Lojas de Segunda mão",
         "category-description": "",
-        "created_date": "2021-10-26T07:28:38.253-07:00",
-        "description": "Rua da Assunção, 22, 1100-044\n   ",
+        "created_date": "2021-10-26T07:28:34.993-07:00",
+        "description": "Calçada do Carmo 59, 1200-092 \n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "https://aoutrafacedalua.com/"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "https://aoutrafacedalua.com/"
-          }
-        ],
+        "links": [],
         "relationships": [],
         "start_date": "",
         "sub-category": "Venda de Roupa",
         "tags": [],
-        "title": "A Outra Face da Lua",
+        "title": "New Jester (Vintage for Men)",
         "type": "",
-        "updated_date": "2021-10-26T07:28:38.253-07:00",
+        "updated_date": "2021-10-26T07:28:34.993-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -628,33 +655,6 @@
     },
     {
       "geometry": {
-        "coordinates": [ 9.140862165, 38.7131711 ],
-        "type": "Point"
-      },
-      "id": "/new_jester_vintage_for_men_#610",
-      "properties": {
-        "category": "Lojas de Segunda mão",
-        "category-description": "",
-        "created_date": "2021-10-26T07:28:34.993-07:00",
-        "description": "Calçada do Carmo 59, 1200-092 \n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Venda de Roupa",
-        "tags": [],
-        "title": "New Jester (Vintage for Men)",
-        "type": "",
-        "updated_date": "2021-10-26T07:28:34.993-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
         "coordinates": [ -9.140412269, 38.71161628 ],
         "type": "Point"
       },
@@ -690,6 +690,46 @@
         "title": "Pop Closet (vintage e moderna) ",
         "type": "",
         "updated_date": "2021-10-26T07:28:33.144-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.135942511, 38.70954744 ],
+        "type": "Point"
+      },
+      "id": "/rpn_rel_gio_praticamente_novo#606",
+      "properties": {
+        "category": "Serviços de Manutenção, Reparação & Ofícios",
+        "category-description": "",
+        "created_date": "2021-10-26T07:28:30.104-07:00",
+        "description": "R. de São Julião, 66, 1100-413\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.rpn.pt/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www.rpn.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Relógios",
+        "tags": [],
+        "title": "RPN - Relógio Praticamente Novo",
+        "type": "",
+        "updated_date": "2021-10-26T07:28:30.104-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -737,46 +777,6 @@
     },
     {
       "geometry": {
-        "coordinates": [ -9.135942511, 38.70954744 ],
-        "type": "Point"
-      },
-      "id": "/rpn_rel_gio_praticamente_novo#606",
-      "properties": {
-        "category": "Serviços de Manutenção, Reparação & Ofícios",
-        "category-description": "",
-        "created_date": "2021-10-26T07:28:30.104-07:00",
-        "description": "R. de São Julião, 66, 1100-413\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "https://www.rpn.pt/"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "https://www.rpn.pt/"
-          }
-        ],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Relógios",
-        "tags": [],
-        "title": "RPN - Relógio Praticamente Novo",
-        "type": "",
-        "updated_date": "2021-10-26T07:28:30.104-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
         "coordinates": [ -9.135442735, 38.71053076 ],
         "type": "Point"
       },
@@ -812,6 +812,47 @@
         "title": "Ferragens G. Lemos",
         "type": "",
         "updated_date": "2021-10-26T07:28:12.177-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.134571069, 38.71734836 ],
+        "type": "Point"
+      },
+      "id": "/domingos_nogueira#585",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-10-26T07:28:10.437-07:00",
+        "description":
+          "Rua Terreirinho 78 1100-599\n   Seg-Sex 09:00-12:30 | 14:00-18:30",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.domingosenogueira.pt/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www.domingosenogueira.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Artigos de sapateiro, solas cabedais e cortiças",
+        "tags": [],
+        "title": "Domingos & Nogueira",
+        "type": "",
+        "updated_date": "2021-10-26T07:28:10.437-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -886,47 +927,6 @@
     },
     {
       "geometry": {
-        "coordinates": [ -9.134571069, 38.71734836 ],
-        "type": "Point"
-      },
-      "id": "/domingos_nogueira#585",
-      "properties": {
-        "category": "Lojas a Granel",
-        "category-description": "",
-        "created_date": "2021-10-26T07:28:10.437-07:00",
-        "description":
-          "Rua Terreirinho 78 1100-599\n   Seg-Sex 09:00-12:30 | 14:00-18:30",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "https://www.domingosenogueira.pt/"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "https://www.domingosenogueira.pt/"
-          }
-        ],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Artigos de sapateiro, solas cabedais e cortiças",
-        "tags": [],
-        "title": "Domingos & Nogueira",
-        "type": "",
-        "updated_date": "2021-10-26T07:28:10.437-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
         "coordinates": [ -9.136405392, 38.71388422 ],
         "type": "Point"
       },
@@ -967,34 +967,6 @@
     },
     {
       "geometry": {
-        "coordinates": [ -9.137170686999999, 38.71183068 ],
-        "type": "Point"
-      },
-      "id": "/drogaria_central#580",
-      "properties": {
-        "category": "Lojas a Granel",
-        "category-description": "",
-        "created_date": "2021-10-26T07:28:05.351-07:00",
-        "description":
-          "Rua da Prata 192, 1100-421 \n   2ª A 6ª 09:00 — 19:00\nSÁBADO 09:30 — 14:00 / 15:00 — 18:30",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Drogaria",
-        "tags": [],
-        "title": "Drogaria Central",
-        "type": "",
-        "updated_date": "2021-10-26T07:28:05.351-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
         "coordinates": [ -9.135290918000001, 38.71900392 ],
         "type": "Point"
       },
@@ -1017,6 +989,34 @@
         "title": "Casa do Campo de Fernandes & Jacinto, Ldª ??",
         "type": "",
         "updated_date": "2021-10-26T07:28:06.208-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.137170686999999, 38.71183068 ],
+        "type": "Point"
+      },
+      "id": "/drogaria_central#580",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-10-26T07:28:05.351-07:00",
+        "description":
+          "Rua da Prata 192, 1100-421 \n   2ª A 6ª 09:00 — 19:00\nSÁBADO 09:30 — 14:00 / 15:00 — 18:30",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Drogaria",
+        "tags": [],
+        "title": "Drogaria Central",
+        "type": "",
+        "updated_date": "2021-10-26T07:28:05.351-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -1119,6 +1119,46 @@
     },
     {
       "geometry": {
+        "coordinates": [ -9.136210769, 38.71363033 ],
+        "type": "Point"
+      },
+      "id": "/cooperativa_rizoma_distribuidor_ecox_#574",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-10-26T07:27:59.507-07:00",
+        "description": "Beco do Rosendo 8, 1100-555\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.renovaramouraria.pt/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www.renovaramouraria.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Mercearia",
+        "tags": [],
+        "title": "Cooperativa Rizoma (& Distribuidor EcoX)",
+        "type": "",
+        "updated_date": "2021-10-26T07:27:59.507-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
         "coordinates": [ -9.136242568, 38.71171931 ],
         "type": "Point"
       },
@@ -1193,46 +1233,6 @@
         "title": "Prado Mercearia (Produtos locais a granel)",
         "type": "",
         "updated_date": "2021-10-26T07:27:58.434-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [ -9.136210769, 38.71363033 ],
-        "type": "Point"
-      },
-      "id": "/cooperativa_rizoma_distribuidor_ecox_#574",
-      "properties": {
-        "category": "Lojas a Granel",
-        "category-description": "",
-        "created_date": "2021-10-26T07:27:59.507-07:00",
-        "description": "Beco do Rosendo 8, 1100-555\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "https://www.renovaramouraria.pt/"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "https://www.renovaramouraria.pt/"
-          }
-        ],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Mercearia",
-        "tags": [],
-        "title": "Cooperativa Rizoma (& Distribuidor EcoX)",
-        "type": "",
-        "updated_date": "2021-10-26T07:27:59.507-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -1444,6 +1444,47 @@
     },
     {
       "geometry": {
+        "coordinates": [ -9.143043113999999, 38.71106181 ],
+        "type": "Point"
+      },
+      "id": "/a_carioca#564",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-10-26T07:27:49.956-07:00",
+        "description":
+          "Rua da Misericórdia, 9, 1200-270\n   2ª a 6ª das 09h-19h, Sáb 09h-13h",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://lojascomhistoria.pt/lojas/a-carioca"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "http://lojascomhistoria.pt/lojas/a-carioca"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cafés, chocolates e chás",
+        "tags": [],
+        "title": "A Carioca",
+        "type": "",
+        "updated_date": "2021-10-26T07:27:49.956-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
         "coordinates": [ -9.138339058, 38.71267926 ],
         "type": "Point"
       },
@@ -1512,47 +1553,6 @@
     },
     {
       "geometry": {
-        "coordinates": [ -9.143043113999999, 38.71106181 ],
-        "type": "Point"
-      },
-      "id": "/a_carioca#564",
-      "properties": {
-        "category": "Lojas a Granel",
-        "category-description": "",
-        "created_date": "2021-10-26T07:27:49.956-07:00",
-        "description":
-          "Rua da Misericórdia, 9, 1200-270\n   2ª a 6ª das 09h-19h, Sáb 09h-13h",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "http://lojascomhistoria.pt/lojas/a-carioca"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "http://lojascomhistoria.pt/lojas/a-carioca"
-          }
-        ],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Cafés, chocolates e chás",
-        "tags": [],
-        "title": "A Carioca",
-        "type": "",
-        "updated_date": "2021-10-26T07:27:49.956-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
         "coordinates": [ -9.124923374, 38.71570446 ],
         "type": "Point"
       },
@@ -1575,47 +1575,6 @@
         "title": "Feira da Ladra",
         "type": "",
         "updated_date": "2021-10-26T07:27:47.370-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [ -9.124301431999999, 38.71583317 ],
-        "type": "Point"
-      },
-      "id": "/mercado_agrobio_#559",
-      "properties": {
-        "category": "Feiras & Mercados",
-        "category-description": "",
-        "created_date": "2021-10-26T07:27:43.710-07:00",
-        "description":
-          "Jardim Botto Machado, Campo de Santa Clara 26, 1100-475\n   Sábados 08:00 às 14:00",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "https://agrobio.pt/consumidor/mercados-agrobio/"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "https://agrobio.pt/consumidor/mercados-agrobio/"
-          }
-        ],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Mercado Biológico",
-        "tags": [],
-        "title": "Mercado AGROBIO ",
-        "type": "",
-        "updated_date": "2021-10-26T07:27:43.710-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -1692,15 +1651,16 @@
     },
     {
       "geometry": {
-        "coordinates": [ -9.128451539, 38.71191147 ],
+        "coordinates": [ -9.124301431999999, 38.71583317 ],
         "type": "Point"
       },
-      "id": "/recicleta_do_gaia_ex_cicloficina_de_alfama_#556",
+      "id": "/mercado_agrobio_#559",
       "properties": {
-        "category": "Mobilidade Suave",
+        "category": "Feiras & Mercados",
         "category-description": "",
-        "created_date": "2021-10-26T07:27:38.723-07:00",
-        "description": "Rua da Regueira, nº 40, 1100-437\n   ",
+        "created_date": "2021-10-26T07:27:43.710-07:00",
+        "description":
+          "Jardim Botto Machado, Campo de Santa Clara 26, 1100-475\n   Sábados 08:00 às 14:00",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -1710,22 +1670,22 @@
             "description": "",
             "title": "Website",
             "type": "Website",
-            "url": "https://www.facebook.com/GAIA.LX"
+            "url": "https://agrobio.pt/consumidor/mercados-agrobio/"
           },
           {
             "description": "",
             "title": "Facebook",
             "type": "Website",
-            "url": "https://www.facebook.com/GAIA.LX"
+            "url": "https://agrobio.pt/consumidor/mercados-agrobio/"
           }
         ],
         "relationships": [],
         "start_date": "",
-        "sub-category": "Cicloficinas",
+        "sub-category": "Mercado Biológico",
         "tags": [],
-        "title": "Recicleta do GAIA (ex Cicloficina de Alfama)",
+        "title": "Mercado AGROBIO ",
         "type": "",
-        "updated_date": "2021-10-26T07:27:38.723-07:00",
+        "updated_date": "2021-10-26T07:27:43.710-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -1786,16 +1746,15 @@
     },
     {
       "geometry": {
-        "coordinates": [ -9.136343941, 38.71398611 ],
+        "coordinates": [ -9.128451539, 38.71191147 ],
         "type": "Point"
       },
-      "id": "/gabinete_empreendorismo_social_coworking#553",
+      "id": "/recicleta_do_gaia_ex_cicloficina_de_alfama_#556",
       "properties": {
-        "category": "Junta de Freguesia",
+        "category": "Mobilidade Suave",
         "category-description": "",
-        "created_date": "2021-10-26T07:27:35.572-07:00",
-        "description":
-          "Poço do Borratém 25 - 2º, 1100-059\n   Dias úteis - 9h30 -13h / 14h -17h30",
+        "created_date": "2021-10-26T07:27:38.723-07:00",
+        "description": "Rua da Regueira, nº 40, 1100-437\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -1805,24 +1764,22 @@
             "description": "",
             "title": "Website",
             "type": "Website",
-            "url":
-              "https://www.jf-santamariamaior.pt/servicos/empreendedorismo-social/"
+            "url": "https://www.facebook.com/GAIA.LX"
           },
           {
             "description": "",
             "title": "Facebook",
             "type": "Website",
-            "url":
-              "https://www.jf-santamariamaior.pt/servicos/empreendedorismo-social/"
+            "url": "https://www.facebook.com/GAIA.LX"
           }
         ],
         "relationships": [],
         "start_date": "",
-        "sub-category": "#r183",
+        "sub-category": "Cicloficinas",
         "tags": [],
-        "title": "Gabinete empreendorismo social & Coworking",
+        "title": "Recicleta do GAIA (ex Cicloficina de Alfama)",
         "type": "",
-        "updated_date": "2021-10-26T07:27:35.572-07:00",
+        "updated_date": "2021-10-26T07:27:38.723-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -1869,6 +1826,77 @@
     },
     {
       "geometry": {
+        "coordinates": [ -9.136343941, 38.71398611 ],
+        "type": "Point"
+      },
+      "id": "/gabinete_empreendorismo_social_coworking#553",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-10-26T07:27:35.572-07:00",
+        "description":
+          "Poço do Borratém 25 - 2º, 1100-059\n   Dias úteis - 9h30 -13h / 14h -17h30",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://www.jf-santamariamaior.pt/servicos/empreendedorismo-social/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url":
+              "https://www.jf-santamariamaior.pt/servicos/empreendedorismo-social/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "#r183",
+        "tags": [],
+        "title": "Gabinete empreendorismo social & Coworking",
+        "type": "",
+        "updated_date": "2021-10-26T07:27:35.572-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.133412485999999, 38.71016381 ],
+        "type": "Point"
+      },
+      "id": "/servi_o_de_explica_es#551",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-10-26T07:27:34.070-07:00",
+        "description":
+          "Rua Augusto Rosa, 72\n   Dias úteis - 9h30 -13h / 14h -17h30",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Espaço Jovem",
+        "tags": [],
+        "title": "Serviço de explicações",
+        "type": "",
+        "updated_date": "2021-10-26T07:27:34.070-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
         "coordinates": [ -9.133412485999999, 38.71016381 ],
         "type": "Point"
       },
@@ -1900,11 +1928,12 @@
         "coordinates": [ -9.133412485999999, 38.71016381 ],
         "type": "Point"
       },
-      "id": "/servi_o_de_explica_es#551",
+      "id":
+        "/repara_es_dom_sticas_a_junta_resolve_eletricidade_serralharia_canaliza_o_pinturas_e_pequenas_obras_nas_habita_es_de_residentes#548",
       "properties": {
         "category": "Junta de Freguesia",
         "category-description": "",
-        "created_date": "2021-10-26T07:27:34.070-07:00",
+        "created_date": "2021-10-26T07:27:32.408-07:00",
         "description":
           "Rua Augusto Rosa, 72\n   Dias úteis - 9h30 -13h / 14h -17h30",
         "end_date": "",
@@ -1914,11 +1943,12 @@
         "links": [],
         "relationships": [],
         "start_date": "",
-        "sub-category": "Espaço Jovem",
+        "sub-category": "Intervenção comunitária",
         "tags": [],
-        "title": "Serviço de explicações",
+        "title":
+          "Reparações domésticas - \"A Junta Resolve\" - eletricidade, serralharia, canalização, pinturas e pequenas obras nas habitações de residentes",
         "type": "",
-        "updated_date": "2021-10-26T07:27:34.070-07:00",
+        "updated_date": "2021-10-26T07:27:32.408-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -1968,14 +1998,12 @@
         "coordinates": [ -9.133412485999999, 38.71016381 ],
         "type": "Point"
       },
-      "id":
-        "/repara_es_dom_sticas_a_junta_resolve_eletricidade_serralharia_canaliza_o_pinturas_e_pequenas_obras_nas_habita_es_de_residentes#548",
+      "id": "/loja_social_t_xtil_vestu_rio_peq_electrodom_sticos_#547",
       "properties": {
         "category": "Junta de Freguesia",
         "category-description": "",
-        "created_date": "2021-10-26T07:27:32.408-07:00",
-        "description":
-          "Rua Augusto Rosa, 72\n   Dias úteis - 9h30 -13h / 14h -17h30",
+        "created_date": "2021-10-26T07:27:31.952-07:00",
+        "description": "Rua Augusto Rosa, 72\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -1985,10 +2013,9 @@
         "start_date": "",
         "sub-category": "Intervenção comunitária",
         "tags": [],
-        "title":
-          "Reparações domésticas - \"A Junta Resolve\" - eletricidade, serralharia, canalização, pinturas e pequenas obras nas habitações de residentes",
+        "title": "Loja social /têxtil, vestuário, peq. electrodomésticos)",
         "type": "",
-        "updated_date": "2021-10-26T07:27:32.408-07:00",
+        "updated_date": "2021-10-26T07:27:31.952-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -2030,60 +2057,6 @@
         "title": "Cabeleireiro social",
         "type": "",
         "updated_date": "2021-10-26T07:27:31.179-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [ -9.133412485999999, 38.71016381 ],
-        "type": "Point"
-      },
-      "id": "/loja_social_t_xtil_vestu_rio_peq_electrodom_sticos_#547",
-      "properties": {
-        "category": "Junta de Freguesia",
-        "category-description": "",
-        "created_date": "2021-10-26T07:27:31.952-07:00",
-        "description": "Rua Augusto Rosa, 72\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Intervenção comunitária",
-        "tags": [],
-        "title": "Loja social /têxtil, vestuário, peq. electrodomésticos)",
-        "type": "",
-        "updated_date": "2021-10-26T07:27:31.952-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [ -9.132698178, 38.71311422 ],
-        "type": "Point"
-      },
-      "id": "/posto_de_limpeza_de_castelo_alfama#540",
-      "properties": {
-        "category": "Junta de Freguesia",
-        "category-description": "",
-        "created_date": "2021-10-26T07:27:27.478-07:00",
-        "description": "Rua de Santa Cruz do Castelo, 29\n   8h-16h30",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Higiene urbana",
-        "tags": [],
-        "title": "Posto de Limpeza de Castelo/Alfama",
-        "type": "",
-        "updated_date": "2021-10-26T07:27:27.478-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -2145,6 +2118,33 @@
     },
     {
       "geometry": {
+        "coordinates": [ -9.132698178, 38.71311422 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_castelo_alfama#540",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-10-26T07:27:27.478-07:00",
+        "description": "Rua de Santa Cruz do Castelo, 29\n   8h-16h30",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene urbana",
+        "tags": [],
+        "title": "Posto de Limpeza de Castelo/Alfama",
+        "type": "",
+        "updated_date": "2021-10-26T07:27:27.478-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
         "coordinates": [ -9.158643056000001, 38.76832889 ],
         "type": "Point"
       },
@@ -2167,33 +2167,6 @@
         "title": "Contentores Cáritas",
         "type": "",
         "updated_date": "2021-10-26T07:24:33.428-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [ -9.16394333, 38.76484658 ],
-        "type": "Point"
-      },
-      "id": "/contentores_c_ritas#504",
-      "properties": {
-        "category": "Recolha de resíduos",
-        "category-description": "",
-        "created_date": "2021-10-26T07:24:28.763-07:00",
-        "description": "Av. Padre Cruz (Inst. Ricardo Jorge)\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Roupa",
-        "tags": [],
-        "title": "Contentores Cáritas",
-        "type": "",
-        "updated_date": "2021-10-26T07:24:28.763-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -2249,6 +2222,33 @@
         "title": "Contentores Cáritas",
         "type": "",
         "updated_date": "2021-10-26T07:24:27.776-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.16394333, 38.76484658 ],
+        "type": "Point"
+      },
+      "id": "/contentores_c_ritas#504",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2021-10-26T07:24:28.763-07:00",
+        "description": "Av. Padre Cruz (Inst. Ricardo Jorge)\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Roupa",
+        "tags": [],
+        "title": "Contentores Cáritas",
+        "type": "",
+        "updated_date": "2021-10-26T07:24:28.763-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -2337,6 +2337,33 @@
     },
     {
       "geometry": {
+        "coordinates": [ -9.175016904, 38.76214269 ],
+        "type": "Point"
+      },
+      "id": "/reno_rede_nacional_de_ole_es#485",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2021-10-26T07:24:12.981-07:00",
+        "description": "Rua Professor Mário Albuquerque, jto 1\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "OAU",
+        "tags": [],
+        "title": "RENO - Rede Nacional de Oleões",
+        "type": "",
+        "updated_date": "2021-10-26T07:24:12.981-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
         "coordinates": [ -9.170817561, 38.76216702 ],
         "type": "Point"
       },
@@ -2364,27 +2391,40 @@
     },
     {
       "geometry": {
-        "coordinates": [ -9.175016904, 38.76214269 ],
+        "coordinates": [ -9.159668168, 38.76697977 ],
         "type": "Point"
       },
-      "id": "/reno_rede_nacional_de_ole_es#485",
+      "id": "/circular_wear_swap_spot_resid_ncia_unl_lumiar_#467",
       "properties": {
-        "category": "Recolha de resíduos",
+        "category": "Lojas de Segunda mão",
         "category-description": "",
-        "created_date": "2021-10-26T07:24:12.981-07:00",
-        "description": "Rua Professor Mário Albuquerque, jto 1\n   ",
+        "created_date": "2021-10-26T07:23:58.796-07:00",
+        "description": "rua rainha dona luísa de gusmão 3, 1600-003\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
-        "links": [],
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://pt.circularwear.com/swapspots"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://pt.circularwear.com/swapspots"
+          }
+        ],
         "relationships": [],
         "start_date": "",
-        "sub-category": "OAU",
+        "sub-category": "Trocas de Roupa",
         "tags": [],
-        "title": "RENO - Rede Nacional de Oleões",
+        "title": "Circular Wear - Swap Spot (Residência UNL Lumiar)",
         "type": "",
-        "updated_date": "2021-10-26T07:24:12.981-07:00",
+        "updated_date": "2021-10-26T07:23:58.796-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -2456,46 +2496,6 @@
         "title": "Rogério Reis - Reparação de Calçado e Afins",
         "type": "",
         "updated_date": "2021-10-26T07:23:57.767-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [ -9.159668168, 38.76697977 ],
-        "type": "Point"
-      },
-      "id": "/circular_wear_swap_spot_resid_ncia_unl_lumiar_#467",
-      "properties": {
-        "category": "Lojas de Segunda mão",
-        "category-description": "",
-        "created_date": "2021-10-26T07:23:58.796-07:00",
-        "description": "rua rainha dona luísa de gusmão 3, 1600-003\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "https://pt.circularwear.com/swapspots"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "https://pt.circularwear.com/swapspots"
-          }
-        ],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Trocas de Roupa",
-        "tags": [],
-        "title": "Circular Wear - Swap Spot (Residência UNL Lumiar)",
-        "type": "",
-        "updated_date": "2021-10-26T07:23:58.796-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -2799,6 +2799,47 @@
         "weight": 0
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.161946894, 38.77388214 ],
+        "type": "Point"
+      },
+      "id": "/mercado_biol_gico_do_lumiar#448",
+      "properties": {
+        "category": "Feiras & Mercados",
+        "category-description": "",
+        "created_date": "2021-10-26T07:23:39.319-07:00",
+        "description":
+          "Alameda das Linhas de Torres, 1750-139\n   3ª a Sáb - 7h às 21h",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-lumiar.pt/servicos/mercado/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://jf-lumiar.pt/servicos/mercado/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Mercado municipal ",
+        "tags": [],
+        "title": "Mercado Biológico do Lumiar",
+        "type": "",
+        "updated_date": "2021-10-26T07:23:39.319-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
     }
   ],
   "nonGeoFeatures": [
@@ -2989,6 +3030,29 @@
       "type": "Feature"
     },
     {
+      "id": "/reno_rede_nacional_de_ole_es#630",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2021-10-26T07:28:52.658-07:00",
+        "description": "Rua da madalena\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "OAU",
+        "tags": [],
+        "title": "RENO - Rede Nacional de Oleões",
+        "type": "",
+        "updated_date": "2021-10-26T07:28:52.658-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
       "id": "/reno_rede_nacional_de_ole_es#631",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3036,52 +3100,6 @@
       "type": "Feature"
     },
     {
-      "id": "/reno_rede_nacional_de_ole_es#630",
-      "properties": {
-        "category": "Recolha de resíduos",
-        "category-description": "",
-        "created_date": "2021-10-26T07:28:52.658-07:00",
-        "description": "Rua da madalena\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "OAU",
-        "tags": [],
-        "title": "RENO - Rede Nacional de Oleões",
-        "type": "",
-        "updated_date": "2021-10-26T07:28:52.658-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "id": "/reno_rede_nacional_de_ole_es#628",
-      "properties": {
-        "category": "Recolha de resíduos",
-        "category-description": "",
-        "created_date": "2021-10-26T07:28:51.462-07:00",
-        "description": "Rua Poço do Borratém\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "OAU",
-        "tags": [],
-        "title": "RENO - Rede Nacional de Oleões",
-        "type": "",
-        "updated_date": "2021-10-26T07:28:51.462-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
       "id": "/reno_rede_nacional_de_ole_es#627",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3105,13 +3123,12 @@
       "type": "Feature"
     },
     {
-      "id": "/rede_depositr_o_erp_european_recycling_platform_#625",
+      "id": "/reno_rede_nacional_de_ole_es#628",
       "properties": {
         "category": "Recolha de resíduos",
         "category-description": "",
-        "created_date": "2021-10-26T07:28:49.307-07:00",
-        "description":
-          "Rua de Santa Apolónia - Estação\n1100-486 - Pingo Doce\n   ",
+        "created_date": "2021-10-26T07:28:51.462-07:00",
+        "description": "Rua Poço do Borratém\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -3119,11 +3136,11 @@
         "links": [],
         "relationships": [],
         "start_date": "",
-        "sub-category": "REEE",
+        "sub-category": "OAU",
         "tags": [],
-        "title": "Rede Depositrão (ERP - European Recycling Platform)",
+        "title": "RENO - Rede Nacional de Oleões",
         "type": "",
-        "updated_date": "2021-10-26T07:28:49.307-07:00",
+        "updated_date": "2021-10-26T07:28:51.462-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -3175,13 +3192,13 @@
       "type": "Feature"
     },
     {
-      "id": "/rede_depositr_o_erp_european_recycling_platform_#622",
+      "id": "/rede_depositr_o_erp_european_recycling_platform_#625",
       "properties": {
         "category": "Recolha de resíduos",
         "category-description": "",
-        "created_date": "2021-10-26T07:28:47.231-07:00",
+        "created_date": "2021-10-26T07:28:49.307-07:00",
         "description":
-          "Rua do Carmo, 2 - Armazéns do Chiado\n1200-094 - FNAC Chiado\n   ",
+          "Rua de Santa Apolónia - Estação\n1100-486 - Pingo Doce\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -3193,7 +3210,7 @@
         "tags": [],
         "title": "Rede Depositrão (ERP - European Recycling Platform)",
         "type": "",
-        "updated_date": "2021-10-26T07:28:47.231-07:00",
+        "updated_date": "2021-10-26T07:28:49.307-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -3223,13 +3240,13 @@
       "type": "Feature"
     },
     {
-      "id": "/rede_depositr_o_erp_european_recycling_platform_#621",
+      "id": "/rede_depositr_o_erp_european_recycling_platform_#622",
       "properties": {
         "category": "Recolha de resíduos",
         "category-description": "",
-        "created_date": "2021-10-26T07:28:46.341-07:00",
+        "created_date": "2021-10-26T07:28:47.231-07:00",
         "description":
-          "Rua dos Correeiros nº 61 A a 61 C\n1100-162 - Minipreço\n   REEE + RPA",
+          "Rua do Carmo, 2 - Armazéns do Chiado\n1200-094 - FNAC Chiado\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -3241,7 +3258,7 @@
         "tags": [],
         "title": "Rede Depositrão (ERP - European Recycling Platform)",
         "type": "",
-        "updated_date": "2021-10-26T07:28:46.341-07:00",
+        "updated_date": "2021-10-26T07:28:47.231-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -3279,6 +3296,30 @@
         "title": "Sound Club Vinyl Store",
         "type": "",
         "updated_date": "2021-10-26T07:28:45.356-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "/rede_depositr_o_erp_european_recycling_platform_#621",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2021-10-26T07:28:46.341-07:00",
+        "description":
+          "Rua dos Correeiros nº 61 A a 61 C\n1100-162 - Minipreço\n   REEE + RPA",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "REEE",
+        "tags": [],
+        "title": "Rede Depositrão (ERP - European Recycling Platform)",
+        "type": "",
+        "updated_date": "2021-10-26T07:28:46.341-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -3356,42 +3397,6 @@
       "type": "Feature"
     },
     {
-      "id": "/a_feira_dos_tecidos#604",
-      "properties": {
-        "category": "Lojas a Granel",
-        "category-description": "",
-        "created_date": "2021-10-26T07:28:27.323-07:00",
-        "description": "Rua do Ouro 280\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "https://feiradostecidos.com/"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "https://feiradostecidos.com/"
-          }
-        ],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Tecidos",
-        "tags": [],
-        "title": "A Feira dos Tecidos",
-        "type": "",
-        "updated_date": "2021-10-26T07:28:27.323-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
       "id": "/londres_sal_o#603",
       "properties": {
         "category": "Lojas a Granel",
@@ -3429,24 +3434,37 @@
       "type": "Feature"
     },
     {
-      "id": "/entretex_ld_produtos_t_xteis#601",
+      "id": "/a_feira_dos_tecidos#604",
       "properties": {
         "category": "Lojas a Granel",
         "category-description": "",
-        "created_date": "2021-10-26T07:28:24.035-07:00",
-        "description": "Rua do Crucifixo 76, 1º dtº\n   ",
+        "created_date": "2021-10-26T07:28:27.323-07:00",
+        "description": "Rua do Ouro 280\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
-        "links": [],
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://feiradostecidos.com/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://feiradostecidos.com/"
+          }
+        ],
         "relationships": [],
         "start_date": "",
-        "sub-category": "Retrosaria e Tecidos?",
+        "sub-category": "Tecidos",
         "tags": [],
-        "title": "Entretex Ldª – Produtos Têxteis",
+        "title": "A Feira dos Tecidos",
         "type": "",
-        "updated_date": "2021-10-26T07:28:24.035-07:00",
+        "updated_date": "2021-10-26T07:28:27.323-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -3488,12 +3506,12 @@
       "type": "Feature"
     },
     {
-      "id": "/lu_s_s_fernandes_ld_#600",
+      "id": "/entretex_ld_produtos_t_xteis#601",
       "properties": {
         "category": "Lojas a Granel",
         "category-description": "",
-        "created_date": "2021-10-26T07:28:23.313-07:00",
-        "description": "Rua da Conceição 79-81\n   ",
+        "created_date": "2021-10-26T07:28:24.035-07:00",
+        "description": "Rua do Crucifixo 76, 1º dtº\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -3503,9 +3521,9 @@
         "start_date": "",
         "sub-category": "Retrosaria e Tecidos?",
         "tags": [],
-        "title": "Luís S. Fernandes Ldª",
+        "title": "Entretex Ldª – Produtos Têxteis",
         "type": "",
-        "updated_date": "2021-10-26T07:28:23.313-07:00",
+        "updated_date": "2021-10-26T07:28:24.035-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -3534,12 +3552,12 @@
       "type": "Feature"
     },
     {
-      "id": "/eduardo_gomes_ld_import_e_export_de_retrosaria_#597",
+      "id": "/lu_s_s_fernandes_ld_#600",
       "properties": {
         "category": "Lojas a Granel",
         "category-description": "",
-        "created_date": "2021-10-26T07:28:20.557-07:00",
-        "description": "Rua da Madalena 110, 1100-319\n   ",
+        "created_date": "2021-10-26T07:28:23.313-07:00",
+        "description": "Rua da Conceição 79-81\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -3547,11 +3565,11 @@
         "links": [],
         "relationships": [],
         "start_date": "",
-        "sub-category": "Retrosarias",
+        "sub-category": "Retrosaria e Tecidos?",
         "tags": [],
-        "title": "Eduardo Gomes Ldª – Import. e export. de retrosaria ",
+        "title": "Luís S. Fernandes Ldª",
         "type": "",
-        "updated_date": "2021-10-26T07:28:20.557-07:00",
+        "updated_date": "2021-10-26T07:28:23.313-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -3603,6 +3621,29 @@
       "type": "Feature"
     },
     {
+      "id": "/eduardo_gomes_ld_import_e_export_de_retrosaria_#597",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-10-26T07:28:20.557-07:00",
+        "description": "Rua da Madalena 110, 1100-319\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Retrosarias",
+        "tags": [],
+        "title": "Eduardo Gomes Ldª – Import. e export. de retrosaria ",
+        "type": "",
+        "updated_date": "2021-10-26T07:28:20.557-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
       "id": "/bot_o_dourado#595",
       "properties": {
         "category": "Lojas a Granel",
@@ -3626,29 +3667,6 @@
       "type": "Feature"
     },
     {
-      "id": "/botil_bot_es_l_s_e_retrosaria_lda#593",
-      "properties": {
-        "category": "Lojas a Granel",
-        "category-description": "",
-        "created_date": "2021-10-26T07:28:17.579-07:00",
-        "description": "Praça da Figueira, 18, 1ºEsq, 1100-241\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Retrosarias",
-        "tags": [],
-        "title": "Botilã - Botões, Lãs E Retrosaria, Lda",
-        "type": "",
-        "updated_date": "2021-10-26T07:28:17.579-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
       "id": "/arquichique_de_coucellos_coelho_ld_#594",
       "properties": {
         "category": "Lojas a Granel",
@@ -3667,78 +3685,6 @@
         "title": "ArquiChique de Coucellos & Coelho ldª",
         "type": "",
         "updated_date": "2021-10-26T07:28:18.339-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "id": "/alexandre_bento#590",
-      "properties": {
-        "category": "Lojas a Granel",
-        "category-description": "",
-        "created_date": "2021-10-26T07:28:15.544-07:00",
-        "description": "Rua da Conceição 67/69, 1100-152\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "http://lojascomhistoria.pt/lojas/alexandre-bento"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "http://lojascomhistoria.pt/lojas/alexandre-bento"
-          }
-        ],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Retrosarias",
-        "tags": [],
-        "title": "Alexandre Bento",
-        "type": "",
-        "updated_date": "2021-10-26T07:28:15.544-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "id": "/retrosaria_bijou#591",
-      "properties": {
-        "category": "Lojas a Granel",
-        "category-description": "",
-        "created_date": "2021-10-26T07:28:16.106-07:00",
-        "description": "Rua da Conceição, 91, 1100-152\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "http://lojascomhistoria.pt/lojas/retrosaria-bijou"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "http://lojascomhistoria.pt/lojas/retrosaria-bijou"
-          }
-        ],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Retrosarias",
-        "tags": [],
-        "title": "Retrosaria Bijou",
-        "type": "",
-        "updated_date": "2021-10-26T07:28:16.106-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -3781,6 +3727,65 @@
       "type": "Feature"
     },
     {
+      "id": "/botil_bot_es_l_s_e_retrosaria_lda#593",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-10-26T07:28:17.579-07:00",
+        "description": "Praça da Figueira, 18, 1ºEsq, 1100-241\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Retrosarias",
+        "tags": [],
+        "title": "Botilã - Botões, Lãs E Retrosaria, Lda",
+        "type": "",
+        "updated_date": "2021-10-26T07:28:17.579-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "/retrosaria_bijou#591",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-10-26T07:28:16.106-07:00",
+        "description": "Rua da Conceição, 91, 1100-152\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://lojascomhistoria.pt/lojas/retrosaria-bijou"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "http://lojascomhistoria.pt/lojas/retrosaria-bijou"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Retrosarias",
+        "tags": [],
+        "title": "Retrosaria Bijou",
+        "type": "",
+        "updated_date": "2021-10-26T07:28:16.106-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
       "id": "/batista_reis_nardo#589",
       "properties": {
         "category": "Lojas a Granel",
@@ -3812,6 +3817,42 @@
         "title": "Batista & Reis - Nardo",
         "type": "",
         "updated_date": "2021-10-26T07:28:14.705-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "/alexandre_bento#590",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-10-26T07:28:15.544-07:00",
+        "description": "Rua da Conceição 67/69, 1100-152\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://lojascomhistoria.pt/lojas/alexandre-bento"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "http://lojascomhistoria.pt/lojas/alexandre-bento"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Retrosarias",
+        "tags": [],
+        "title": "Alexandre Bento",
+        "type": "",
+        "updated_date": "2021-10-26T07:28:15.544-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -4033,6 +4074,29 @@
       "type": "Feature"
     },
     {
+      "id": "/lavandaria_alfama_1#544",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-10-26T07:27:29.934-07:00",
+        "description": "Rua dos Corvos\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Lavadouro público",
+        "tags": [],
+        "title": "Lavandaria Alfama 1",
+        "type": "",
+        "updated_date": "2021-10-26T07:27:29.934-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
       "id": "/lavandaria_mouraria_2#545",
       "properties": {
         "category": "Junta de Freguesia",
@@ -4102,24 +4166,37 @@
       "type": "Feature"
     },
     {
-      "id": "/lavandaria_alfama_1#544",
+      "id": "/clip_recursos_e_desenvolvimento#538",
       "properties": {
-        "category": "Junta de Freguesia",
+        "category": "Moeda Local",
         "category-description": "",
-        "created_date": "2021-10-26T07:27:29.934-07:00",
-        "description": "Rua dos Corvos\n   ",
+        "created_date": "2021-10-26T07:24:54.757-07:00",
+        "description": "R. Luís Piçarra 12A, 1750-448\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
-        "links": [],
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://cliprd.org/plataforma-de-recursos/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://cliprd.org/plataforma-de-recursos/"
+          }
+        ],
         "relationships": [],
         "start_date": "",
-        "sub-category": "Lavadouro público",
+        "sub-category": "CliPS - Partilha de Recursos Materiais",
         "tags": [],
-        "title": "Lavandaria Alfama 1",
+        "title": "CLIP - Recursos e Desenvolvimento",
         "type": "",
-        "updated_date": "2021-10-26T07:27:29.934-07:00",
+        "updated_date": "2021-10-26T07:24:54.757-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -4189,37 +4266,25 @@
       "type": "Feature"
     },
     {
-      "id": "/clip_recursos_e_desenvolvimento#538",
+      "id": "/associa_o_de_moradores_do_bairro_da_cruz_vermelha#535",
       "properties": {
-        "category": "Moeda Local",
+        "category":
+          "Associações, Centros comunitários & Projectos Ambientais",
         "category-description": "",
-        "created_date": "2021-10-26T07:24:54.757-07:00",
-        "description": "R. Luís Piçarra 12A, 1750-448\n   ",
+        "created_date": "2021-10-26T07:24:51.720-07:00",
+        "description": "Rua Maria Carlota nº 8 Loja A/ B\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "https://cliprd.org/plataforma-de-recursos/"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "https://cliprd.org/plataforma-de-recursos/"
-          }
-        ],
+        "links": [],
         "relationships": [],
         "start_date": "",
-        "sub-category": "CliPS - Partilha de Recursos Materiais",
+        "sub-category": "Comunitárias",
         "tags": [],
-        "title": "CLIP - Recursos e Desenvolvimento",
+        "title": "Associação de Moradores do Bairro da Cruz Vermelha",
         "type": "",
-        "updated_date": "2021-10-26T07:24:54.757-07:00",
+        "updated_date": "2021-10-26T07:24:51.720-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -4287,55 +4352,6 @@
       "type": "Feature"
     },
     {
-      "id": "/associa_o_de_moradores_do_bairro_da_cruz_vermelha#535",
-      "properties": {
-        "category":
-          "Associações, Centros comunitários & Projectos Ambientais",
-        "category-description": "",
-        "created_date": "2021-10-26T07:24:51.720-07:00",
-        "description": "Rua Maria Carlota nº 8 Loja A/ B\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Comunitárias",
-        "tags": [],
-        "title": "Associação de Moradores do Bairro da Cruz Vermelha",
-        "type": "",
-        "updated_date": "2021-10-26T07:24:51.720-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "id": "/associa_o_espa_o_mundo_per9#531",
-      "properties": {
-        "category":
-          "Associações, Centros comunitários & Projectos Ambientais",
-        "category-description": "",
-        "created_date": "2021-10-26T07:24:48.925-07:00",
-        "description":
-          "Rua José Cardoso Pires lote 7.13, Alta de Lisboa, 1750-356\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Comunitárias",
-        "tags": [],
-        "title": "Associação Espaço Mundo - PER9",
-        "type": "",
-        "updated_date": "2021-10-26T07:24:48.925-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
       "id": "/associa_o_de_moradores_do_per11#532",
       "properties": {
         "category":
@@ -4398,38 +4414,26 @@
       "type": "Feature"
     },
     {
-      "id": "/csm_centro_social_da_musgueira#528",
+      "id": "/associa_o_espa_o_mundo_per9#531",
       "properties": {
         "category":
           "Associações, Centros comunitários & Projectos Ambientais",
         "category-description": "",
-        "created_date": "2021-10-26T07:24:46.571-07:00",
-        "description": "Rua Maria Margarida, 6/6A 1750-186\n   ",
+        "created_date": "2021-10-26T07:24:48.925-07:00",
+        "description":
+          "Rua José Cardoso Pires lote 7.13, Alta de Lisboa, 1750-356\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "http://www.csmusgueira.org/"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "http://www.csmusgueira.org/"
-          }
-        ],
+        "links": [],
         "relationships": [],
         "start_date": "",
         "sub-category": "Comunitárias",
         "tags": [],
-        "title": "CSM - Centro Social da Musgueira",
+        "title": "Associação Espaço Mundo - PER9",
         "type": "",
-        "updated_date": "2021-10-26T07:24:46.571-07:00",
+        "updated_date": "2021-10-26T07:24:48.925-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -4509,25 +4513,38 @@
       "type": "Feature"
     },
     {
-      "id": "/entr_hortas#525",
+      "id": "/csm_centro_social_da_musgueira#528",
       "properties": {
         "category":
           "Associações, Centros comunitários & Projectos Ambientais",
         "category-description": "",
-        "created_date": "2021-10-26T07:24:44.468-07:00",
-        "description": "\n   ",
+        "created_date": "2021-10-26T07:24:46.571-07:00",
+        "description": "Rua Maria Margarida, 6/6A 1750-186\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
         "image_credit": "",
-        "links": [],
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://www.csmusgueira.org/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "http://www.csmusgueira.org/"
+          }
+        ],
         "relationships": [],
         "start_date": "",
-        "sub-category": "Ambientais",
+        "sub-category": "Comunitárias",
         "tags": [],
-        "title": "Entr'hortas",
+        "title": "CSM - Centro Social da Musgueira",
         "type": "",
-        "updated_date": "2021-10-26T07:24:44.468-07:00",
+        "updated_date": "2021-10-26T07:24:46.571-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -4609,13 +4626,13 @@
       "type": "Feature"
     },
     {
-      "id": "/garrafas_pet_latas#522",
+      "id": "/entr_hortas#525",
       "properties": {
-        "category": "Recolha de resíduos",
+        "category":
+          "Associações, Centros comunitários & Projectos Ambientais",
         "category-description": "",
-        "created_date": "2021-10-26T07:24:42.534-07:00",
-        "description":
-          "Continente Alto do Lumiar - Av. David Mourão-Ferreira 62, 1750-314\n   ",
+        "created_date": "2021-10-26T07:24:44.468-07:00",
+        "description": "\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -4623,11 +4640,11 @@
         "links": [],
         "relationships": [],
         "start_date": "",
-        "sub-category": "Máquinas de recolha embalagens",
+        "sub-category": "Ambientais",
         "tags": [],
-        "title": "Garrafas PET + Latas",
+        "title": "Entr'hortas",
         "type": "",
-        "updated_date": "2021-10-26T07:24:42.534-07:00",
+        "updated_date": "2021-10-26T07:24:44.468-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -4675,6 +4692,30 @@
         "title": "Contentores Cáritas",
         "type": "",
         "updated_date": "2021-10-26T07:24:41.870-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "/garrafas_pet_latas#522",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2021-10-26T07:24:42.534-07:00",
+        "description":
+          "Continente Alto do Lumiar - Av. David Mourão-Ferreira 62, 1750-314\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Máquinas de recolha embalagens",
+        "tags": [],
+        "title": "Garrafas PET + Latas",
+        "type": "",
+        "updated_date": "2021-10-26T07:24:42.534-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -4749,29 +4790,6 @@
       "type": "Feature"
     },
     {
-      "id": "/contentores_c_ritas#516",
-      "properties": {
-        "category": "Recolha de resíduos",
-        "category-description": "",
-        "created_date": "2021-10-26T07:24:38.121-07:00",
-        "description": "Mercado Lumiar \n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Roupa",
-        "tags": [],
-        "title": "Contentores Cáritas",
-        "type": "",
-        "updated_date": "2021-10-26T07:24:38.121-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
       "id": "/contentores_c_ritas#517",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4819,6 +4837,29 @@
       "type": "Feature"
     },
     {
+      "id": "/contentores_c_ritas#516",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2021-10-26T07:24:38.121-07:00",
+        "description": "Mercado Lumiar \n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Roupa",
+        "tags": [],
+        "title": "Contentores Cáritas",
+        "type": "",
+        "updated_date": "2021-10-26T07:24:38.121-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
       "id": "/contentores_c_ritas#514",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4838,6 +4879,29 @@
         "title": "Contentores Cáritas",
         "type": "",
         "updated_date": "2021-10-26T07:24:35.998-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "/contentores_c_ritas#512",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2021-10-26T07:24:34.747-07:00",
+        "description": "Rua Prof. Prado Coelho, 21A\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Roupa",
+        "tags": [],
+        "title": "Contentores Cáritas",
+        "type": "",
+        "updated_date": "2021-10-26T07:24:34.747-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -4889,12 +4953,12 @@
       "type": "Feature"
     },
     {
-      "id": "/contentores_c_ritas#512",
+      "id": "/contentores_c_ritas#509",
       "properties": {
         "category": "Recolha de resíduos",
         "category-description": "",
-        "created_date": "2021-10-26T07:24:34.747-07:00",
-        "description": "Rua Prof. Prado Coelho, 21A\n   ",
+        "created_date": "2021-10-26T07:24:32.753-07:00",
+        "description": "Calçada de Carriche\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -4906,7 +4970,7 @@
         "tags": [],
         "title": "Contentores Cáritas",
         "type": "",
-        "updated_date": "2021-10-26T07:24:34.747-07:00",
+        "updated_date": "2021-10-26T07:24:32.753-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -4935,12 +4999,12 @@
       "type": "Feature"
     },
     {
-      "id": "/contentores_c_ritas#509",
+      "id": "/contentores_c_ritas#506",
       "properties": {
         "category": "Recolha de resíduos",
         "category-description": "",
-        "created_date": "2021-10-26T07:24:32.753-07:00",
-        "description": "Calçada de Carriche\n   ",
+        "created_date": "2021-10-26T07:24:30.846-07:00",
+        "description": "Av. Sérgio Vieira de Mello, 19 A, 1750-246\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -4952,7 +5016,7 @@
         "tags": [],
         "title": "Contentores Cáritas",
         "type": "",
-        "updated_date": "2021-10-26T07:24:32.753-07:00",
+        "updated_date": "2021-10-26T07:24:30.846-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -4976,29 +5040,6 @@
         "title": "Contentores Cáritas",
         "type": "",
         "updated_date": "2021-10-26T07:24:31.539-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "id": "/contentores_c_ritas#506",
-      "properties": {
-        "category": "Recolha de resíduos",
-        "category-description": "",
-        "created_date": "2021-10-26T07:24:30.846-07:00",
-        "description": "Av. Sérgio Vieira de Mello, 19 A, 1750-246\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Roupa",
-        "tags": [],
-        "title": "Contentores Cáritas",
-        "type": "",
-        "updated_date": "2021-10-26T07:24:30.846-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -5160,6 +5201,29 @@
       "type": "Feature"
     },
     {
+      "id": "/reno_rede_nacional_de_ole_es#492",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2021-10-26T07:24:18.828-07:00",
+        "description": "Alameda Linhas Torres, Mercado do Lumiar\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "OAU",
+        "tags": [],
+        "title": "RENO - Rede Nacional de Oleões",
+        "type": "",
+        "updated_date": "2021-10-26T07:24:18.828-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
       "id": "/reno_rede_nacional_de_ole_es#493",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5201,29 +5265,6 @@
         "title": "RENO - Rede Nacional de Oleões",
         "type": "",
         "updated_date": "2021-10-26T07:24:18.069-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "id": "/reno_rede_nacional_de_ole_es#492",
-      "properties": {
-        "category": "Recolha de resíduos",
-        "category-description": "",
-        "created_date": "2021-10-26T07:24:18.828-07:00",
-        "description": "Alameda Linhas Torres, Mercado do Lumiar\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "OAU",
-        "tags": [],
-        "title": "RENO - Rede Nacional de Oleões",
-        "type": "",
-        "updated_date": "2021-10-26T07:24:18.828-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -5275,30 +5316,6 @@
       "type": "Feature"
     },
     {
-      "id": "/reno_rede_nacional_de_ole_es#488",
-      "properties": {
-        "category": "Recolha de resíduos",
-        "category-description": "",
-        "created_date": "2021-10-26T07:24:15.750-07:00",
-        "description":
-          "Rua Filipe Duarte, Posto de Limpeza de Telheiras\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "OAU",
-        "tags": [],
-        "title": "RENO - Rede Nacional de Oleões",
-        "type": "",
-        "updated_date": "2021-10-26T07:24:15.750-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
       "id": "/reno_rede_nacional_de_ole_es#487",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5322,13 +5339,13 @@
       "type": "Feature"
     },
     {
-      "id": "/rede_depositr_o_erp_european_recycling_platform_#483",
+      "id": "/reno_rede_nacional_de_ole_es#488",
       "properties": {
         "category": "Recolha de resíduos",
         "category-description": "",
-        "created_date": "2021-10-26T07:24:11.614-07:00",
+        "created_date": "2021-10-26T07:24:15.750-07:00",
         "description":
-          "RUA PROFESSOR FRANCISCO GENTIL 21\n1600-622 (Minipreço Telheiras_L_PLUS)\n   ",
+          "Rua Filipe Duarte, Posto de Limpeza de Telheiras\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -5336,11 +5353,11 @@
         "links": [],
         "relationships": [],
         "start_date": "",
-        "sub-category": "REEE",
+        "sub-category": "OAU",
         "tags": [],
-        "title": "Rede Depositrão (ERP - European Recycling Platform)",
+        "title": "RENO - Rede Nacional de Oleões",
         "type": "",
-        "updated_date": "2021-10-26T07:24:11.614-07:00",
+        "updated_date": "2021-10-26T07:24:15.750-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -5394,13 +5411,13 @@
       "type": "Feature"
     },
     {
-      "id": "/rede_depositr_o_erp_european_recycling_platform_#480",
+      "id": "/rede_depositr_o_erp_european_recycling_platform_#483",
       "properties": {
         "category": "Recolha de resíduos",
         "category-description": "",
-        "created_date": "2021-10-26T07:24:09.427-07:00",
+        "created_date": "2021-10-26T07:24:11.614-07:00",
         "description":
-          "Alameda das Linhas de Torres, 149\n1750-145 Minipreço Lumiar I\n   ",
+          "RUA PROFESSOR FRANCISCO GENTIL 21\n1600-622 (Minipreço Telheiras_L_PLUS)\n   ",
         "end_date": "",
         "icon_css_class": "",
         "image": "",
@@ -5412,7 +5429,7 @@
         "tags": [],
         "title": "Rede Depositrão (ERP - European Recycling Platform)",
         "type": "",
-        "updated_date": "2021-10-26T07:24:09.427-07:00",
+        "updated_date": "2021-10-26T07:24:11.614-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -5461,6 +5478,30 @@
         "title": "Rede Depositrão (ERP - European Recycling Platform)",
         "type": "",
         "updated_date": "2021-10-26T07:24:08.877-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "/rede_depositr_o_erp_european_recycling_platform_#480",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2021-10-26T07:24:09.427-07:00",
+        "description":
+          "Alameda das Linhas de Torres, 149\n1750-145 Minipreço Lumiar I\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "REEE",
+        "tags": [],
+        "title": "Rede Depositrão (ERP - European Recycling Platform)",
+        "type": "",
+        "updated_date": "2021-10-26T07:24:09.427-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -5706,6 +5747,29 @@
       "type": "Feature"
     },
     {
+      "id": "/restauro#464",
+      "properties": {
+        "category": "Serviços de Manutenção, Reparação & Ofícios",
+        "category-description": "",
+        "created_date": "2021-10-26T07:23:56.008-07:00",
+        "description": "R. Lumiar 76\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Mobiliário",
+        "tags": [],
+        "title": "Restauro",
+        "type": "",
+        "updated_date": "2021-10-26T07:23:56.008-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
       "id": "/catag_s_ld_#465",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -5753,29 +5817,6 @@
       "type": "Feature"
     },
     {
-      "id": "/restauro#464",
-      "properties": {
-        "category": "Serviços de Manutenção, Reparação & Ofícios",
-        "category-description": "",
-        "created_date": "2021-10-26T07:23:56.008-07:00",
-        "description": "R. Lumiar 76\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Mobiliário",
-        "tags": [],
-        "title": "Restauro",
-        "type": "",
-        "updated_date": "2021-10-26T07:23:56.008-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
       "id": "/com_rcio_de_telheiras_lumiar_e_carnide#461",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -5807,6 +5848,29 @@
         "title": "Comércio de telheiras, lumiar e carnide",
         "type": "",
         "updated_date": "2021-10-26T07:23:52.922-07:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "/com_rcio_e_servi_os_da_alta_de_lisboa_#460",
+      "properties": {
+        "category": "Serviços de Manutenção, Reparação & Ofícios",
+        "category-description": "",
+        "created_date": "2021-10-26T07:23:52.141-07:00",
+        "description": "-\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Comércio local - plataformas online",
+        "tags": [],
+        "title": "Comércio e serviços da alta de lisboa ",
+        "type": "",
+        "updated_date": "2021-10-26T07:23:52.141-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -5844,29 +5908,6 @@
         "title": "Lavandaria Ecológica Super Avó ",
         "type": "",
         "updated_date": "2021-10-26T07:23:50.932-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
-    },
-    {
-      "id": "/com_rcio_e_servi_os_da_alta_de_lisboa_#460",
-      "properties": {
-        "category": "Serviços de Manutenção, Reparação & Ofícios",
-        "category-description": "",
-        "created_date": "2021-10-26T07:23:52.141-07:00",
-        "description": "-\n   ",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [],
-        "relationships": [],
-        "start_date": "",
-        "sub-category": "Comércio local - plataformas online",
-        "tags": [],
-        "title": "Comércio e serviços da alta de lisboa ",
-        "type": "",
-        "updated_date": "2021-10-26T07:23:52.141-07:00",
         "weight": 0
       },
       "type": "Feature"
@@ -5930,44 +5971,6 @@
         "weight": 0
       },
       "type": "Feature"
-    },
-    {
-      "id": "/urban_market_alta_de_lx_2013_#450",
-      "properties": {
-        "category": "Feiras & Mercados",
-        "category-description": "",
-        "created_date": "2021-10-26T07:23:41.280-07:00",
-        "description":
-          "Parque Oeste/Quinta das Conchas\n   2º Sábado de cada mês",
-        "end_date": "",
-        "icon_css_class": "",
-        "image": "",
-        "image_credit": "",
-        "links": [
-          {
-            "description": "",
-            "title": "Website",
-            "type": "Website",
-            "url": "-"
-          },
-          {
-            "description": "",
-            "title": "Facebook",
-            "type": "Website",
-            "url": "-"
-          }
-        ],
-        "relationships": [],
-        "start_date": "",
-        "sub-category":
-          "Artigos em 2ª da mão, artesanato, design urbano, produtos ecológicos e hortícolas",
-        "tags": [],
-        "title": "Urban Market Alta de Lx (2013)",
-        "type": "",
-        "updated_date": "2021-10-26T07:23:41.280-07:00",
-        "weight": 0
-      },
-      "type": "Feature"
     }
   ],
   "properties": {
@@ -5995,29 +5998,6 @@
         "weight": 0
       },
       {
-        "category":
-          "Associações, Centros comunitários & Projectos Ambientais",
-        "description": "",
-        "id": 11,
-        "sub-categories": [
-          "Comunitárias", "Projetos", "#r145", "Ambientais",
-          "Ecologista/Ambiental", "Cooperativa",
-          "Desenvolvimento Local/ Intervenção comunitária",
-          "Partilha gastronómica e cultural"
-        ],
-        "weight": 0
-      },
-      {
-        "category": "Lojas de Segunda mão",
-        "description": "",
-        "id": 9,
-        "sub-categories": [
-          "#r138", "Troca de roupas", "Trocas de Roupa", "Venda de Roupa",
-          "Troca de roupa", "Mobiliário & Decoração", "Vinyl Records"
-        ],
-        "weight": 0
-      },
-      {
         "category": "Recolha de resíduos",
         "description": "",
         "id": 10,
@@ -6029,6 +6009,19 @@
           "Rolhas", "Máquinas de recolha embalagens",
           "LÂmpadas, pilhas & pequenos equipamentos", "Guarda Chuvas",
           "Guarda Chuvas "
+        ],
+        "weight": 0
+      },
+      {
+        "category":
+          "Associações, Centros comunitários & Projectos Ambientais",
+        "description": "",
+        "id": 11,
+        "sub-categories": [
+          "Comunitárias", "Projetos", "#r145", "Ambientais",
+          "Ecologista/Ambiental", "Cooperativa",
+          "Desenvolvimento Local/ Intervenção comunitária",
+          "Partilha gastronómica e cultural"
         ],
         "weight": 0
       },
@@ -6049,19 +6042,12 @@
         "weight": 0
       },
       {
-        "category": "Lojas a Granel",
+        "category": "Lojas de Segunda mão",
         "description": "",
-        "id": 6,
+        "id": 9,
         "sub-categories": [
-          "Detergentes a granel - Distribuidor EcoX", "Mercearias",
-          "Drogaria", "Mercearia", "Cabeleireiro",
-          "Cafés, chocolates e chás", "Chás & Plantas medicinais",
-          "Sementes & produtos jardim",
-          "Restauro Pele (e venda de material)",
-          "Reparação de calçado e malas ",
-          "Artigos de sapateiro, solas cabedais e cortiças", "Ferragens",
-          "Retrosarias", "Retrosaria e Tecidos?", "Retrosaria e Tecidos",
-          "Tecidos"
+          "#r138", "Troca de roupas", "Trocas de Roupa", "Venda de Roupa",
+          "Troca de roupa", "Mobiliário & Decoração", "Vinyl Records"
         ],
         "weight": 0
       },
@@ -6084,6 +6070,23 @@
           "Pequenos artesãos e produtos alimentares",
           "Mercado de artigos em 2ª mão, artigos vintage, velharias, antiguidades e reciclados",
           "Mercado Biológico"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Lojas a Granel",
+        "description": "",
+        "id": 6,
+        "sub-categories": [
+          "Detergentes a granel - Distribuidor EcoX", "Mercearias",
+          "Drogaria", "Mercearia", "Cabeleireiro",
+          "Cafés, chocolates e chás", "Chás & Plantas medicinais",
+          "Sementes & produtos jardim",
+          "Restauro Pele (e venda de material)",
+          "Reparação de calçado e malas ",
+          "Artigos de sapateiro, solas cabedais e cortiças", "Ferragens",
+          "Retrosarias", "Retrosaria e Tecidos?", "Retrosaria e Tecidos",
+          "Tecidos"
         ],
         "weight": 0
       },
@@ -6131,7 +6134,7 @@
     ],
     "title": "ZeroWasteLab",
     "url": "https://lisboalixozero.zerowastelab.pt/",
-    "version": 42
+    "version": 43
   },
   "type": "FeatureCollection"
 }

@@ -2803,7 +2803,6 @@
   ],
   "nonGeoFeatures": [
     {
-      "geometry": { "type": "" },
       "id": "/appa_associa_o_patrim_nio_e_popula_o_de_alfama#647",
       "properties": {
         "category":
@@ -2828,7 +2827,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#643",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2852,7 +2850,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/r_coat#638",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2876,7 +2873,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/green_cork#637",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2901,7 +2897,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#635",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2925,7 +2920,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#633",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2949,7 +2943,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#634",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2973,7 +2966,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#632",
       "properties": {
         "category": "Recolha de resíduos",
@@ -2997,7 +2989,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#631",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3022,7 +3013,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#629",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3046,7 +3036,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#630",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3070,7 +3059,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#628",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3094,7 +3082,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#627",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3118,7 +3105,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#625",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3143,7 +3129,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#626",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3167,7 +3152,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#624",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3191,7 +3175,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#622",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3216,7 +3199,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#623",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3241,7 +3223,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#621",
       "properties": {
         "category": "Recolha de resíduos",
@@ -3266,7 +3247,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/sound_club_vinyl_store#620",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -3304,7 +3284,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/circular_wear_swap_spot_impact_hub_#616",
       "properties": {
         "category": "Lojas de Segunda mão",
@@ -3341,7 +3320,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/hospital_das_camisas#607",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -3378,7 +3356,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/a_feira_dos_tecidos#604",
       "properties": {
         "category": "Lojas a Granel",
@@ -3415,7 +3392,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/londres_sal_o#603",
       "properties": {
         "category": "Lojas a Granel",
@@ -3453,7 +3429,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/entretex_ld_produtos_t_xteis#601",
       "properties": {
         "category": "Lojas a Granel",
@@ -3477,7 +3452,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/marques_sequeira#602",
       "properties": {
         "category": "Lojas a Granel",
@@ -3514,7 +3488,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/lu_s_s_fernandes_ld_#600",
       "properties": {
         "category": "Lojas a Granel",
@@ -3538,7 +3511,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/lara_retrosaria#599",
       "properties": {
         "category": "Lojas a Granel",
@@ -3562,7 +3534,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/eduardo_gomes_ld_import_e_export_de_retrosaria_#597",
       "properties": {
         "category": "Lojas a Granel",
@@ -3586,7 +3557,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/j_r_silva_ld_#598",
       "properties": {
         "category": "Lojas a Granel",
@@ -3610,7 +3580,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/o_bras_o#596",
       "properties": {
         "category": "Lojas a Granel",
@@ -3634,7 +3603,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/bot_o_dourado#595",
       "properties": {
         "category": "Lojas a Granel",
@@ -3658,7 +3626,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/botil_bot_es_l_s_e_retrosaria_lda#593",
       "properties": {
         "category": "Lojas a Granel",
@@ -3682,7 +3649,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/arquichique_de_coucellos_coelho_ld_#594",
       "properties": {
         "category": "Lojas a Granel",
@@ -3706,7 +3672,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/alexandre_bento#590",
       "properties": {
         "category": "Lojas a Granel",
@@ -3743,7 +3708,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/retrosaria_bijou#591",
       "properties": {
         "category": "Lojas a Granel",
@@ -3780,7 +3744,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/adriano_coelho#592",
       "properties": {
         "category": "Lojas a Granel",
@@ -3818,7 +3781,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/batista_reis_nardo#589",
       "properties": {
         "category": "Lojas a Granel",
@@ -3855,7 +3817,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/m_rio_ramos_nardo#588",
       "properties": {
         "category": "Lojas a Granel",
@@ -3893,7 +3854,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/sementes_hortel_o#582",
       "properties": {
         "category": "Lojas a Granel",
@@ -3930,7 +3890,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/celeiro_rossio#577",
       "properties": {
         "category": "Lojas a Granel",
@@ -3954,7 +3913,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/caf_s_del_cia#570",
       "properties": {
         "category": "Lojas a Granel",
@@ -3991,7 +3949,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/nicola_gourmet#566",
       "properties": {
         "category": "Lojas a Granel",
@@ -4015,7 +3972,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/trienal_de_arquitectura_de_lisboa#561",
       "properties": {
         "category": "Feiras & Mercados",
@@ -4039,7 +3995,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/transporte_porta_a_porta_na_freguesia_mob_reduzida_#552",
       "properties": {
         "category": "Junta de Freguesia",
@@ -4078,7 +4033,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/lavandaria_mouraria_2#545",
       "properties": {
         "category": "Junta de Freguesia",
@@ -4102,7 +4056,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/balne_rio_lavandaria_alfama_ii#542",
       "properties": {
         "category": "Junta de Freguesia",
@@ -4126,7 +4079,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/balne_rio_lavandaria_mouraria_#543",
       "properties": {
         "category": "Junta de Freguesia",
@@ -4150,7 +4102,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/lavandaria_alfama_1#544",
       "properties": {
         "category": "Junta de Freguesia",
@@ -4174,7 +4125,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id":
         "/cultura_urbana_alta_de_lisboa_aral_preservar_e_divulgar_a_cultura_identit_ria_da_alta_#536",
       "properties": {
@@ -4215,7 +4165,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_internacional_de_voluntariado_serve_the_city#537",
       "properties": {
         "category":
@@ -4240,7 +4189,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/clip_recursos_e_desenvolvimento#538",
       "properties": {
         "category": "Moeda Local",
@@ -4277,7 +4225,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/ra_zes_associa_o_de_apoio_crian_a_e_ao_jovem_ipss_#533",
       "properties": {
         "category":
@@ -4316,7 +4263,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/grupo_comunit_rio_das_galinheiras_e_ameixoeira#534",
       "properties": {
         "category":
@@ -4341,7 +4287,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/associa_o_de_moradores_do_bairro_da_cruz_vermelha#535",
       "properties": {
         "category":
@@ -4366,7 +4311,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/associa_o_espa_o_mundo_per9#531",
       "properties": {
         "category":
@@ -4392,7 +4336,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/associa_o_de_moradores_do_per11#532",
       "properties": {
         "category":
@@ -4417,7 +4360,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/caf_centro_artes_e_forma_o#530",
       "properties": {
         "category":
@@ -4456,7 +4398,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/csm_centro_social_da_musgueira#528",
       "properties": {
         "category":
@@ -4494,7 +4435,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/aral_associa_o_de_residentes_da_alta_de_lisboa#529",
       "properties": {
         "category":
@@ -4532,7 +4472,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/grupo_comunit_rio_da_alta_de_lisboa_gcal_#527",
       "properties": {
         "category":
@@ -4570,7 +4509,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/entr_hortas#525",
       "properties": {
         "category":
@@ -4595,7 +4533,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/clip_recursos_e_desenvolvimento_2012_#526",
       "properties": {
         "category":
@@ -4633,7 +4570,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id":
         "/avaal_associa_o_para_a_valoriza_o_ambiental_da_alta_de_lisboa_2009_#524",
       "properties": {
@@ -4673,7 +4609,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/garrafas_pet_latas#522",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4698,7 +4633,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/garrafas_pet_latas_vidro#523",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4723,7 +4657,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#521",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4747,7 +4680,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#520",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4771,7 +4703,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#518",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4795,7 +4726,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#519",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4819,7 +4749,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#516",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4843,7 +4772,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#517",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4867,7 +4795,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#515",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4892,7 +4819,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#514",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4917,7 +4843,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#513",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4941,7 +4866,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#511",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4965,7 +4889,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#512",
       "properties": {
         "category": "Recolha de resíduos",
@@ -4989,7 +4912,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#508",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5013,7 +4935,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#509",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5037,7 +4958,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#507",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5061,7 +4981,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#506",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5085,7 +5004,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/contentores_c_ritas#501",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5109,7 +5027,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/green_cork#498",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5134,7 +5051,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/green_cork#497",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5159,7 +5075,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#495",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5183,7 +5098,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/e_cycle#496",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5223,7 +5137,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#494",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5247,7 +5160,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#493",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5271,7 +5183,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#491",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5295,7 +5206,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#492",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5319,7 +5229,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#489",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5343,7 +5252,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#490",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5367,7 +5275,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#488",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5392,7 +5299,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/reno_rede_nacional_de_ole_es#487",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5416,7 +5322,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#483",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5441,7 +5346,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#484",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5466,7 +5370,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#482",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5491,7 +5394,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#480",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5516,7 +5418,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#481",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5541,7 +5442,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#479",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5566,7 +5466,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#478",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5591,7 +5490,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#476",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5616,7 +5514,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#477",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5641,7 +5538,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#475",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5666,7 +5562,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#473",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5691,7 +5586,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#474",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5716,7 +5610,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#472",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5741,7 +5634,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_electr_o#470",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5766,7 +5658,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_depositr_o_erp_european_recycling_platform_#471",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5791,7 +5682,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/rede_electr_o#469",
       "properties": {
         "category": "Recolha de resíduos",
@@ -5816,7 +5706,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/catag_s_ld_#465",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -5840,7 +5729,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/fabrica_de_moveis_central_da_ameixoeira_m_rio_seixas_ld_#463",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -5865,7 +5753,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/restauro#464",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -5889,7 +5776,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/com_rcio_de_telheiras_lumiar_e_carnide#461",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -5926,7 +5812,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/lavandaria_ecol_gica_super_av_#459",
       "properties": {
         "category": "Serviços Partilhados",
@@ -5964,7 +5849,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/com_rcio_e_servi_os_da_alta_de_lisboa_#460",
       "properties": {
         "category": "Serviços de Manutenção, Reparação & Ofícios",
@@ -5988,7 +5872,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/mercado_no_bairro#452",
       "properties": {
         "category": "Feiras & Mercados",
@@ -6025,7 +5908,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/lagar_de_s_o_vicente#449",
       "properties": {
         "category": "Feiras & Mercados",
@@ -6050,7 +5932,6 @@
       "type": "Feature"
     },
     {
-      "geometry": { "type": "" },
       "id": "/urban_market_alta_de_lx_2013_#450",
       "properties": {
         "category": "Feiras & Mercados",

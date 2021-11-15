@@ -5818,6 +5818,3985 @@
         "weight": 0
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.172680659999999, 38.77645242 ],
+        "type": "Point"
+      },
+      "id": "/centro_de_conv_vio_55_#770",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:25.073-08:00",
+        "description":
+          "Largo Padre Augusto Pinheiro Gomes, 6, 1600-550\n   Resposta social de apoio a atividades sociais, recreativas e culturais, organizadas e dinamizadas com participação ativa de pessoas com idade igual ou superior a 55 anos, residentes na freguesia.\nRequisitos: Inscrição mediante marcação de atendimento social na Junta de Freguesia do Lumiar.\nHorários de funcionamento: 2ª feira a 6.ª feira das 14h00 às 18h00\nContacto: 21 754 13 72",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "http://jf-lumiar.pt/servicos/centro-de-convivio-do-paco-do-lumiar/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Lumiar" ],
+        "title": "Centro de Convívio 55+ ",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:25.073-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.173143675, 38.77289415 ],
+        "type": "Point"
+      },
+      "id": "/centro_de_conv_vio_55_#763",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:19.339-08:00",
+        "description":
+          "Largo Padre Augusto Pinheiro Gomes, 6, 1600-549\n   Resposta social de apoio a atividades sociais, recreativas e culturais, organizadas e dinamizadas com participação ativa de pessoas com idade igual ou superior a 55 anos, residentes na freguesia.\nRequisitos: Inscrição mediante marcação de atendimento social na Junta de Freguesia do Lumiar.\nHorários de funcionamento: 2ª feira a 6.ª feira das 14h00 às 18h00\nContacto: 21 754 13 72",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "http://jf-lumiar.pt/servicos/centro-de-convivio-do-paco-do-lumiar/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Lumiar" ],
+        "title": "Centro de Convívio 55+ ",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:19.339-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.161088021999999, 38.77427605 ],
+        "type": "Point"
+      },
+      "id": "/util_univ_terceira_idade_lumiar#764",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:20.310-08:00",
+        "description":
+          "Estrada da Torre, 19, 1750-293\n   Universidade alternativa para os maiores de 55 anos que procuram o aumento de conhecimentos e o convívio.\nHorário de atendimento: Segunda a sexta feira: 09:30 às 13:00 e 14:00 às 17:00\nContacto: 210 994 199",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://jf-lumiar.pt/util/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www.facebook.com/utilumiar/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Lumiar" ],
+        "title": "UTIL - Univ. Terceira Idade Lumiar",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:20.310-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.170034605, 38.76782466 ],
+        "type": "Point"
+      },
+      "id": "/polidesportivo_coberto_do_alto_da_faia#761",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:17.879-08:00",
+        "description":
+          "R. Frederico George, 1600-803\n   Modalidades: Andebol, Futsal e Mini-Ténis\nHorários de funcionamento:\nHorário com Guarda: 2.ª a 6.ª feira das 17h00 às 22h30\nHorário sem Guarda: 2.ª a 6.ª Feira das 09h00 às 17h00\nContacto: 217 541 350\n",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Lumiar" ],
+        "title": "Polidesportivo coberto do Alto da Faia",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:17.879-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.162401257000001, 38.77101398 ],
+        "type": "Point"
+      },
+      "id": "/pavilh_o_gimnodesportivo_da_esc_sec_do_lumiar_#762",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:18.148-08:00",
+        "description":
+          "Rua Luís de Freitas Branco, 1600-488\n   Modalidades: Andebol, Basquetebol, Futsal e Voleibol\nHorário com Guarda: 2.ª a 6.ª feira das 19h00 às 23h30\nSábado das 15h00às 23h00\nDomingo das 09h00 às 13h00 e das 15h00 às 21h00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Lumiar" ],
+        "title": "Pavilhão Gimnodesportivo da Esc. Sec. do Lumiar\n",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:18.148-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.158110904000001, 38.76772016 ],
+        "type": "Point"
+      },
+      "id": "/sede#758",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:14.793-08:00",
+        "description":
+          "Alameda das Linhas de Torres, N.º 156, 1750 – 149\n   Sede da Junta de Freguesia do Lumiar. Horário: 2ª a 6ª: 09:00 às 17:30",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://jf-lumiar.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Lumiar" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:14.793-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.161853456999999, 38.77364138 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza#759",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:15.550-08:00",
+        "description":
+          "Alameda das Linhas de Torres, 275, 1750-145 \n   Horários de funcionamento: 2ª feira a Sábado das 06h00 às 11h30 e das 13h00 às 18h30\nContactos: 217 585 961 ou 211 388 461",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://jf-lumiar.pt/servicos/posto-de-limpeza/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene urbana",
+        "tags": [ "Lumiar" ],
+        "title": "Posto de Limpeza",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:15.550-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.17133733, 38.77429969 ],
+        "type": "Point"
+      },
+      "id": "/lavadandaria_p_blica#760",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:16.572-08:00",
+        "description":
+          "Azinhaga do Porto, 9, 1600-585\n   Equipamento público que permite lavar a roupa à mão em tanques. ​Aos tanques colectivos juntaram-se recentemente ​2 máquinas de lavar industriais, do tipo self-service​. Acesso condicionado a entrevista prévia na JFL.\nHorários de funcionamento:\n3.ª a 6.ª feira entre as 09h00 e as 17h00\nContactos: T21 754 13 50; info@jf-lumiar.pt",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "http://jf-lumiar.pt/servicos/balneario-e-lavadouro-publicos/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene urbana",
+        "tags": [ "Lumiar" ],
+        "title": "Lavadandaria pública",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:16.572-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.243411096000001, 38.7744789 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#756",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:12.011-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 22\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/20"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:12.011-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.244030904000001, 38.77540992 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#757",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:13.010-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-016\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:12",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/14"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:13.010-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.241551674, 38.77168583 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_da_ajuda#754",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:09.438-08:00",
+        "description":
+          "Rua Armando Lucena, S/N\n   O Posto de limpeza da Ajuda é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Horário: Segunda a Sábado das 8:00 às 17:11",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Ajuda" ],
+        "title": "Posto de Limpeza da Ajuda",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:09.438-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.242171481, 38.77261685 ],
+        "type": "Point"
+      },
+      "id": "/sede#755",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:10.539-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-049\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h12",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:10.539-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.239692250999999, 38.76889277 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#752",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:06.992-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 21\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/19"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:06.992-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.240312059000001, 38.76982379 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#753",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:08.299-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-015\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:11",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/13"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:08.299-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.237832829, 38.7660997 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_da_ajuda#750",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:04.647-08:00",
+        "description":
+          "Rua Armando Lucena, S/N\n   O Posto de limpeza da Ajuda é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Horário: Segunda a Sábado das 8:00 às 17:10",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Ajuda" ],
+        "title": "Posto de Limpeza da Ajuda",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:04.647-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.238452636, 38.76703072 ],
+        "type": "Point"
+      },
+      "id": "/sede#751",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:05.757-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-048\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h11",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:05.757-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.235973405999999, 38.76330664 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#748",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:02.118-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 20\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/18"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:02.118-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.236593214000001, 38.76423766 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#749",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:03.455-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-014\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:10",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/12"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:03.455-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.234113984, 38.76051357 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_da_ajuda#746",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:00.346-08:00",
+        "description":
+          "Rua Armando Lucena, S/N\n   O Posto de limpeza da Ajuda é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Horário: Segunda a Sábado das 8:00 às 17:09",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Ajuda" ],
+        "title": "Posto de Limpeza da Ajuda",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:00.346-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.234733791, 38.76144459 ],
+        "type": "Point"
+      },
+      "id": "/sede#747",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:42:01.113-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-047\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h10",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:01.113-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.231014946, 38.75585846 ],
+        "type": "Point"
+      },
+      "id": "/sede#743",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:56.528-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-046\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h09",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:56.528-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.232254561, 38.75772051 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#744",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:57.782-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 19\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/17"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:57.782-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.232874368999999, 38.75865153 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#745",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:58.596-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-013\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:09",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/11"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:58.596-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.229155523999999, 38.7530654 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#741",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:54.761-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-012\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:08",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/10"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:54.761-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.230395139000001, 38.75492744 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_da_ajuda#742",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:55.826-08:00",
+        "description":
+          "Rua Armando Lucena, S/N\n   O Posto de limpeza da Ajuda é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Horário: Segunda a Sábado das 8:00 às 17:08",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Ajuda" ],
+        "title": "Posto de Limpeza da Ajuda",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:55.826-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.227296101, 38.75027233 ],
+        "type": "Point"
+      },
+      "id": "/sede#739",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:50.085-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-045\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h08",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:50.085-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.228535716, 38.75213438 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#740",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:53.235-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 18\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/16"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:53.235-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.225436679, 38.74747927 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#737",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:45.312-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-011\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:07",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/9"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:45.312-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.226676294000001, 38.74934131 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_da_ajuda#738",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:47.814-08:00",
+        "description":
+          "Rua Armando Lucena, S/N\n   O Posto de limpeza da Ajuda é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Horário: Segunda a Sábado das 8:00 às 17:07",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Ajuda" ],
+        "title": "Posto de Limpeza da Ajuda",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:47.814-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.221717834, 38.74189314 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#733",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:35.886-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-010\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:06",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/8"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:35.886-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.222957449000001, 38.74375518 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_da_ajuda#734",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:37.260-08:00",
+        "description":
+          "Rua Armando Lucena, S/N\n   O Posto de limpeza da Ajuda é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Horário: Segunda a Sábado das 8:00 às 17:06",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Ajuda" ],
+        "title": "Posto de Limpeza da Ajuda",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:37.260-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.223577256, 38.7446862 ],
+        "type": "Point"
+      },
+      "id": "/sede#735",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:40.193-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-044\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h07",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:40.193-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.224816871, 38.74654825 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#736",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:43.608-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 17\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/15"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:43.608-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.217998989, 38.73630701 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#729",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:31.644-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-009\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:05",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/7"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:31.644-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.219238603999999, 38.73816905 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_da_ajuda#730",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:32.763-08:00",
+        "description":
+          "Rua Armando Lucena, S/N\n   O Posto de limpeza da Ajuda é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Horário: Segunda a Sábado das 8:00 às 17:05",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Ajuda" ],
+        "title": "Posto de Limpeza da Ajuda",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:32.763-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.219858411000001, 38.73910007 ],
+        "type": "Point"
+      },
+      "id": "/sede#731",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:33.528-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-043\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h06",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:33.528-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.221098026, 38.74096212 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#732",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:34.819-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 16\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/14"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:34.819-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.216139567000001, 38.73351394 ],
+        "type": "Point"
+      },
+      "id": "/sede#727",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:29.614-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-042\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h05",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:29.614-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.217379181, 38.73537599 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#728",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:30.840-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 15\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/13"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:30.840-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.213660337, 38.72978986 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#724",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:26.145-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 14\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/12"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:26.145-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.214280144, 38.73072088 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#725",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:27.043-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-008\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:04",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/6"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:27.043-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.215519758999999, 38.73258292 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_da_ajuda#726",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:28.693-08:00",
+        "description":
+          "Rua Armando Lucena, S/N\n   O Posto de limpeza da Ajuda é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Horário: Segunda a Sábado das 8:00 às 17:04",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Ajuda" ],
+        "title": "Posto de Limpeza da Ajuda",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:28.693-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.209941492, 38.72420373 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#720",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:19.457-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 13\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/11"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:19.457-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.210561299, 38.72513475 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#721",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:20.856-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-007\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:03",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/5"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:20.856-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.211800913999999, 38.72699679 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_da_ajuda#722",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:23.622-08:00",
+        "description":
+          "Rua Armando Lucena, S/N\n   O Posto de limpeza da Ajuda é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Horário: Segunda a Sábado das 8:00 às 17:03",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Ajuda" ],
+        "title": "Posto de Limpeza da Ajuda",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:23.622-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.212420721999999, 38.72792781 ],
+        "type": "Point"
+      },
+      "id": "/sede#723",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:24.708-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-041\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h04",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:24.708-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.206222647000001, 38.7186176 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#716",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:04.440-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 12\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/10"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:04.440-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.206842454, 38.71954862 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#717",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:10.846-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-006\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:02",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/4"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:10.846-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.208082069, 38.72141066 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_da_ajuda#718",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:16.767-08:00",
+        "description":
+          "Rua Armando Lucena, S/N\n   O Posto de limpeza da Ajuda é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Horário: Segunda a Sábado das 8:00 às 17:02",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Ajuda" ],
+        "title": "Posto de Limpeza da Ajuda",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:16.767-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.208701876999999, 38.72234168 ],
+        "type": "Point"
+      },
+      "id": "/sede#719",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:17.532-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-040\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h03",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:17.532-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.201264187, 38.71116942 ],
+        "type": "Point"
+      },
+      "id": "/sede#711",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:00.182-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-038\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h01",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:00.182-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.202503802000001, 38.71303147 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#712",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:01.186-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 11\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/9"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:01.186-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.203123609, 38.71396249 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#713",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:01.920-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-005\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:01",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/3"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:01.920-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.204363224, 38.71582453 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_da_ajuda#714",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:02.727-08:00",
+        "description":
+          "Rua Armando Lucena, S/N\n   O Posto de limpeza da Ajuda é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Horário: Segunda a Sábado das 8:00 às 17:01",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Ajuda" ],
+        "title": "Posto de Limpeza da Ajuda",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:02.727-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.204983031999999, 38.71675555 ],
+        "type": "Point"
+      },
+      "id": "/sede#715",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:41:03.458-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-039\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h02",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:41:03.458-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.19915643, 38.70568118 ],
+        "type": "Point"
+      },
+      "id": "/casa_da_cultura_e_do_bem_estar#707",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:57.652-08:00",
+        "description":
+          "Calçada da Ajuda, 234, Pátio do Bonfim, porta 10\n   A Casa da Cultura e Bem Estar surge como um espaço aberto e gratuito com uma oferta diária, regular e variada de actividades dirigidas a todas as idades no âmbito da Cultura e Bem Estar. Horário de funcionamento\nSegunda a Sexta, das 9:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/8"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Casa da Cultura e do Bem Estar",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:57.652-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.202041316000001, 38.70972069 ],
+        "type": "Point"
+      },
+      "id": "/academia_da_juventude#708",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:58.168-08:00",
+        "description":
+          "Rua das Açucenas, Lote 2 - Loja B / 1300-004\n   A Academia da Juventude oferece várias atividades culturais, desportivas e apoio ao estudo aos jovens da freguesia. Para mais informações, contactar: Email: academia@jf-ajuda.pt; Telefone: 213623477. Horário: Segunda a Sexta: 14:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/2"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Academia da Juventude",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:58.168-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.244650711, 38.77634094 ],
+        "type": "Point"
+      },
+      "id": "/universidade_s_nior#709",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:58.921-08:00",
+        "description":
+          "Rua das Açucenas, Lote 1, Loja B\n   A Universidade Sénior é uma resposta social onde se valoriza a promoção do envelhecimento ativo através de atividades sociais, culturais, educacionais e de convívio, para maiores de 55 anos. ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/servicos/13"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Universidade Sénior",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:13.860-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.197258111, 38.70950932 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_da_ajuda#710",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:59.398-08:00",
+        "description":
+          "Rua Armando Lucena, S/N\n   O Posto de limpeza da Ajuda é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Horário: Segunda a Sábado das 8:00 às 17:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Ajuda" ],
+        "title": "Posto de Limpeza da Ajuda",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:59.398-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -8.99173847, 38.65990324 ],
+        "type": "Point"
+      },
+      "id": "/sede#702",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:54.256-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:47",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:54.256-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -8.988248019, 38.65730645 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#703",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:55.344-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-176\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:47",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:55.344-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -8.986502793, 38.65600805 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#704",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:55.612-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-148\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:55.612-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.199114324, 38.70579199 ],
+        "type": "Point"
+      },
+      "id": "/sede#705",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:56.385-08:00",
+        "description":
+          "Calçada da Ajuda, 236, 1349-037\n   Instalações da sede da Junta de Freguesia da Ajuda. Horário: 2ª a 6ª: 09:00 às 13:00, 14:00 às 17h00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Ajuda" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:56.385-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.242791288999999, 38.77354787 ],
+        "type": "Point"
+      },
+      "id": "/polidesportivo_eduardo_bairrada#706",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:56.885-08:00",
+        "description":
+          "Rua Eduardo Bairrada, S/N\n   Estas instalações desportivas municipais estão disponíveis para a população, estando dotado de iluminação artificial e balneários para uso exclusivo dos atletas. As marcações e pagamentos serão efetuados na secretaria da junta de freguesia da Ajuda.\nHorário de Funcionamento:\nDe 2ª a 6ª das 14h às 23h\nSáb. Dom. (sujeito a confirmação)",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.jf-ajuda.pt/autarquia/infraestruturas/18"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Ajuda" ],
+        "title": "Polidesportivo Eduardo Bairrada",
+        "type": "",
+        "updated_date": "2021-11-15T11:42:11.530-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.002209825, 38.66769363 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#697",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:51.431-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-174\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:45",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:51.431-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.000464599000001, 38.66639523 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#698",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:51.925-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-146\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:51.925-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -8.998719373, 38.66509683 ],
+        "type": "Point"
+      },
+      "id": "/sede#699",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:52.465-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:46",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:52.465-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -8.995228922000001, 38.66250004 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#700",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:53.266-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-175\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:46",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:53.266-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -8.993483696, 38.66120164 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#701",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:53.767-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-147\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:53.767-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.012681178999999, 38.67548401 ],
+        "type": "Point"
+      },
+      "id": "/sede#693",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:48.761-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:44",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:48.761-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.009190728, 38.67288722 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#694",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:50.027-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-173\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:44",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:50.027-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.007445501999999, 38.67158882 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#695",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:50.027-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-145\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:50.027-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.005700276000001, 38.67029042 ],
+        "type": "Point"
+      },
+      "id": "/sede#696",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:50.550-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:45",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:50.550-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.023152532999999, 38.6832744 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#688",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:45.770-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-171\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:42",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:45.770-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.021407308000001, 38.681976 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#689",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:46.037-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-143\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:46.037-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.019662082, 38.6806776 ],
+        "type": "Point"
+      },
+      "id": "/sede#690",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:47.227-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:43",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:47.227-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.016171631000001, 38.67808081 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#691",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:47.512-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-172\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:43",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:47.512-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.014426405, 38.67678241 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#692",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:48.277-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-144\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:48.277-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.033623887999999, 38.69106478 ],
+        "type": "Point"
+      },
+      "id": "/sede#684",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:43.183-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:41",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:43.183-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.030133436, 38.68846798 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#685",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:43.944-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-170\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:41",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:43.944-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.028388210999999, 38.68716959 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#686",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:44.223-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-142\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:44.223-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.026642985000001, 38.68587119 ],
+        "type": "Point"
+      },
+      "id": "/sede#687",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:44.972-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:42",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:44.972-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.042350016, 38.69755677 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#680",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:40.692-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-140\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:40.692-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.040604791, 38.69625837 ],
+        "type": "Point"
+      },
+      "id": "/sede#681",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:41.158-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:40",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:41.158-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.037114339, 38.69366157 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#682",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:41.943-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-169\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:40",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:41.943-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.035369113, 38.69236318 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#683",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:42.439-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-141\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:42.439-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.054566596000001, 38.70664555 ],
+        "type": "Point"
+      },
+      "id": "/sede#675",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:37.311-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:38",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:37.311-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.051076145, 38.70404875 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#676",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:37.865-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-167\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:38",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:37.865-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.049330919000001, 38.70275036 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#677",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:38.395-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-139\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:38.395-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.047585693, 38.70145196 ],
+        "type": "Point"
+      },
+      "id": "/sede#678",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:39.114-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:39",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:39.114-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.044095241999999, 38.69885516 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#679",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:40.692-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-168\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:39",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:40.692-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.068528402, 38.71703273 ],
+        "type": "Point"
+      },
+      "id": "/sede#669",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:33.520-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:36",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:33.520-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.065037951000001, 38.71443593 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#670",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:34.392-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-165\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:36",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:34.392-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.063292725, 38.71313753 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#671",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:34.959-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-137\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:34.959-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.061547499, 38.71183914 ],
+        "type": "Point"
+      },
+      "id": "/sede#672",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:35.482-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:37",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:35.482-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.058057048, 38.70924234 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#673",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:36.290-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-166\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:37",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:36.290-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.056311822, 38.70794394 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#674",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:36.562-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-138\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:36.562-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.092961561999999, 38.73521029 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#658",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:27.834-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-161\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:32",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:27.834-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.091216336, 38.73391189 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#659",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:28.188-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-133\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:28.188-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.089471111, 38.73261349 ],
+        "type": "Point"
+      },
+      "id": "/sede#660",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:28.188-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:33",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:28.188-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.085980659000001, 38.7300167 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#661",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:29.340-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-162\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:33",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:29.340-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.084235434, 38.7287183 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#662",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:29.877-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-134\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:29.877-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.082490207999999, 38.7274199 ],
+        "type": "Point"
+      },
+      "id": "/sede#663",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:30.191-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:34",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:30.191-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.078999756, 38.72482311 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#664",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:30.909-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-163\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:34",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:30.909-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.077254530999999, 38.72352471 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#665",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:31.190-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-135\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:31.190-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.075509305000001, 38.72222631 ],
+        "type": "Point"
+      },
+      "id": "/sede#666",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:31.752-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:35",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:31.752-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.072018854, 38.71962952 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#667",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:32.894-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-164\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:35",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:32.894-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.070273628000001, 38.71833112 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#668",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:33.255-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-136\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:33.255-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.108835403, 38.747194 ],
+        "type": "Point"
+      },
+      "id": "/sede#650",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:18:22.566-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:30",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:22.490-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -8.989993245000001, 38.65860485 ],
+        "type": "Point"
+      },
+      "id": "/universidade_s_nior#651",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:38:38.963-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   A Universidade Sénior de Marvila tem por missão a dinamização, programação e organização, com caráter regular, de atividades de natureza cultural, recreativa, desportiva e de convívio. Abrange as seguintes áreas: Ciências Sociais e Humanas; Informática e Novas Tecnologias; Artes e Mobilidade e Desporto.\nTem 7 Polos: Polo II da Junta de Freguesia de Marvila; Escola Secundária D. Dinis; Piscina do Vale Fundão; Salão de Festas do Vale Fundão, Ginásio Capoeira Beija-Flor; AGIR XXI; Fábrica Braço de Prata. Para mais informação contactar a Junta de Freguesia.",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/universidade-senior-de-marvila/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Cultura & Desporto",
+        "tags": [ "Marvila" ],
+        "title": "Universidade Sénior",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:55.058-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.111325000000001, 38.748002 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#652",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:23.472-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-159\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:30",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:23.472-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.102188118000001, 38.74259667 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#653",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:23.938-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-131\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:23.938-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.103432915999999, 38.74300067 ],
+        "type": "Point"
+      },
+      "id": "/sede#654",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:24.458-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:31",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:24.458-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.099942465, 38.74040388 ],
+        "type": "Point"
+      },
+      "id": "/posto_de_limpeza_de_marvila#655",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:25.361-08:00",
+        "description":
+          "Av. João Paulo II, 4, 1950-160\n   O Posto de limpeza de Marvila é a unidade de serviços de higiene urbana fundamental para a limpeza urbana da freguesia. Este local recebe, nas suas instalações, entulho (até 5 sacos), Indiferenciados, papel/cartão, madeiras, ferro (Consoante a disponibilidade existente na caixa de depósito). Contacto: +351 218 371 670 / admhigiene.urbana@jf-marvila.pt Horário: Segunda a Sexta: 08:00 – 11:30 / 13:00 -16:31",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url":
+              "https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/posto-de-limpeza-marvila"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Posto de Limpeza de Marvila",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:25.361-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.098197238999999, 38.73910548 ],
+        "type": "Point"
+      },
+      "id": "/infraestrutura_sanit_ria#656",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:26.079-08:00",
+        "description":
+          "Praça David Leandro da Silva, 131, 1950-132\n   Sanitários públicos de acesso livre",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Higiene Urbana",
+        "tags": [ "Marvila" ],
+        "title": "Infraestrutura sanitária",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:26.079-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.096452014, 38.73780708 ],
+        "type": "Point"
+      },
+      "id": "/sede#657",
+      "properties": {
+        "category": "Junta de Freguesia",
+        "category-description": "",
+        "created_date": "2021-11-15T11:40:26.608-08:00",
+        "description":
+          "Avenida Paulo VI, Nº60, 1950-231\n   Sede da Junta de Freguesia de Marvila. Horário: 2ª a 6ª: 08:30 às 17:32",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://jf-marvila.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Sede",
+        "tags": [ "Marvila" ],
+        "title": "Sede",
+        "type": "",
+        "updated_date": "2021-11-15T11:40:26.608-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
     }
   ],
   "nonGeoFeatures": [

@@ -9769,7 +9769,8 @@
     "comma-version": 0.5,
     "description": "",
     "id": "zwlpt",
-    "image": "",
+    "image":
+      "https://lisboalixozero.zerowastelab.pt/images/LisboaLixoZero.png",
     "links": [
       {
         "description": "Contact the editor",

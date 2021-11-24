@@ -9767,17 +9767,18 @@
   ],
   "properties": {
     "comma-version": 0.5,
-    "description": "",
+    "description":
+      "Em 2020, a Zero Waste Lab “ lançou um Movimento de Impacto em Cadeia - MIC (programa BipZip da Câmara Municipal de Lisboa), um projeto piloto para a construção de uma nova cultura local de gestão circular dos recursos, necessária quer para o bem estar das comunidades, quer para a saúde do ambiente. Em rede com um conjunto de parceiros associativos sediados nos territórios de Marvila, Ajuda, Alfama e Alta de Lisboa, o projeto desenvolveu diversas ações comunitárias com o objetivo de promover processos locais de economia circular e de partilha e a difusão de práticas Lixo Zero acessíveis a todos. Neste âmbito, iniciou-se um trabalho participativo de mapeamento das infraestruturas e serviços locais promotores de bem estar e de sustentabilidade junto das comunidades em cada território.\n\nA abordagem que propomos centra-se numa visão do bem-estar social interligada e dependente do bem-estar dos ecossistemas. Assim, os indicadores mapeados cumprem critérios sociais, ambientais e económicos para garantir a promoção do bem-estar comunitário através de:\nCircuitos Curtos de Produção e Consumo\nProcessos de Economia Circular\nProcessos de Economia Social e Solidária\nProcessos de Economia de Partilha\nProcessos de Transformação das Relações Ecossistémicas \n\nData da última atualização: Novembro 2021\n\nConhece alguma iniciativa, serviço ou infra-estrutura que devia estar neste mapa? \nCarregue no botão e preencha o questionário!\nAjude-nos a construir um mapa de respostas comunitárias, identificando as estruturas, ferramentas e plataformas disponíveis nos bairros de Lisboa, que refletem e promovem a resiliência, sustentabilidade e bem-estar das suas comunidades. \n\nParticipe na construção do mapa! O seu contributo é muito importante!\n",
     "id": "zwlpt",
     "image":
       "https://lisboalixozero.zerowastelab.pt/images/LisboaLixoZero.png",
     "links": [
       {
-        "description": "Contact the editor",
+        "description": "Contactar a equipa",
         "lang": "pt",
-        "title": "Contact ",
+        "title": "Contacto ",
         "type": "email",
-        "url": "mailto:test@example.com"
+        "url": "hello@zerowastelab.pt"
       }
     ],
     "taxonomy": [
@@ -9885,7 +9886,7 @@
         "weight": 0
       }
     ],
-    "title": "lisboalixozero",
+    "title": "Mapa Lisboa Lixo Zero",
     "url": "https://lisboalixozero.zerowastelab.pt/",
     "version": 46
   },

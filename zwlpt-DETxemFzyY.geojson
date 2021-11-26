@@ -2,6 +2,581 @@
   "features": [
     {
       "geometry": {
+        "coordinates": [ -9.136874608999999, 38.70960403 ],
+        "type": "Point"
+      },
+      "id": "/arquichique_de_coucellos_coelho_ld_#1246",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:50:06.594-08:00",
+        "description":
+          "Rua da Conceição 83, 1100-152\n    A loja apela a quem se interesse por costura, tricot, crochet, no fundo a quem queira fazer uma peça de roupa à medida ou a reparar uma que já tenha. É o paraíso das lãs, dos botões, das presilhas e de todo o tipo de minudências indispensáveis a este tipo de labor.\n\n",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Retrosaria & Têxtil",
+        "tags": [ "Alfama" ],
+        "title": "ArquiChique de Coucellos & Coelho ldª",
+        "type": "",
+        "updated_date": "2021-11-23T03:50:06.594-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.137597857999999, 38.70946672 ],
+        "type": "Point"
+      },
+      "id": "/bot_o_dourado#1247",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:50:07.740-08:00",
+        "description": "Rua da Conceição,115, 1100-150\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Retrosaria & Têxtil",
+        "tags": [ "Alfama" ],
+        "title": "Botão Dourado",
+        "type": "",
+        "updated_date": "2021-11-23T03:50:07.740-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.137676492000001, 38.70946841 ],
+        "type": "Point"
+      },
+      "id": "/adriano_coelho#1244",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:50:04.139-08:00",
+        "description":
+          "Rua da Conceição 123, 1100-153\n   Produtos: Artigos de retrosaria - Lãs, linhas, botões, rendas, bordados, fechos, fivelas, fitas, aplicações bordadas,galões para decoração, franjas, agulhas, cordões, telas, bastidores, emblemas, materiais para estilistas, artigos para trabalhos manuais, etc.\nContactos: Tel - (+351) 21 342 6818 ; E-mail - retrosaria.adrianocoelho@gmail.com\nHorários: 2ª A 6ª - 09:00 — 19:00 ; SÁBADO - 09:00 — 13:00 ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://lojascomhistoria.pt/lojas/adriano-coelho"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www.facebook.com/adrianocoelholda/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Retrosaria & Têxtil",
+        "tags": [ "Alfama" ],
+        "title": "Adriano Coelho",
+        "type": "",
+        "updated_date": "2021-11-23T03:50:04.139-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.137996654, 38.71318684 ],
+        "type": "Point"
+      },
+      "id": "/botil_bot_es_l_s_e_retrosaria_lda#1245",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:50:05.367-08:00",
+        "description":
+          "Praça da Figueira, 18, 1ºEsq, 1100-241\n   Horários: 2ª A 6ª - 09:00 — 19:00\nContactos: 21 346 9834",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Retrosaria & Têxtil",
+        "tags": [ "Alfama" ],
+        "title": "Botilã - Botões, Lãs E Retrosaria, Lda",
+        "type": "",
+        "updated_date": "2021-11-23T03:50:05.367-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.136633826000001, 38.70969201 ],
+        "type": "Point"
+      },
+      "id": "/alexandre_bento#1242",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:50:01.980-08:00",
+        "description":
+          "Rua da Conceição 67/69, 1100-152\n   Retrosaria. Serve os lisboetas com todo o tipo de emblemas, plissados, borlas, botões e um sem número de outros artigos necessárias à confecção, decoração e reparação.\nContactos: (+351) 21 342 8613\nHorários: 2ª A 6ª - 09:30 — 19:00 ; SÁBADO - 09:30 — 13:00 ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://lojascomhistoria.pt/lojas/alexandre-bento"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Retrosaria & Têxtil",
+        "tags": [ "Alfama" ],
+        "title": "Alexandre Bento",
+        "type": "",
+        "updated_date": "2021-11-23T03:50:01.980-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.137014754000001, 38.70957421 ],
+        "type": "Point"
+      },
+      "id": "/retrosaria_bijou#1243",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:50:03.114-08:00",
+        "description":
+          "Rua da Conceição, 91, 1100-152\n   Produtos: Artigos de retrosaria - Lãs, linhas, botões, rendas, bordados, fechos, fivelas, fitas, aplicações bordadas,galões para decoração, franjas, agulhas, cordões, telas, bastidores, emblemas, materiais para estilistas, artigos para trabalhos manuais, etc.\nContactos: Tel - (+351) 21 342 5049 ; E-mail - retrosariabijou@mail.telepac.pt\nHorários: 2ª A 6ª - 09:30 — 19:00 ; SÁBADO - 09:30 — 13:00\n\n",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://lojascomhistoria.pt/lojas/retrosaria-bijou"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Retrosaria & Têxtil",
+        "tags": [ "Alfama" ],
+        "title": "Retrosaria Bijou",
+        "type": "",
+        "updated_date": "2021-11-23T03:50:03.114-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.136942758, 38.70960599 ],
+        "type": "Point"
+      },
+      "id": "/m_rio_ramos_nardo#1240",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:49:59.609-08:00",
+        "description":
+          "Rua da Conceição 87/89, 1100-152\n   Produtos: Artigos de retrosaria: lãs, linhas, botões, rendas, bordados, fechos, fivelas, fitas, aplicações bordadas,galões para decoração, franjas, agulhas, cordões, telas, bastidores, emblemas, materiais para estilistas, artigos para trabalhos manuais, etc.\nContactos: E-mail - retrosarianardo@gmail.com ; Tel - (+351) 21 342 5835\nHorários: 2ª A 6ª - 09:00 19:00 ; SÁBADO - 09:00 — 13:00\n\n",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://lojascomhistoria.pt/lojas/mario-ramos-nardo"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Retrosaria & Têxtil",
+        "tags": [ "Alfama" ],
+        "title": "Mário Ramos - Nardo",
+        "type": "",
+        "updated_date": "2021-11-23T03:49:59.609-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.136768665, 38.70982554 ],
+        "type": "Point"
+      },
+      "id": "/batista_reis_nardo#1241",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:50:00.642-08:00",
+        "description":
+          "Rua da Conceição 62/64, 1100-154\n   Loja fundada em 1947. A primeira loja em Lisboa a vender vestidos de noiva pronto-a-vestir.\nProdutos: Artigos de retrosaria, direccionados a noivas, casamentos e cerimónias.\nContactos: (+351) 213 421 350\nHorários: 2ª A 6ª - 09:00 — 19:00 ; SÁBADO - 09:00 — 13:00 ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://lojascomhistoria.pt/lojas/batista-reis-nardo"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Retrosaria & Têxtil",
+        "tags": [ "Alfama" ],
+        "title": "Batista & Reis - Nardo",
+        "type": "",
+        "updated_date": "2021-11-23T03:50:00.642-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.139787221000001, 38.71560549 ],
+        "type": "Point"
+      },
+      "id": "/ferragens_guedes#1238",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:49:57.437-08:00",
+        "description":
+          "Rua Portas Santo Antão 32,\n1150-268\n   Contactos: Tel - 213420594 ; Fax - 213470820 ; Email - guedessguedes@gmail.com",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://ferragens-guedes.blogspot.com/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Ferragens",
+        "tags": [ "Alfama" ],
+        "title": "Ferragens Guedes",
+        "type": "",
+        "updated_date": "2021-11-23T03:49:57.437-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.135442735, 38.71053076 ],
+        "type": "Point"
+      },
+      "id": "/ferragens_g_lemos#1239",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:49:58.598-08:00",
+        "description":
+          "Rua da Madalena 101/107, 1100-319\n   Produtos: Ferramentas manuais, ferramentas eléctricas, ferragens, arames, redes, escadas, escadotes, torneiras, alambiques, artigos de vinicultura, artigos de rega, artigos de protecção, aquecimento, salamandras, fogoes a lenha, chaveiros, cofres, artigos a gás, electricidade, canalização.\nContactos: Tel - 21 886 6319 ; E-mail - geral@viuva.com\nHorários: 2ª a 6ª - 11:00 — 19:00 ; Sábado - 09:00 — 13:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.facebook.com/ferragens.g.lemos/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Ferragens",
+        "tags": [ "Alfama" ],
+        "title": "Ferragens G. Lemos",
+        "type": "",
+        "updated_date": "2021-11-23T03:49:58.598-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.136446765000001, 38.71222638 ],
+        "type": "Point"
+      },
+      "id": "/drogaria_oriental#1235",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:49:54.341-08:00",
+        "description":
+          "Rua dos Fanqueiros, 238, 1100-232\n   Loja fundada em 1893.\nProdutos: Produtos capilares, cosméticos e perfumaria; máquinas e acessórios para cabelo e barba; tudo para cabeleireiro, barbeiro e estética; artigos de produção nacional.\nContactos: (+351) 21 887 3869\nHorários: 2ª A 6ª - 09:30 — 19:00",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www.facebook.com/profile.php?id=100057405072345"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Drogaria",
+        "tags": [ "Alfama" ],
+        "title": "Drogaria Oriental",
+        "type": "",
+        "updated_date": "2021-11-23T03:49:54.341-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.137170686999999, 38.71183068 ],
+        "type": "Point"
+      },
+      "id": "/drogaria_central#1236",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:49:55.391-08:00",
+        "description":
+          "Rua da Prata 192, 1100-421 \n   Loja Centenária, fundada em 1919.\nProdutos: Produtos capilares, cosméticos e perfumaria; máquinas e acessórios para cabelo e barba; tudo para cabeleireiro, barbeiro e estética; artigos de produção nacional.\nContactos: Tel - +351 218 879 046 ; E-mail - geral@drogaria-central.pt\nHorários: 2ª a 6ª: 09h - 19h | Sábados: 09:30h - 14h / 15h - 18:30h",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Drogaria",
+        "tags": [ "Alfama" ],
+        "title": "Drogaria Central",
+        "type": "",
+        "updated_date": "2021-11-23T03:49:55.391-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.138662517, 38.71403924 ],
+        "type": "Point"
+      },
+      "id": "/sementes_hortel_o_#1237",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:49:56.320-08:00",
+        "description":
+          "Rua do Amparo, 2, 1100-373\n   Produtos: Desde o pequeno pacote de 2 gramas até à tonelada :\nSementes Horticulas; Sementes de Ervilhas e Favas; Sementes de Forrageiras; Sementes Condimentares/Meliferas; Sementes Híbridas; Sementes de Relvas; Sementes Oleaginosas; Sementes de Flores e Plantas; Adubos e terras; Acessórios de Jardim.\nContactos: Tel: 21 347 0514 ; Telm: 93 391 0237 ; Fax: 21 880 6049 ; email - geral@soaresrebelo.pt\nHorários: 2a a 6a : 09:00–19:00 ; Sábado : 09:00–13:00\n",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://www.soaresrebelo.pt/index.html"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Outros",
+        "tags": [ "Alfama" ],
+        "title": "Sementes Hortelão ",
+        "type": "",
+        "updated_date": "2021-11-23T03:49:56.320-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.136240000000001, 38.71312 ],
+        "type": "Point"
+      },
+      "id": "/ervan_ria_o_rosil#1233",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:49:51.837-08:00",
+        "description":
+          "R. da Madalena 210, 1100-213\n   Loja de Chás e Plantas Medicinais, fundada em 1950. Produzem diversas composições e fórmulas Próprias de Plantas.\nProdutos: Chás Compostos, Plantas Medicinais e Suplementos Alimentares\nContactos: 218 872 097\nHorários: Segunda a Sexta: 9h - 19h, Sábado: 9h - 13h",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.ervanariarosil.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Ervanária",
+        "tags": [ "Alfama" ],
+        "title": "Ervanária O Rosil",
+        "type": "",
+        "updated_date": "2021-11-23T03:49:51.837-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.138608404999999, 38.71430427 ],
+        "type": "Point"
+      },
+      "id": "/drogaria_s_o_domingos#1234",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:49:53.208-08:00",
+        "description":
+          "Rua Dom Antão de Almada, 4 A, 1100-372\n   Produtos: Produtos capilares, cosméticos e perfumaria; máquinas e acessórios para cabelo e barba; tudo para cabeleireiro, barbeiro e estética; artigos de produção nacional.\nContactos: E-mail - info@drogariasaodomingos.pt ; Tel - (+351) 21 342 6636\nHorários: 2ª a 6ª - 09:00 – 19:00; Sábado - 09:00 – 13:00 / 14:00 – 18:00 ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://drogariasaodomingos.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Drogaria",
+        "tags": [ "Alfama" ],
+        "title": "Drogaria São Domingos",
+        "type": "",
+        "updated_date": "2021-11-23T03:49:53.208-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.133345558, 38.71618915 ],
+        "type": "Point"
+      },
+      "id": "/bomercado_biol_gico_#1231",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:49:49.795-08:00",
+        "description":
+          "Rua dos Cavaleiros, 10, Lisboa\n   Produtos Biológicos Naturais e Saudáveis.\nHorários: 2a - Sábado - 09h às 21h; Dommingo - 09h às 20h\nContactos: E-mail - geral@bomercado.com ; Tel - 960 302 224\n\n",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Mercearia",
+        "tags": [ "Alfama" ],
+        "title": "Bomercado (biológico)",
+        "type": "",
+        "updated_date": "2021-11-23T03:49:49.795-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.140200862, 38.71346433 ],
+        "type": "Point"
+      },
+      "id": "/celeiro_rossio#1232",
+      "properties": {
+        "category": "Lojas a Granel",
+        "category-description": "",
+        "created_date": "2021-11-23T03:49:50.731-08:00",
+        "description":
+          "R. 1º de Dezembro 65, Lisboa\n   Produtos bio & a granel.\nHorários: 2a - 6a : 08:30–20:00; Sábado: 09:30–19:00; Domingo : 09:30–18:30\nContactos: 21 030 6030\n",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria6.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Mercearia",
+        "tags": [ "Alfama" ],
+        "title": "Celeiro - Rossio",
+        "type": "",
+        "updated_date": "2021-11-23T03:49:50.731-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
         "coordinates": [ -9.136210769, 38.71363033 ],
         "type": "Point"
       },
@@ -9214,7 +9789,111 @@
           "https://docs.google.com/forms/d/e/1FAIpQLSf1RiAdoaLpf3JDMw7I7dmis63Alx9y-wTbeKj6ylo1u6OCcg/viewform"
       }
     ],
-    "taxonomy": [],
+    "taxonomy": [
+      {
+        "category": "Moeda Local",
+        "description": "",
+        "id": 12,
+        "sub-categories": [ "#r258" ],
+        "weight": 0
+      },
+      {
+        "category": "Associações",
+        "description": "",
+        "id": 10,
+        "sub-categories": [ "#r238" ],
+        "weight": 0
+      },
+      {
+        "category": "Segunda mão",
+        "description": "",
+        "id": 11,
+        "sub-categories": [ "Roupa" ],
+        "weight": 0
+      },
+      {
+        "category": "Serviços Partilhados",
+        "description": "",
+        "id": 7,
+        "sub-categories": [ "Lavandarias" ],
+        "weight": 0
+      },
+      {
+        "category": "Serviços de Manutenção",
+        "description": "",
+        "id": 8,
+        "sub-categories": [
+          "Calçado", "Casa & Electrodomésticos",
+          "Informática & electrónica", "Mobiliário", "Outros"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Recolha de resíduos",
+        "description": "",
+        "id": 9,
+        "sub-categories": [
+          "REEE", "Óleos", "Roupa", "Pilhas", "Oléos", "Rolhas",
+          "Depósito de embalagens", "Guarda Chuvas", "Déposito embalagens"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Feiras & Mercados",
+        "description": "",
+        "id": 5,
+        "sub-categories": [
+          "Mercado Municipal", "Mercado Municipal ", "Feiras",
+          "Outros Mercados", "Fruta Feia", "Mercado municipal ",
+          "Mercado Biológico"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Lojas a Granel",
+        "description": "",
+        "id": 6,
+        "sub-categories": [
+          "Drogaria", "Retrosaria & Têxtil", "Mercearia", "Cabeleireiro",
+          "Café", "Ervanária", "Outros", "Ferragens"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Hortas Urbanas",
+        "description": "",
+        "id": 3,
+        "sub-categories": [ "Municipais", "Comunitárias", "Escolares" ],
+        "weight": 0
+      },
+      {
+        "category": "Compostores",
+        "description": "",
+        "id": 4,
+        "sub-categories": [ "Municipais", "Comunitários" ],
+        "weight": 0
+      },
+      {
+        "category": "Junta de Freguesia",
+        "description": "",
+        "id": 1,
+        "sub-categories": [
+          "Sede", "Cultura & Desporto", "Higiene Urbana", "Higiene urbana",
+          "Intervenção comunitária", "Mobilidade"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Bicicletas",
+        "description": "",
+        "id": 2,
+        "sub-categories": [
+          "Venda e Aluguer", "Cicloficinas", "Venda e Aluguer ", "#r239",
+          "Comboios"
+        ],
+        "weight": 0
+      }
+    ],
     "title": "Mapa Lisboa Lixo Zero",
     "url": "https://lisboalixozero.zerowastelab.pt/",
     "version": 48

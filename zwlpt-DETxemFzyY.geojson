@@ -1030,7 +1030,7 @@
         "tags": [ "Alfama" ],
         "title": "Mercado AGROBIO ",
         "type": "",
-        "updated_date": "2021-11-23T03:49:32.800-08:00",
+        "updated_date": "2021-11-30T06:23:32.412-08:00",
         "weight": 0
       },
       "type": "Feature"
@@ -1087,7 +1087,7 @@
         "end_date": "",
         "icon_css_class": "",
         "image":
-          "https://lisboalixozero.zerowastelab.pt/images/categoria 4.png",
+          "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
         "image_credit": "",
         "links": [],
         "relationships": [],
@@ -1096,7 +1096,7 @@
         "tags": [ "Alfama" ],
         "title": "Mouraria Composta - Associação Renovar a Mouraria",
         "type": "",
-        "updated_date": "2021-11-23T03:49:31.077-08:00",
+        "updated_date": "2021-11-30T06:23:09.156-08:00",
         "weight": 0
       },
       "type": "Feature"
@@ -1426,7 +1426,8 @@
           " Beco dos Surradores\n   Serviço gratuito de apoio alimentar. Confeção de refeições diárias (almoço e jantar), ajustadas às necessidades nutricionais de cada utente, cumprindo os princípios básicos da alimentação saudável.\nPúblico-alvo : Indivíduos e/ou agregados recenseados na freguesia, desde que se enquadrem nos critérios estipulados pelo Regulamento de Apoio Social da JFSMM.\nHorários das refeições: 2ª a domingo na Mesa dos Afectos.\nEntregas: de 2ª a 6ª feira - para população mais idosa e vulnerável, em situação de isolamento, com baixos recursos económicos e com dificuldades de mobilidade).\nMais info: Tel: 210 416 300 / Email: geral@jfsantamariamaior.pt\n",
         "end_date": "",
         "icon_css_class": "",
-        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
         "image_credit": "",
         "links": [],
         "relationships": [],
@@ -1435,7 +1436,7 @@
         "tags": [],
         "title": "Mesa dos Afectos",
         "type": "",
-        "updated_date": "2021-11-23T03:49:15.964-08:00",
+        "updated_date": "2021-11-30T06:30:20.213-08:00",
         "weight": 0
       },
       "type": "Feature"
@@ -1605,7 +1606,8 @@
           "Rua da Madalena, 151\n1100-232 \n   2ª a 6ª: 09:00 às 13:00",
         "end_date": "",
         "icon_css_class": "",
-        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
         "image_credit": "",
         "links": [
           {
@@ -1621,7 +1623,7 @@
         "tags": [],
         "title": "Sede",
         "type": "",
-        "updated_date": "2021-11-23T03:49:03.166-08:00",
+        "updated_date": "2021-11-30T06:30:33.070-08:00",
         "weight": 0
       },
       "type": "Feature"
@@ -9287,7 +9289,7 @@
         "tags": [ "Alfama" ],
         "title": "Lavandaria Alfama 1",
         "type": "",
-        "updated_date": "2021-11-23T03:49:10.409-08:00",
+        "updated_date": "2021-11-30T06:30:08.354-08:00",
         "weight": 0
       },
       "type": "Feature"

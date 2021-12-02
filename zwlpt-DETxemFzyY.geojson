@@ -9791,7 +9791,111 @@
           "https://docs.google.com/forms/d/e/1FAIpQLSf1RiAdoaLpf3JDMw7I7dmis63Alx9y-wTbeKj6ylo1u6OCcg/viewform"
       }
     ],
-    "taxonomy": [],
+    "taxonomy": [
+      {
+        "category": "Associações",
+        "description": "",
+        "id": 10,
+        "sub-categories": [ "#r238" ],
+        "weight": 0
+      },
+      {
+        "category": "Segunda mão",
+        "description": "",
+        "id": 11,
+        "sub-categories": [ "Roupa" ],
+        "weight": 0
+      },
+      {
+        "category": "Moeda Local",
+        "description": "",
+        "id": 12,
+        "sub-categories": [ "#r258" ],
+        "weight": 0
+      },
+      {
+        "category": "Serviços de Manutenção",
+        "description": "",
+        "id": 8,
+        "sub-categories": [
+          "Calçado", "Casa & Electrodomésticos",
+          "Informática & electrónica", "Mobiliário", "Outros"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Recolha de resíduos",
+        "description": "",
+        "id": 9,
+        "sub-categories": [
+          "REEE", "Óleos", "Roupa", "Pilhas", "Oléos", "Rolhas",
+          "Depósito de embalagens", "Guarda Chuvas", "Déposito embalagens"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Serviços Partilhados",
+        "description": "",
+        "id": 7,
+        "sub-categories": [ "Lavandarias" ],
+        "weight": 0
+      },
+      {
+        "category": "Feiras & Mercados",
+        "description": "",
+        "id": 5,
+        "sub-categories": [
+          "Mercado Municipal", "Mercado Municipal ", "Feiras",
+          "Outros Mercados", "Fruta Feia", "Mercado municipal ",
+          "Mercado Biológico"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Lojas a Granel",
+        "description": "",
+        "id": 6,
+        "sub-categories": [
+          "Drogaria", "Retrosaria & Têxtil", "Mercearia", "Cabeleireiro",
+          "Café", "Ervanária", "Outros", "Ferragens"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Hortas Urbanas",
+        "description": "",
+        "id": 3,
+        "sub-categories": [ "Municipais", "Comunitárias", "Escolares" ],
+        "weight": 0
+      },
+      {
+        "category": "Compostores",
+        "description": "",
+        "id": 4,
+        "sub-categories": [ "Municipais", "Comunitários" ],
+        "weight": 0
+      },
+      {
+        "category": "Junta de Freguesia",
+        "description": "",
+        "id": 1,
+        "sub-categories": [
+          "Sede", "Cultura & Desporto", "Higiene Urbana", "Higiene urbana",
+          "Intervenção comunitária", "Mobilidade"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Bicicletas",
+        "description": "",
+        "id": 2,
+        "sub-categories": [
+          "Venda e Aluguer", "Cicloficinas", "Venda e Aluguer ", "#r239",
+          "Comboios"
+        ],
+        "weight": 0
+      }
+    ],
     "title": "Mapa Lisboa Lixo Zero",
     "url": "https://lisboalixozero.zerowastelab.pt/",
     "version": 51

@@ -2,6 +2,537 @@
   "features": [
     {
       "geometry": {
+        "coordinates": [ -9.204786816, 38.70680983 ],
+        "type": "Point"
+      },
+      "id": "/continente_bom_dia_restelo#1384",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2022-01-05T07:34:26.750-08:00",
+        "description":
+          "R. Conselheiro Martins de Carvalho, 1400-069\n   Máquina de recolha de embalagens no âmbito do projeto \"Bebidas+Circulares\", que tem como objetivo incentivar os cidadãos do concelho de Lisboa a devolverem garrafas de plástico PET, de vidro e latas não reutilizáveis de bebidas, para que o material recolhido seja reciclado e incorporado como matéria-prima na produção de novas embalagens de bebidas.\nEsta máquina aceita Garrafas PET + Latas de bebidas.",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.bebidascirculares.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "#r264",
+        "tags": [ "Belém" ],
+        "title": "Continente Bom Dia Restelo",
+        "type": "",
+        "updated_date": "2022-01-05T07:34:54.730-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.161931931, 38.72285625 ],
+        "type": "Point"
+      },
+      "id": "/auchan_amoreiras#1385",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2022-01-05T07:34:27.360-08:00",
+        "description":
+          "Shopping Center Amoreiras, Av. Eng.º Duarte Pacheco Loja 4003, 1070-103\n   Máquina de recolha de embalagens no âmbito do projeto \"Bebidas+Circulares\", que tem como objetivo incentivar os cidadãos do concelho de Lisboa a devolverem garrafas de plástico PET, de vidro e latas não reutilizáveis de bebidas, para que o material recolhido seja reciclado e incorporado como matéria-prima na produção de novas embalagens de bebidas.\nEsta máquina aceita Garrafas PET + Latas de bebidas.",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.bebidascirculares.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "#r264",
+        "tags": [ "Campo de Ourique" ],
+        "title": "Auchan Amoreiras",
+        "type": "",
+        "updated_date": "2022-01-05T07:34:54.924-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.126858372999999, 38.72785136 ],
+        "type": "Point"
+      },
+      "id": "/lidl_penha_de_fran_a#1386",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2022-01-05T07:34:27.988-08:00",
+        "description":
+          "Av. Cor. E. Galhardo, L. A2.2-P. -3, 1170-105\n   Máquina de recolha de embalagens no âmbito do projeto \"Bebidas+Circulares\", que tem como objetivo incentivar os cidadãos do concelho de Lisboa a devolverem garrafas de plástico PET, de vidro e latas não reutilizáveis de bebidas, para que o material recolhido seja reciclado e incorporado como matéria-prima na produção de novas embalagens de bebidas.\nEsta máquina aceita Garrafas PET + Latas de bebidas.",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.bebidascirculares.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "#r264",
+        "tags": [ "Penha de França" ],
+        "title": "Lidl Penha de França",
+        "type": "",
+        "updated_date": "2022-01-05T07:34:55.138-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.129877431000001, 38.71972098 ],
+        "type": "Point"
+      },
+      "id": "/pingo_doce_gra_a#1387",
+      "properties": {
+        "category": "Recolha de resíduos",
+        "category-description": "",
+        "created_date": "2022-01-05T07:34:28.748-08:00",
+        "description":
+          "R. Graça, 100/106, 1170-170\n   Máquina de recolha de embalagens no âmbito do projeto \"Bebidas+Circulares\", que tem como objetivo incentivar os cidadãos do concelho de Lisboa a devolverem garrafas de plástico PET, de vidro e latas não reutilizáveis de bebidas, para que o material recolhido seja reciclado e incorporado como matéria-prima na produção de novas embalagens de bebidas.\nEsta máquina aceita Garrafas PET + Latas de bebidas.",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.bebidascirculares.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "#r264",
+        "tags": [ "São Vicente" ],
+        "title": "Pingo Doce Graça",
+        "type": "",
+        "updated_date": "2022-01-05T07:34:55.506-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.171507945, 38.73576353 ],
+        "type": "Point"
+      },
+      "id": "/adm_estrela#1388",
+      "properties": {
+        "category": "Associações",
+        "category-description": "",
+        "created_date": "2022-01-05T07:34:29.610-08:00",
+        "description":
+          "Rua C, Bairro da Liberdade\nLote 4 Nível 2, Lojas 3 e 4\n   O Projeto PORTA 11 pretende reduzir a infoexclusão de famílias carenciadas ou inseridas em contextos vulneráveis, disponibilizando às crianças equipamentos informáticos recondicionados/reparados na oficina local que será criada para que possam prosseguir os seus estudos à distância.",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.admestrela.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "#r238",
+        "tags": [ "Campolide" ],
+        "title": "ADM ESTRELA",
+        "type": "",
+        "updated_date": "2022-01-05T07:34:56.087-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.136209522, 38.73104599 ],
+        "type": "Point"
+      },
+      "id": "/fica_oficina_criativa#1389",
+      "properties": {
+        "category": "Associações",
+        "category-description": "",
+        "created_date": "2022-01-05T07:34:30.369-08:00",
+        "description":
+          "Rua de Arroios 154 -B, 1150-056\n   A FICA é uma oficina criativa para criar à mão. São 120m2 prontos para homenagear o produto manualmente concebido com estúdio, produção, workshops, serviços, aluguer de espaço com ferramentas, loja especializada de produtos, consumíveis e materiais. ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://fica-oc.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "#r238",
+        "tags": [ "Arroios" ],
+        "title": "FICA - Oficina Criativa",
+        "type": "",
+        "updated_date": "2022-01-05T07:34:56.087-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.132540164, 38.72269882 ],
+        "type": "Point"
+      },
+      "id": "/fablab_lisboa#1390",
+      "properties": {
+        "category": "Associações",
+        "category-description": "",
+        "created_date": "2022-01-05T07:34:31.172-08:00",
+        "description":
+          "Rua Maria da Fonte, 1170-220 \n   Foi inaugurado em 2013 e trata-se de um laboratório de fabricação digital que permite a criação de novos produtos de propriedade intelectual (a baixo custo) e negócios. O FabLab Lisboa pretende ser acessível ao cidadão comum, possibilitando-lhe o acesso a um espaço onde se possa fazer quase tudo, visando o desenvolvimento social e económico, seja a nível individual ou comunitário. Com este laboratório a CML pretende estimular a inovação, a criatividade e o empreendedorismo, e ajudar a tornar realidade o protótipo de uma ideia.",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "#r238",
+        "tags": [ "Arroios" ],
+        "title": "FabLab Lisboa",
+        "type": "",
+        "updated_date": "2022-01-05T07:34:56.389-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.13603846, 38.72686481 ],
+        "type": "Point"
+      },
+      "id": "/cicloda#1391",
+      "properties": {
+        "category": "Associações",
+        "category-description": "",
+        "created_date": "2022-01-05T07:34:31.794-08:00",
+        "description":
+          "Regueirão dos Anjos, 69, 1150-028 \n   ASSOCIAÇÃO OFICINA DA CICLOMOBILIDADE\n\nFundada em Novembro de 2014, a CICLODA é o resultado do crescimento do projecto que esteve na sua génese, a Cicloficina dos Anjos. Tem como fim a promoção e o desenvolvimento da mobilidade urbana em bicicleta, e a disponibilização e apoio ao uso de ferramentas para bicicletas através de transmissão de conhecimentos e com vista á autonomia da utilização urbana da bicicleta.\n",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://cicloda.cicloficina.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "#r238",
+        "tags": [ "Arroios" ],
+        "title": "Cicloda",
+        "type": "",
+        "updated_date": "2022-01-05T07:34:56.389-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.153229317999999, 38.71378457 ],
+        "type": "Point"
+      },
+      "id": "/selim_banco_de_bicicletas#1392",
+      "properties": {
+        "category": "Associações",
+        "category-description": "",
+        "created_date": "2022-01-05T07:34:32.420-08:00",
+        "description":
+          "Espaço SELIM - Rua de São Bento, 246, 1200-821\n   O SELIM - Banco de Bicicletas é um programa que consiste na recolha, reparação e disponibilização de bicicletas usadas a quem precisar, em modalidade de empréstimo a longo-prazo.\nFacilitamos o depósito, recuperação, e disponibilização de bicicletas para a comunidade. É um projecto da CICLODA - Associação Oficina da Ciclomobilidade\n\nÉ um projecto criado para apoiar a mobilidade de todas as pessoas que necessitam de se movimentar durante a pandemia de COVID-19, e que não tenham uma bicicleta.\n",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://selim.cicloficina.pt/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www.facebook.com/selim.cicloficina"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "#r238",
+        "tags": [ "Misericórdia" ],
+        "title": "SELIM - Banco de Bicicletas",
+        "type": "",
+        "updated_date": "2022-01-05T07:34:56.389-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.13603846, 38.72686481 ],
+        "type": "Point"
+      },
+      "id": "/tia_bina#1393",
+      "properties": {
+        "category": "Associações",
+        "category-description": "",
+        "created_date": "2022-01-05T07:34:33.247-08:00",
+        "description":
+          "Regueirão dos Anjos, 69, 1150-028 \n   O projeto Tia Bina tem como missão facilitar o uso da bicicleta para deslocações quotidianas e de lazer através da capacitação para a sua utilização na cidade, tornando este meio de transporte uma opção atrativa para a generalidade da população. A visão do programa é ter: mais ciclistas, a pedalar com maior frequência e com mais confiança. O projeto visa também disponibilizar bicicletas de baixo custo ou gratuitamente através de doações e do envolvimento dos participantes na reparação mecânica dos veículos, autonomizando-os no seu uso futuro. O projeto Tia Bina é um programa desenvolvido pela CICLODA, em parceria com a Junta de Freguesia de Arroios que iniciou a sua atividade em 2019 e conta com o apoio do Programa Nacional do Desporto para Todos (PNDpT), do Instituto Português do Desporto e Juventude (IPDJ).",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://tiabina.cicloficina.pt/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www.facebook.com/projetotiabina/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "#r238",
+        "tags": [ "Arroios" ],
+        "title": "Tia Bina",
+        "type": "",
+        "updated_date": "2022-01-05T07:34:56.389-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.134921872898992, 38.72313358677446 ],
+        "type": "Point"
+      },
+      "id": "/loja_humana#1395",
+      "properties": {
+        "category": "Segunda mão",
+        "category-description": "",
+        "created_date": "2022-01-13T06:22:51.211-08:00",
+        "description":
+          "Loja segunda mão. Contam com uma seleção de moda secondhand para todos os públicos com boa relação qualidade-preço. Dão  uma segunda vida à roupa usada e promovem a sua reutilização.\nPode encontrar desde roupa vintage, a roupa para homem, senhora ou criança e até têxtil para o lar.",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "https://lisboalixozero.zerowastelab.pt/images/categoria9.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "",
+            "type": "website",
+            "url": "https://www.instagram.com/humana_secondhand_pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Roupa",
+        "tags": [ "Arroios" ],
+        "title": "Loja Humana",
+        "type": "",
+        "updated_date": "2022-01-13T07:14:12.516-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.147265466997663, 38.737796162402965 ],
+        "type": "Point"
+      },
+      "id": "/loja_humana#1397",
+      "properties": {
+        "category": "Segunda mão",
+        "category-description": "",
+        "created_date": "2022-01-13T07:01:12.420-08:00",
+        "description":
+          "Contam com uma seleção de moda secondhand para todos os públicos com uma boa relação qualidade-preço. Dão uma segunda vida à roupa usada e promovemos a sua reutilização.\nPodem encontrar desde roupa vintage, a roupa para homem, senhora ou criança e até têxtil para o lar. \n",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "http://drive.google.com/uc?export=view&id=1T-wG3mlAkuy_TZn1-qTjd6OkMEm--gzU",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "",
+            "type": "website",
+            "url": "https://www.instagram.com/humana_secondhand_pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "",
+        "tags": [ "Arroios" ],
+        "title": "Loja Humana",
+        "type": "",
+        "updated_date": "2022-01-13T07:14:21.152-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.135898602891981, 38.71214717934398 ],
+        "type": "Point"
+      },
+      "id": "/loja_humana#1399",
+      "properties": {
+        "category": "Segunda mão",
+        "category-description": "",
+        "created_date": "2022-01-13T07:08:08.989-08:00",
+        "description":
+          "Contam com uma seleção de moda secondhand para todos os públicos com uma boa relação qualidade-preço. Dão uma segunda vida à roupa usada e promovemos a sua reutilização.\nPodem encontrar desde roupa vintage, a roupa para homem, senhora ou criança e até têxtil para o lar. ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "http://drive.google.com/uc?export=view&id=1T-wG3mlAkuy_TZn1-qTjd6OkMEm--gzU",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "",
+            "type": "website",
+            "url": "https://www.instagram.com/humana_secondhand_pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "",
+        "tags": [ "Arroios" ],
+        "title": "Loja Humana",
+        "type": "",
+        "updated_date": "2022-01-13T07:14:28.065-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ 9.147777319738712, 38.732900013947436 ],
+        "type": "Point"
+      },
+      "id": "/loja_humana#1400",
+      "properties": {
+        "category": "Segunda mão",
+        "category-description": "",
+        "created_date": "2022-01-13T07:11:59.617-08:00",
+        "description":
+          "Loja segunda mão. Contam com uma seleção de moda secondhand para todos os públicos com boa relação qualidade-preço. Dão  uma segunda vida à roupa usada e promovem a sua reutilização.\nPode encontrar desde roupa vintage, a roupa para homem, senhora ou criança e até têxtil para o lar.",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "http://drive.google.com/uc?export=view&id=1T-wG3mlAkuy_TZn1-qTjd6OkMEm--gzU",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "",
+        "tags": [ "Arroios" ],
+        "title": "Loja Humana",
+        "type": "",
+        "updated_date": "2022-01-13T07:12:49.217-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ -9.135503676919596, 38.7221702120072 ],
+        "type": "Point"
+      },
+      "id": "/recreate#1402",
+      "properties": {
+        "category": "Upcycling",
+        "category-description": "",
+        "created_date": "2022-01-13T07:51:35.927-08:00",
+        "description":
+          "A ReCreate é um projecto de upcycling design que utiliza lonas publicitárias reutilizadas como matéria-prima, para criar produtos ecológicos e sustentáveis. Peças originais e sustentáveis com lonas publicitárias.\nJardins, almofadas, carteiras e encomendas personalizadas, tudo é possível. As ideias surgem a cada desafio que os clientes lançam. \nAqui nada se perde: tudo se cria e tudo se transforma ! \n\nContactos : \ninfo@recreate.pt\n+351 96 541 28 38 / +351 21 151 88 04",
+        "end_date": "",
+        "icon_css_class": "",
+        "image":
+          "http://drive.google.com/uc?export=view&id=1tFzvODiQVRebchLm77onoF5SRDdCUsX-",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "",
+        "tags": [ "Anjos" ],
+        "title": "ReCreate",
+        "type": "",
+        "updated_date": "2022-01-13T07:53:52.917-08:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
         "coordinates": [ -9.206057387, 38.75099782 ],
         "type": "Point"
       },
@@ -14592,7 +15123,122 @@
           "https://docs.google.com/forms/d/e/1FAIpQLSf1RiAdoaLpf3JDMw7I7dmis63Alx9y-wTbeKj6ylo1u6OCcg/viewform"
       }
     ],
-    "taxonomy": [],
+    "taxonomy": [
+      {
+        "category": "Junta de Freguesia",
+        "description": "Serviços da Junta de Freguesia",
+        "id": 1,
+        "sub-categories": [
+          "Sede", "Cultura & Desporto", "Higiene Urbana", "Higiene urbana",
+          "Intervenção comunitária", "Mobilidade"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Bicicletas",
+        "description": "",
+        "id": 2,
+        "sub-categories": [
+          "Venda e Aluguer", "Cicloficinas", "Venda e Aluguer ", "#r239",
+          "Comboios"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Hortas Urbanas",
+        "description": "",
+        "id": 3,
+        "sub-categories": [
+          "Municipais", "Comunitárias", "Escolares", "Outras"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Compostores",
+        "description": "",
+        "id": 4,
+        "sub-categories": [ "Municipais", "Comunitários" ],
+        "weight": 0
+      },
+      {
+        "category": "Feiras & Mercados",
+        "description": "",
+        "id": 5,
+        "sub-categories": [
+          "Mercado Municipal", "Mercado Municipal ", "Feiras",
+          "Outros Mercados", "Fruta Feia", "Mercado municipal ",
+          "Mercado Biológico"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Lojas a Granel",
+        "description": "",
+        "id": 6,
+        "sub-categories": [
+          "Drogaria", "Retrosaria & Têxtil", "Mercearia", "Cabeleireiro",
+          "Café", "Ervanária", "Outros", "Ferragens", "Outras", "#r263"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Serviços Partilhados",
+        "description": "",
+        "id": 7,
+        "sub-categories": [ "Lavandarias" ],
+        "weight": 0
+      },
+      {
+        "category": "Serviços de Manutenção",
+        "description": "",
+        "id": 8,
+        "sub-categories": [
+          "Calçado", "Casa & Electrodomésticos",
+          "Informática & electrónica", "Mobiliário", "Outros",
+          "Amoladores"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Recolha de resíduos",
+        "description": "",
+        "id": 9,
+        "sub-categories": [
+          "REEE", "Óleos", "Roupa", "Pilhas", "Oléos", "Rolhas",
+          "Depósito de embalagens", "Guarda Chuvas", "Déposito embalagens",
+          "#r264"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Associações",
+        "description": "",
+        "id": 10,
+        "sub-categories": [ "#r238" ],
+        "weight": 0
+      },
+      {
+        "category": "Segunda mão",
+        "description": "",
+        "id": 11,
+        "sub-categories": [ "Roupa", "Outros" ],
+        "weight": 0
+      },
+      {
+        "category": "Moeda Local",
+        "description": "",
+        "id": 12,
+        "sub-categories": [ "#r258" ],
+        "weight": 0
+      },
+      {
+        "category": "Upcycling",
+        "description": "",
+        "id": 13,
+        "sub-categories": [],
+        "weight": 0
+      }
+    ],
     "title": "Mapa Lisboa Lixo Zero",
     "url": "https://lisboalixozero.zerowastelab.pt/",
     "version": 62

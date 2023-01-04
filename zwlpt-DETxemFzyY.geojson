@@ -2,6 +2,3133 @@
   "features": [
     {
       "geometry": {
+        "coordinates": [-9.142831,38.697354
+        ],
+        "type": "Point"
+      },
+      "id": "/gira_bicicletas_de_lisboa_#1727",
+      "properties": {
+        "category": "Outros",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:13.495+01:00",
+        "description": "\n   Rede de partilha de bicicletas",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "www.gira-bicicletasdelisboa.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Mobilidade ",
+        "tags": [],
+        "title": "Gira - Bicicletas de Lisboa ",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:13.495+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.142849,38.697354
+        ],
+        "type": "Point"
+      },
+      "id": "/valorpneu_#1726",
+      "properties": {
+        "category": "Outros",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:12.489+01:00",
+        "description": "\n   Centros de receção de pneus usados",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "www.valorpneu.pt/sistema-sgpu/rede-de-recolha/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Encaminhamento de resíduos",
+        "tags": [],
+        "title": "Valorpneu ",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:12.489+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.142888,38.697354
+        ],
+        "type": "Point"
+      },
+      "id": "/contentores_da_c_ritas#1725",
+      "properties": {
+        "category": "Outros",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:11.758+01:00",
+        "description": "\n   Rede de contentores para deposição de roupas e calçado usados e outros têxteis",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "www.caritaslisboa.pt"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Encaminhamento de resíduos",
+        "tags": [],
+        "title": "Contentores da Cáritas",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:11.758+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.142853,38.697354
+        ],
+        "type": "Point"
+      },
+      "id": "/centros_de_rece_o_de_res_duos_da_cml#1724",
+      "properties": {
+        "category": "Outros",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:11.024+01:00",
+        "description": "\n   Centros de receção de resíduos da CML",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/cat/centros-de-rececao-de-residuos"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Encaminhamento de resíduos",
+        "tags": [],
+        "title": "Centros de receção de resíduos da CML",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:11.024+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.14282,38.697354
+        ],
+        "type": "Point"
+      },
+      "id": "/bebidas_circulares#1722",
+      "properties": {
+        "category": "Outros",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:09.384+01:00",
+        "description": "\n   Máquinas que recebem embalagens de bebidas (pet, alumínio e vidro) em troca de pontos",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "www.bebidascirculares.pt"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Encaminhamento de resíduos",
+        "tags": [],
+        "title": "Bebidas +Circulares",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:09.384+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.142842,38.697354
+        ],
+        "type": "Point"
+      },
+      "id": "/greencork#1723",
+      "properties": {
+        "category": "Outros",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:10.280+01:00",
+        "description": "\n   Locais para entrega de rolhas de cortiça usadas",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "www.greencork.org/participe/onde-entregar/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Encaminhamento de resíduos",
+        "tags": [],
+        "title": "Greencork",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:10.280+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.142832,38.697354
+        ],
+        "type": "Point"
+      },
+      "id": "/wasteapp#1721",
+      "properties": {
+        "category": "Outros",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:08.561+01:00",
+        "description": "\n   Aplicação e site para pesquisar locais para deposição ou entrega de vários tipos de resíduos",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "www.wasteapp.pt/home"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Encaminhamento de resíduos",
+        "tags": [],
+        "title": "Wasteapp",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:08.561+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.142823,38.697354
+        ],
+        "type": "Point"
+      },
+      "id": "/humana_portugal#1720",
+      "properties": {
+        "category": "Outros",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:07.741+01:00",
+        "description": "\n   Rede de contentores para deposição de roupas e calçado usados e outros têxteis",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "www.humana-portugal.org/o-que-fazemos/meio-ambiente/#findcontainer"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Encaminhamento de resíduos",
+        "tags": [],
+        "title": "Humana Portugal",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:07.741+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.142821,38.697354
+        ],
+        "type": "Point"
+      },
+      "id": "/reno_ole_es#1719",
+      "properties": {
+        "category": "Outros",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:06.981+01:00",
+        "description": "\n   Rede de oleões",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "www.reno.pt/mapa?t"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Encaminhamento de resíduos",
+        "tags": [],
+        "title": "Reno - Oleões",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:06.981+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.187607446,38.750701081
+        ],
+        "type": "Point"
+      },
+      "id": "/campo_de_t_nis_#1717",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:06.383+01:00",
+        "description": "Rua Prof. Reinaldo dos Santos 30\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Campo de Ténis ",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:06.383+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.142825,38.697354
+        ],
+        "type": "Point"
+      },
+      "id": "/onde_reciclar_eletr_o#1718",
+      "properties": {
+        "category": "Outros",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:06.614+01:00",
+        "description": "\n   Locais para deposição ou entrega de vários tipos de resíduos: equipamentos elétricos/ eletrónicos de grandes e pequenas dimensões, guarda-chuvas, lâmpadas, óleos alimentares usados, óleos lubrificantes, pilhas portáteis, pneus, veículos em fim de vida",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria10.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "www.ondereciclar.pt"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Encaminhamento de resíduos",
+        "tags": [],
+        "title": "Onde reciclar - Eletrão",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:06.614+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.171825329,38.754361624
+        ],
+        "type": "Point"
+      },
+      "id": "/largo_luzia_maria_martins_#1716",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:04.774+01:00",
+        "description": "Rua Olavo d'Eça Leal\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Largo Luzia Maria Martins ",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:04.774+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.156112948,38.721326272
+        ],
+        "type": "Point"
+      },
+      "id": "/parque_canino_do_jardim_das_amoreiras#1715",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:04.063+01:00",
+        "description": "Rua das Amoreiras\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Parque Canino do Jardim das Amoreiras",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:04.063+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.091815034,38.777387365
+        ],
+        "type": "Point"
+      },
+      "id": "/parque_tejo#1713",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:03.855+01:00",
+        "description": "Passeio dos Heróis do Mar\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Parque Tejo",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:03.855+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.125863666,38.725616082
+        ],
+        "type": "Point"
+      },
+      "id": "/parque_de_estacionamento_na_penha_de_fran_a#1714",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:03.855+01:00",
+        "description": "Rua Castelo Branco Saraiva e a Rua de Baixo\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Parque de estacionamento na Penha de França",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:03.855+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.111877957,38.762987214
+        ],
+        "type": "Point"
+      },
+      "id": "/quinta_pedag_gica_dos_olivais#1711",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:01.377+01:00",
+        "description": "Rua Cidade Lobito\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Quinta Pedagógica dos Olivais",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:01.377+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.111861864,38.774192229
+        ],
+        "type": "Point"
+      },
+      "id": "/junto_ao_posto_de_limpeza_jf_dos_olivais_#1712",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:02.264+01:00",
+        "description": "Rua Sargento Armando Monteiro Ferreira\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Junto ao Posto de Limpeza JF dos Olivais ",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:02.264+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.123062769,38.749525484
+        ],
+        "type": "Point"
+      },
+      "id": "/parque_da_bela_vista_#1710",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:28:00.925+01:00",
+        "description": "Avenida Dr. Arlindo Vicente\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Parque da Bela Vista ",
+        "type": "",
+        "updated_date": "2022-10-06T17:28:00.925+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.160388389,38.71547916
+        ],
+        "type": "Point"
+      },
+      "id": "/jardim_da_estrela#1708",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:59.089+01:00",
+        "description": "Rua S. Bernardo\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Jardim da Estrela",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:59.089+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.162153283,38.773414334
+        ],
+        "type": "Point"
+      },
+      "id": "/mercado_do_lumiar_#1709",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:59.959+01:00",
+        "description": "Rua Luis de Freitas Branco\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Mercado do Lumiar ",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:59.959+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.180239419,38.763300928
+        ],
+        "type": "Point"
+      },
+      "id": "/rua_poeta_bocage#1707",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:58.228+01:00",
+        "description": "Rua Poeta Bocage\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Rua Poeta Bocage",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:58.228+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.160114805,38.725344051
+        ],
+        "type": "Point"
+      },
+      "id": "/junto_ao_muro_do_antigo_quartel#1706",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:57.551+01:00",
+        "description": "Avenida Conselheiro Fernando Sousa\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Junto ao muro do antigo quartel",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:57.551+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.165264645,38.718262562
+        ],
+        "type": "Point"
+      },
+      "id": "/jardim_da_parada#1705",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:56.847+01:00",
+        "description": "Rua Infantaria 16\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Jardim da Parada",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:56.847+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.200138727,38.755562242
+        ],
+        "type": "Point"
+      },
+      "id": "/jardim_do_eucaliptal#1704",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:56.054+01:00",
+        "description": "Estrada dos Arneiros\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Jardim do eucaliptal",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:56.054+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.205771366,38.710364114
+        ],
+        "type": "Point"
+      },
+      "id": "/jardim_dos_moinhos_de_santana#1703",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:55.037+01:00",
+        "description": "Estrada de Caselas\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Jardim dos Moinhos de Santana",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:55.037+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.144418517,38.730817916
+        ],
+        "type": "Point"
+      },
+      "id": "/mercado_31_de_janeiro#1701",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:53.321+01:00",
+        "description": "Praça José Fontana\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Mercado 31 de Janeiro",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:53.321+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.153940359,38.727432372
+        ],
+        "type": "Point"
+      },
+      "id": "/parque_eduardo_vii#1702",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:54.313+01:00",
+        "description": "Parque Eduardo VII\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Parque Eduardo VII",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:54.313+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.139606634,38.720639878
+        ],
+        "type": "Point"
+      },
+      "id": "/campo_m_rtires_da_p_tria#1700",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:52.451+01:00",
+        "description": "Campo Mártires da Pátria\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Campo Mártires da Pátria",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:52.451+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.136799164,38.741769734
+        ],
+        "type": "Point"
+      },
+      "id": "/auto_parque_paris_nascente#1699",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:51.269+01:00",
+        "description": "Rua Presidente Wilson, logradouro Oeste\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Auto Parque Paris Nascente",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:51.269+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.185982028,38.71971491
+        ],
+        "type": "Point"
+      },
+      "id": "/parque_recreativo_do_alvito#1697",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:49.581+01:00",
+        "description": "Estrada do Alvito\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Parque Recreativo do Alvito",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:49.581+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.151059666,38.754148272
+        ],
+        "type": "Point"
+      },
+      "id": "/campo_grande_#1698",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:50.554+01:00",
+        "description": "frente à Igreja Paroquial dos Santos Reis Magos do Campo Grande\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Campo Grande ",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:50.554+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.191481496,38.705523972
+        ],
+        "type": "Point"
+      },
+      "id": "/parque_hort_cola_rio_seco#1696",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:48.850+01:00",
+        "description": "Calçada Ernesto Silva\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "lisboaacompostar.cm-lisboa.pt/pls/OKUL/f?p=178:16:874268178441::NO:::"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Compostagem Comunitária",
+        "tags": [],
+        "title": "Parque Hortícola Rio Seco",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:48.850+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.117718,38.7233836
+        ],
+        "type": "Point"
+      },
+      "id": "/baluarte_de_santa_apol_nia#1695",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:47.943+01:00",
+        "description": "Baluarte de Santa Apolónia\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Baluarte de Santa Apolónia",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:47.943+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1653293,38.7360262
+        ],
+        "type": "Point"
+      },
+      "id": "/campolide#1693",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:46.371+01:00",
+        "description": "Jardim da Amnistia Internacional\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Campolide",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:46.371+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.131758,38.7180902
+        ],
+        "type": "Point"
+      },
+      "id": "/gra_a#1694",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:47.041+01:00",
+        "description": "Parque Hortícola da Graça\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Graça",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:47.041+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1893444,38.7567951
+        ],
+        "type": "Point"
+      },
+      "id": "/bensa_de#1692",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:45.626+01:00",
+        "description": "Paque Bensaúde\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Bensaúde",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:45.626+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1289257,38.744604
+        ],
+        "type": "Point"
+      },
+      "id": "/casal_vistoso#1691",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:44.611+01:00",
+        "description": "Parque Urbano do Casal Vistoso\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Casal Vistoso",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:44.611+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1127595,38.7516278
+        ],
+        "type": "Point"
+      },
+      "id": "/vale_fund_o#1689",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:43.266+01:00",
+        "description": "Parque do Vale Fundão\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Vale Fundão",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:43.266+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1072631,38.7447394
+        ],
+        "type": "Point"
+      },
+      "id": "/quinta_das_flores_#1690",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:44.362+01:00",
+        "description": "Parque Quinta das Flores\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Quinta das Flores ",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:44.362+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1236656,38.7540129
+        ],
+        "type": "Point"
+      },
+      "id": "/vale_de_chelas#1688",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:42.496+01:00",
+        "description": "Parque Urbano do Vale Marvila\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Vale de Chelas",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:42.496+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1275048,38.759585
+        ],
+        "type": "Point"
+      },
+      "id": "/vinha#1687",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:41.894+01:00",
+        "description": "Parque Hortícola da Vinha\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Vinha",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:41.894+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1114117,38.7725817
+        ],
+        "type": "Point"
+      },
+      "id": "/quinta_conde_d_arcos#1686",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:41.283+01:00",
+        "description": "Quinta Conde d'Arcos\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Quinta Conde d'Arcos",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:41.283+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1660462,38.7603252
+        ],
+        "type": "Point"
+      },
+      "id": "/telheiras#1684",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:40.089+01:00",
+        "description": "Parque Hortícola de Telheiras\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Telheiras",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:40.089+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1224031,38.7703712
+        ],
+        "type": "Point"
+      },
+      "id": "/olivais#1685",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:40.753+01:00",
+        "description": "Parque Urbano dos Olivais \n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Olivais",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:40.753+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1762469,38.770124
+        ],
+        "type": "Point"
+      },
+      "id": "/quinta_nossa_senhora_da_paz#1683",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:39.237+01:00",
+        "description": "Quinta Nossa Senhora da Paz\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Quinta Nossa Senhora da Paz",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:39.237+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1875021,38.7692544
+        ],
+        "type": "Point"
+      },
+      "id": "/carnide#1682",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:38.535+01:00",
+        "description": "Parque Hortícola de Carnide\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Carnide",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:38.535+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1856967,38.7645952
+        ],
+        "type": "Point"
+      },
+      "id": "/quinta_das_carmelitas#1680",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:36.680+01:00",
+        "description": "Quinta das Carmelitas\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Quinta das Carmelitas",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:36.680+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1802134,38.7657173
+        ],
+        "type": "Point"
+      },
+      "id": "/horta_nova#1681",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:37.462+01:00",
+        "description": "Parque Hortícola da Horta Nova de Telheiras \n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Horta Nova",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:37.462+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1955519,38.7525272
+        ],
+        "type": "Point"
+      },
+      "id": "/quinta_da_granja#1679",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:35.854+01:00",
+        "description": "Parque Urbano da Quinta da Granja\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Quinta da Granja",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:35.854+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.206885,38.731965
+        ],
+        "type": "Point"
+      },
+      "id": "/eco_hortas_boavista#1678",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:35.100+01:00",
+        "description": "Bairro da Boa Vista\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Eco-hortas Boavista",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:35.100+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1917161,38.7054213
+        ],
+        "type": "Point"
+      },
+      "id": "/rio_seco_iv#1677",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:34.447+01:00",
+        "description": "Rua de Rio Seco\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Rio Seco IV",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:34.447+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.195978,38.7100296
+        ],
+        "type": "Point"
+      },
+      "id": "/bairro_2_de_maio#1675",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:33.010+01:00",
+        "description": "Bairro 2 de Maio\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4 .png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Bairro 2 de Maio",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:33.010+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1922554,38.7056886
+        ],
+        "type": "Point"
+      },
+      "id": "/rio_seco_iii#1676",
+      "properties": {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:33.764+01:00",
+        "description": "Rua de Rio Seco\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria4 .png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lisboa.pt/cidade/ambiente/estrutura-ecologica/parques-horticolas"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Hortas Urbanas ",
+        "tags": [],
+        "title": "Rio Seco III",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:33.764+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.144392694,38.74855248
+        ],
+        "type": "Point"
+      },
+      "id": "/places#1674",
+      "properties": {
+        "category": "Serviços partilhados",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:32.196+01:00",
+        "description": "Rua Flores de Lima 16 1700-196\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria7.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.placeswork.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Co-workings",
+        "tags": [],
+        "title": "Places",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:32.196+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.101242196,38.74394995
+        ],
+        "type": "Point"
+      },
+      "id": "/f_brica_bra_o_de_prata#1673",
+      "properties": {
+        "category": "Serviços partilhados",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:31.613+01:00",
+        "description": "Rua da Fábrica de Material de Guerra, 1 1950-128\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria7.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.bracodeprata.com/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Co-workings",
+        "tags": [],
+        "title": "Fábrica Braço de Prata",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:31.613+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.107885652,38.72999556
+        ],
+        "type": "Point"
+      },
+      "id": "/now_beato#1671",
+      "properties": {
+        "category": "Serviços partilhados",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:30.201+01:00",
+        "description": "Rua do Grilo, 135 1950-144\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria7.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://www.no-office-work.com/pt.html"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Co-workings",
+        "tags": [],
+        "title": "NOW Beato",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:30.201+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.098399667,38.74764353
+        ],
+        "type": "Point"
+      },
+      "id": "/lisbon_work_hub#1672",
+      "properties": {
+        "category": "Serviços partilhados",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:30.855+01:00",
+        "description": "Praceta da Tabaqueira A2 1950-256\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria7.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://workhub.pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Co-workings",
+        "tags": [],
+        "title": "Lisbon Work Hub",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:30.855+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.107201539,38.73030713
+        ],
+        "type": "Point"
+      },
+      "id": "/hub_criativo_do_beato#1670",
+      "properties": {
+        "category": "Serviços partilhados",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:28.907+01:00",
+        "description": "Rua da Manutenção 118 1950-321\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria7.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://hubcriativobeato.com/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Co-workings",
+        "tags": [],
+        "title": "Hub Criativo do Beato",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:28.907+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.149389729,38.77896208
+        ],
+        "type": "Point"
+      },
+      "id": "/lavandaria_ecol_gica_super_av_#1669",
+      "properties": {
+        "category": "Serviços partilhados",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:27.502+01:00",
+        "description": "Av. Nuno Krus Abecassis, 28 A, 1750-456\n   Conceito: As máquinas de lavar com filtração de água para que as micro partículas das roupas não cheguem aos Oceanos. Detergentes ecológicos \n certificados EcoLabel. \n  Horários de funcionamento: Aberto todos os dias do ano, das 08:00h às 23:00h\n ​Contactos: info.superavo@gmail.com / (+351) 913 484 101",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria7.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://www.lavandariasuperavo.com/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www.facebook.com/superavo"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Lavandarias",
+        "tags": [],
+        "title": "Lavandaria Ecológica Super Avó",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:27.502+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.191689192,38.70398685
+        ],
+        "type": "Point"
+      },
+      "id": "/conta_gotas_lda#1668",
+      "properties": {
+        "category": "Serviços partilhados",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:26.540+01:00",
+        "description": "Largo Rio Seco 3, 1300-496\n   Lavandaria self-service. Horário: Todos os dias das 07h30 às 23h",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria7.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www.facebook.com/ContaGotas-Lda-Lavandaria-e-Servi%C3%A7os-de-Contabilidade-Lda-106838394231163/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Lavandarias",
+        "tags": [],
+        "title": "Conta Gotas Lda",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:26.540+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1960346,38.7035441
+        ],
+        "type": "Point"
+      },
+      "id": "/lavandaria_bolha_de_espuma#1666",
+      "properties": {
+        "category": "Serviços partilhados",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:24.836+01:00",
+        "description": "Travessa da Boa Hora à Ajuda 18, 1300-104\n   Lavandaria self-service. Horário: Todos os dias das 08h às 22h",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria7.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www.facebook.com/bolha.espuma/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Lavandarias",
+        "tags": [],
+        "title": "Lavandaria Bolha de Espuma",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:24.836+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.201929092,38.70209959
+        ],
+        "type": "Point"
+      },
+      "id": "/lavamais#1667",
+      "properties": {
+        "category": "Serviços partilhados",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:25.587+01:00",
+        "description": "Travessa da Memória 49A, 1300-396\n   Lavandaria self-service. Horário: Todos os dias das 08h às 22h",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria7 .png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www.facebook.com/Lavamaisajuda/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Lavandarias",
+        "tags": [],
+        "title": "Lavamais",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:25.587+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.194972951,38.72071546
+        ],
+        "type": "Point"
+      },
+      "id": "/biclas_monsanto_#1665",
+      "properties": {
+        "category": "Aluguer",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:23.562+01:00",
+        "description": "Parque Florestal de Monsanto, Estrada de Montes Claros, 651 (frt Anfiteatro Keil do Amaral)\n   A Biclas Monsanto vende & aluga bicicletas e oferece também oficina de reparação multimarca, Localiza-se mesmo em frente ao Anfiteatro Keil do Amaral, em Monsanto,  A Biclas tem mais duas lojas em Lisboa: Chiado e Belém, \nTelefone: (+351) 963 780 233   Horário da Loja:  Aberto das 11h às 19h (Terça a Sexta-feira) e 10h às 19h (Fim de semana e Feriados)",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://www,biclas,com/"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www,facebook,com/biclaschiado"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Equipamentos",
+        "tags": [],
+        "title": "Biclas Monsanto ",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:23.562+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.143032522,38.71623701
+        ],
+        "type": "Point"
+      },
+      "id": "/bazar_do_video#1664",
+      "properties": {
+        "category": "Aluguer",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:21.875+01:00",
+        "description": "Rua da Glória, 2A Lisboa\n   Aluguer de Material Fotográfico",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "bazardovideo,biz"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Equipamentos",
+        "tags": [
+          "Santo António"
+        ],
+        "title": "Bazar do Video",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:21.875+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.136957508,38.73590748
+        ],
+        "type": "Point"
+      },
+      "id": "/fraques_pt#1662",
+      "properties": {
+        "category": "Aluguer",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:20.369+01:00",
+        "description": "Avenida Rovisco Pais, 44A Lisboa\n   Aluguer de Roupa de Cerimónia",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "fraques,pt"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Roupa",
+        "tags": [
+          "Areeiro"
+        ],
+        "title": "Fraques,pt",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:20.369+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.139760967,38.78154558
+        ],
+        "type": "Point"
+      },
+      "id": "/jos_ruela_lda#1663",
+      "properties": {
+        "category": "Aluguer",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:21.001+01:00",
+        "description": "Estrada de Manique, 19 Lisboa\n   Equipamentos para Indústria e Construção",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "joseruela,pt"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Equipamentos",
+        "tags": [
+          "Santa Clara"
+        ],
+        "title": "José Ruela Lda",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:21.001+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.16444364,38.7250817
+        ],
+        "type": "Point"
+      },
+      "id": "/loja_ilon#1661",
+      "properties": {
+        "category": "Aluguer",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:18.913+01:00",
+        "description": "Rua Arco do Carvalhão, 20A Lisboa\n   Aluguer de Roupa de Cerimónia",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "ilon-fraques,pt"
+          },
+          {
+            "description": "",
+            "title": "Facebook",
+            "type": "Website",
+            "url": "https://www,facebook,com/ilon,vestuario,cerimonia/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Roupa",
+        "tags": [
+          "Campolide"
+        ],
+        "title": "Loja Ilon",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:18.913+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.167328896,38.70741022
+        ],
+        "type": "Point"
+      },
+      "id": "/alugatudo#1660",
+      "properties": {
+        "category": "Aluguer",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:18.042+01:00",
+        "description": "Avenida Infante Santo, 48A Lisboa\n   Aluguer de Máquinas e Equipamentos",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "http://www,alugatudo,com/catalogos,html"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Equipamentos",
+        "tags": [
+          "Estrela"
+        ],
+        "title": "Alugatudo",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:18.042+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.128764367,38.73510929
+        ],
+        "type": "Point"
+      },
+      "id": "/copos_reutiliz_veis_artcor_bar_services_providers#1659",
+      "properties": {
+        "category": "Aluguer",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:17.437+01:00",
+        "description": "Rua Barão Sabrosa, 130A Lisboa\n   Aluguer de Copos Reutilizáveis",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria11.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://coposreutilizaveis,pt/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Equipamentos",
+        "tags": [
+          "Penha de França"
+        ],
+        "title": "Copos Reutilizáveis - ArtCor Bar Services Providers",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:17.437+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.113047236,38.76369734
+        ],
+        "type": "Point"
+      },
+      "id": "/biblioteca_dos_olivais#1657",
+      "properties": {
+        "category": "Bibliotecas",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:16.101+01:00",
+        "description": "Palácio do Contador-Mor, Rua Cidade de Lobito Lisboa\n   Biblioteca municipal",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://blx.cm-lisboa.pt/biblioteca-dos-olivais/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Livros",
+        "tags": [
+          "Olivais"
+        ],
+        "title": "Biblioteca dos Olivais",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:16.101+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.169055081,38.75995182
+        ],
+        "type": "Point"
+      },
+      "id": "/biblioteca_orlando_ribeiro#1658",
+      "properties": {
+        "category": "Bibliotecas",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:16.700+01:00",
+        "description": "Antigo Solar da Nora, Estrada de Telheiras, 146 Lisboa\n   Biblioteca municipal",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://blx.cm-lisboa.pt/biblioteca-orlando-ribeiro/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Livros",
+        "tags": [
+          "Telheiras"
+        ],
+        "title": "Biblioteca Orlando Ribeiro",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:16.700+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.190928936,38.76984825
+        ],
+        "type": "Point"
+      },
+      "id": "/biblioteca_nat_lia_correia#1656",
+      "properties": {
+        "category": "Bibliotecas",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:15.528+01:00",
+        "description": "Rua Rio Cávado, 3 Lisboa\n   Biblioteca municipal",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://blx.cm-lisboa.pt/biblioteca-natalia-correia/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Livros",
+        "tags": [
+          "Carnide"
+        ],
+        "title": "Biblioteca Natália Correia",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:15.528+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.110596656,38.74020656
+        ],
+        "type": "Point"
+      },
+      "id": "/biblioteca_de_marvila#1655",
+      "properties": {
+        "category": "Bibliotecas",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:14.825+01:00",
+        "description": "Rua António Gedeão, Lisboa\n   Biblioteca municipal",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://blx.cm-lisboa.pt/biblioteca-de-marvila/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Livros",
+        "tags": [
+          "Marvila"
+        ],
+        "title": "Biblioteca de Marvila",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:14.825+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.16629911,38.71721025
+        ],
+        "type": "Point"
+      },
+      "id": "/biblioteca_espa_o_cultural_cinema_europa#1653",
+      "properties": {
+        "category": "Bibliotecas",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:13.671+01:00",
+        "description": "Rua Francisco Metrass, 28 Lisboa\n   Biblioteca municipal",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://blx.cm-lisboa.pt/biblioteca-espaco-cultural-cinema-europa/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Livros",
+        "tags": [
+          "Campo de Ourique"
+        ],
+        "title": "Biblioteca/ Espaço Cultural Cinema Europa",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:13.671+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.153461884,38.77581587
+        ],
+        "type": "Point"
+      },
+      "id": "/biblioteca_maria_keil#1654",
+      "properties": {
+        "category": "Bibliotecas",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:14.235+01:00",
+        "description": "Rua Maria José da Guia, 8 Lisboa\n   Biblioteca municipal",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://blx.cm-lisboa.pt/biblioteca-maria-keil/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Livros",
+        "tags": [
+          "Lumiar"
+        ],
+        "title": "Biblioteca Maria Keil",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:14.235+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.104317069,38.77260096
+        ],
+        "type": "Point"
+      },
+      "id": "/biblioteca_david_mour_o_ferreira#1652",
+      "properties": {
+        "category": "Bibliotecas",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:13.025+01:00",
+        "description": "Rua Padre Abel Varzim, 7D Lisboa\n   Biblioteca municipal",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://blx.cm-lisboa.pt/biblioteca-mourao-ferreira/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Livros",
+        "tags": [
+          "Parque das Nações"
+        ],
+        "title": "Biblioteca David Mourão Ferreira",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:13.025+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.144217953,38.75119274
+        ],
+        "type": "Point"
+      },
+      "id": "/biblioteca_dos_coruch_us#1651",
+      "properties": {
+        "category": "Bibliotecas",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:12.521+01:00",
+        "description": "Palácio dos Coruchéus, Rua Alberto de Oliveira Lisboa\n   Biblioteca municipal",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://blx.cm-lisboa.pt/biblioteca-dos-corucheus/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Livros",
+        "tags": [
+          "Alvalade"
+        ],
+        "title": "Biblioteca dos Coruchéus",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:12.521+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.146063095,38.7109769
+        ],
+        "type": "Point"
+      },
+      "id": "/biblioteca_cam_es#1650",
+      "properties": {
+        "category": "Bibliotecas",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:11.930+01:00",
+        "description": "Largo Calhariz, 17 1º Lisboa\n   Biblioteca municipal",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://blx.cm-lisboa.pt/biblioteca-camoes/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Livros",
+        "tags": [
+          "Misericórdia"
+        ],
+        "title": "Biblioteca Camões",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:11.930+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.163046044,38.71765947
+        ],
+        "type": "Point"
+      },
+      "id": "/p_lo_de_economia_circular_de_campo_de_ourique_pecco_#1647",
+      "properties": {
+        "category": "Bibliotecas",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:09.891+01:00",
+        "description": "Rua Almeida e Sousa, 6 Lisboa\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/.png",
+        "image_credit": "",
+        "links": [],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Ferramentas",
+        "tags": [
+          "Campo de Ourique"
+        ],
+        "title": "Pólo de Economia Circular de Campo de Ourique (PECCO)",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:09.891+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.177962483,38.70648642
+        ],
+        "type": "Point"
+      },
+      "id": "/biblioteca_alc_ntara#1648",
+      "properties": {
+        "category": "Bibliotecas",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:10.881+01:00",
+        "description": "Rua José Dias Coelho, 27 Lisboa\n   Biblioteca municipal",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://blx.cm-lisboa.pt/biblioteca-de-alcantara/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Livros",
+        "tags": [
+          "Alcântara"
+        ],
+        "title": "Biblioteca Alcântara",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:10.881+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.195886908,38.69744722
+        ],
+        "type": "Point"
+      },
+      "id": "/bilioteca_b_lem#1649",
+      "properties": {
+        "category": "Bibliotecas",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:11.374+01:00",
+        "description": "Rua da Junqueira, 295 Lisboa\n   Biblioteca municipal",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria1.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://blx.cm-lisboa.pt/biblioteca-belem/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Livros",
+        "tags": [
+          "Belém"
+        ],
+        "title": "Bilioteca Bélem",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:11.374+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1708537,38.784162
+        ],
+        "type": "Point"
+      },
+      "id": "/loja_do_zero#1646",
+      "properties": {
+        "category": "Lojas eco, sustentáveis, lixo zero",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:09.245+01:00",
+        "description": "Rua Alexandre Ferreira 17B, 1750-010\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria3.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "do-zero.pt/loja/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "-",
+        "tags": [],
+        "title": "Loja do Zero",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:09.245+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1514235,38.7193255
+        ],
+        "type": "Point"
+      },
+      "id": "/str_ii#1645",
+      "properties": {
+        "category": "Lojas eco, sustentáveis, lixo zero",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:08.677+01:00",
+        "description": "Rua Nova de São Mamede 66, 1250-173\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria3.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "pt.by-stro.com"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "-",
+        "tags": [],
+        "title": "Stró II",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:08.677+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.0965149,38.7764595
+        ],
+        "type": "Point"
+      },
+      "id": "/ecologicalkids#1643",
+      "properties": {
+        "category": "Lojas eco, sustentáveis, lixo zero",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:07.406+01:00",
+        "description": "Páteo das Pirogas 1B, 1990-616\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria3.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "www.ecologicalkids.pt"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "-",
+        "tags": [],
+        "title": "EcologicalKids",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:07.406+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1519226,38.7180617
+        ],
+        "type": "Point"
+      },
+      "id": "/str_#1644",
+      "properties": {
+        "category": "Lojas eco, sustentáveis, lixo zero",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:08.126+01:00",
+        "description": "Rua da Escola Politécnica 80A-80B, 1250-102\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria3.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "pt.by-stro.com"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "-",
+        "tags": [],
+        "title": "Stró ",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:08.126+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.1453475,38.7103629
+        ],
+        "type": "Point"
+      },
+      "id": "/sapato_verde_#1642",
+      "properties": {
+        "category": "Lojas eco, sustentáveis, lixo zero",
+        "category-description": "",
+        "created_date": "2022-10-06T17:27:06.733+01:00",
+        "description": "Rua das Chagas 31/33, 1200-106\n   ",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria3.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "sapatoverde.pt"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "-",
+        "tags": [],
+        "title": "Sapato Verde ",
+        "type": "",
+        "updated_date": "2022-10-06T17:27:06.733+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.142430702,38.71796491
+        ],
+        "type": "Point"
+      },
+      "id": "/antiga_ervan_ria#1641",
+      "properties": {
+        "category": "Lojas a granel, feiras e mercados",
+        "category-description": "",
+        "created_date": "2022-10-06T17:02:00.025+01:00",
+        "description": "Largo da Anunciada, 13, 14, 15, 1115-048\n   Foi a primeira ervanária a surgir em Portugal, em 1793. Continua aberta comercializando todo o tipo de ervas medicinais. Horário: 2ª-6ª: 09h-18h",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria5.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://antigaervanaria.pt/pt/home"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Ervanária",
+        "tags": [],
+        "title": "Antiga Ervanária",
+        "type": "",
+        "updated_date": "2022-10-06T17:02:00.025+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-9.151490118,38.71005866
+        ],
+        "type": "Point"
+      },
+      "id": "/companhia_portugueza_do_ch_#1640",
+      "properties": {
+        "category": "Lojas a granel, feiras e mercados",
+        "category-description": "",
+        "created_date": "2022-10-06T17:01:59.160+01:00",
+        "description": "R. do Poço dos Negros 123, 1200-337\n   Horário: 2ª-Sáb. 10-19h",
+        "end_date": "",
+        "icon_css_class": "",
+        "image": "https://lisboalixozero.zerowastelab.pt/images/categoria5.png",
+        "image_credit": "",
+        "links": [
+          {
+            "description": "",
+            "title": "Website",
+            "type": "Website",
+            "url": "https://companhiaportuguezadocha.com/"
+          }
+        ],
+        "relationships": [],
+        "start_date": "",
+        "sub-category": "Mercearia",
+        "tags": [],
+        "title": "Companhia Portugueza do Chá",
+        "type": "",
+        "updated_date": "2022-10-06T17:01:59.160+01:00",
+        "weight": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
         "coordinates": [-9.151791531,38.71094322
         ],
         "type": "Point"
@@ -8859,7 +11986,127 @@
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSf1RiAdoaLpf3JDMw7I7dmis63Alx9y-wTbeKj6ylo1u6OCcg/viewform"
       }
     ],
-    "taxonomy": [],
+    "taxonomy": [
+      {
+        "category": "Hortas Urbanas e Compostagem Comunitária",
+        "description": "",
+        "id": 9,
+        "sub-categories": [
+          "Hortas Urbanas ",
+          "Compostagem Comunitária"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Outros",
+        "description": "",
+        "id": 10,
+        "sub-categories": [
+          "Encaminhamento de resíduos",
+          "Mobilidade "
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Serviços partilhados",
+        "description": "",
+        "id": 8,
+        "sub-categories": [
+          "Lavandarias",
+          "Co-workings"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Aluguer",
+        "description": "",
+        "id": 7,
+        "sub-categories": [
+          "Equipamentos",
+          "Roupa"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Bibliotecas",
+        "description": "",
+        "id": 6,
+        "sub-categories": [
+          "Ferramentas",
+          "Livros"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Lojas a granel, feiras e mercados",
+        "description": "",
+        "id": 4,
+        "sub-categories": [
+          "Mercearia",
+          "Drogaria",
+          "Retrosaria & Têxtil",
+          "Mercado Municipal",
+          "Feiras",
+          "Mercado municipal",
+          "Fruta Feia",
+          "Mercados",
+          "#r289",
+          "Outros",
+          "Ferragens",
+          "Ervanária"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Lojas eco, sustentáveis, lixo zero",
+        "description": "",
+        "id": 5,
+        "sub-categories": [
+          "-"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Segunda-mão",
+        "description": "",
+        "id": 3,
+        "sub-categories": [
+          "Roupa",
+          "Equipamentos elétricos e eletrónicos",
+          "Puericultura",
+          "Livros",
+          "Mobiliário e decoração",
+          "Outros"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Trocas",
+        "description": "",
+        "id": 2,
+        "sub-categories": [
+          "Roupa"
+        ],
+        "weight": 0
+      },
+      {
+        "category": "Reparação",
+        "description": "",
+        "id": 1,
+        "sub-categories": [
+          "Bicicletas",
+          "Casa e electrodomésticos",
+          "Calçado",
+          "Informática e Electrónica",
+          "Outros",
+          "Amoladores",
+          "Têxtil",
+          "Mobiliário",
+          "Sapateiro"
+        ],
+        "weight": 0
+      }
+    ],
     "title": "Mapa Lixo Zero",
     "url": "https://lisboalixozero.zerowastelab.pt/",
     "version": 65

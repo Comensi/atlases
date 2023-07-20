@@ -1599,40 +1599,24 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Kreative Raumpioniere am Mehringplatz",
+                "title": "International Building Exhibition (IBA) ",
                 "type": "Project",
                 "start_date": "",
                 "end_date": "",
-                "description": " In 2009 the study Kreative Raumpionere am Mehringplatz is commissioned by GeWoBag to the firm Urbanitas to develop a strategy to support the settlement of cultural actors and creative industries in the area. The study is lead by Florian Schmidt, who will later become Baustadtrat (Coucillor for Urban Development) of Friedrichshain-Kreuzberg. ",
-                "image": "https://taz.de/picture/304920/624/Kreativquartier_aktuell_WEB.jpg",
-                "category": "Imaginations",
-                "sub-category": "",
-                "tags": [
-                    "Urban regeneration",
-                    "social inclusion",
-                    "art",
-                    "culture",
-                    "Creative industries"
-                ],
-                "category-description": "Visions for transformation, unrealised projects and proposed hypothesis - representing alternative realities of the area",
-                "links": [
-                    {
-                        "url": "http://kreativ-quartier-berlin.de/Raumpioniere_web.pdf",
-                        "title": "",
-                        "description": "",
-                        "type": "document"
-                    }
-                ],
-                "relationships": [
-                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
-                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
-                ],
-                "created_date": "2019-11-21T11:30:20.027+00:00",
-                "updated_date": "2019-11-25T12:59:00.005+00:00",
+                "description": "In 1979, the process for a new International Building Exhibition in Berlin (IBA) began. The Berlin Senate appointed the architect Josef Paul Kleihues as director, who invited a number of international architects to design projects for Berlin. The exhibition was divided into two different thematic areas: \"Critical Reconstruction\" and \"Urban Repair\". Südliche Friedrichstadt is one of the main areas of interest for some interventions of the IBA plan with the realisation some iconic residential architectures by Hadjuk, Aldo Rossi among others, characterised above all by the concept of a return to traditional styles and typologies. This concept also largely inspired the Planwerk Innestadt under the direction of Senate Building Director Hans Stimman. The work began in 1984 and the exhibition opened in 1987. ",
+                "image": "https://api.architectuul.org/media/5caae68a-045c-4fec-b6b1-2df56d7b5e1b/1312x.jpg",
+                "category": "Memories",
+                "sub-category": "Architecture ",
+                "tags": [],
+                "category-description": "Document of material and immaterial heritage",
+                "links": [],
+                "relationships": [],
+                "created_date": "2023-07-20T12:17:59.735+01:00",
+                "updated_date": "2023-07-20T15:00:09.725+01:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "IBAwebsite"
             },
-            "id": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41"
+            "id": "mehringplatz-community-atlas/international_building_exhibition_iba_#69"
         },
         {
             "type": "Feature",
@@ -2009,6 +1993,43 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Erzählcafè",
+                "type": "Event",
+                "start_date": "2016-09-26T00:00:00.000+01:00",
+                "end_date": "2017-09-26T00:00:00.000+01:00",
+                "description": "A series of meetings with informed citizens and long time residents telling their stories and experience of the area of the Südliche Friedrichstadt. Part of the activities to facilitate the integration  of the new developments of the PXB plan realised at the Bauhütte in 2017",
+                "image": "https://irp-cdn.multiscreensite.com/5c373733/dms3rep/multi/desktop/ada347df5f334c2a9696b92b4f7851b6-420x595.dm.edit_KyaLZO.jpg",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "oral history",
+                    "events",
+                    "culture",
+                    "social inclusion"
+                ],
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "http://www.bauhuette-berlin.de/blog",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
+                    "mehringplatz-community-atlas/bauh_tte#16"
+                ],
+                "created_date": "2019-09-26T11:56:46.512+01:00",
+                "updated_date": "2019-11-25T12:59:00.005+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/erz_hlcaf_#18"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
                 "type": "Organization",
                 "start_date": "",
@@ -2199,6 +2220,44 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Kreative Raumpioniere am Mehringplatz",
+                "type": "Project",
+                "start_date": "",
+                "end_date": "",
+                "description": " In 2009 the study Kreative Raumpionere am Mehringplatz is commissioned by GeWoBag to the firm Urbanitas to develop a strategy to support the settlement of cultural actors and creative industries in the area. The study is lead by Florian Schmidt, who will later become Baustadtrat (Coucillor for Urban Development) of Friedrichshain-Kreuzberg. ",
+                "image": "https://taz.de/picture/304920/624/Kreativquartier_aktuell_WEB.jpg",
+                "category": "Imaginations",
+                "sub-category": "",
+                "tags": [
+                    "Urban regeneration",
+                    "social inclusion",
+                    "art",
+                    "culture",
+                    "Creative industries"
+                ],
+                "category-description": "Visions for transformation, unrealised projects and proposed hypothesis - representing alternative realities of the area",
+                "links": [
+                    {
+                        "url": "http://kreativ-quartier-berlin.de/Raumpioniere_web.pdf",
+                        "title": "",
+                        "description": "",
+                        "type": "document"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
+                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
+                ],
+                "created_date": "2019-11-21T11:30:20.027+00:00",
+                "updated_date": "2019-11-25T12:59:00.005+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Hedwig Dohm Gedenktafel",
                 "type": "Monument",
                 "start_date": "",
@@ -2297,43 +2356,6 @@
                 "image_credit": ""
             },
             "id": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Erzählcafè",
-                "type": "Event",
-                "start_date": "2016-09-26T00:00:00.000+01:00",
-                "end_date": "2017-09-26T00:00:00.000+01:00",
-                "description": "A series of meetings with informed citizens and long time residents telling their stories and experience of the area of the Südliche Friedrichstadt. Part of the activities to facilitate the integration  of the new developments of the PXB plan realised at the Bauhütte in 2017",
-                "image": "https://irp-cdn.multiscreensite.com/5c373733/dms3rep/multi/desktop/ada347df5f334c2a9696b92b4f7851b6-420x595.dm.edit_KyaLZO.jpg",
-                "category": "Narratives",
-                "sub-category": "Place narratives ",
-                "tags": [
-                    "oral history",
-                    "events",
-                    "culture",
-                    "social inclusion"
-                ],
-                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
-                "links": [
-                    {
-                        "url": "http://www.bauhuette-berlin.de/blog",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
-                    "mehringplatz-community-atlas/bauh_tte#16"
-                ],
-                "created_date": "2019-09-26T11:56:46.512+01:00",
-                "updated_date": "2019-11-25T12:59:00.005+00:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/erz_hlcaf_#18"
         }
     ],
     "properties": {
@@ -2342,7 +2364,7 @@
         "id": "mehringplatz_en",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) is a digital atlas dedicated to the Südliche Friedrichstadt and the surrounding territories of Kreuzberg and Mitte. It collects and makes accessible data, memories and visions about the neighbourhood. It  combines qualitative and quantitative data, personal narratives and public documents to provide a complex and nuanced representation of the local identity. The neighbourhood atlas maps local initiatives, actors, plans and policies, with a focus on processes of civic engagement, co-creation and social inclusion. Its elaboration started in 2016 through the EU funded Erasmus+ project EULER, as the outcome of a series of laboratories dedicated to urban reconnaissance, collaborative mapping and digital storytelling. It is currently implemented through the COMENSI project testing the digital atlas prototype to publish contents co-created with local communities.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2023-07-20T11:01:29.332Z",
+        "published": "2023-07-20T14:00:26.363Z",
         "links": [
             {
                 "title": "Mehringplatz Anknipsen - German",
@@ -2359,7 +2381,7 @@
                 "type": ""
             }
         ],
-        "version": 18,
+        "version": 19,
         "taxonomy": [
             {
                 "category": "Delimitations",
@@ -2463,14 +2485,6 @@
     },
     "relationships": [
         {
-            "from": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
-        },
-        {
-            "from": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
-        },
-        {
             "from": "mehringplatz-community-atlas/friedrichstadt_incorporation#44",
             "to": "mehringplatz-community-atlas/friedrichstadt_foundation#42"
         },
@@ -2551,6 +2565,14 @@
             "to": "mehringplatz-community-atlas/querformat_b_verein_f_r_kunst_und_kultur#62"
         },
         {
+            "from": "mehringplatz-community-atlas/erz_hlcaf_#18",
+            "to": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
+        },
+        {
+            "from": "mehringplatz-community-atlas/erz_hlcaf_#18",
+            "to": "mehringplatz-community-atlas/bauh_tte#16"
+        },
+        {
             "from": "mehringplatz-community-atlas/metropolenhaus_am_judisches_museum#19",
             "to": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
         },
@@ -2627,6 +2649,14 @@
             "to": "mehringplatz-community-atlas/mehringplatz#39"
         },
         {
+            "from": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
+        },
+        {
+            "from": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
             "from": "mehringplatz-community-atlas/victoria_versicherung_kreuzberg#8",
             "to": "mehringplatz-community-atlas/urban_sketches_victoria_versicherung#35"
         },
@@ -2669,14 +2699,6 @@
         {
             "from": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
             "to": "mehringplatz-community-atlas/erz_hlcaf_#18"
-        },
-        {
-            "from": "mehringplatz-community-atlas/erz_hlcaf_#18",
-            "to": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
-        },
-        {
-            "from": "mehringplatz-community-atlas/erz_hlcaf_#18",
-            "to": "mehringplatz-community-atlas/bauh_tte#16"
         }
     ]
 }

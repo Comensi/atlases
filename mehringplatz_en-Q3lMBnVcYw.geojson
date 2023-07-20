@@ -4,6 +4,56 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Dragonerareal",
+                "type": "Project",
+                "start_date": "2015-08-21T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "The Dragonerareal is the largest property of Kreuzberg for new construction potential - but it is not a fallow area. From sculptors to nightclubs, various commercial and cultural institutions have existed there for decades. Last but not least, the Dragonerareal played a role during the November Revolution of 1918 in Berlin.\nIn the northern part of the town hall block, adjacent to Mehringdamm and Obentrautstraße, is the 4.7 hectare so-called \"Dragonerareal\". Traditional trade is based here - including a furniture upholstery, a marble factory, car workshops, artists, taxi school, the Club Gretchen and the LPG supermarket in an old gas station. The people working there are already filling the former barracks with life.\nIn August 2015, the Berlin Senate decided to prepare preparatory studies for the city hall block and the adjacent blocks to the north. The completion of these investigations in June 2016 resulted in urban development needs for the city hall block, which is part of the redevelopment area.\nThe area originally owned by the Federal Agency for Real Estate Tasks (BImA) was transferred to the state of Berlin by signing the capital financing agreement.\nThus, the state-owned BIM Berliner Immobilienmanagement GmbH takes over the administration and maintenance of the area.",
+                "image": "https://i.ibb.co/68S4cHY/infoflyer-modellprojekt-rathausblock.png",
+                "category": "Transformations",
+                "sub-category": "",
+                "tags": [
+                    "architecture",
+                    "culture",
+                    "social inclusion",
+                    "housing",
+                    "history",
+                    "urbanism",
+                    "heritage"
+                ],
+                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": [
+                    {
+                        "url": "https://upstall.de/daten/stadtentwicklung/rathausblock/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://www.tesserae.eu/place/dragoner-areal-berlin/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2023-07-19T12:24:38.099+01:00",
+                "updated_date": "2023-07-19T16:08:02.250+01:00",
+                "weight": 0,
+                "image_credit": "Info flyer model project city hall block"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.386,
+                    52.4944
+                ]
+            },
+            "id": "mehringplatz-community-atlas/dragonerareal#65"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Urbane Praxis e.V.",
                 "type": "Organization",
                 "start_date": "",
@@ -51,7 +101,7 @@
                 "start_date": "1999-11-22T00:00:00.000+00:00",
                 "end_date": "",
                 "description": "Germany’s first ecological high-rise building was designed by Sauerbach Hutton and inaugurated in 1999. The construction of the 80-metre tall building was regarded as a political signal as it represented a departure from Berlin’s usual building height. One of the functions of the streamlined façade is to reduce energy requirements. ",
-                "image": "http://www.sauerbruchhutton.de/cache/images/projekte/gsw/2567-gsw_hero-c.jpg",
+                "image": "https://img.morgenpost.de/img/berlin/crop235807485/8343054701-w1200-cv1_1-q85/94ca91c6-fb9f-11ec-b618-3449d6e8870c.jpg",
                 "category": "Places",
                 "sub-category": "",
                 "tags": [
@@ -70,9 +120,9 @@
                 ],
                 "relationships": [],
                 "created_date": "2019-11-22T23:22:50.574+00:00",
-                "updated_date": "2019-11-25T12:59:00.005+00:00",
+                "updated_date": "2023-07-20T15:04:10.802+01:00",
                 "weight": 0,
-                "image_credit": ""
+                "image_credit": "dpa Picture-Alliance / Wolfram Steinberg / picture alliance / Wolfram Stein"
             },
             "geometry": {
                 "type": "Point",
@@ -413,56 +463,6 @@
                 ]
             },
             "id": "mehringplatz-community-atlas/berlinische_galerie#64"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Dragonerareal",
-                "type": "Project",
-                "start_date": "2015-08-21T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "The Dragonerareal is the largest property of Kreuzberg for new construction potential - but it is not a fallow area. From sculptors to nightclubs, various commercial and cultural institutions have existed there for decades. Last but not least, the Dragonerareal played a role during the November Revolution of 1918 in Berlin.\nIn the northern part of the town hall block, adjacent to Mehringdamm and Obentrautstraße, is the 4.7 hectare so-called \"Dragonerareal\". Traditional trade is based here - including a furniture upholstery, a marble factory, car workshops, artists, taxi school, the Club Gretchen and the LPG supermarket in an old gas station. The people working there are already filling the former barracks with life.\nIn August 2015, the Berlin Senate decided to prepare preparatory studies for the city hall block and the adjacent blocks to the north. The completion of these investigations in June 2016 resulted in urban development needs for the city hall block, which is part of the redevelopment area.\nThe area originally owned by the Federal Agency for Real Estate Tasks (BImA) was transferred to the state of Berlin by signing the capital financing agreement.\nThus, the state-owned BIM Berliner Immobilienmanagement GmbH takes over the administration and maintenance of the area.",
-                "image": "https://i.ibb.co/68S4cHY/infoflyer-modellprojekt-rathausblock.png",
-                "category": "Transformations",
-                "sub-category": "",
-                "tags": [
-                    "architecture",
-                    "culture",
-                    "social inclusion",
-                    "housing",
-                    "history",
-                    "urbanism",
-                    "heritage"
-                ],
-                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
-                "links": [
-                    {
-                        "url": "https://upstall.de/daten/stadtentwicklung/rathausblock/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "http://www.tesserae.eu/place/dragoner-areal-berlin/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2023-07-19T12:24:38.099+01:00",
-                "updated_date": "2023-07-19T16:08:02.250+01:00",
-                "weight": 0,
-                "image_credit": "Info flyer model project city hall block"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.386,
-                    52.4944
-                ]
-            },
-            "id": "mehringplatz-community-atlas/dragonerareal#65"
         },
         {
             "type": "Feature",
@@ -2364,7 +2364,7 @@
         "id": "mehringplatz_en",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) is a digital atlas dedicated to the Südliche Friedrichstadt and the surrounding territories of Kreuzberg and Mitte. It collects and makes accessible data, memories and visions about the neighbourhood. It  combines qualitative and quantitative data, personal narratives and public documents to provide a complex and nuanced representation of the local identity. The neighbourhood atlas maps local initiatives, actors, plans and policies, with a focus on processes of civic engagement, co-creation and social inclusion. Its elaboration started in 2016 through the EU funded Erasmus+ project EULER, as the outcome of a series of laboratories dedicated to urban reconnaissance, collaborative mapping and digital storytelling. It is currently implemented through the COMENSI project testing the digital atlas prototype to publish contents co-created with local communities.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2023-07-20T14:00:26.363Z",
+        "published": "2023-07-20T14:04:37.146Z",
         "links": [
             {
                 "title": "Mehringplatz Anknipsen - German",
@@ -2381,7 +2381,7 @@
                 "type": ""
             }
         ],
-        "version": 19,
+        "version": 20,
         "taxonomy": [
             {
                 "category": "Delimitations",

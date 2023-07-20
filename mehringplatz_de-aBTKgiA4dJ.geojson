@@ -1,839 +1,122 @@
 {
     "type": "FeatureCollection",
-    "nonGeoFeatures": [
+    "features": [
         {
             "type": "Feature",
             "properties": {
-                "title": "Neubau Franz-Klühs-Straße 3-9",
-                "type": "",
-                "start_date": "2017-12-12T00:00:00.000+00:00",
+                "title": "Parkhaus - Franz-Klühs-Straße/Wilhelmstraße",
+                "type": "Gebäude",
+                "start_date": "",
                 "end_date": "",
-                "description": "In der Franz-Klühs-Straße 3, 5, 7 und 9 wurde am 12. Dezember 2017 der Grundstein für einen Neubau gelegt. Im Auftrag der kommunalen Wohnungsbaugesellschaft GEWOBAG wird hier ein 7-geschossiges Gebäude entstehen, das Platz für Gewerbe und Mietwohnungen bietet. Die Hälfte der Wohnungen können von Personen mit einem Wohnberechtigungsschein (WBS) angemietet werden, allerdings sollen auch die anderen Wohnungen zu günstigen Mietpreisen vergeben werden. Das neu geschaffene Wohnangebot soll sich besonders an Familien und Einzelhaushalte richten, die an diesem Standort den größten Bedarf an Wohnraum hätten.\nQuelle: Gewobag; Berliner Woche.",
-                "image": "https://i.ibb.co/qMbtxBd/Franz-Kluehs-Nordansicht.jpg",
+                "description": "Das alte Parkhaus gegenüber der SPD-Parteizentrale in der Franz-Klühs-Straße/Wilhelmstraße ist seit Jahren leerstehend und zerfällt zunehmend. \nIm Oktober 2017 gab es vom Bezirksamt einen positiven Vorbescheid für einen Bauantrag. Dieser sieht vor, dass anstelle des Parkhauses ein zwei- bis achtgeschossiges Gebäude errichtet wird. Dieses soll Platz für Wohnungen, Büros, Gastronomie, Einzelhandel und Gewerbe gebieten. \nQuelle: www.rbb888.de",
+                "image": "https://www.rbb888.de/content/dam/rbb/ach/themen/Bauzombies/parkhaus_berlin.jpg.jpg/quality=128/size=708x398.jpg",
                 "category": "Orte",
-                "sub-category": "Wohnen/ Unterbringung",
+                "sub-category": "Öffentlicher Raum",
                 "tags": [
-                    "Büro",
-                    "Wohnen"
+                    "Architektur"
                 ],
                 "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "https://www.gewobag.de/bauen-in-berlin/bauprojekte/franz-kluehs-strasse-3-5-7-9/",
-                        "title": "Neubau Gewobag",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/gewobag#54",
-                    "ca/axel_springer_verlag_neubau#66",
-                    "ca/taz_neubau#10"
-                ],
-                "created_date": "2020-11-13T17:10:07.432+00:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Gewobag",
-                "icon_css_class": ""
-            },
-            "id": "ca/neubau_franz_kl_hs_stra_e_3_9#91"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Baustadtrat Kreuzberg-Friedrichshain",
-                "type": "Interview",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
                 "links": [],
-                "relationships": [],
-                "created_date": "2022-09-20T13:50:17.569+01:00",
-                "updated_date": "2022-09-20T13:50:33.502+01:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/baustadtrat_kreuzberg_friedrichshain#102"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Mehringplatz Ankipsen  Interviews",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "Diese Sammlung von Video präsentiert einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging, und sind derzeit mit neue Interviews integriert, die Tesserae im Rahmen der Projekte COMENSI und Cocreation erstellt.\nActivity",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2020-03-27T20:43:16.628+00:00",
-                "updated_date": "2020-03-27T20:56:18.302+00:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/mehringplatz_ankipsen_interviews#63"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Mehringplatz Anknipsen Interviews",
-                "type": "Mediensammlung",
-                "start_date": "2017-05-05T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Diese Sammlung von Video präsentiert einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmusplus-Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging, und sind derzeit mit neue Interviews integriert, die Tesserae im Rahmen der Projekte COMENSI und Cocreation erstellt.\n",
-                "image": "https://i.ibb.co/XytyGBF/Screenshot-2020-03-27-at-22-05-16.png",
-                "category": "Geschichten",
-                "sub-category": "Interviews",
-                "tags": [],
-                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/showcase/4678972",
-                        "title": "Stakeholders Interviews showcase",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
                 "relationships": [
-                    "ca/switch_on_mehringplatz#68",
-                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
-                    "ca/karin_l_cker_caf_madame_#31",
-                    "ca/ela_kagel_supermarkt#13",
-                    "ca/candy_hartmann_quartiersmanagement_#32"
-                ],
-                "created_date": "2020-03-27T20:57:16.075+00:00",
-                "updated_date": "2020-05-14T14:59:04.348+01:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/mehringplatz_anknipsen_interviews#64"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Switch On Mehringplatz",
-                "type": "Projekt",
-                "start_date": "2016-09-01T00:00:00.000+01:00",
-                "end_date": "2017-06-30T00:00:00.000+01:00",
-                "description": "Switch On Mehringplatz / Mehringplatz Anknipsen ist ein Bildungsprojekt zur Aufwertung informellen Lernens, das auf Bottom-up-Ansätzen und aktivistischer Praxis beruht. Das Projekt zielte darauf ab, Werkzeuge und Fähigkeiten für Nachbarschaftsinitiativen zu entwickeln. Das Programm wurde koordiniert von Tesserae Urban Social Research und von dem Erasmus+ Projekt EULER unterstützt, das ein Bildungsangebot in vier benachteiligten Nachbarschaften in Europa ermöglicht hat. Das Projekt wurde von September 2016 - Juni 2017 durchgeführt. Im Rahmen dessen hat eine Reihe von weiterbildenden Aktivitäten zur Entwicklung von Methoden für Nachbarschaftsinitiativen stattgefunden: 6 öffentliche Veranstaltungen und 3 Workshop-Module zu kollaborativen Methoden für lokales Empowerment und gemeinschaftsorientierte Ökonomien. Die Seminare fanden im Supermarkt am Mehringplatz statt. Zielgruppe waren aktive Bürger:innen, Social Entrepreuneurs und Facilitators, die daran interessiert waren, einen gemeinsamen Aktionsrahmen im Kontext des Mehringplatzes/ Südliche Friedrichstadt zu entwickeln.\nZiele: Ein Instrumentarium und Methoden sollen bereitgestellt werden, um lokale Gemeinschaften zu ermächtigen, unternehmerische Fähigkeiten zu stärken und innovative wirtschaftliche Paradigmen zu fördern.\nTechniken: Urban Reconnaissance, Kollaboratives Mapping, Partizipative Videoproduktion, Digital Storytelling, Social Media Publishing.\nErgebnis: „Nachbarschaftscurriculum“. Ein innovatives Werkzeug, um lokale soziale Ressourcen aufzuwerten und zu fördern. Damit soll die Aufmerksamkeit weg vom individuellem Curriculum - gefordert von einem kompetitiven Arbeitsmarkt - hin zu einem kollaborativen Mapping von sozialen Beziehungen verschoben werden. Letzteres ist nötig, um gemeinschaftsorientierte Ökonomien und Initiativen entwickeln zu können. \nDer Nachbarschaftsatlas, den Sie gerade sehen, ist der nächste Schritt zur Umsetzung dieser Idee. \n\n",
-                "image": "https://i.ibb.co/23W5dH6/mehringplatz-01-mehringplatz-A2-03-768x1086-1-724x1024.jpg",
-                "category": "Initiativen",
-                "sub-category": "Bildung",
-                "tags": [
-                    "soziale Inklusion",
-                    "Medien",
-                    "Ausbildung"
-                ],
-                "category-description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
-                "links": [
-                    {
-                        "url": "http://www.tesserae.eu/project/euler/",
-                        "title": "Switch on Mehringplatz",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/supermarkt#12",
-                    "ca/ela_kagel_supermarkt#13",
-                    "ca/mehringplatz_anknipsen_interviews#64"
-                ],
-                "created_date": "2020-04-09T22:36:06.733+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "graphic project: Manuela Conti",
-                "icon_css_class": ""
-            },
-            "id": "ca/switch_on_mehringplatz#68"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Sammlung “Mehringplatz Urban Sketches” ",
-                "type": "Projekt",
-                "start_date": "2017-09-09T00:00:00.000+01:00",
-                "end_date": "2017-09-09T00:00:00.000+01:00",
-                "description": "Urban Sketches ist eine Serie von kurzen Video-Postkarten zum Mehringplatz. Diese audiovisuellen Arbeiten wurden von den Teilnehmer:innen des EULER-Labors “ Mehringplatz Anknipsen” im Jahr 2017 erstellt. Die Teilnehmer:innen und Autor:innen der Arbeiten experimentierten mit Videos mit einem einfach zugänglichen Format, um  ihre Eindrücke und Beobachtungen festzuhalten oder eine Geschichte über die lokale Identität des Gebietes zu erzählen. Diese Videos ergänzen die bereits bestehende Sammlung historischer sowie analytischer Dokumente und bieten neue persönliche Interpretationen zum sozialräumlichen Umfeld des Mehringplatzes.\n",
-                "image": "https://i.ibb.co/tPDDXhw/US5-copia.jpg",
-                "category": "Geschichten",
-                "sub-category": "Urban Sketch ",
-                "tags": [
-                    "Kunst",
-                    "Medien",
-                    "mündliche Geschichten"
-                ],
-                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/226707117",
-                        "title": "Urban Sketches: Development, Who Is It For",
-                        "description": "",
-                        "type": "video"
-                    },
-                    {
-                        "url": "https://vimeo.com/showcase/4678967",
-                        "title": "Urban Sketches: Alienation",
-                        "description": "",
-                        "type": "video"
-                    },
-                    {
-                        "url": "https://vimeo.com/showcase/4678967/video/225375320",
-                        "title": "Urban Sketches: Viktoria Versicherung",
-                        "description": "",
-                        "type": "video"
-                    },
-                    {
-                        "url": "https://vimeo.com/showcase/4678967/video/230890049",
-                        "title": "Urban Sketches: Places for all time",
-                        "description": "",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [
-                    "ca/tesserae#69",
-                    "ca/switch_on_mehringplatz#68",
-                    "ca/urban_sketches_development_who_is_it_for#33",
-                    "ca/urban_sketches_places_for_all_times#34",
-                    "ca/urban_sketches_victoria_versicherung#35",
+                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
                     "ca/urban_sketches_alienation#36"
                 ],
-                "created_date": "2020-04-22T11:24:03.685+01:00",
-                "updated_date": "2020-12-03T18:40:47.314+00:00",
+                "created_date": "2020-09-03T14:20:13.140+01:00",
+                "updated_date": "2020-11-13T16:49:17.177+00:00",
                 "weight": 0,
-                "image_credit": "Tesserae",
+                "image_credit": "www.rbb888.de",
                 "icon_css_class": ""
             },
-            "id": "ca/sammlung_mehringplatz_urban_sketches_#70"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3898,
+                    52.5006
+                ]
+            },
+            "id": "ca/parkhaus_franz_kl_hs_stra_e_wilhelmstra_e#83"
         },
         {
             "type": "Feature",
             "properties": {
-                "title": "Adalbert von Chemisso Gedenktafel",
-                "type": "Monument",
-                "start_date": "1822-04-30T00:00:00.000-00:01",
-                "end_date": "1838-08-21T00:00:00.000-00:01",
-                "description": "Diese Granittafel mit \"Bron?ze-Medail?lon-Por?trät\" befand sich bis zum Abriss des Hauses 1909 \"in der Mit?tel?nische des ersten Stock?werks\" und wurde dann im Märki?schen Mu?seum auf?be?wahrt.  Cha?misso verließ Frankreich mit seiner Familie während der Revolu?tion und lebte seit 1796 in Berlin. Er fand zunächst eine An?stel?lung am Hofe, war dann bis 1808 im preu?ßischen Militär. Er wirkte als Schrift?stel?ler (\"Peter Schle?mihls wun?dersame Ge?schichte\", 1814), Dich?ter und Naturforscher, wurde 1819 - nach einer drei?jäh?rigen For?schungs?weltreise - Kustos am Botani?schen Garten, 1835 Mitglied der Akademie der Wissenschaf?ten. Seine Grabstät?te befindet sich auf dem Friedhof III der Jeru?salems- und Neuen Kirchen-Gemeinde, Kreuzberg, Mehring?damm/ Blücherstra?ße, Abt. 3/1 38/1 ( Eh?rengrab).",
-                "image": "https://trello-attachments.s3.amazonaws.com/5e49b10b4b8dc84e5d00ffa0/5eab09bac4be1c6e0b5b61eb/9b5b02b5eb684e20acb4f966f2976f1d/IMG_8275.jpeg",
+                "title": "Hallesches Tor",
+                "type": "Ort",
+                "start_date": "",
+                "end_date": "",
+                "description": "Die U-Bahn Station Hallesches Tor hat ihren Namen von dem einstigen Durchgang in der alten Stadtmauer, der sich im 18. Jahrhundert am selben Platz befand. Bis 1812 war dies das einzige Tor im Süden Berlins, durch das Juden:Jüdinnen mit Registrierung in die Stadt gelangen konnten.\nAls eine Haltestelle der ersten U-Bahn Linie in berlin, gehört die Station zu den ältesten der Stadt. Heutzutage, fungiert sie hauptsächlich als Umsteige- und Kreuzungspunkt dreier U-Bahn Linien, die den Ort mit allen Himmelsrichtungen verbinden:\nDie U1 führt direkt in den Osten, zur Warschauer Straße in Friedrichshain, sowie zu der gehobenen Einkaufsstraße Kurfürstenstraße im Westen. Mit der U6 gelangt man richtung Norden, vorbei an zentralen Orten wie der Friedrichstraße und dem Checkpoint Charlie in das Industriegebiet im Wedding oder Richtung Süden durch Kreuzberberg nach Tempelhof. Außerdem verbindet die U3 das Hallesche Tor direkt mit dem Campus der Freien Universität.\nWährend U1 und U3 über einen Hochbahnhof erreichbar sind, befindet sich der Eingang zum unterirdischen Bahnsteig der U6 direkt auf dem Mehringplatz. Die Station steht unter Denkmalschutz.",
+                "image": "https://kondius.com/wp-content/uploads/2017/06/hallesches-tor-web.jpg",
+                "category": "Orte",
+                "sub-category": "Öffentlicher Raum",
+                "tags": [
+                    "Architektur",
+                    "Öffentlicher Raum",
+                    "Urbanität",
+                    "Erbe",
+                    "Geschichte ",
+                    "Ortsname"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [],
+                "relationships": [
+                    "ca/mehringplatz#39",
+                    "ca/belle_alliance_platz#40"
+                ],
+                "created_date": "2020-09-09T15:36:41.016+01:00",
+                "updated_date": "2020-11-10T14:17:40.445+00:00",
+                "weight": 0,
+                "image_credit": "Kondius AG",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3906,
+                    52.4977
+                ]
+            },
+            "id": "ca/hallesches_tor#87"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wolfgang Thiess",
+                "type": "Personen",
+                "start_date": "",
+                "end_date": "",
+                "description": "An der U-Bahn Haltestelle Hallesches Tor ist eine Gedenktafel angebracht, die an den Widerstandskämpfer und Antifaschisten Wolfgang Thiess erinnert, der an diesem Ort Flugblätter aus dem Zug warf und in Plötzensee hingerichtet wurde. Ein Auszug aus dem Text auf der Gedenktafel: \nWolfgang Thiess (1911 - 1943) \nwar nach 1933 bei der illegalen Zeitschrift \"Die innere Front\" für den Wirtschaftsteil verantwortlich. Im April 1942 klebte er Zettel gegen die NS-Propagandaausstellung \"Das Sowjetparadies\". Am 20.10.1942 wurde er verhaftet, dann wurde ihm zusammen mit anderen aus seiner Gruppe der Prozeß gemacht und zum Tode verurteilt. \nDer Entwurf der Tafel im Rahmen des Kreuzberger Antifaschistischen Gedenktafelprogramms stammt von dem Berliner Bildhauer Gerhard Moritzen und stellt in 13 Feldern die Lebensstationen von Thiess dar.\n",
+                "image": "https://www.gedenktafeln-in-berlin.de/typo3temp/pics/Gedenktafel_Hallesche-Tor-Bru__cke__Kreu_1b5649d785.jpg",
                 "category": "Erinnerungen",
                 "sub-category": "Gedenk- oder Informationstafeln",
                 "tags": [
-                    "Kultur",
+                    "Kunst",
+                    "Medien",
                     "Geschichte "
                 ],
                 "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [],
+                "links": [
+                    {
+                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/person/alph/T/person/1698/",
+                        "title": "Gedenktafeln in Berlin",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
                 "relationships": [],
-                "created_date": "2020-04-30T18:08:27.275+01:00",
-                "updated_date": "2022-09-20T13:38:58.219+01:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/adalbert_von_chemisso_gedenktafel#72"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Querformat-b Verein für Kunst und Kultur",
-                "type": "Organisation",
-                "start_date": "1987-01-01T00:00:00.000+00:00",
-                "end_date": "",
-                "description": "Querformat-b ist ein gemeinnütziger Verein für Kunst und Kultur, der 1987 von Künstler:innen, Kunstpädagog:innen und Architekt:innen gegründet wurde. Sitz des Vereins ist das Kulturzentrum Statthaus Böcklerpark im Bezirk Friedrichshain-Kreuzberg. Von 1987 bis 2009 führte der Verein Querformat-b einmal jährlich die juryfreie Kunst- und Verkaufsausstellung QUERSCHNITT durch. Querformat plant und realisiert künstlerische Projekte und Ausstellungen im Bereich der Soziokultur, einem ausdifferenzierten kulturellen Praxisfeld außerhalb der etablierten Kunst, im Überschneidungsbereich von Bildender Kunst, Bildungsarbeit und Auseinandersetzung mit dem Menschen.\n2019 erschien die Publikation MAPPING QUERFORMAT-B 30 JAHRE VEREIN FÜR KUNST UND KULTUR im Verlag der Buchhandlung Walther König, gefördert von der Senatsverwaltung für Bildung, Jugend und Wissenschaft.\n",
-                "image": "https://i.ibb.co/hdTwMxB/guppe-querformat-b.png",
-                "category": "Akteur:innen",
-                "sub-category": "Vereine/ NGO",
-                "tags": [
-                    "Kultur",
-                    "Kunst",
-                    "Plattform"
-                ],
-                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
-                "links": [],
-                "relationships": [
-                    "ca/36x_kreuzberg_memoryspiel#76"
-                ],
-                "created_date": "2020-05-29T16:07:19.744+01:00",
+                "created_date": "2020-09-09T16:07:11.267+01:00",
                 "updated_date": "2022-06-29T04:51:57.701+01:00",
                 "weight": 0,
-                "image_credit": "Querformat-b",
+                "image_credit": "OTFW, CC BY-SA 3.0",
                 "icon_css_class": ""
             },
-            "id": "ca/querformat_b_verein_f_r_kunst_und_kultur#75"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3906,
+                    52.4977
+                ]
+            },
+            "id": "ca/wolfgang_thiess#88"
         },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "36x Kreuzberg - Memoryspiel",
-                "type": "Projekt",
-                "start_date": "",
-                "end_date": "",
-                "description": "36 x Kreuzberg - Memory-Spiel mit subjektiven Wahrzeichen\nEin Projekt im öffentlichen Raum von Querformat-b e.V.\nDie Memorykarte zeigt den ehemaligen Belle-Alliance-Platz um 1730 und ist eine von 36 Memorykarten, die im Rahmen von Stadtspaziergängen durch Kreuzberg entstanden sind. Gesellschaftliche Prozesse wie Globalisierung, Migration, verschwindender Raum und das Entstehen neuer Räume wurden durch Fotos und Skizzen dokumentiert. In einer künstlerischen Werkstatt entstand 36 x Kreuzberg, realisiert vom Verein Querformat-b.",
-                "image": "https://i.ibb.co/PNL2VQ7/mehringplatz-ehemaliger-belle-alliance-platz-2.jpg",
-                "category": "Veränderungen",
-                "sub-category": "Öffentlicher Raum",
-                "tags": [
-                    "Kunst",
-                    "Öffentlicher Raum",
-                    "Geschichte ",
-                    "Kreativwirtschaft"
-                ],
-                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
-                "links": [],
-                "relationships": [
-                    "ca/querformat_b_verein_f_r_kunst_und_kultur#75"
-                ],
-                "created_date": "2020-06-04T16:41:02.021+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Querformat-b",
-                "icon_css_class": ""
-            },
-            "id": "ca/36x_kreuzberg_memoryspiel#76"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "IBA",
-                "type": "Programm",
-                "start_date": "1979-08-21T00:00:00.000+01:00",
-                "end_date": "1987-08-21T00:00:00.000+01:00",
-                "description": "1979 begann der Prozess für eine neue Internationale Bauausstellung in Berlin (IBA). Der Berliner Senat ernannte den Architekten Josef Paul Kleihues zum Direktor, der eine Reihe internationaler Architekten einlud, Projekte für Berlin zu entwerfen. Die Ausstellung gliederte sich in zwei unterschiedliche thematische Bereiche: \"Kritische Rekonstruktion\" und \"Behutsame Stadterneuerung\". Die Friedrichstadt ist eines der Hauptinteressensgebiete für Neubauten, die sich vor allem durch das Konzept der Rückkehr zu traditionellen Stilen und Typologien auszeichnen. Dieses Konzept inspirierte auch weitgehend das Planwerk Innestadt unter der Leitung von Senatsbaudirektor Hans Stimman. Die eigentlichen Arbeiten begannen 1984, und die Ausstellung wurde 1987 eröffnet. ",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Stamps_of_Germany_%28Berlin%29_1987%2C_MiNr_785.jpg",
-                "category": "Erinnerungen",
-                "sub-category": "Architektur ",
-                "tags": [
-                    "Architektur",
-                    "Stadterneuerung",
-                    "Stadtpolitik",
-                    "Urbanität"
-                ],
-                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [
-                    {
-                        "url": "https://www.bauwelt.de/themen/IBA-87-und-die-Folgen-25-Jahre-Internationale-Bauausstellung-Berlin-2102918.html",
-                        "title": "Bauwelt: IBA 87 und die Folgen",
-                        "description": "",
-                        "type": "document"
-                    },
-                    {
-                        "url": "https://de.wikipedia.org/wiki/Internationale_Bauausstellung_1987",
-                        "title": "Wikipedia page",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/kreuzberg_tower#81"
-                ],
-                "created_date": "2020-08-21T14:39:20.018+01:00",
-                "updated_date": "2020-08-25T13:18:24.004+01:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/iba#80"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Kreative Raumpioniere am Mehringplatz",
-                "type": "Projekt",
-                "start_date": "2009-02-25T00:00:00.000+00:00",
-                "end_date": "2011-01-26T00:00:00.000+00:00",
-                "description": "Die Projektstudie „Kreative Raumpioniere am Mehringplatz“ geht aus dem Leitbildprozess “Kreativquartier Südliche Friedrichstadt” hervor, der mit Unterstützung der bezirklichen Wirtschaftsförderung von Friedrichshain-Kreuzberg in den Jahren 2009 und 2010 durchgeführt wurde. Beauftragt wurde die Projektstudie von der Wohnungsbaugesellschaft GEWOBAG. \nZiele der Projektstudie „Kreative Raumpioniere am Mehringplatz“ sind: 1. Die Schaffung von Wirkungsräumen für Kreativwirtschaft, Kultur und impulsgebendem Gewerbe 2. Förderung von sozialer Vielfalt und Nutzungsvielfalt im Sozialraum Mehringplatz 3. Etablierung von Begegnungsorten zwischen Kreativwirtschaft und Bewohner:innen.",
-                "image": "https://i.ibb.co/sQJbBbz/Kreativ-quartier.png",
-                "category": "Visionen",
-                "sub-category": "Study",
-                "tags": [
-                    "Stadterneuerung",
-                    "soziale Inklusion",
-                    "Kunst",
-                    "Kultur",
-                    "Kreativwirtschaft"
-                ],
-                "category-description": "Ideen und Ansätze zur Weiterentwicklung des Gebietes",
-                "links": [
-                    {
-                        "url": "http://kreativ-quartier-berlin.de/Raumpioniere_web.pdf",
-                        "title": "Projektstudie kreative Raumpioniere am Mehringplatz",
-                        "description": "",
-                        "type": "document"
-                    }
-                ],
-                "relationships": [
-                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
-                    "ca/quartiersmanagement_am_mehringplatz_#14",
-                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-                    "",
-                    "ca/ehemalige_blumengro_markthalle_#65"
-                ],
-                "created_date": "2019-11-21T11:30:20.027+00:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Urbanitas  - Projektbüro Kreativquartier S[dliche Friedrichstadt, Berlin 2011",
-                "icon_css_class": ""
-            },
-            "id": "ca/kreative_raumpioniere_am_mehringplatz#41"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Gründung Friedrichstadt ",
-                "type": "Veranstaltung",
-                "start_date": "1691-11-23T00:00:00.000-00:01",
-                "end_date": "",
-                "description": "Im Jahr 1688 gründete König Friedrich I. - seinen Namen zur Vorbild nehmend - Friedrichstadt. Geplant und baulich realisiert wurde Friedrichstadt nach schachbrettartigem System und wies somit klare Strukturen auf. Nur drei Jahre nach der Gründung erhielt Friedrichstadt bereits das Stadtrecht.",
-                "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/FriedrichstadtEarlyStreetPlan.jpg",
-                "category": "Erinnerungen",
-                "sub-category": "",
-                "tags": [
-                    "Ortsname",
-                    "Geschichte ",
-                    "Urbanität"
-                ],
-                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-11-22T11:36:17.608+00:00",
-                "updated_date": "2019-12-17T00:14:29.989+00:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/gr_ndung_friedrichstadt_#42"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Eingemeindung Friedrichstadt ",
-                "type": "Veranstaltung",
-                "start_date": "1709-12-11T00:00:00.000-00:01",
-                "end_date": "",
-                "description": "Im Jahr 1709 wird die Eingemeindung von Friedrichstadt in die Stadt Berlin verordnet und im darauffolgenden Jahr umgesetzt. Seitdem ist die Friedrichstadt als fester Stadtteil in der Hauptstadt integriert.\n",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Map_de_berlin_1710.jpg",
-                "category": "Erinnerungen",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [],
-                "relationships": [
-                    "ca/gr_ndung_friedrichstadt_#42"
-                ],
-                "created_date": "2019-11-23T11:48:48.433+00:00",
-                "updated_date": "2020-01-24T15:52:15.086+00:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/eingemeindung_friedrichstadt_#44"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "\"Das Rondell\"",
-                "type": "Ort",
-                "start_date": "1730-02-01T00:00:00.000-00:01",
-                "end_date": "1945-01-01T00:00:00.000+01:00",
-                "description": "In der ersten Hälfte des 18. Jahrhunderts wuchs Berlin rasant. Die Stadt wurde vergrößert und neue Stadttore wurden gebaut. Eines dieser Tore war das Hallesche Tor. Um 1730 - unter König Friedrich Wilhelm I. von Preußen - wurden drei neue repräsentative Plätze vor drei wichtigen Stadttoren erbaut, die zunächst nach ihrer Form benannt wurden: \"Karree\" für den Pariser Platz, \"Oktogon\" für den Leipziger Platz sowie \"Rondell\" für den Mehringplatz. Dieser als \"Rondell\" bekannte Platz war vom Stadtmodell der Piazza del Popolo in Rom inspiriert und war von zweistöckigen Bürgerhäusern umgeben.                                                                                 ",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mehringplatz_um1730.jpg",
-                "category": "Erinnerungen",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [
-                    {
-                        "url": "https://www.stadtentwicklung.berlin.de/denkmal/liste_karte_datenbank/de/denkmaldatenbank/daobj.php?obj_dok_nr=09097784",
-                        "title": "Historie Mehringplatz",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/belle_alliance_platz#40",
-                    "ca/mehringplatz#39",
-                    "ca/weltkrieg_ii_luftangriff#47"
-                ],
-                "created_date": "2019-11-23T12:19:54.664+00:00",
-                "updated_date": "2020-04-16T15:22:24.218+01:00",
-                "weight": 0,
-                "image_credit": "https://de.wikipedia.org/wiki/Mehringplatz#/media/Datei:Mehringplatz_um1730.jpg",
-                "icon_css_class": ""
-            },
-            "id": "ca/_das_rondell_#45"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Weltkrieg II - Luftangriff",
-                "type": "Veranstaltung",
-                "start_date": "1945-02-03T00:00:00.000+01:00",
-                "end_date": "1945-02-04T00:00:00.000+01:00",
-                "description": "Das Gebiet wurde im Zweiten Weltkrieg vollständig zerstört, insbesondere bei einem Luftangriff am 3. Februar 1945 und der darauffolgenden Schlacht um Berlin. Der Luftangriff führte zu einer fast vollständigen Zerstörung der Innenstadt, stark getroffen war das Regierungsviertel nahe der Wilhelmstraße. Aufgrund des Luftangriffes wurden über 120.000 Menschen obdachlos, knapp 2.300 Gebäude wurden vollständig zerstört und weitere etwa 900 Gebäuden waren schwer beschädigt. Viele der zerstörten Häuser wurden aufgrund der Einsturzgefahr evakuiert. Der Belle Alliance Platz ist völlig zerstört und wird für die nächsten 20 Jahre ein leeres Grundstück bleiben.",
-                "image": "https://www.welt.de/img/geschichte/zweiter-weltkrieg/mobile140131885/6362507847-ci102l-w1024/2-WK-Berlin-1945-Strassenkampf.jpg",
-                "category": "Erinnerungen",
-                "sub-category": "",
-                "tags": [
-                    "Geschichte ",
-                    "Abriss"
-                ],
-                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [],
-                "relationships": [
-                    "ca/belle_alliance_platz#40",
-                    "ca/mehringplatz#39"
-                ],
-                "created_date": "2019-12-05T17:40:58.990+00:00",
-                "updated_date": "2020-04-16T15:38:25.207+01:00",
-                "weight": 2,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/weltkrieg_ii_luftangriff#47"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Gewobag",
-                "type": "Organisation",
-                "start_date": "1919-05-14T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Die Gewobag ist ein kommunales Wohnungsunternehmen, das mit rund 62.000 Wohnungen über 100.000 Mieter:innen ein Zuhause in Berlin gibt. Durch das Bauen, Kaufen und Modernisieren von Wohnungen verfügt die Gewobag über ein großes Wohnungsangebot und setzt sich für eine vielfältige Mieter:innenschaft in Berlin und bezahlbaren Wohnraum ein. Am Mehringplatz besitzt die Gewobag aktuell ca. 1.300 Wohnungen; durch Zukauf und Neubau wird sich diese Kennzahl bald auf ca. 1.800 Wohnungen erhöhen.\nDie Gewobag arbeitet auch an innovativen Ideen zum Klimaschutz, wirtschaftlicher Effizienz (Ausstattung von 1.500 Gewerbeeinheiten) und sozialer Quartiersentwicklung durch die Stärkung des Zusammenhalts der Nachbarschaft. Dementsprechend übernimmt die Gewobag einige soziale Aktivitäten wie am Mehringplatz mit der Betreibung der \"Kiezstube\" oder den jährlich traditionellen Winter- und Sommerfesten, bei denen sich Bewohner:innen, Gewerbetreibende und Organisationen zum gemeinsamen Austausch treffen können. \nZudem steht ein Mieterbeirat den Bewohner:innen bei Fragen und Anregungen als Ansprechpartner zur Verfügung.    \n                                                                                                                                                 Quelle: https://www.gewobag.de  ",
-                "image": "https://i.ibb.co/5BTcBWJ/unternehmen-presseinformation-richtfest-mehringplatz-1140x760.jpg",
-                "category": "Akteur:innen",
-                "sub-category": "Developers and enterprises",
-                "tags": [
-                    "Wohnen"
-                ],
-                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
-                "links": [
-                    {
-                        "url": "https://www.gewobag.de",
-                        "title": "Gewobag",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.gewobag.de/ueber-uns/ueber-die-gewobag/historie/",
-                        "title": "Geschichte der Gewobag",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/kiezstube_mehringplatz#25",
-                    "ca/quartiersmanagement_am_mehringplatz_#14",
-                    "ca/mehringplatz#39"
-                ],
-                "created_date": "2020-01-18T17:44:19.885+00:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Copyright: City-Press",
-                "icon_css_class": ""
-            },
-            "id": "ca/gewobag#54"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Florian Schmidt - Baustadtrat Friedrichshain-Kreuzberg",
-                "type": "Personen",
-                "start_date": "2016-12-01T00:00:00.000+00:00",
-                "end_date": "",
-                "description": "Florian Schmidt ist ein deutscher Politiker (Bündnis 90/Die Grünen) und leitet seit Dezember 2016 als Bezirksstadtrat in Berlin-Friedrichshain-Kreuzberg die Abteilung Bauen, Planen und Facilitymanagement. In den vergangenen Jahren hat er die Stadtentwicklung Berlins entscheidend mitgeprägt: So hat er z.B. als Baustadtrat die LokalBau-Strategie des Bezirkes Friedrichshain-Kreuzberg etabliert. Ziel dieser Strategie ist es, dass Neubauprojekte gemeinwohlorientiert sind, d.h. dass sie sich an den Bedarfen der Nutzer:innen orientieren und die Angebote bezahlbar sind. Vor seiner Tätigkeit als Baustadtrat leitete Schmidt u.a. das Projektbüro \"Kreativquartier Südliche Friedrichstadt\" und koordinierte von 2011 bis 2016 die Initiative \"Stadt Neudenken\".                                                                                                                                                                                                                                                  Im Rahmen des EULER Erasmus+ Projektes wurde 2017 ein Videointerview mit Florian Schmidt geführt (s.o.). Für das Projekt wurden lokale soziale, wirtschaftliche und institutionelle Akteur:innen interviewt, um die vorhandenen Ressourcen und Potenziale der Südlichen Friedrichstadt zu eruieren.",
-                "image": "https://i.vimeocdn.com/video/669554989_520x294.jpg",
-                "category": "Akteur:innen",
-                "sub-category": "Verwaltung",
-                "tags": [
-                    "Stadtpolitik",
-                    "Stadterneuerung",
-                    "Kreativwirtschaft",
-                    "gemeinschaftlich"
-                ],
-                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/244994296",
-                        "title": "Interview mit Florian Schmidt 2017",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksamt/florian-schmidt/",
-                        "title": "Profil Schmidt Bezirksamt",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.berlin.de/lokalbau-fk/",
-                        "title": "LokalBau Strategie",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "",
-                    "ca/bauh_tte#16",
-                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
-                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
-                    "ca/kreative_raumpioniere_am_mehringplatz#41"
-                ],
-                "created_date": "2020-02-26T08:51:13.578+00:00",
-                "updated_date": "2020-03-27T15:15:44.123+00:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "H-Town Tour",
-                "type": "Video",
-                "start_date": "2019-06-15T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "H-Town-Tour ist das visuelle Ergebnis der URBEX-Laboratorien mit Jugendlichen der KMA Antenne, einem von Tesserae koordinierten Ausbildungsprojekt in den Jahren 2018/2019. Dieses EU finanzierte Erasmus+Projekt förderte die Stadterkundung als ein Instrument für das Engagement von Jugendlichen, die von Benachteiligung und somit Ausgrenzung bedroht sind. \nDie Gruppe von Jugendlichen, die Teil der URBEX-Laboratorien waren, nahm zudem mit Teilnehmer:innen aus vier anderen europäischen Städten an einem internationalen Austauschprogramm teil. Dort arbeiteten sie u.a. an der Kartierung und Ausarbeitung einer Tour zur Beschreibung ihrer Nachbarschaft.",
-                "image": "https://i.vimeocdn.com/video/839359588_260x146.jpg",
-                "category": "Geschichten",
-                "sub-category": "Place narratives ",
-                "tags": [
-                    "soziale Inklusion",
-                    "mündliche Geschichten",
-                    "Öffentlicher Raum",
-                    "Jugend",
-                    "Musik"
-                ],
-                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/showcase/4256854/video/350616264",
-                        "title": "H-Town Tour",
-                        "description": "",
-                        "type": "video"
-                    },
-                    {
-                        "url": "http://www.tesserae.eu/project/urbex/",
-                        "title": "URBEX",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/kma_e_v_#7",
-                    "ca/hasenpark#86"
-                ],
-                "created_date": "2020-03-03T14:16:13.705+00:00",
-                "updated_date": "2020-12-02T21:17:54.190+00:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/h_town_tour#56"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
-                "type": "Organisation",
-                "start_date": "",
-                "end_date": "",
-                "description": "Advisory and exchange committee between the local authority and other stakeholders.\nInfluencing important decision-making processes and goals of redevelopment. In particular:\n- information and advice on construction measures to be developed and implemented with funding for urban regeneration to improve public infrastructure and public space;\n- participation in the design of concepts and formulation and modification of reconstruction targets structure.\nIt consists of: Territorial Representation and the employees of the District and Senate Administration responsible for the redevelopment area and their representatives. Aditionally, the Quartiersmanagement of Mehringplatz and Gewobag take part of the advisory council.",
-                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/01/logo_SanSF_mHintergrundklein.png",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/der-sanierungsbeirat/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/quartiersmanagement_am_mehringplatz_#14"
-                ],
-                "created_date": "2019-09-26T14:24:58.508+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Candy Hartmann - Quartiersmanagement ",
-                "type": "Interview",
-                "start_date": "2017-08-14T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Candy Hartmann arbeitet seit vielen Jahren für das Quartiersmanagement am Mehringplatz, wo sie u.a. für die Konzeptentwicklung und die Begleitung von Projektfonds zuständig ist.\nIm Rahmen des EULER Erasmus+ Projektes wurde 2017 ein Videointerview mit Candy Hartmann geführt (s.o.). Für das Projekt wurden lokale soziale, wirtschaftliche und institutionelle Akteur:innen interviewt, um die vorhandenen Ressourcen und Potenziale der Südlichen Friedrichstadt zu eruieren.",
-                "image": "https://i.vimeocdn.com/video/669555605_260x146.jpg",
-                "category": "Akteur:innen",
-                "sub-category": "Stakeholder interviews",
-                "tags": [
-                    "Quartiersmanagement",
-                    "Stadterneuerung",
-                    "soziale Inklusion"
-                ],
-                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
-                "links": [
-                    {
-                        "url": "://vimeo.com/230981438",
-                        "title": "Interview mit Candy Hartmann 2017",
-                        "description": "",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [
-                    "ca/quartiersmanagement_am_mehringplatz_#14",
-                    "",
-                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
-                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
-                    "ca/kunstwelt_e_v_#48",
-                    "ca/mehringplatz_anknipsen_interviews#64"
-                ],
-                "created_date": "2019-11-01T18:26:35.150+00:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/candy_hartmann_quartiersmanagement_#32"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Urban Sketches: Development, Who Is It For",
-                "type": "Video",
-                "start_date": "2017-07-07T00:00:00.000+01:00",
-                "end_date": "2017-07-07T00:00:00.000+01:00",
-                "description": "Die Autorin dieses Urban Sketches erzählt von Schwierigkeiten, denen einige Mieter:innen und Ladenbesitzer:innen am Mehringplatz gegenüberstehen und von Maßnahmen, die sie bezüglich der Entwicklung der Nachbarschaft ergreifen. \nAutorin: Nathalie Bekdache\nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms",
-                "image": "https://i.vimeocdn.com/video/646399950.jpg",
-                "category": "Geschichten",
-                "sub-category": "Place narratives ",
-                "tags": [
-                    "Stadterneuerung",
-                    "mündliche Geschichten",
-                    "soziale Inklusion"
-                ],
-                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/manage/226707117/general",
-                        "title": "Urban Sketches",
-                        "description": "Urban Sketches is a series of short video postcards from Mehringplatz",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [
-                    "ca/sammlung_mehringplatz_urban_sketches_#70",
-                    "ca/urban_sketches_alienation#36",
-                    "ca/urban_sketches_victoria_versicherung#35",
-                    "ca/urban_sketches_places_for_all_times#34"
-                ],
-                "created_date": "2019-11-07T15:23:13.358+00:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Nathalie Bekdache",
-                "icon_css_class": ""
-            },
-            "id": "ca/urban_sketches_development_who_is_it_for#33"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Urban Sketches: Places for all times",
-                "type": "Video",
-                "start_date": "2017-07-01T00:00:00.000+01:00",
-                "end_date": "2017-07-01T00:00:00.000+01:00",
-                "description": "Die Autorin dieses Urban Sketches erkundet die Straßen der Südlichen Friedrichstadt und zeigt dabei die Bedeutung der städtischen Infrastruktur auf, die uns täglich umgibt.\nAutorin: Rasha Kanjarawi \nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms",
-                "image": "https://i.vimeocdn.com/video/651562520.jpg",
-                "category": "Geschichten",
-                "sub-category": "Place narratives ",
-                "tags": [
-                    "Öffentlicher Raum",
-                    "Kultur",
-                    "soziale Inklusion",
-                    "mündliche Geschichten"
-                ],
-                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/showcase/4678967/video/230890049",
-                        "title": "Urban Sketches",
-                        "description": "",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [
-                    "ca/sammlung_mehringplatz_urban_sketches_#70",
-                    "ca/urban_sketches_alienation#36",
-                    "ca/urban_sketches_victoria_versicherung#35",
-                    "ca/urban_sketches_development_who_is_it_for#33"
-                ],
-                "created_date": "2019-11-09T10:27:23.642+00:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Rasha Kanjarawi ",
-                "icon_css_class": ""
-            },
-            "id": "ca/urban_sketches_places_for_all_times#34"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Urban Sketches: Alienation",
-                "type": "Video",
-                "start_date": "2017-09-09T00:00:00.000+01:00",
-                "end_date": "2017-09-09T00:00:00.000+01:00",
-                "description": "Der Mehringplatz ist ein zentrales Gebiet in Berlin, an dem viele erstaunliche und eher untypische Orte zusammenkommen. Der Autor dieses Urban Sketches zeigt einige dieser Orte, die oft leer stehen, und fragt sich, welche Bedeutung die Bewohner:innen ihnen beimessen.       \nAutor: Alessandro De Simone\nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms",
-                "image": "https://i.vimeocdn.com/video/651039369.jpg",
-                "category": "Geschichten",
-                "sub-category": "Place narratives ",
-                "tags": [
-                    "Öffentlicher Raum",
-                    "Medien"
-                ],
-                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/230464313",
-                        "title": "Urban Sketches: Alienation",
-                        "description": "",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [
-                    "ca/urban_sketches_development_who_is_it_for#33",
-                    "ca/urban_sketches_places_for_all_times#34",
-                    "ca/urban_sketches_victoria_versicherung#35"
-                ],
-                "created_date": "2019-11-09T11:07:33.603+00:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Alessandro De Simone",
-                "icon_css_class": ""
-            },
-            "id": "ca/urban_sketches_alienation#36"
-        }
-    ],
-    "features": [
         {
             "type": "Feature",
             "properties": {
@@ -1064,6 +347,380 @@
                 ]
             },
             "id": "ca/feldf_nf_projektr_ume_im_metropolenhaus#103"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Impact Hub Berlin ",
+                "type": "Ort",
+                "start_date": "2017-01-01T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "Der “Impact Hub Berlin” ist ein Co-Working-Space am Mehringplatz und ein Ort der sozialen Innovation. Dieser Raum unterstützt Menschen vor Ort, ihre innovativen Ideen auszugestalten und zu einem Projekt zu formen. Als Mitglied des größten globalen Netzwerks für soziale Innovation (mehr als 90 Hubs in 54 Ländern der Welt) berät, schult und fördert das Impact Hub-Team den Austausch von Personen miteinander, sodass ihre Community derzeit bereits 17.000 Mitglieder umfasst. Dieser Ort ermöglicht es der lokalen Gemeinschaft, ihre Ideen für nachhaltige Projekte zu entwickeln.",
+                "image": "https://berlin.impacthub.net/wp-content/uploads/2018/05/DSC_2255-e1526304748259.jpg",
+                "category": "Akteur:innen",
+                "sub-category": "Kreativwirtschaft",
+                "tags": [
+                    "Büro",
+                    "Plattform",
+                    "Kreativwirtschaft"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [
+                    {
+                        "url": "https://berlin.impacthub.net/de/",
+                        "title": "Impact Hub",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-11-26T15:02:48.725+00:00",
+                "updated_date": "2020-06-12T12:27:05.133+01:00",
+                "weight": 0,
+                "image_credit": "Berlin Impact Hub",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3914,
+                    52.5001
+                ]
+            },
+            "id": "ca/impact_hub_berlin_#46"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Friedrichstadt ",
+                "type": "Ort",
+                "start_date": "",
+                "end_date": "",
+                "description": "Die Friedrichstadt ist ein historischer Stadtteil der heute zum Teil im Berliner Ortsteil Mitte liegt und sich jenseits der Bezirksgrenze in den Ortsteil Kreuzberg erstreckt. Die Friedrichstadt war eine ab 1688 angelegte selbstständige Vorstadt Berlins, die 1710 eingemeindet wurde. Benannt wurde die Friedrichstadt nach dem preußischen König Friedrich I. Heute liegt der nördliche Teil der Friedrichstadt im Bezirk Mitte und der südliche Teil im Bezirk Friedrichshain-Kreuzberg. Die Grenze zwischen beiden Bezirken verläuft entlang der südlichen Seite der Niederkirchner- und Zimmerstraße.\n",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Map_de-be_friedrichstadt.png",
+                "category": "Gebiet",
+                "sub-category": "Administrative borders",
+                "tags": [
+                    "Geschichte ",
+                    "Geografie",
+                    "Ortsname"
+                ],
+                "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
+                "links": [],
+                "relationships": [
+                    "ca/gr_ndung_friedrichstadt_#42",
+                    "ca/eingemeindung_friedrichstadt_#44"
+                ],
+                "created_date": "2019-12-10T09:35:42.660+00:00",
+                "updated_date": "2020-02-05T15:03:10.247+00:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.389252,
+                            52.498094
+                        ],
+                        [
+                            13.393861,
+                            52.498189
+                        ],
+                        [
+                            13.401282,
+                            52.510348
+                        ],
+                        [
+                            13.400813,
+                            52.511867
+                        ],
+                        [
+                            13.399095,
+                            52.512152
+                        ],
+                        [
+                            13.396595,
+                            52.51201
+                        ],
+                        [
+                            13.396204,
+                            52.512722
+                        ],
+                        [
+                            13.396283,
+                            52.513387
+                        ],
+                        [
+                            13.396048,
+                            52.516283
+                        ],
+                        [
+                            13.381206,
+                            52.515096
+                        ],
+                        [
+                            13.379487,
+                            52.514716
+                        ],
+                        [
+                            13.377534,
+                            52.514669
+                        ],
+                        [
+                            13.376597,
+                            52.50935
+                        ],
+                        [
+                            13.376909,
+                            52.508638
+                        ],
+                        [
+                            13.389252,
+                            52.498094
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/friedrichstadt_#50"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Repair Cafe ",
+                "type": "Organisation",
+                "start_date": "2013-01-17T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "Unter dem Motto \"Reparieren statt Wegwerfen\" laden jeden 1. Montag im Monat Ehrenamtliche zum sogenannten Repair Café ein. Es können technische Geräte oder andere Gegenstände mit in die Kiezstube (Mehringplatz 7) gebracht werden, denen wieder Leben eingehaucht werden. Die Reperatur erfolgt mit Beratung und Unterstützung der technisch begabten Ehrenamtlichen vor Ort, um dem Ansatz \"Hilfe zur Selbsthilfe\" gerecht zu werden. Das Angebot ist kostenlos.",
+                "image": "https://i.ibb.co/YNvHyBS/Repair-Cafe.png ",
+                "category": "Initiativen",
+                "sub-category": "",
+                "tags": [
+                    "Umwelt"
+                ],
+                "category-description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
+                "links": [],
+                "relationships": [
+                    "ca/kiezstube_mehringplatz#25"
+                ],
+                "created_date": "2020-01-17T13:53:12.876+00:00",
+                "updated_date": "2020-04-30T17:47:52.960+01:00",
+                "weight": 0,
+                "image_credit": "www.123RF.com",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3931,
+                    52.4992
+                ]
+            },
+            "id": "ca/repair_cafe_#52"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "KMAntenne",
+                "type": "Ort",
+                "start_date": "",
+                "end_date": "",
+                "description": "KMAntenne  ist ein  Kinder- und Jugendzentrum  in der Friedrichstraße 2/3. Im Erdgeschoss der Einrichtung befindet sich der „Offene Treff“ mit seinem vielfältigen Angebot für Kinder und Jugendliche. Neben dem offenen Bereich gibt es in der KMAntenne auch täglich wechselnde Kurse und Workshops, die Kinder und Jugendliche kostenlos nutzen können. Die Angebote umfassen z.B. Tanz- und Musikworkshops, eine Fahrradwerkstatt oder Hausaufgabenhilfe.\nAußerdem arbeitet die KMAntenne mit Schulen aus dem Bezirk Friedrichshain-Kreuzberg zusammen, sodass Schulklassen kostenlos an Projektwochen teilnehmen können.",
+                "image": "https://i.ibb.co/GT0TwgN/KMAntenne-Photo-Manuela-Conti.jpg",
+                "category": "Orte",
+                "sub-category": "Gemeinschaftsmittelpunkt",
+                "tags": [
+                    "Jugend",
+                    "Kultur",
+                    "Kunst",
+                    "Musik"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://kma-ev.de/kinder-und-jugendkulturzentrum",
+                        "title": "KMAntenne",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/kma_e_v_#7"
+                ],
+                "created_date": "2020-03-13T16:34:25.393+00:00",
+                "updated_date": "2020-04-10T12:07:28.448+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3919,
+                    52.5002
+                ]
+            },
+            "id": "ca/kmantenne#59"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Neubau der ZLB am Blücherplatz",
+                "type": "Projekt",
+                "start_date": "2018-06-01T00:00:00.000+01:00",
+                "end_date": "2026-01-01T00:00:00.000+00:00",
+                "description": "Die Zentral- und Landesbibliothek Berlin (ZLB) ist gegenwärtig auf drei Standorte in der Stadt verteilt. Deshalb sind die räumlichen Bedingungen für Nutzer*innen und Mitarbeiter*innen aktuell nicht ideal. Im Juni 2018 hat sich der Berliner Senat nach einer intensiven Prüfung unterschiedlicher Standorte entschieden, die ZLB am Blücherplatz zu errichten. Die neue ZLB wird ergänzend zur bestehenden Amerika-Gedenkbibliothek (AGB) weitere Gebäudeteile benötigen und den Blücherplatz städtebaulich verändern. Dazu wird auch die komplexe Verkehrssituation in der Umgebung inkl. der Blücherstraße untersucht.                                                                                                                                          Im Herbst 2019 bis Frühjahr 2020 wurde ein Dialogverfahren „städtebauliche Machbarkeitsstudie ZLB am Blücherplatz“ durchgeführt. Hier diskutierten Stadtplaner*innen, Architekt*innen, Landschaftsplaner*innen, Verkehrsplaner*innen, Bibliothekar*innen und Bürger*innen miteinander darüber, wie der Neubau auf dem Gelände an der AGB gut eingepasst werden kann. Besondere Beachtung fand dabei der Umgang mit dem Baudenkmal der Amerika-Gedenkbibliothek, mit der Grünanlage am Blücherplatz und der komplexen Verkehrssituation sowie mit der Blücherstraße. Die gewonnenen Erkenntnisse bilden die Grundlage der weiteren Planung des Neubaus und der Freianlagen.\nMit abgeschlossener Prüfung des Bedarfsprogramms sind dann die Rahmenbedingungen, Anforderungen und auch ein erster Kostenrahmen für das Bauprojekt ZLB-Neubau festgelegt. Auf dieser Grundlage beginnen dann die Vorbereitungen für den Architekturwettbewerb. Anschließend wird ein Projekt ausgewählt, sodass der Bau 2026 beginnen soll.\nQuelle: https://www.zlb.de/neubau",
+                "image": "https://i.ibb.co/6v5WFZ6/Interaktive-Wand-2.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Infrastruktur",
+                "tags": [
+                    "gemeinschaftlich",
+                    "soziale Inklusion",
+                    "Öffentlicher Raum"
+                ],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "https://www.zlb.de/ueber-uns/projekte/neubauprojekt/aktuelles.html?d=0",
+                        "title": "ZLB Neubauprojekt",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/amerika_gedenkbibliothek#30"
+                ],
+                "created_date": "2020-03-21T19:14:08.963+00:00",
+                "updated_date": "2020-12-18T15:09:07.215+00:00",
+                "weight": 0,
+                "image_credit": "©ZLB ",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.390714,
+                            52.496009
+                        ],
+                        [
+                            13.390671,
+                            52.496244
+                        ],
+                        [
+                            13.390703,
+                            52.496323
+                        ],
+                        [
+                            13.391507,
+                            52.497015
+                        ],
+                        [
+                            13.391732,
+                            52.497067
+                        ],
+                        [
+                            13.392408,
+                            52.4971
+                        ],
+                        [
+                            13.392493,
+                            52.497224
+                        ],
+                        [
+                            13.392901,
+                            52.497401
+                        ],
+                        [
+                            13.39482,
+                            52.49757
+                        ],
+                        [
+                            13.394992,
+                            52.497623
+                        ],
+                        [
+                            13.395227,
+                            52.497557
+                        ],
+                        [
+                            13.395302,
+                            52.497459
+                        ],
+                        [
+                            13.395302,
+                            52.497414
+                        ],
+                        [
+                            13.395077,
+                            52.497048
+                        ],
+                        [
+                            13.395024,
+                            52.496826
+                        ],
+                        [
+                            13.394938,
+                            52.496323
+                        ],
+                        [
+                            13.393566,
+                            52.49631
+                        ],
+                        [
+                            13.391882,
+                            52.49612
+                        ],
+                        [
+                            13.390714,
+                            52.496009
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/neubau_der_zlb_am_bl_cherplatz#60"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Konzentrationslager \"Gutschow-Keller\"",
+                "type": "Monument",
+                "start_date": "1933-03-01T00:00:00.000+00:00",
+                "end_date": "1933-05-31T00:00:00.000+01:00",
+                "description": "Das Foto zeigt einen historisch bedeutsamen Teil des Mehringplatzes: Zu sehen ist ein SA-Mann, der Gefangene in einem Schuppen des Hinterhofs am 6. März 1933 bewacht. Hier befand sich das frühere Konzentrationslager \"Gutschow-Keller\".\nDie Lebensmittelhändler Hermann und Paul Gutschow, denen auch der gegenüberliegende repräsentative Gründerzeitbau Friedrichstraße 17 gehörte, stellten bereits 1932 dem \"SA-Sturmbann III/8\" die Lager und Keller im zweiten Hof ihres Gebäudetraktes in der Friedrichstraße 234 zur Verfügung. Diese Räume waren von März bis Mai 1933 eines der ersten Berliner Konzentrationslager, das von Häftlingen auch \"Blutburg\" genannt wurde. Hunderte Juden, Gewerkschafter:innen, Kommunisten, und Sozialdemokraten wurden in Wohnungen, Arbeitsstätten und auf offener Straße ergriffen und hierher verschleppt.",
+                "image": "https://i.ibb.co/S0gGzzJ/Kozentrationslager-Gutschow-Keller.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "Gedenk- oder Informationstafeln",
+                "tags": [
+                    "Geschichte "
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/gedenktafel-anzeige/tid/konzentrationslager/",
+                        "title": "Gedenktafeln in Berlin",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-03-25T13:38:06.702+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 2,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.391,
+                    52.5025
+                ]
+            },
+            "id": "ca/konzentrationslager_gutschow_keller_#61"
         },
         {
             "type": "Feature",
@@ -1660,700 +1317,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Parkhaus - Franz-Klühs-Straße/Wilhelmstraße",
-                "type": "Gebäude",
-                "start_date": "",
-                "end_date": "",
-                "description": "Das alte Parkhaus gegenüber der SPD-Parteizentrale in der Franz-Klühs-Straße/Wilhelmstraße ist seit Jahren leerstehend und zerfällt zunehmend. \nIm Oktober 2017 gab es vom Bezirksamt einen positiven Vorbescheid für einen Bauantrag. Dieser sieht vor, dass anstelle des Parkhauses ein zwei- bis achtgeschossiges Gebäude errichtet wird. Dieses soll Platz für Wohnungen, Büros, Gastronomie, Einzelhandel und Gewerbe gebieten. \nQuelle: www.rbb888.de",
-                "image": "https://www.rbb888.de/content/dam/rbb/ach/themen/Bauzombies/parkhaus_berlin.jpg.jpg/quality=128/size=708x398.jpg",
-                "category": "Orte",
-                "sub-category": "Öffentlicher Raum",
-                "tags": [
-                    "Architektur"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [],
-                "relationships": [
-                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
-                    "ca/urban_sketches_alienation#36"
-                ],
-                "created_date": "2020-09-03T14:20:13.140+01:00",
-                "updated_date": "2020-11-13T16:49:17.177+00:00",
-                "weight": 0,
-                "image_credit": "www.rbb888.de",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3898,
-                    52.5006
-                ]
-            },
-            "id": "ca/parkhaus_franz_kl_hs_stra_e_wilhelmstra_e#83"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Hallesches Tor",
-                "type": "Ort",
-                "start_date": "",
-                "end_date": "",
-                "description": "Die U-Bahn Station Hallesches Tor hat ihren Namen von dem einstigen Durchgang in der alten Stadtmauer, der sich im 18. Jahrhundert am selben Platz befand. Bis 1812 war dies das einzige Tor im Süden Berlins, durch das Juden:Jüdinnen mit Registrierung in die Stadt gelangen konnten.\nAls eine Haltestelle der ersten U-Bahn Linie in berlin, gehört die Station zu den ältesten der Stadt. Heutzutage, fungiert sie hauptsächlich als Umsteige- und Kreuzungspunkt dreier U-Bahn Linien, die den Ort mit allen Himmelsrichtungen verbinden:\nDie U1 führt direkt in den Osten, zur Warschauer Straße in Friedrichshain, sowie zu der gehobenen Einkaufsstraße Kurfürstenstraße im Westen. Mit der U6 gelangt man richtung Norden, vorbei an zentralen Orten wie der Friedrichstraße und dem Checkpoint Charlie in das Industriegebiet im Wedding oder Richtung Süden durch Kreuzberberg nach Tempelhof. Außerdem verbindet die U3 das Hallesche Tor direkt mit dem Campus der Freien Universität.\nWährend U1 und U3 über einen Hochbahnhof erreichbar sind, befindet sich der Eingang zum unterirdischen Bahnsteig der U6 direkt auf dem Mehringplatz. Die Station steht unter Denkmalschutz.",
-                "image": "https://kondius.com/wp-content/uploads/2017/06/hallesches-tor-web.jpg",
-                "category": "Orte",
-                "sub-category": "Öffentlicher Raum",
-                "tags": [
-                    "Architektur",
-                    "Öffentlicher Raum",
-                    "Urbanität",
-                    "Erbe",
-                    "Geschichte ",
-                    "Ortsname"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [],
-                "relationships": [
-                    "ca/mehringplatz#39",
-                    "ca/belle_alliance_platz#40"
-                ],
-                "created_date": "2020-09-09T15:36:41.016+01:00",
-                "updated_date": "2020-11-10T14:17:40.445+00:00",
-                "weight": 0,
-                "image_credit": "Kondius AG",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3906,
-                    52.4977
-                ]
-            },
-            "id": "ca/hallesches_tor#87"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Wolfgang Thiess",
-                "type": "Personen",
-                "start_date": "",
-                "end_date": "",
-                "description": "An der U-Bahn Haltestelle Hallesches Tor ist eine Gedenktafel angebracht, die an den Widerstandskämpfer und Antifaschisten Wolfgang Thiess erinnert, der an diesem Ort Flugblätter aus dem Zug warf und in Plötzensee hingerichtet wurde. Ein Auszug aus dem Text auf der Gedenktafel: \nWolfgang Thiess (1911 - 1943) \nwar nach 1933 bei der illegalen Zeitschrift \"Die innere Front\" für den Wirtschaftsteil verantwortlich. Im April 1942 klebte er Zettel gegen die NS-Propagandaausstellung \"Das Sowjetparadies\". Am 20.10.1942 wurde er verhaftet, dann wurde ihm zusammen mit anderen aus seiner Gruppe der Prozeß gemacht und zum Tode verurteilt. \nDer Entwurf der Tafel im Rahmen des Kreuzberger Antifaschistischen Gedenktafelprogramms stammt von dem Berliner Bildhauer Gerhard Moritzen und stellt in 13 Feldern die Lebensstationen von Thiess dar.\n",
-                "image": "https://www.gedenktafeln-in-berlin.de/typo3temp/pics/Gedenktafel_Hallesche-Tor-Bru__cke__Kreu_1b5649d785.jpg",
-                "category": "Erinnerungen",
-                "sub-category": "Gedenk- oder Informationstafeln",
-                "tags": [
-                    "Kunst",
-                    "Medien",
-                    "Geschichte "
-                ],
-                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [
-                    {
-                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/person/alph/T/person/1698/",
-                        "title": "Gedenktafeln in Berlin",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2020-09-09T16:07:11.267+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "OTFW, CC BY-SA 3.0",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3906,
-                    52.4977
-                ]
-            },
-            "id": "ca/wolfgang_thiess#88"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Mehringplatz",
-                "type": "Ort",
-                "start_date": "1968-06-21T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Der Mehringplatz ist der Schwerpunkt der Südlichen Friedrichstadt. Der barocke monumentale Belle-Alliance-Platz am Ende der Nord-Süd-Hauptachse Friedrichstraße neben dem Halleschen Tor (Stadttor nach Halle) wurde im Zweiten Weltkrieg vollständig zerstört. Danach blieb bis Ende der sechziger Jahre ein Viertel am Stadtrand neben der Berliner Mauer. Das Wiederaufbauprojekt wurde in den 1960er Jahren von Hans Scharoun durchgeführt, der vorschlug, die Kreisform des alten Rondells wiederzubeleben. Der Bau der Berliner Mauer veränderte später die Aussichten und es war Werner Düttman - ehemaliger Schüler von Scharoun -, der das Projekt für Wohnzwecke neu anpasste. Der riesige Komplex wurde schließlich zu einer Siedlung für Sozialwohnungen, in der hauptsächlich Haushalte mit Migrationshintergrund lebten. Eigentümer des größten Teils des Wohnkomplexes ist heute GeWoBag, ein öffentliches Privatunternehmen.",
-                "image": "https://i.ibb.co/dGk5L20/photo-2020-02-24-23-45-56.jpg",
-                "category": "Orte",
-                "sub-category": "Öffentlicher Raum",
-                "tags": [
-                    "Öffentlicher Raum",
-                    "Stadterneuerung",
-                    "Quartiersmanagement",
-                    "soziale Inklusion",
-                    "Architektur"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "https://de.wikipedia.org/wiki/Mehringplatz",
-                        "title": "Mehringplatz auf Wikipedia",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "http://travelogues.me/albums/mehringplatz-1/",
-                        "title": "Photographic survey of Mehringplatz by Manuela Conti",
-                        "description": "",
-                        "type": "photoblog"
-                    }
-                ],
-                "relationships": [
-                    "ca/_das_rondell_#45",
-                    "",
-                    "ca/kiezstube_mehringplatz#25",
-                    "ca/caf_madame#26"
-                ],
-                "created_date": "2019-11-21T10:25:33.651+00:00",
-                "updated_date": "2020-05-05T13:37:50.975+01:00",
-                "weight": -4,
-                "image_credit": "Photo Manuela Conti - oginoknauss",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.391837,
-                    52.498937
-                ]
-            },
-            "id": "ca/mehringplatz#39"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Belle Alliance Platz",
-                "type": "Ort",
-                "start_date": "1815-01-21T00:00:00.000-00:01",
-                "end_date": "1945-02-03T00:00:00.000+01:00",
-                "description": "Im Jahr 1815 wurde der Name \"Das Rondell\" in Belle-Alliance-Platz als Erinnerung an den Sieg über Napoleon in Waterloo geändert. Die Friedenssäule wurde nur zwanzig Jahre später in der Mitte des Platzes errichtet und die Landschaftsgestaltung vom Direktor des königlichen Gartens Lenné übernommen. Der Platz blieb zunächst unverändert, bis mit dem Abriss der Akzisemauer 1879 und mit der späteren Erschließung durch die Eisenbahn und die U-Bahn das Erscheinungsbild des Platzes stark verändert wurde. Der Belle-Alliance-Platz wurde im II. Weltkrieg stark zerstört und unmittelbar danach in Mehringplatz (nach Franz Mehring) umbenannt. ",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/19061207_berlin_belle_alliance_platz.jpg",
-                "category": "Erinnerungen",
-                "sub-category": "",
-                "tags": [
-                    "Architektur",
-                    "Kreativwirtschaft",
-                    "Ortsname",
-                    "Geschichte "
-                ],
-                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [],
-                "relationships": [
-                    "ca/mehringplatz#39",
-                    "ca/_das_rondell_#45"
-                ],
-                "created_date": "2019-11-21T11:11:07.402+00:00",
-                "updated_date": "2020-08-27T16:43:11.737+01:00",
-                "weight": -1,
-                "image_credit": "Wikimedia",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3918,
-                    52.499
-                ]
-            },
-            "id": "ca/belle_alliance_platz#40"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Impact Hub Berlin ",
-                "type": "Ort",
-                "start_date": "2017-01-01T00:00:00.000+00:00",
-                "end_date": "",
-                "description": "Der “Impact Hub Berlin” ist ein Co-Working-Space am Mehringplatz und ein Ort der sozialen Innovation. Dieser Raum unterstützt Menschen vor Ort, ihre innovativen Ideen auszugestalten und zu einem Projekt zu formen. Als Mitglied des größten globalen Netzwerks für soziale Innovation (mehr als 90 Hubs in 54 Ländern der Welt) berät, schult und fördert das Impact Hub-Team den Austausch von Personen miteinander, sodass ihre Community derzeit bereits 17.000 Mitglieder umfasst. Dieser Ort ermöglicht es der lokalen Gemeinschaft, ihre Ideen für nachhaltige Projekte zu entwickeln.",
-                "image": "https://berlin.impacthub.net/wp-content/uploads/2018/05/DSC_2255-e1526304748259.jpg",
-                "category": "Akteur:innen",
-                "sub-category": "Kreativwirtschaft",
-                "tags": [
-                    "Büro",
-                    "Plattform",
-                    "Kreativwirtschaft"
-                ],
-                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
-                "links": [
-                    {
-                        "url": "https://berlin.impacthub.net/de/",
-                        "title": "Impact Hub",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-11-26T15:02:48.725+00:00",
-                "updated_date": "2020-06-12T12:27:05.133+01:00",
-                "weight": 0,
-                "image_credit": "Berlin Impact Hub",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3914,
-                    52.5001
-                ]
-            },
-            "id": "ca/impact_hub_berlin_#46"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Friedrichstadt ",
-                "type": "Ort",
-                "start_date": "",
-                "end_date": "",
-                "description": "Die Friedrichstadt ist ein historischer Stadtteil der heute zum Teil im Berliner Ortsteil Mitte liegt und sich jenseits der Bezirksgrenze in den Ortsteil Kreuzberg erstreckt. Die Friedrichstadt war eine ab 1688 angelegte selbstständige Vorstadt Berlins, die 1710 eingemeindet wurde. Benannt wurde die Friedrichstadt nach dem preußischen König Friedrich I. Heute liegt der nördliche Teil der Friedrichstadt im Bezirk Mitte und der südliche Teil im Bezirk Friedrichshain-Kreuzberg. Die Grenze zwischen beiden Bezirken verläuft entlang der südlichen Seite der Niederkirchner- und Zimmerstraße.\n",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Map_de-be_friedrichstadt.png",
-                "category": "Gebiet",
-                "sub-category": "Administrative borders",
-                "tags": [
-                    "Geschichte ",
-                    "Geografie",
-                    "Ortsname"
-                ],
-                "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
-                "links": [],
-                "relationships": [
-                    "ca/gr_ndung_friedrichstadt_#42",
-                    "ca/eingemeindung_friedrichstadt_#44"
-                ],
-                "created_date": "2019-12-10T09:35:42.660+00:00",
-                "updated_date": "2020-02-05T15:03:10.247+00:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.389252,
-                            52.498094
-                        ],
-                        [
-                            13.393861,
-                            52.498189
-                        ],
-                        [
-                            13.401282,
-                            52.510348
-                        ],
-                        [
-                            13.400813,
-                            52.511867
-                        ],
-                        [
-                            13.399095,
-                            52.512152
-                        ],
-                        [
-                            13.396595,
-                            52.51201
-                        ],
-                        [
-                            13.396204,
-                            52.512722
-                        ],
-                        [
-                            13.396283,
-                            52.513387
-                        ],
-                        [
-                            13.396048,
-                            52.516283
-                        ],
-                        [
-                            13.381206,
-                            52.515096
-                        ],
-                        [
-                            13.379487,
-                            52.514716
-                        ],
-                        [
-                            13.377534,
-                            52.514669
-                        ],
-                        [
-                            13.376597,
-                            52.50935
-                        ],
-                        [
-                            13.376909,
-                            52.508638
-                        ],
-                        [
-                            13.389252,
-                            52.498094
-                        ]
-                    ]
-                ]
-            },
-            "id": "ca/friedrichstadt_#50"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Repair Cafe ",
-                "type": "Organisation",
-                "start_date": "2013-01-17T00:00:00.000+00:00",
-                "end_date": "",
-                "description": "Unter dem Motto \"Reparieren statt Wegwerfen\" laden jeden 1. Montag im Monat Ehrenamtliche zum sogenannten Repair Café ein. Es können technische Geräte oder andere Gegenstände mit in die Kiezstube (Mehringplatz 7) gebracht werden, denen wieder Leben eingehaucht werden. Die Reperatur erfolgt mit Beratung und Unterstützung der technisch begabten Ehrenamtlichen vor Ort, um dem Ansatz \"Hilfe zur Selbsthilfe\" gerecht zu werden. Das Angebot ist kostenlos.",
-                "image": "https://i.ibb.co/YNvHyBS/Repair-Cafe.png ",
-                "category": "Initiativen",
-                "sub-category": "",
-                "tags": [
-                    "Umwelt"
-                ],
-                "category-description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
-                "links": [],
-                "relationships": [
-                    "ca/kiezstube_mehringplatz#25"
-                ],
-                "created_date": "2020-01-17T13:53:12.876+00:00",
-                "updated_date": "2020-04-30T17:47:52.960+01:00",
-                "weight": 0,
-                "image_credit": "www.123RF.com",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3931,
-                    52.4992
-                ]
-            },
-            "id": "ca/repair_cafe_#52"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "KMAntenne",
-                "type": "Ort",
-                "start_date": "",
-                "end_date": "",
-                "description": "KMAntenne  ist ein  Kinder- und Jugendzentrum  in der Friedrichstraße 2/3. Im Erdgeschoss der Einrichtung befindet sich der „Offene Treff“ mit seinem vielfältigen Angebot für Kinder und Jugendliche. Neben dem offenen Bereich gibt es in der KMAntenne auch täglich wechselnde Kurse und Workshops, die Kinder und Jugendliche kostenlos nutzen können. Die Angebote umfassen z.B. Tanz- und Musikworkshops, eine Fahrradwerkstatt oder Hausaufgabenhilfe.\nAußerdem arbeitet die KMAntenne mit Schulen aus dem Bezirk Friedrichshain-Kreuzberg zusammen, sodass Schulklassen kostenlos an Projektwochen teilnehmen können.",
-                "image": "https://i.ibb.co/GT0TwgN/KMAntenne-Photo-Manuela-Conti.jpg",
-                "category": "Orte",
-                "sub-category": "Gemeinschaftsmittelpunkt",
-                "tags": [
-                    "Jugend",
-                    "Kultur",
-                    "Kunst",
-                    "Musik"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "https://kma-ev.de/kinder-und-jugendkulturzentrum",
-                        "title": "KMAntenne",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/kma_e_v_#7"
-                ],
-                "created_date": "2020-03-13T16:34:25.393+00:00",
-                "updated_date": "2020-04-10T12:07:28.448+01:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3919,
-                    52.5002
-                ]
-            },
-            "id": "ca/kmantenne#59"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Neubau der ZLB am Blücherplatz",
-                "type": "Projekt",
-                "start_date": "2018-06-01T00:00:00.000+01:00",
-                "end_date": "2026-01-01T00:00:00.000+00:00",
-                "description": "Die Zentral- und Landesbibliothek Berlin (ZLB) ist gegenwärtig auf drei Standorte in der Stadt verteilt. Deshalb sind die räumlichen Bedingungen für Nutzer*innen und Mitarbeiter*innen aktuell nicht ideal. Im Juni 2018 hat sich der Berliner Senat nach einer intensiven Prüfung unterschiedlicher Standorte entschieden, die ZLB am Blücherplatz zu errichten. Die neue ZLB wird ergänzend zur bestehenden Amerika-Gedenkbibliothek (AGB) weitere Gebäudeteile benötigen und den Blücherplatz städtebaulich verändern. Dazu wird auch die komplexe Verkehrssituation in der Umgebung inkl. der Blücherstraße untersucht.                                                                                                                                          Im Herbst 2019 bis Frühjahr 2020 wurde ein Dialogverfahren „städtebauliche Machbarkeitsstudie ZLB am Blücherplatz“ durchgeführt. Hier diskutierten Stadtplaner*innen, Architekt*innen, Landschaftsplaner*innen, Verkehrsplaner*innen, Bibliothekar*innen und Bürger*innen miteinander darüber, wie der Neubau auf dem Gelände an der AGB gut eingepasst werden kann. Besondere Beachtung fand dabei der Umgang mit dem Baudenkmal der Amerika-Gedenkbibliothek, mit der Grünanlage am Blücherplatz und der komplexen Verkehrssituation sowie mit der Blücherstraße. Die gewonnenen Erkenntnisse bilden die Grundlage der weiteren Planung des Neubaus und der Freianlagen.\nMit abgeschlossener Prüfung des Bedarfsprogramms sind dann die Rahmenbedingungen, Anforderungen und auch ein erster Kostenrahmen für das Bauprojekt ZLB-Neubau festgelegt. Auf dieser Grundlage beginnen dann die Vorbereitungen für den Architekturwettbewerb. Anschließend wird ein Projekt ausgewählt, sodass der Bau 2026 beginnen soll.\nQuelle: https://www.zlb.de/neubau",
-                "image": "https://i.ibb.co/6v5WFZ6/Interaktive-Wand-2.jpg",
-                "category": "Veränderungen",
-                "sub-category": "Infrastruktur",
-                "tags": [
-                    "gemeinschaftlich",
-                    "soziale Inklusion",
-                    "Öffentlicher Raum"
-                ],
-                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
-                "links": [
-                    {
-                        "url": "https://www.zlb.de/ueber-uns/projekte/neubauprojekt/aktuelles.html?d=0",
-                        "title": "ZLB Neubauprojekt",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/amerika_gedenkbibliothek#30"
-                ],
-                "created_date": "2020-03-21T19:14:08.963+00:00",
-                "updated_date": "2020-12-18T15:09:07.215+00:00",
-                "weight": 0,
-                "image_credit": "©ZLB ",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.390714,
-                            52.496009
-                        ],
-                        [
-                            13.390671,
-                            52.496244
-                        ],
-                        [
-                            13.390703,
-                            52.496323
-                        ],
-                        [
-                            13.391507,
-                            52.497015
-                        ],
-                        [
-                            13.391732,
-                            52.497067
-                        ],
-                        [
-                            13.392408,
-                            52.4971
-                        ],
-                        [
-                            13.392493,
-                            52.497224
-                        ],
-                        [
-                            13.392901,
-                            52.497401
-                        ],
-                        [
-                            13.39482,
-                            52.49757
-                        ],
-                        [
-                            13.394992,
-                            52.497623
-                        ],
-                        [
-                            13.395227,
-                            52.497557
-                        ],
-                        [
-                            13.395302,
-                            52.497459
-                        ],
-                        [
-                            13.395302,
-                            52.497414
-                        ],
-                        [
-                            13.395077,
-                            52.497048
-                        ],
-                        [
-                            13.395024,
-                            52.496826
-                        ],
-                        [
-                            13.394938,
-                            52.496323
-                        ],
-                        [
-                            13.393566,
-                            52.49631
-                        ],
-                        [
-                            13.391882,
-                            52.49612
-                        ],
-                        [
-                            13.390714,
-                            52.496009
-                        ]
-                    ]
-                ]
-            },
-            "id": "ca/neubau_der_zlb_am_bl_cherplatz#60"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Konzentrationslager \"Gutschow-Keller\"",
-                "type": "Monument",
-                "start_date": "1933-03-01T00:00:00.000+00:00",
-                "end_date": "1933-05-31T00:00:00.000+01:00",
-                "description": "Das Foto zeigt einen historisch bedeutsamen Teil des Mehringplatzes: Zu sehen ist ein SA-Mann, der Gefangene in einem Schuppen des Hinterhofs am 6. März 1933 bewacht. Hier befand sich das frühere Konzentrationslager \"Gutschow-Keller\".\nDie Lebensmittelhändler Hermann und Paul Gutschow, denen auch der gegenüberliegende repräsentative Gründerzeitbau Friedrichstraße 17 gehörte, stellten bereits 1932 dem \"SA-Sturmbann III/8\" die Lager und Keller im zweiten Hof ihres Gebäudetraktes in der Friedrichstraße 234 zur Verfügung. Diese Räume waren von März bis Mai 1933 eines der ersten Berliner Konzentrationslager, das von Häftlingen auch \"Blutburg\" genannt wurde. Hunderte Juden, Gewerkschafter:innen, Kommunisten, und Sozialdemokraten wurden in Wohnungen, Arbeitsstätten und auf offener Straße ergriffen und hierher verschleppt.",
-                "image": "https://i.ibb.co/S0gGzzJ/Kozentrationslager-Gutschow-Keller.jpg",
-                "category": "Erinnerungen",
-                "sub-category": "Gedenk- oder Informationstafeln",
-                "tags": [
-                    "Geschichte "
-                ],
-                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [
-                    {
-                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/gedenktafel-anzeige/tid/konzentrationslager/",
-                        "title": "Gedenktafeln in Berlin",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2020-03-25T13:38:06.702+00:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 2,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.391,
-                    52.5025
-                ]
-            },
-            "id": "ca/konzentrationslager_gutschow_keller_#61"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Projektgruppe am Ex-Blumenmarkt (PxB)",
-                "type": "Projekt",
-                "start_date": "2012-12-01T00:00:00.000+00:00",
-                "end_date": "2019-09-26T11:00:00.000+01:00",
-                "description": "Die Projektgruppe am Ex-Blumengroßmarkt (PxB) ist aus Berlins erstem konzeptbasierten Immobilienvergabeprozess hervorgegangen. Die Projektgruppe ist ein Zusammenschluss aus Architekt:innen und Planer:innen, die an der Entwicklung der Baustellen II, IV und V auf dem ehemaligen Blumengroßmarkt mitwirken. \nZiel der Projektgruppe ist es, mit der Nachbarschaft, dem Senat und dem Bezirk Friedrichshain-Kreuzberg im Dialog zu den jeweiligen Bauprojekten zu sein und so gemeinschaftlich über die künftige Nutzung zu entscheiden und diese modellhaft umzusetzen. Zu diesem Zweck haben sich die Bauherren in einem Standortentwicklungsvertrag verpflichtet gemeinsame Projekte zu organisieren und finanzieren.Die Preisentscheidung war im Dezember 2012. Mittlerweile ist die bauliche Entwicklung des Ex-Blumengroßmarktes größtenteils abgeschlossen.\n",
-                "image": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg",
-                "category": "Veränderungen",
-                "sub-category": "Privater Raum",
-                "tags": [],
-                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
-                "links": [
-                    {
-                        "url": "https://frizz23.com/en/",
-                        "title": "Frizz23 (Kreuzbergs Baugruppe für kulturelles Gewerbe) ",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.metropolenhaus.de/",
-                        "title": "Metropolenhaus",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.metropolenhaus.de/ex-blumengrossmarkt-pxb/",
-                        "title": "Projektgruppe am Ex-Blumengroßmarkt",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "http://selbstbaugenossenschaft.de/?page_id=129",
-                        "title": "IBeB",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/bauh_tte#16",
-                    "ca/taz_neubau#10",
-                    "ca/metropolenhaus_am_j_dischen_museum#19",
-                    "ca/ehemalige_blumengro_markthalle_#65"
-                ],
-                "created_date": "2019-09-26T11:29:19.999+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": -4,
-                "image_credit": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.394369,
-                            52.502299
-                        ],
-                        [
-                            13.394219,
-                            52.502345
-                        ],
-                        [
-                            13.392,
-                            52.502175
-                        ],
-                        [
-                            13.391914,
-                            52.502717
-                        ],
-                        [
-                            13.391271,
-                            52.502684
-                        ],
-                        [
-                            13.391163,
-                            52.503383
-                        ],
-                        [
-                            13.39304,
-                            52.503533
-                        ],
-                        [
-                            13.392986,
-                            52.503866
-                        ],
-                        [
-                            13.393801,
-                            52.503912
-                        ],
-                        [
-                            13.394948,
-                            52.503057
-                        ],
-                        [
-                            13.394637,
-                            52.502789
-                        ],
-                        [
-                            13.394455,
-                            52.502547
-                        ],
-                        [
-                            13.394369,
-                            52.502299
-                        ]
-                    ]
-                ]
-            },
-            "id": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Sanierungsgebiet Südliche Friedrichstadt",
                 "type": "Programm",
                 "start_date": "2011-04-01T14:00:00.000+01:00",
@@ -2940,6 +1903,98 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Mehringplatz",
+                "type": "Ort",
+                "start_date": "1968-06-21T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Der Mehringplatz ist der Schwerpunkt der Südlichen Friedrichstadt. Der barocke monumentale Belle-Alliance-Platz am Ende der Nord-Süd-Hauptachse Friedrichstraße neben dem Halleschen Tor (Stadttor nach Halle) wurde im Zweiten Weltkrieg vollständig zerstört. Danach blieb bis Ende der sechziger Jahre ein Viertel am Stadtrand neben der Berliner Mauer. Das Wiederaufbauprojekt wurde in den 1960er Jahren von Hans Scharoun durchgeführt, der vorschlug, die Kreisform des alten Rondells wiederzubeleben. Der Bau der Berliner Mauer veränderte später die Aussichten und es war Werner Düttman - ehemaliger Schüler von Scharoun -, der das Projekt für Wohnzwecke neu anpasste. Der riesige Komplex wurde schließlich zu einer Siedlung für Sozialwohnungen, in der hauptsächlich Haushalte mit Migrationshintergrund lebten. Eigentümer des größten Teils des Wohnkomplexes ist heute GeWoBag, ein öffentliches Privatunternehmen.",
+                "image": "https://i.ibb.co/dGk5L20/photo-2020-02-24-23-45-56.jpg",
+                "category": "Orte",
+                "sub-category": "Öffentlicher Raum",
+                "tags": [
+                    "Öffentlicher Raum",
+                    "Stadterneuerung",
+                    "Quartiersmanagement",
+                    "soziale Inklusion",
+                    "Architektur"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://de.wikipedia.org/wiki/Mehringplatz",
+                        "title": "Mehringplatz auf Wikipedia",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://travelogues.me/albums/mehringplatz-1/",
+                        "title": "Photographic survey of Mehringplatz by Manuela Conti",
+                        "description": "",
+                        "type": "photoblog"
+                    }
+                ],
+                "relationships": [
+                    "ca/_das_rondell_#45",
+                    "",
+                    "ca/kiezstube_mehringplatz#25",
+                    "ca/caf_madame#26"
+                ],
+                "created_date": "2019-11-21T10:25:33.651+00:00",
+                "updated_date": "2020-05-05T13:37:50.975+01:00",
+                "weight": -4,
+                "image_credit": "Photo Manuela Conti - oginoknauss",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.391837,
+                    52.498937
+                ]
+            },
+            "id": "ca/mehringplatz#39"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Belle Alliance Platz",
+                "type": "Ort",
+                "start_date": "1815-01-21T00:00:00.000-00:01",
+                "end_date": "1945-02-03T00:00:00.000+01:00",
+                "description": "Im Jahr 1815 wurde der Name \"Das Rondell\" in Belle-Alliance-Platz als Erinnerung an den Sieg über Napoleon in Waterloo geändert. Die Friedenssäule wurde nur zwanzig Jahre später in der Mitte des Platzes errichtet und die Landschaftsgestaltung vom Direktor des königlichen Gartens Lenné übernommen. Der Platz blieb zunächst unverändert, bis mit dem Abriss der Akzisemauer 1879 und mit der späteren Erschließung durch die Eisenbahn und die U-Bahn das Erscheinungsbild des Platzes stark verändert wurde. Der Belle-Alliance-Platz wurde im II. Weltkrieg stark zerstört und unmittelbar danach in Mehringplatz (nach Franz Mehring) umbenannt. ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/19061207_berlin_belle_alliance_platz.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "",
+                "tags": [
+                    "Architektur",
+                    "Kreativwirtschaft",
+                    "Ortsname",
+                    "Geschichte "
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [],
+                "relationships": [
+                    "ca/mehringplatz#39",
+                    "ca/_das_rondell_#45"
+                ],
+                "created_date": "2019-11-21T11:11:07.402+00:00",
+                "updated_date": "2020-08-27T16:43:11.737+01:00",
+                "weight": -1,
+                "image_credit": "Wikimedia",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3918,
+                    52.499
+                ]
+            },
+            "id": "ca/belle_alliance_platz#40"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "KMA e.V.",
                 "type": "Organisation",
                 "start_date": "1987-03-13T00:00:00.000+00:00",
@@ -3312,6 +2367,951 @@
                 ]
             },
             "id": "ca/bauh_tte#16"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Projektgruppe am Ex-Blumenmarkt (PxB)",
+                "type": "Projekt",
+                "start_date": "2012-12-01T00:00:00.000+00:00",
+                "end_date": "2019-09-26T11:00:00.000+01:00",
+                "description": "Die Projektgruppe am Ex-Blumengroßmarkt (PxB) ist aus Berlins erstem konzeptbasierten Immobilienvergabeprozess hervorgegangen. Die Projektgruppe ist ein Zusammenschluss aus Architekt:innen und Planer:innen, die an der Entwicklung der Baustellen II, IV und V auf dem ehemaligen Blumengroßmarkt mitwirken. \nZiel der Projektgruppe ist es, mit der Nachbarschaft, dem Senat und dem Bezirk Friedrichshain-Kreuzberg im Dialog zu den jeweiligen Bauprojekten zu sein und so gemeinschaftlich über die künftige Nutzung zu entscheiden und diese modellhaft umzusetzen. Zu diesem Zweck haben sich die Bauherren in einem Standortentwicklungsvertrag verpflichtet gemeinsame Projekte zu organisieren und finanzieren.Die Preisentscheidung war im Dezember 2012. Mittlerweile ist die bauliche Entwicklung des Ex-Blumengroßmarktes größtenteils abgeschlossen.\n",
+                "image": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Privater Raum",
+                "tags": [],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "https://frizz23.com/en/",
+                        "title": "Frizz23 (Kreuzbergs Baugruppe für kulturelles Gewerbe) ",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.metropolenhaus.de/",
+                        "title": "Metropolenhaus",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.metropolenhaus.de/ex-blumengrossmarkt-pxb/",
+                        "title": "Projektgruppe am Ex-Blumengroßmarkt",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://selbstbaugenossenschaft.de/?page_id=129",
+                        "title": "IBeB",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/bauh_tte#16",
+                    "ca/taz_neubau#10",
+                    "ca/metropolenhaus_am_j_dischen_museum#19",
+                    "ca/ehemalige_blumengro_markthalle_#65"
+                ],
+                "created_date": "2019-09-26T11:29:19.999+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": -4,
+                "image_credit": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.394369,
+                            52.502299
+                        ],
+                        [
+                            13.394219,
+                            52.502345
+                        ],
+                        [
+                            13.392,
+                            52.502175
+                        ],
+                        [
+                            13.391914,
+                            52.502717
+                        ],
+                        [
+                            13.391271,
+                            52.502684
+                        ],
+                        [
+                            13.391163,
+                            52.503383
+                        ],
+                        [
+                            13.39304,
+                            52.503533
+                        ],
+                        [
+                            13.392986,
+                            52.503866
+                        ],
+                        [
+                            13.393801,
+                            52.503912
+                        ],
+                        [
+                            13.394948,
+                            52.503057
+                        ],
+                        [
+                            13.394637,
+                            52.502789
+                        ],
+                        [
+                            13.394455,
+                            52.502547
+                        ],
+                        [
+                            13.394369,
+                            52.502299
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+        }
+    ],
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Neubau Franz-Klühs-Straße 3-9",
+                "type": "",
+                "start_date": "2017-12-12T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "In der Franz-Klühs-Straße 3, 5, 7 und 9 wurde am 12. Dezember 2017 der Grundstein für einen Neubau gelegt. Im Auftrag der kommunalen Wohnungsbaugesellschaft GEWOBAG wird hier ein 7-geschossiges Gebäude entstehen, das Platz für Gewerbe und Mietwohnungen bietet. Die Hälfte der Wohnungen können von Personen mit einem Wohnberechtigungsschein (WBS) angemietet werden, allerdings sollen auch die anderen Wohnungen zu günstigen Mietpreisen vergeben werden. Das neu geschaffene Wohnangebot soll sich besonders an Familien und Einzelhaushalte richten, die an diesem Standort den größten Bedarf an Wohnraum hätten.\nQuelle: Gewobag; Berliner Woche.",
+                "image": "https://i.ibb.co/qMbtxBd/Franz-Kluehs-Nordansicht.jpg",
+                "category": "Orte",
+                "sub-category": "Wohnen/ Unterbringung",
+                "tags": [
+                    "Büro",
+                    "Wohnen"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://www.gewobag.de/bauen-in-berlin/bauprojekte/franz-kluehs-strasse-3-5-7-9/",
+                        "title": "Neubau Gewobag",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/gewobag#54",
+                    "ca/axel_springer_verlag_neubau#66",
+                    "ca/taz_neubau#10"
+                ],
+                "created_date": "2020-11-13T17:10:07.432+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "Gewobag",
+                "icon_css_class": ""
+            },
+            "id": "ca/neubau_franz_kl_hs_stra_e_3_9#91"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Baustadtrat Kreuzberg-Friedrichshain",
+                "type": "Interview",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2022-09-20T13:50:17.569+01:00",
+                "updated_date": "2022-09-20T13:50:33.502+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/baustadtrat_kreuzberg_friedrichshain#102"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Weltkrieg II - Luftangriff",
+                "type": "Veranstaltung",
+                "start_date": "1945-02-03T00:00:00.000+01:00",
+                "end_date": "1945-02-04T00:00:00.000+01:00",
+                "description": "Das Gebiet wurde im Zweiten Weltkrieg vollständig zerstört, insbesondere bei einem Luftangriff am 3. Februar 1945 und der darauffolgenden Schlacht um Berlin. Der Luftangriff führte zu einer fast vollständigen Zerstörung der Innenstadt, stark getroffen war das Regierungsviertel nahe der Wilhelmstraße. Aufgrund des Luftangriffes wurden über 120.000 Menschen obdachlos, knapp 2.300 Gebäude wurden vollständig zerstört und weitere etwa 900 Gebäuden waren schwer beschädigt. Viele der zerstörten Häuser wurden aufgrund der Einsturzgefahr evakuiert. Der Belle Alliance Platz ist völlig zerstört und wird für die nächsten 20 Jahre ein leeres Grundstück bleiben.",
+                "image": "https://www.welt.de/img/geschichte/zweiter-weltkrieg/mobile140131885/6362507847-ci102l-w1024/2-WK-Berlin-1945-Strassenkampf.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "",
+                "tags": [
+                    "Geschichte ",
+                    "Abriss"
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [],
+                "relationships": [
+                    "ca/belle_alliance_platz#40",
+                    "ca/mehringplatz#39"
+                ],
+                "created_date": "2019-12-05T17:40:58.990+00:00",
+                "updated_date": "2020-04-16T15:38:25.207+01:00",
+                "weight": 2,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/weltkrieg_ii_luftangriff#47"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Gewobag",
+                "type": "Organisation",
+                "start_date": "1919-05-14T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Die Gewobag ist ein kommunales Wohnungsunternehmen, das mit rund 62.000 Wohnungen über 100.000 Mieter:innen ein Zuhause in Berlin gibt. Durch das Bauen, Kaufen und Modernisieren von Wohnungen verfügt die Gewobag über ein großes Wohnungsangebot und setzt sich für eine vielfältige Mieter:innenschaft in Berlin und bezahlbaren Wohnraum ein. Am Mehringplatz besitzt die Gewobag aktuell ca. 1.300 Wohnungen; durch Zukauf und Neubau wird sich diese Kennzahl bald auf ca. 1.800 Wohnungen erhöhen.\nDie Gewobag arbeitet auch an innovativen Ideen zum Klimaschutz, wirtschaftlicher Effizienz (Ausstattung von 1.500 Gewerbeeinheiten) und sozialer Quartiersentwicklung durch die Stärkung des Zusammenhalts der Nachbarschaft. Dementsprechend übernimmt die Gewobag einige soziale Aktivitäten wie am Mehringplatz mit der Betreibung der \"Kiezstube\" oder den jährlich traditionellen Winter- und Sommerfesten, bei denen sich Bewohner:innen, Gewerbetreibende und Organisationen zum gemeinsamen Austausch treffen können. \nZudem steht ein Mieterbeirat den Bewohner:innen bei Fragen und Anregungen als Ansprechpartner zur Verfügung.    \n                                                                                                                                                 Quelle: https://www.gewobag.de  ",
+                "image": "https://i.ibb.co/5BTcBWJ/unternehmen-presseinformation-richtfest-mehringplatz-1140x760.jpg",
+                "category": "Akteur:innen",
+                "sub-category": "Developers and enterprises",
+                "tags": [
+                    "Wohnen"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [
+                    {
+                        "url": "https://www.gewobag.de",
+                        "title": "Gewobag",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.gewobag.de/ueber-uns/ueber-die-gewobag/historie/",
+                        "title": "Geschichte der Gewobag",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/kiezstube_mehringplatz#25",
+                    "ca/quartiersmanagement_am_mehringplatz_#14",
+                    "ca/mehringplatz#39"
+                ],
+                "created_date": "2020-01-18T17:44:19.885+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "Copyright: City-Press",
+                "icon_css_class": ""
+            },
+            "id": "ca/gewobag#54"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Florian Schmidt - Baustadtrat Friedrichshain-Kreuzberg",
+                "type": "Personen",
+                "start_date": "2016-12-01T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "Florian Schmidt ist ein deutscher Politiker (Bündnis 90/Die Grünen) und leitet seit Dezember 2016 als Bezirksstadtrat in Berlin-Friedrichshain-Kreuzberg die Abteilung Bauen, Planen und Facilitymanagement. In den vergangenen Jahren hat er die Stadtentwicklung Berlins entscheidend mitgeprägt: So hat er z.B. als Baustadtrat die LokalBau-Strategie des Bezirkes Friedrichshain-Kreuzberg etabliert. Ziel dieser Strategie ist es, dass Neubauprojekte gemeinwohlorientiert sind, d.h. dass sie sich an den Bedarfen der Nutzer:innen orientieren und die Angebote bezahlbar sind. Vor seiner Tätigkeit als Baustadtrat leitete Schmidt u.a. das Projektbüro \"Kreativquartier Südliche Friedrichstadt\" und koordinierte von 2011 bis 2016 die Initiative \"Stadt Neudenken\".                                                                                                                                                                                                                                                  Im Rahmen des EULER Erasmus+ Projektes wurde 2017 ein Videointerview mit Florian Schmidt geführt (s.o.). Für das Projekt wurden lokale soziale, wirtschaftliche und institutionelle Akteur:innen interviewt, um die vorhandenen Ressourcen und Potenziale der Südlichen Friedrichstadt zu eruieren.",
+                "image": "https://i.vimeocdn.com/video/669554989_520x294.jpg",
+                "category": "Akteur:innen",
+                "sub-category": "Verwaltung",
+                "tags": [
+                    "Stadtpolitik",
+                    "Stadterneuerung",
+                    "Kreativwirtschaft",
+                    "gemeinschaftlich"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/244994296",
+                        "title": "Interview mit Florian Schmidt 2017",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksamt/florian-schmidt/",
+                        "title": "Profil Schmidt Bezirksamt",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.berlin.de/lokalbau-fk/",
+                        "title": "LokalBau Strategie",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "",
+                    "ca/bauh_tte#16",
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+                    "ca/kreative_raumpioniere_am_mehringplatz#41"
+                ],
+                "created_date": "2020-02-26T08:51:13.578+00:00",
+                "updated_date": "2020-03-27T15:15:44.123+00:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "H-Town Tour",
+                "type": "Video",
+                "start_date": "2019-06-15T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "H-Town-Tour ist das visuelle Ergebnis der URBEX-Laboratorien mit Jugendlichen der KMA Antenne, einem von Tesserae koordinierten Ausbildungsprojekt in den Jahren 2018/2019. Dieses EU finanzierte Erasmus+Projekt förderte die Stadterkundung als ein Instrument für das Engagement von Jugendlichen, die von Benachteiligung und somit Ausgrenzung bedroht sind. \nDie Gruppe von Jugendlichen, die Teil der URBEX-Laboratorien waren, nahm zudem mit Teilnehmer:innen aus vier anderen europäischen Städten an einem internationalen Austauschprogramm teil. Dort arbeiteten sie u.a. an der Kartierung und Ausarbeitung einer Tour zur Beschreibung ihrer Nachbarschaft.",
+                "image": "https://i.vimeocdn.com/video/839359588_260x146.jpg",
+                "category": "Geschichten",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "soziale Inklusion",
+                    "mündliche Geschichten",
+                    "Öffentlicher Raum",
+                    "Jugend",
+                    "Musik"
+                ],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/showcase/4256854/video/350616264",
+                        "title": "H-Town Tour",
+                        "description": "",
+                        "type": "video"
+                    },
+                    {
+                        "url": "http://www.tesserae.eu/project/urbex/",
+                        "title": "URBEX",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/kma_e_v_#7",
+                    "ca/hasenpark#86"
+                ],
+                "created_date": "2020-03-03T14:16:13.705+00:00",
+                "updated_date": "2020-12-02T21:17:54.190+00:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/h_town_tour#56"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mehringplatz Ankipsen  Interviews",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "Diese Sammlung von Video präsentiert einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging, und sind derzeit mit neue Interviews integriert, die Tesserae im Rahmen der Projekte COMENSI und Cocreation erstellt.\nActivity",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-03-27T20:43:16.628+00:00",
+                "updated_date": "2020-03-27T20:56:18.302+00:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/mehringplatz_ankipsen_interviews#63"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mehringplatz Anknipsen Interviews",
+                "type": "Mediensammlung",
+                "start_date": "2017-05-05T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Diese Sammlung von Video präsentiert einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmusplus-Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging, und sind derzeit mit neue Interviews integriert, die Tesserae im Rahmen der Projekte COMENSI und Cocreation erstellt.\n",
+                "image": "https://i.ibb.co/XytyGBF/Screenshot-2020-03-27-at-22-05-16.png",
+                "category": "Geschichten",
+                "sub-category": "Interviews",
+                "tags": [],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/showcase/4678972",
+                        "title": "Stakeholders Interviews showcase",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/switch_on_mehringplatz#68",
+                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+                    "ca/karin_l_cker_caf_madame_#31",
+                    "ca/ela_kagel_supermarkt#13",
+                    "ca/candy_hartmann_quartiersmanagement_#32"
+                ],
+                "created_date": "2020-03-27T20:57:16.075+00:00",
+                "updated_date": "2020-05-14T14:59:04.348+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/mehringplatz_anknipsen_interviews#64"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Switch On Mehringplatz",
+                "type": "Projekt",
+                "start_date": "2016-09-01T00:00:00.000+01:00",
+                "end_date": "2017-06-30T00:00:00.000+01:00",
+                "description": "Switch On Mehringplatz / Mehringplatz Anknipsen ist ein Bildungsprojekt zur Aufwertung informellen Lernens, das auf Bottom-up-Ansätzen und aktivistischer Praxis beruht. Das Projekt zielte darauf ab, Werkzeuge und Fähigkeiten für Nachbarschaftsinitiativen zu entwickeln. Das Programm wurde koordiniert von Tesserae Urban Social Research und von dem Erasmus+ Projekt EULER unterstützt, das ein Bildungsangebot in vier benachteiligten Nachbarschaften in Europa ermöglicht hat. Das Projekt wurde von September 2016 - Juni 2017 durchgeführt. Im Rahmen dessen hat eine Reihe von weiterbildenden Aktivitäten zur Entwicklung von Methoden für Nachbarschaftsinitiativen stattgefunden: 6 öffentliche Veranstaltungen und 3 Workshop-Module zu kollaborativen Methoden für lokales Empowerment und gemeinschaftsorientierte Ökonomien. Die Seminare fanden im Supermarkt am Mehringplatz statt. Zielgruppe waren aktive Bürger:innen, Social Entrepreuneurs und Facilitators, die daran interessiert waren, einen gemeinsamen Aktionsrahmen im Kontext des Mehringplatzes/ Südliche Friedrichstadt zu entwickeln.\nZiele: Ein Instrumentarium und Methoden sollen bereitgestellt werden, um lokale Gemeinschaften zu ermächtigen, unternehmerische Fähigkeiten zu stärken und innovative wirtschaftliche Paradigmen zu fördern.\nTechniken: Urban Reconnaissance, Kollaboratives Mapping, Partizipative Videoproduktion, Digital Storytelling, Social Media Publishing.\nErgebnis: „Nachbarschaftscurriculum“. Ein innovatives Werkzeug, um lokale soziale Ressourcen aufzuwerten und zu fördern. Damit soll die Aufmerksamkeit weg vom individuellem Curriculum - gefordert von einem kompetitiven Arbeitsmarkt - hin zu einem kollaborativen Mapping von sozialen Beziehungen verschoben werden. Letzteres ist nötig, um gemeinschaftsorientierte Ökonomien und Initiativen entwickeln zu können. \nDer Nachbarschaftsatlas, den Sie gerade sehen, ist der nächste Schritt zur Umsetzung dieser Idee. \n\n",
+                "image": "https://i.ibb.co/23W5dH6/mehringplatz-01-mehringplatz-A2-03-768x1086-1-724x1024.jpg",
+                "category": "Initiativen",
+                "sub-category": "Bildung",
+                "tags": [
+                    "soziale Inklusion",
+                    "Medien",
+                    "Ausbildung"
+                ],
+                "category-description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
+                "links": [
+                    {
+                        "url": "http://www.tesserae.eu/project/euler/",
+                        "title": "Switch on Mehringplatz",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/supermarkt#12",
+                    "ca/ela_kagel_supermarkt#13",
+                    "ca/mehringplatz_anknipsen_interviews#64"
+                ],
+                "created_date": "2020-04-09T22:36:06.733+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "graphic project: Manuela Conti",
+                "icon_css_class": ""
+            },
+            "id": "ca/switch_on_mehringplatz#68"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sammlung “Mehringplatz Urban Sketches” ",
+                "type": "Projekt",
+                "start_date": "2017-09-09T00:00:00.000+01:00",
+                "end_date": "2017-09-09T00:00:00.000+01:00",
+                "description": "Urban Sketches ist eine Serie von kurzen Video-Postkarten zum Mehringplatz. Diese audiovisuellen Arbeiten wurden von den Teilnehmer:innen des EULER-Labors “ Mehringplatz Anknipsen” im Jahr 2017 erstellt. Die Teilnehmer:innen und Autor:innen der Arbeiten experimentierten mit Videos mit einem einfach zugänglichen Format, um  ihre Eindrücke und Beobachtungen festzuhalten oder eine Geschichte über die lokale Identität des Gebietes zu erzählen. Diese Videos ergänzen die bereits bestehende Sammlung historischer sowie analytischer Dokumente und bieten neue persönliche Interpretationen zum sozialräumlichen Umfeld des Mehringplatzes.\n",
+                "image": "https://i.ibb.co/tPDDXhw/US5-copia.jpg",
+                "category": "Geschichten",
+                "sub-category": "Urban Sketch ",
+                "tags": [
+                    "Kunst",
+                    "Medien",
+                    "mündliche Geschichten"
+                ],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/226707117",
+                        "title": "Urban Sketches: Development, Who Is It For",
+                        "description": "",
+                        "type": "video"
+                    },
+                    {
+                        "url": "https://vimeo.com/showcase/4678967",
+                        "title": "Urban Sketches: Alienation",
+                        "description": "",
+                        "type": "video"
+                    },
+                    {
+                        "url": "https://vimeo.com/showcase/4678967/video/225375320",
+                        "title": "Urban Sketches: Viktoria Versicherung",
+                        "description": "",
+                        "type": "video"
+                    },
+                    {
+                        "url": "https://vimeo.com/showcase/4678967/video/230890049",
+                        "title": "Urban Sketches: Places for all time",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/tesserae#69",
+                    "ca/switch_on_mehringplatz#68",
+                    "ca/urban_sketches_development_who_is_it_for#33",
+                    "ca/urban_sketches_places_for_all_times#34",
+                    "ca/urban_sketches_victoria_versicherung#35",
+                    "ca/urban_sketches_alienation#36"
+                ],
+                "created_date": "2020-04-22T11:24:03.685+01:00",
+                "updated_date": "2020-12-03T18:40:47.314+00:00",
+                "weight": 0,
+                "image_credit": "Tesserae",
+                "icon_css_class": ""
+            },
+            "id": "ca/sammlung_mehringplatz_urban_sketches_#70"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Adalbert von Chemisso Gedenktafel",
+                "type": "Monument",
+                "start_date": "1822-04-30T00:00:00.000-00:01",
+                "end_date": "1838-08-21T00:00:00.000-00:01",
+                "description": "Diese Granittafel mit \"Bron?ze-Medail?lon-Por?trät\" befand sich bis zum Abriss des Hauses 1909 \"in der Mit?tel?nische des ersten Stock?werks\" und wurde dann im Märki?schen Mu?seum auf?be?wahrt.  Cha?misso verließ Frankreich mit seiner Familie während der Revolu?tion und lebte seit 1796 in Berlin. Er fand zunächst eine An?stel?lung am Hofe, war dann bis 1808 im preu?ßischen Militär. Er wirkte als Schrift?stel?ler (\"Peter Schle?mihls wun?dersame Ge?schichte\", 1814), Dich?ter und Naturforscher, wurde 1819 - nach einer drei?jäh?rigen For?schungs?weltreise - Kustos am Botani?schen Garten, 1835 Mitglied der Akademie der Wissenschaf?ten. Seine Grabstät?te befindet sich auf dem Friedhof III der Jeru?salems- und Neuen Kirchen-Gemeinde, Kreuzberg, Mehring?damm/ Blücherstra?ße, Abt. 3/1 38/1 ( Eh?rengrab).",
+                "image": "https://trello-attachments.s3.amazonaws.com/5e49b10b4b8dc84e5d00ffa0/5eab09bac4be1c6e0b5b61eb/9b5b02b5eb684e20acb4f966f2976f1d/IMG_8275.jpeg",
+                "category": "Erinnerungen",
+                "sub-category": "Gedenk- oder Informationstafeln",
+                "tags": [
+                    "Kultur",
+                    "Geschichte "
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-04-30T18:08:27.275+01:00",
+                "updated_date": "2022-09-20T13:38:58.219+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/adalbert_von_chemisso_gedenktafel#72"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Querformat-b Verein für Kunst und Kultur",
+                "type": "Organisation",
+                "start_date": "1987-01-01T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "Querformat-b ist ein gemeinnütziger Verein für Kunst und Kultur, der 1987 von Künstler:innen, Kunstpädagog:innen und Architekt:innen gegründet wurde. Sitz des Vereins ist das Kulturzentrum Statthaus Böcklerpark im Bezirk Friedrichshain-Kreuzberg. Von 1987 bis 2009 führte der Verein Querformat-b einmal jährlich die juryfreie Kunst- und Verkaufsausstellung QUERSCHNITT durch. Querformat plant und realisiert künstlerische Projekte und Ausstellungen im Bereich der Soziokultur, einem ausdifferenzierten kulturellen Praxisfeld außerhalb der etablierten Kunst, im Überschneidungsbereich von Bildender Kunst, Bildungsarbeit und Auseinandersetzung mit dem Menschen.\n2019 erschien die Publikation MAPPING QUERFORMAT-B 30 JAHRE VEREIN FÜR KUNST UND KULTUR im Verlag der Buchhandlung Walther König, gefördert von der Senatsverwaltung für Bildung, Jugend und Wissenschaft.\n",
+                "image": "https://i.ibb.co/hdTwMxB/guppe-querformat-b.png",
+                "category": "Akteur:innen",
+                "sub-category": "Vereine/ NGO",
+                "tags": [
+                    "Kultur",
+                    "Kunst",
+                    "Plattform"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [],
+                "relationships": [
+                    "ca/36x_kreuzberg_memoryspiel#76"
+                ],
+                "created_date": "2020-05-29T16:07:19.744+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "Querformat-b",
+                "icon_css_class": ""
+            },
+            "id": "ca/querformat_b_verein_f_r_kunst_und_kultur#75"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "36x Kreuzberg - Memoryspiel",
+                "type": "Projekt",
+                "start_date": "",
+                "end_date": "",
+                "description": "36 x Kreuzberg - Memory-Spiel mit subjektiven Wahrzeichen\nEin Projekt im öffentlichen Raum von Querformat-b e.V.\nDie Memorykarte zeigt den ehemaligen Belle-Alliance-Platz um 1730 und ist eine von 36 Memorykarten, die im Rahmen von Stadtspaziergängen durch Kreuzberg entstanden sind. Gesellschaftliche Prozesse wie Globalisierung, Migration, verschwindender Raum und das Entstehen neuer Räume wurden durch Fotos und Skizzen dokumentiert. In einer künstlerischen Werkstatt entstand 36 x Kreuzberg, realisiert vom Verein Querformat-b.",
+                "image": "https://i.ibb.co/PNL2VQ7/mehringplatz-ehemaliger-belle-alliance-platz-2.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Öffentlicher Raum",
+                "tags": [
+                    "Kunst",
+                    "Öffentlicher Raum",
+                    "Geschichte ",
+                    "Kreativwirtschaft"
+                ],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [],
+                "relationships": [
+                    "ca/querformat_b_verein_f_r_kunst_und_kultur#75"
+                ],
+                "created_date": "2020-06-04T16:41:02.021+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "Querformat-b",
+                "icon_css_class": ""
+            },
+            "id": "ca/36x_kreuzberg_memoryspiel#76"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "IBA",
+                "type": "Programm",
+                "start_date": "1979-08-21T00:00:00.000+01:00",
+                "end_date": "1987-08-21T00:00:00.000+01:00",
+                "description": "1979 begann der Prozess für eine neue Internationale Bauausstellung in Berlin (IBA). Der Berliner Senat ernannte den Architekten Josef Paul Kleihues zum Direktor, der eine Reihe internationaler Architekten einlud, Projekte für Berlin zu entwerfen. Die Ausstellung gliederte sich in zwei unterschiedliche thematische Bereiche: \"Kritische Rekonstruktion\" und \"Behutsame Stadterneuerung\". Die Friedrichstadt ist eines der Hauptinteressensgebiete für Neubauten, die sich vor allem durch das Konzept der Rückkehr zu traditionellen Stilen und Typologien auszeichnen. Dieses Konzept inspirierte auch weitgehend das Planwerk Innestadt unter der Leitung von Senatsbaudirektor Hans Stimman. Die eigentlichen Arbeiten begannen 1984, und die Ausstellung wurde 1987 eröffnet. ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Stamps_of_Germany_%28Berlin%29_1987%2C_MiNr_785.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "Architektur ",
+                "tags": [
+                    "Architektur",
+                    "Stadterneuerung",
+                    "Stadtpolitik",
+                    "Urbanität"
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://www.bauwelt.de/themen/IBA-87-und-die-Folgen-25-Jahre-Internationale-Bauausstellung-Berlin-2102918.html",
+                        "title": "Bauwelt: IBA 87 und die Folgen",
+                        "description": "",
+                        "type": "document"
+                    },
+                    {
+                        "url": "https://de.wikipedia.org/wiki/Internationale_Bauausstellung_1987",
+                        "title": "Wikipedia page",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/kreuzberg_tower#81"
+                ],
+                "created_date": "2020-08-21T14:39:20.018+01:00",
+                "updated_date": "2020-08-25T13:18:24.004+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/iba#80"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Candy Hartmann - Quartiersmanagement ",
+                "type": "Interview",
+                "start_date": "2017-08-14T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Candy Hartmann arbeitet seit vielen Jahren für das Quartiersmanagement am Mehringplatz, wo sie u.a. für die Konzeptentwicklung und die Begleitung von Projektfonds zuständig ist.\nIm Rahmen des EULER Erasmus+ Projektes wurde 2017 ein Videointerview mit Candy Hartmann geführt (s.o.). Für das Projekt wurden lokale soziale, wirtschaftliche und institutionelle Akteur:innen interviewt, um die vorhandenen Ressourcen und Potenziale der Südlichen Friedrichstadt zu eruieren.",
+                "image": "https://i.vimeocdn.com/video/669555605_260x146.jpg",
+                "category": "Akteur:innen",
+                "sub-category": "Stakeholder interviews",
+                "tags": [
+                    "Quartiersmanagement",
+                    "Stadterneuerung",
+                    "soziale Inklusion"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [
+                    {
+                        "url": "://vimeo.com/230981438",
+                        "title": "Interview mit Candy Hartmann 2017",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/quartiersmanagement_am_mehringplatz_#14",
+                    "",
+                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+                    "ca/kunstwelt_e_v_#48",
+                    "ca/mehringplatz_anknipsen_interviews#64"
+                ],
+                "created_date": "2019-11-01T18:26:35.150+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/candy_hartmann_quartiersmanagement_#32"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urban Sketches: Development, Who Is It For",
+                "type": "Video",
+                "start_date": "2017-07-07T00:00:00.000+01:00",
+                "end_date": "2017-07-07T00:00:00.000+01:00",
+                "description": "Die Autorin dieses Urban Sketches erzählt von Schwierigkeiten, denen einige Mieter:innen und Ladenbesitzer:innen am Mehringplatz gegenüberstehen und von Maßnahmen, die sie bezüglich der Entwicklung der Nachbarschaft ergreifen. \nAutorin: Nathalie Bekdache\nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms",
+                "image": "https://i.vimeocdn.com/video/646399950.jpg",
+                "category": "Geschichten",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "Stadterneuerung",
+                    "mündliche Geschichten",
+                    "soziale Inklusion"
+                ],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/manage/226707117/general",
+                        "title": "Urban Sketches",
+                        "description": "Urban Sketches is a series of short video postcards from Mehringplatz",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/sammlung_mehringplatz_urban_sketches_#70",
+                    "ca/urban_sketches_alienation#36",
+                    "ca/urban_sketches_victoria_versicherung#35",
+                    "ca/urban_sketches_places_for_all_times#34"
+                ],
+                "created_date": "2019-11-07T15:23:13.358+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "Nathalie Bekdache",
+                "icon_css_class": ""
+            },
+            "id": "ca/urban_sketches_development_who_is_it_for#33"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urban Sketches: Places for all times",
+                "type": "Video",
+                "start_date": "2017-07-01T00:00:00.000+01:00",
+                "end_date": "2017-07-01T00:00:00.000+01:00",
+                "description": "Die Autorin dieses Urban Sketches erkundet die Straßen der Südlichen Friedrichstadt und zeigt dabei die Bedeutung der städtischen Infrastruktur auf, die uns täglich umgibt.\nAutorin: Rasha Kanjarawi \nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms",
+                "image": "https://i.vimeocdn.com/video/651562520.jpg",
+                "category": "Geschichten",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "Öffentlicher Raum",
+                    "Kultur",
+                    "soziale Inklusion",
+                    "mündliche Geschichten"
+                ],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/showcase/4678967/video/230890049",
+                        "title": "Urban Sketches",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/sammlung_mehringplatz_urban_sketches_#70",
+                    "ca/urban_sketches_alienation#36",
+                    "ca/urban_sketches_victoria_versicherung#35",
+                    "ca/urban_sketches_development_who_is_it_for#33"
+                ],
+                "created_date": "2019-11-09T10:27:23.642+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "Rasha Kanjarawi ",
+                "icon_css_class": ""
+            },
+            "id": "ca/urban_sketches_places_for_all_times#34"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urban Sketches: Alienation",
+                "type": "Video",
+                "start_date": "2017-09-09T00:00:00.000+01:00",
+                "end_date": "2017-09-09T00:00:00.000+01:00",
+                "description": "Der Mehringplatz ist ein zentrales Gebiet in Berlin, an dem viele erstaunliche und eher untypische Orte zusammenkommen. Der Autor dieses Urban Sketches zeigt einige dieser Orte, die oft leer stehen, und fragt sich, welche Bedeutung die Bewohner:innen ihnen beimessen.       \nAutor: Alessandro De Simone\nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms",
+                "image": "https://i.vimeocdn.com/video/651039369.jpg",
+                "category": "Geschichten",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "Öffentlicher Raum",
+                    "Medien"
+                ],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/230464313",
+                        "title": "Urban Sketches: Alienation",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/urban_sketches_development_who_is_it_for#33",
+                    "ca/urban_sketches_places_for_all_times#34",
+                    "ca/urban_sketches_victoria_versicherung#35"
+                ],
+                "created_date": "2019-11-09T11:07:33.603+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "Alessandro De Simone",
+                "icon_css_class": ""
+            },
+            "id": "ca/urban_sketches_alienation#36"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Kreative Raumpioniere am Mehringplatz",
+                "type": "Projekt",
+                "start_date": "2009-02-25T00:00:00.000+00:00",
+                "end_date": "2011-01-26T00:00:00.000+00:00",
+                "description": "Die Projektstudie „Kreative Raumpioniere am Mehringplatz“ geht aus dem Leitbildprozess “Kreativquartier Südliche Friedrichstadt” hervor, der mit Unterstützung der bezirklichen Wirtschaftsförderung von Friedrichshain-Kreuzberg in den Jahren 2009 und 2010 durchgeführt wurde. Beauftragt wurde die Projektstudie von der Wohnungsbaugesellschaft GEWOBAG. \nZiele der Projektstudie „Kreative Raumpioniere am Mehringplatz“ sind: 1. Die Schaffung von Wirkungsräumen für Kreativwirtschaft, Kultur und impulsgebendem Gewerbe 2. Förderung von sozialer Vielfalt und Nutzungsvielfalt im Sozialraum Mehringplatz 3. Etablierung von Begegnungsorten zwischen Kreativwirtschaft und Bewohner:innen.",
+                "image": "https://i.ibb.co/sQJbBbz/Kreativ-quartier.png",
+                "category": "Visionen",
+                "sub-category": "Study",
+                "tags": [
+                    "Stadterneuerung",
+                    "soziale Inklusion",
+                    "Kunst",
+                    "Kultur",
+                    "Kreativwirtschaft"
+                ],
+                "category-description": "Ideen und Ansätze zur Weiterentwicklung des Gebietes",
+                "links": [
+                    {
+                        "url": "http://kreativ-quartier-berlin.de/Raumpioniere_web.pdf",
+                        "title": "Projektstudie kreative Raumpioniere am Mehringplatz",
+                        "description": "",
+                        "type": "document"
+                    }
+                ],
+                "relationships": [
+                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+                    "ca/quartiersmanagement_am_mehringplatz_#14",
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+                    "",
+                    "ca/ehemalige_blumengro_markthalle_#65"
+                ],
+                "created_date": "2019-11-21T11:30:20.027+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "Urbanitas  - Projektbüro Kreativquartier S[dliche Friedrichstadt, Berlin 2011",
+                "icon_css_class": ""
+            },
+            "id": "ca/kreative_raumpioniere_am_mehringplatz#41"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Gründung Friedrichstadt ",
+                "type": "Veranstaltung",
+                "start_date": "1691-11-23T00:00:00.000-00:01",
+                "end_date": "",
+                "description": "Im Jahr 1688 gründete König Friedrich I. - seinen Namen zur Vorbild nehmend - Friedrichstadt. Geplant und baulich realisiert wurde Friedrichstadt nach schachbrettartigem System und wies somit klare Strukturen auf. Nur drei Jahre nach der Gründung erhielt Friedrichstadt bereits das Stadtrecht.",
+                "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/FriedrichstadtEarlyStreetPlan.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "",
+                "tags": [
+                    "Ortsname",
+                    "Geschichte ",
+                    "Urbanität"
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-11-22T11:36:17.608+00:00",
+                "updated_date": "2019-12-17T00:14:29.989+00:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/gr_ndung_friedrichstadt_#42"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Eingemeindung Friedrichstadt ",
+                "type": "Veranstaltung",
+                "start_date": "1709-12-11T00:00:00.000-00:01",
+                "end_date": "",
+                "description": "Im Jahr 1709 wird die Eingemeindung von Friedrichstadt in die Stadt Berlin verordnet und im darauffolgenden Jahr umgesetzt. Seitdem ist die Friedrichstadt als fester Stadtteil in der Hauptstadt integriert.\n",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Map_de_berlin_1710.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [],
+                "relationships": [
+                    "ca/gr_ndung_friedrichstadt_#42"
+                ],
+                "created_date": "2019-11-23T11:48:48.433+00:00",
+                "updated_date": "2020-01-24T15:52:15.086+00:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/eingemeindung_friedrichstadt_#44"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "\"Das Rondell\"",
+                "type": "Ort",
+                "start_date": "1730-02-01T00:00:00.000-00:01",
+                "end_date": "1945-01-01T00:00:00.000+01:00",
+                "description": "In der ersten Hälfte des 18. Jahrhunderts wuchs Berlin rasant. Die Stadt wurde vergrößert und neue Stadttore wurden gebaut. Eines dieser Tore war das Hallesche Tor. Um 1730 - unter König Friedrich Wilhelm I. von Preußen - wurden drei neue repräsentative Plätze vor drei wichtigen Stadttoren erbaut, die zunächst nach ihrer Form benannt wurden: \"Karree\" für den Pariser Platz, \"Oktogon\" für den Leipziger Platz sowie \"Rondell\" für den Mehringplatz. Dieser als \"Rondell\" bekannte Platz war vom Stadtmodell der Piazza del Popolo in Rom inspiriert und war von zweistöckigen Bürgerhäusern umgeben.                                                                                 ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mehringplatz_um1730.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://www.stadtentwicklung.berlin.de/denkmal/liste_karte_datenbank/de/denkmaldatenbank/daobj.php?obj_dok_nr=09097784",
+                        "title": "Historie Mehringplatz",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/belle_alliance_platz#40",
+                    "ca/mehringplatz#39",
+                    "ca/weltkrieg_ii_luftangriff#47"
+                ],
+                "created_date": "2019-11-23T12:19:54.664+00:00",
+                "updated_date": "2020-04-16T15:22:24.218+01:00",
+                "weight": 0,
+                "image_credit": "https://de.wikipedia.org/wiki/Mehringplatz#/media/Datei:Mehringplatz_um1730.jpg",
+                "icon_css_class": ""
+            },
+            "id": "ca/_das_rondell_#45"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
+                "type": "Organisation",
+                "start_date": "",
+                "end_date": "",
+                "description": "Advisory and exchange committee between the local authority and other stakeholders.\nInfluencing important decision-making processes and goals of redevelopment. In particular:\n- information and advice on construction measures to be developed and implemented with funding for urban regeneration to improve public infrastructure and public space;\n- participation in the design of concepts and formulation and modification of reconstruction targets structure.\nIt consists of: Territorial Representation and the employees of the District and Senate Administration responsible for the redevelopment area and their representatives. Aditionally, the Quartiersmanagement of Mehringplatz and Gewobag take part of the advisory council.",
+                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/01/logo_SanSF_mHintergrundklein.png",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/der-sanierungsbeirat/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/quartiersmanagement_am_mehringplatz_#14"
+                ],
+                "created_date": "2019-09-26T14:24:58.508+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
         }
     ],
     "properties": {
@@ -3320,7 +3320,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2023-07-20T10:20:46.355Z",
+        "published": "2023-07-20T14:00:47.487Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -3330,7 +3330,7 @@
                 "type": "translation"
             }
         ],
-        "version": 135,
+        "version": 136,
         "taxonomy": [
             {
                 "category": "Gebiet",
@@ -3433,6 +3433,22 @@
     },
     "relationships": [
         {
+            "from": "ca/parkhaus_franz_kl_hs_stra_e_wilhelmstra_e#83",
+            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "from": "ca/parkhaus_franz_kl_hs_stra_e_wilhelmstra_e#83",
+            "to": "ca/urban_sketches_alienation#36"
+        },
+        {
+            "from": "ca/hallesches_tor#87",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/hallesches_tor#87",
+            "to": "ca/belle_alliance_platz#40"
+        },
+        {
             "from": "ca/theodor_wolff_park#93",
             "to": "ca/besselpark_sanierung#11"
         },
@@ -3459,6 +3475,78 @@
         {
             "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
             "to": "ca/taz_neubau#10"
+        },
+        {
+            "from": "ca/weltkrieg_ii_luftangriff#47",
+            "to": "ca/belle_alliance_platz#40"
+        },
+        {
+            "from": "ca/weltkrieg_ii_luftangriff#47",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/friedrichstadt_#50",
+            "to": "ca/gr_ndung_friedrichstadt_#42"
+        },
+        {
+            "from": "ca/friedrichstadt_#50",
+            "to": "ca/eingemeindung_friedrichstadt_#44"
+        },
+        {
+            "from": "ca/repair_cafe_#52",
+            "to": "ca/kiezstube_mehringplatz#25"
+        },
+        {
+            "from": "ca/gewobag#54",
+            "to": "ca/kiezstube_mehringplatz#25"
+        },
+        {
+            "from": "ca/gewobag#54",
+            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
+            "from": "ca/gewobag#54",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+            "to": ""
+        },
+        {
+            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+            "to": "ca/bauh_tte#16"
+        },
+        {
+            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+        },
+        {
+            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+        },
+        {
+            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+            "to": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
+        },
+        {
+            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+            "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
+        },
+        {
+            "from": "ca/h_town_tour#56",
+            "to": "ca/kma_e_v_#7"
+        },
+        {
+            "from": "ca/h_town_tour#56",
+            "to": "ca/hasenpark#86"
+        },
+        {
+            "from": "ca/kmantenne#59",
+            "to": "ca/kma_e_v_#7"
+        },
+        {
+            "from": "ca/neubau_der_zlb_am_bl_cherplatz#60",
+            "to": "ca/amerika_gedenkbibliothek#30"
         },
         {
             "from": "ca/mehringplatz_im_umbau_#62",
@@ -3593,174 +3681,6 @@
             "to": "ca/kreuzberg_tower#81"
         },
         {
-            "from": "ca/parkhaus_franz_kl_hs_stra_e_wilhelmstra_e#83",
-            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
-        },
-        {
-            "from": "ca/parkhaus_franz_kl_hs_stra_e_wilhelmstra_e#83",
-            "to": "ca/urban_sketches_alienation#36"
-        },
-        {
-            "from": "ca/hallesches_tor#87",
-            "to": "ca/mehringplatz#39"
-        },
-        {
-            "from": "ca/hallesches_tor#87",
-            "to": "ca/belle_alliance_platz#40"
-        },
-        {
-            "from": "ca/mehringplatz#39",
-            "to": "ca/_das_rondell_#45"
-        },
-        {
-            "from": "ca/mehringplatz#39",
-            "to": ""
-        },
-        {
-            "from": "ca/mehringplatz#39",
-            "to": "ca/kiezstube_mehringplatz#25"
-        },
-        {
-            "from": "ca/mehringplatz#39",
-            "to": "ca/caf_madame#26"
-        },
-        {
-            "from": "ca/belle_alliance_platz#40",
-            "to": "ca/mehringplatz#39"
-        },
-        {
-            "from": "ca/belle_alliance_platz#40",
-            "to": "ca/_das_rondell_#45"
-        },
-        {
-            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
-        },
-        {
-            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
-        },
-        {
-            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
-        },
-        {
-            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": ""
-        },
-        {
-            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "ca/ehemalige_blumengro_markthalle_#65"
-        },
-        {
-            "from": "ca/eingemeindung_friedrichstadt_#44",
-            "to": "ca/gr_ndung_friedrichstadt_#42"
-        },
-        {
-            "from": "ca/_das_rondell_#45",
-            "to": "ca/belle_alliance_platz#40"
-        },
-        {
-            "from": "ca/_das_rondell_#45",
-            "to": "ca/mehringplatz#39"
-        },
-        {
-            "from": "ca/_das_rondell_#45",
-            "to": "ca/weltkrieg_ii_luftangriff#47"
-        },
-        {
-            "from": "ca/weltkrieg_ii_luftangriff#47",
-            "to": "ca/belle_alliance_platz#40"
-        },
-        {
-            "from": "ca/weltkrieg_ii_luftangriff#47",
-            "to": "ca/mehringplatz#39"
-        },
-        {
-            "from": "ca/friedrichstadt_#50",
-            "to": "ca/gr_ndung_friedrichstadt_#42"
-        },
-        {
-            "from": "ca/friedrichstadt_#50",
-            "to": "ca/eingemeindung_friedrichstadt_#44"
-        },
-        {
-            "from": "ca/repair_cafe_#52",
-            "to": "ca/kiezstube_mehringplatz#25"
-        },
-        {
-            "from": "ca/gewobag#54",
-            "to": "ca/kiezstube_mehringplatz#25"
-        },
-        {
-            "from": "ca/gewobag#54",
-            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
-        },
-        {
-            "from": "ca/gewobag#54",
-            "to": "ca/mehringplatz#39"
-        },
-        {
-            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
-            "to": ""
-        },
-        {
-            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
-            "to": "ca/bauh_tte#16"
-        },
-        {
-            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
-            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
-        },
-        {
-            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
-            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
-        },
-        {
-            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
-            "to": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
-        },
-        {
-            "from": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
-            "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
-        },
-        {
-            "from": "ca/h_town_tour#56",
-            "to": "ca/kma_e_v_#7"
-        },
-        {
-            "from": "ca/h_town_tour#56",
-            "to": "ca/hasenpark#86"
-        },
-        {
-            "from": "ca/kmantenne#59",
-            "to": "ca/kma_e_v_#7"
-        },
-        {
-            "from": "ca/neubau_der_zlb_am_bl_cherplatz#60",
-            "to": "ca/amerika_gedenkbibliothek#30"
-        },
-        {
-            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-            "to": "ca/bauh_tte#16"
-        },
-        {
-            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-            "to": "ca/taz_neubau#10"
-        },
-        {
-            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-            "to": "ca/metropolenhaus_am_j_dischen_museum#19"
-        },
-        {
-            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-            "to": "ca/ehemalige_blumengro_markthalle_#65"
-        },
-        {
-            "from": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
-            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
-        },
-        {
             "from": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
             "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
         },
@@ -3905,6 +3825,66 @@
             "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
         },
         {
+            "from": "ca/mehringplatz#39",
+            "to": "ca/_das_rondell_#45"
+        },
+        {
+            "from": "ca/mehringplatz#39",
+            "to": ""
+        },
+        {
+            "from": "ca/mehringplatz#39",
+            "to": "ca/kiezstube_mehringplatz#25"
+        },
+        {
+            "from": "ca/mehringplatz#39",
+            "to": "ca/caf_madame#26"
+        },
+        {
+            "from": "ca/belle_alliance_platz#40",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/belle_alliance_platz#40",
+            "to": "ca/_das_rondell_#45"
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": ""
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "ca/ehemalige_blumengro_markthalle_#65"
+        },
+        {
+            "from": "ca/eingemeindung_friedrichstadt_#44",
+            "to": "ca/gr_ndung_friedrichstadt_#42"
+        },
+        {
+            "from": "ca/_das_rondell_#45",
+            "to": "ca/belle_alliance_platz#40"
+        },
+        {
+            "from": "ca/_das_rondell_#45",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/_das_rondell_#45",
+            "to": "ca/weltkrieg_ii_luftangriff#47"
+        },
+        {
             "from": "ca/kma_e_v_#7",
             "to": "ca/kmantenne#59"
         },
@@ -3935,6 +3915,26 @@
         {
             "from": "ca/bauh_tte#16",
             "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+        },
+        {
+            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+            "to": "ca/bauh_tte#16"
+        },
+        {
+            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+            "to": "ca/taz_neubau#10"
+        },
+        {
+            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+            "to": "ca/metropolenhaus_am_j_dischen_museum#19"
+        },
+        {
+            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+            "to": "ca/ehemalige_blumengro_markthalle_#65"
+        },
+        {
+            "from": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
         }
     ]
 }

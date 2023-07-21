@@ -1,5 +1,802 @@
 {
     "type": "FeatureCollection",
+    "nonGeoFeatures": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "International Building Exhibition (IBA) ",
+                "type": "Project",
+                "start_date": "",
+                "end_date": "",
+                "description": "In 1979, the process for a new International Building Exhibition in Berlin (IBA) began. The Berlin Senate appointed the architect Josef Paul Kleihues as director, who invited a number of international architects to design projects for Berlin. The exhibition was divided into two different thematic areas: \"Critical Reconstruction\" and \"Urban Repair\". Südliche Friedrichstadt is one of the main areas of interest for some interventions of the IBA plan with the realisation some iconic residential architectures by Hadjuk, Aldo Rossi among others, characterised above all by the concept of a return to traditional styles and typologies. This concept also largely inspired the Planwerk Innestadt under the direction of Senate Building Director Hans Stimman. The work began in 1984 and the exhibition opened in 1987. ",
+                "image": "https://api.architectuul.org/media/5caae68a-045c-4fec-b6b1-2df56d7b5e1b/1312x.jpg",
+                "category": "Memories",
+                "sub-category": "Architecture ",
+                "tags": [],
+                "category-description": "Document of material and immaterial heritage",
+                "links": [],
+                "relationships": [],
+                "created_date": "2023-07-20T12:17:59.735+01:00",
+                "updated_date": "2023-07-20T15:00:09.725+01:00",
+                "weight": 0,
+                "image_credit": "IBAwebsite"
+            },
+            "id": "mehringplatz-community-atlas/international_building_exhibition_iba_#69"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urban Sketches: Alienation",
+                "type": "Video",
+                "start_date": "2017-09-09T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Urban Sketches is a series of short video postcards from Mehringplatz. These audiovisual fragments are realised by the participants to the EULER - Mehringplatz Anknipsen laboratory in 2017. They experiment a simple and accessible format to capture an impression, report an observation or tell a story about the local identity. Complementing the collection of historical and analytical materials, they provide a layer of personal interpretation to the representation of the socio-spatial milieu.\n",
+                "image": "https://i.vimeocdn.com/video/651039369.jpg",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "Public space",
+                    "Psychogeography"
+                ],
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/230464313",
+                        "title": "Urban Sketches",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-11-09T11:07:33.603+00:00",
+                "updated_date": "2019-11-25T12:59:00.005+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/urban_sketches_alienation#36"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Belle Alliance Platz",
+                "type": "Place",
+                "start_date": "1815-11-21T00:00:00.000-00:01",
+                "end_date": "1945-02-03T00:00:00.000+01:00",
+                "description": "The circus/round plaza is renamed Belle-Alliance-Platz after the Battle of Waterloo, when English and Prussian  defeated Napoleon's army, June, 18th, 1815. “Belle-Alliance” was another name used to recall this battle, from the name of the inn where the two winning generals previously met.",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/800px-Berlin_Friedenssaeule.jpg",
+                "category": "Memories",
+                "sub-category": "",
+                "tags": [
+                    "architecture",
+                    "Creative industries",
+                    "toponyms",
+                    "history"
+                ],
+                "category-description": "Document of material and immaterial heritage",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/mehringplatz#39"
+                ],
+                "created_date": "2019-11-21T11:11:07.402+00:00",
+                "updated_date": "2019-12-05T17:40:32.587+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/belle_alliance_platz#40"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Kreative Raumpioniere am Mehringplatz",
+                "type": "Project",
+                "start_date": "",
+                "end_date": "",
+                "description": " In 2009 the study Kreative Raumpionere am Mehringplatz is commissioned by GeWoBag to the firm Urbanitas to develop a strategy to support the settlement of cultural actors and creative industries in the area. The study is lead by Florian Schmidt, who will later become Baustadtrat (Coucillor for Urban Development) of Friedrichshain-Kreuzberg. ",
+                "image": "https://taz.de/picture/304920/624/Kreativquartier_aktuell_WEB.jpg",
+                "category": "Visions",
+                "sub-category": "",
+                "tags": [
+                    "Urban regeneration",
+                    "social inclusion",
+                    "art",
+                    "culture",
+                    "Creative industries"
+                ],
+                "category-description": "Visions for transformation, unrealised projects and proposed hypothesis - representing alternative realities of the area",
+                "links": [
+                    {
+                        "url": "http://kreativ-quartier-berlin.de/Raumpioniere_web.pdf",
+                        "title": "",
+                        "description": "",
+                        "type": "document"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
+                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
+                ],
+                "created_date": "2019-11-21T11:30:20.027+00:00",
+                "updated_date": "2019-11-25T12:59:00.005+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Friedrichstadt Foundation",
+                "type": "Event",
+                "start_date": "1691-11-23T00:00:00.000-00:01",
+                "end_date": "",
+                "description": "Friedrichstadt is founded as independent city and suburb of Berlin",
+                "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/FriedrichstadtEarlyStreetPlan.jpg",
+                "category": "Memories",
+                "sub-category": "",
+                "tags": [
+                    "toponyms",
+                    "history",
+                    "urbanism"
+                ],
+                "category-description": "Document of material and immaterial heritage",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-11-22T11:36:17.608+00:00",
+                "updated_date": "2019-11-25T12:59:00.005+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/friedrichstadt_foundation#42"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Friedrichstadt Incorporation",
+                "type": "Event",
+                "start_date": "1709-12-11T00:00:00.000-00:01",
+                "end_date": "",
+                "description": "in 1709 is decreed and in  1710 happens the  effectively incorporation of the Friedrichstadt in the city of Berlin. The town is then integrated in the city as a district.",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Map_de_berlin_1710.jpg",
+                "category": "Memories",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Document of material and immaterial heritage",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/friedrichstadt_foundation#42"
+                ],
+                "created_date": "2019-11-23T11:48:48.433+00:00",
+                "updated_date": "2019-12-11T18:27:57.773+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/friedrichstadt_incorporation#44"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Die Rondell",
+                "type": "Place",
+                "start_date": "1720-11-23T00:00:00.000-00:01",
+                "end_date": "1815-11-23T00:00:00.000-00:01",
+                "description": "Originally named Rondell for its circular shape, this baroque square  was s laid out and completed around 1720 inspired by the urban model od piazza del Popolo in Rome. It is realized in the context of the city's extension under King Frederick William I of Prussia, along with Pariser Platz (former Karree) and Leipziger Platz (Octagon), as southern end of the Friedrichstraße. ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mehringplatz_um1730.jpg",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2019-11-23T12:19:54.664+00:00",
+                "updated_date": "2019-12-05T17:40:37.514+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/die_rondell#45"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "WWII Air raid",
+                "type": "Event",
+                "start_date": "1945-03-03T00:00:00.000+01:00",
+                "end_date": "",
+                "description": " The area was completely devastated in World War Two, particularly in an air raid on 3 February 1945 and the Battle of Berlin which followed. The air raid produced the almost total destruction of the inner city, in particular in the proximities of the Regierungsviertel (Government district) on the Wilhelmstraße, leaving more than 120,000 homeless people, 2,296 totally destroyed buildings, 909 heavy damaged, 3,606 moderately and slightly damaged buildings, 22,519 destroyed homes, and 27,017 apartments evacuated due to the risk of collapse. Belle Alliance Platz is totally destroyed and will remain an empty lot for the following 20 years. ",
+                "image": "https://www.welt.de/img/geschichte/zweiter-weltkrieg/mobile140131885/6362507847-ci102l-w1024/2-WK-Berlin-1945-Strassenkampf.jpg",
+                "category": "Memories",
+                "sub-category": "",
+                "tags": [
+                    "history",
+                    "demolition"
+                ],
+                "category-description": "Document of material and immaterial heritage",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/belle_alliance_platz#40",
+                    "mehringplatz-community-atlas/mehringplatz#39"
+                ],
+                "created_date": "2019-12-05T17:40:58.990+00:00",
+                "updated_date": "2019-12-05T19:41:14.873+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/wwii_air_raid#47"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Kunstwelt e.V.",
+                "type": "Organization",
+                "start_date": "",
+                "end_date": "",
+                "description": "Founded in 1999 the non-profit organization Kunstwelt Berlin develops public forums and hosts cultural events. Since 2005 it is in charge of the Quartiersmanagement ( Neighbourhood Management) at Mehringplatz, Berlin.\nMajor activities of this organization include art projects such as THE PATH OF VISIONARIES, symbol of European Unity In the pedestrian area of Friedrichstraße 27, and THE BERLIN ORACLE as well as the EUROPAFESTIVAL - BERLIN. ",
+                "image": "data:image/jpeg;base64,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",
+                "category": "Stakeholders",
+                "sub-category": "NGO/Social work",
+                "tags": [
+                    "art",
+                    "culture",
+                    "quartiersmanagement"
+                ],
+                "category-description": "Formal and informal actors in the area",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14",
+                    "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
+                ],
+                "created_date": "2019-12-08T17:29:03.261+00:00",
+                "updated_date": "2023-07-20T11:41:43.513+01:00",
+                "weight": 0,
+                "image_credit": "Kunstwelt Berlin website"
+            },
+            "id": "mehringplatz-community-atlas/kunstwelt_e_v_#48"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Baustadtrat Kreuzberg-Friedrichshain ",
+                "type": "Interview",
+                "start_date": "2017-09-14T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Florian Schmidt is the Councillor for urban affairs of the Keuzberg- Friedrchshain district of Berlin. This video is part of a set of interviews to social, economic and institutional stakeholders of the Südliche Friedrichstadt realised in 2017 for the Switch On Mehringplatz.  Here he tells us about his background as an activist and an urban practitioner with Urbanitas, and his role in developing the early concept for the Südliche Friedrichstadt as a creative district.",
+                "image": "https://i.vimeocdn.com/video/669554989_130x73.jpg",
+                "category": "Narratives",
+                "sub-category": "Interviews",
+                "tags": [
+                    "Urban Policy",
+                    "Urban regeneration",
+                    "Creative industries"
+                ],
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/244994296",
+                        "title": "Bezirksstadtrat Kreuzberg-Friedrichshain",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41",
+                    "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+                    "mehringplatz-community-atlas/erz_hlcaf_#18"
+                ],
+                "created_date": "2020-03-10T16:15:21.139+00:00",
+                "updated_date": "2022-09-20T13:48:50.854+01:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/baustadtrat_kreuzberg_friedrichshain_#53"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "H-Town Tour",
+                "type": "Video",
+                "start_date": "2019-06-15T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "H-Town tour is the final product of the URBEX laboratory with the youths of the KMA Antenne, a training project coordinated by Tesserae in 2018/2019. This EU funded Erasmus+ promoted urban exploration as a tool for the engagement of youths at risk of exclusion. The group of youngsters frequenting the KMA youth center participated to an activity of  international exchange together with participants form other 4 European cities, and worked on  mapping and designing a tour describing their neigbourhood.",
+                "image": "https://i.vimeocdn.com/video/839359588_260x146.jpg",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "youths",
+                    "social inclusion",
+                    "Public space",
+                    "oral history",
+                    "Psychogeography"
+                ],
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/showcase/4256854/video/350616264",
+                        "title": "H-Town Tour",
+                        "description": "",
+                        "type": "video"
+                    },
+                    {
+                        "url": "http://www.tesserae.eu/project/urbex/",
+                        "title": "URBEX",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/kma_antenne#7"
+                ],
+                "created_date": "2020-03-13T15:47:34.776+00:00",
+                "updated_date": "2020-03-13T16:07:03.216+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/h_town_tour#54"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Tesserae",
+                "type": "Organization",
+                "start_date": "2011-11-21T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "Tesseræ is a platform connecting critical multidisciplinary research, education, art, communication and project development in urban, territorial and social fields. Based in Berlin, Tesseræ works with local communities, independent and non-profit organisations, as well as local, national and European institutions.",
+                "image": "https://i.ibb.co/J5wCP95/TESSERAE-LOGO-WEB.jpg",
+                "category": "Stakeholders",
+                "sub-category": "Associations /NGO",
+                "tags": [],
+                "category-description": "Formal and informal actors in the area",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-03-27T18:31:40.650+00:00",
+                "updated_date": "2023-07-19T16:48:22.544+01:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/tesserae#56"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "\"Das Rondell\"",
+                "type": "Place",
+                "start_date": "1730-02-01T00:00:00.000-00:01",
+                "end_date": "1945-01-01T00:00:00.000+01:00",
+                "description": "Berlin grew rapidly in the first half of the 18th century. The city was enlarged and new city gates were built. One of these gates was the Halle Gate. Around 1730 - under King Frederick William I of Prussia - three new representative squares were built in front of three important city gates, which were initially named after their shape: \"Karree\" for Pariser Platz, \"Oktogon\" for Leipziger Platz and \"Rondell\" for Mehringplatz. This square, known as the \"Rondell\", was inspired by the city model of the Piazza del Popolo in Rome and was surrounded by two-storey town houses.                                                                                 ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mehringplatz_um1730.jpg",
+                "category": "Memories",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Document of material and immaterial heritage",
+                "links": [
+                    {
+                        "url": "https://www.stadtentwicklung.berlin.de/denkmal/liste_karte_datenbank/de/denkmaldatenbank/daobj.php?obj_dok_nr=09097784",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/belle_alliance_platz#40",
+                    "mehringplatz-community-atlas/mehringplatz#39",
+                    "mehringplatz-community-atlas/weltkrieg_ii_luftangriff#60"
+                ],
+                "created_date": "2022-09-19T16:45:40.573+01:00",
+                "updated_date": "2022-09-19T16:48:35.964+01:00",
+                "weight": 0,
+                "image_credit": "https://de.wikipedia.org/wiki/Mehringplatz#/media/Datei:Mehringplatz_um1730.jpg"
+            },
+            "id": "mehringplatz-community-atlas/_das_rondell_#59"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Weltkrieg II - Luftangriff",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2022-09-19T16:48:30.978+01:00",
+                "updated_date": "2022-09-19T16:48:31.235+01:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/weltkrieg_ii_luftangriff#60"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "36x Kreuzberg - Memoryspiel",
+                "type": "Project",
+                "start_date": "",
+                "end_date": "",
+                "description": "36 x Kreuzberg - Memory game with subjective landmarks\nA project in public space by Querformat-b e.V.\nThe memory map shows the former Belle Alliance Square around 1730 and is one of 36 memory maps created during city walks through Kreuzberg. Social processes such as globalisation, migration, disappearing space and the emergence of new spaces were documented through photos and sketches. 36 x Kreuzberg was created in an artistic workshop, realised by the association Querformat-b.",
+                "image": "https://i.ibb.co/PNL2VQ7/mehringplatz-ehemaliger-belle-alliance-platz-2.jpg",
+                "category": "Transformations",
+                "sub-category": "Public space",
+                "tags": [
+                    "art",
+                    "Public space",
+                    "history"
+                ],
+                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": [],
+                "relationships": [
+                    "mehringplatz-community-atlas/querformat_b_verein_f_r_kunst_und_kultur#62"
+                ],
+                "created_date": "2022-09-19T16:50:38.196+01:00",
+                "updated_date": "2022-09-19T16:54:06.051+01:00",
+                "weight": 0,
+                "image_credit": "Querformat-b"
+            },
+            "id": "mehringplatz-community-atlas/36x_kreuzberg_memoryspiel#61"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Querformat-b Verein für Kunst und Kultur",
+                "type": "Organization",
+                "start_date": "1987-01-01T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "Querformat-b is a non-profit association for art and culture founded in 1987 by artists, art teachers and architects. The association is based in the cultural centre Statthaus Böcklerpark in the district of Friedrichshain-Kreuzberg. From 1987 to 2009, the association Querformat-b held the jury-free art and sales exhibition QUERSCHNITT once a year. Querformat plans and realises artistic projects and exhibitions in the field of socio-culture, a differentiated field of cultural practice outside of established art, in the overlapping area of visual arts, educational work and engagement with people.\nIn 2019, the publication MAPPING QUERFORMAT-B 30 JAHRE VEREIN FÜR KUNST UND KULTUR was published by Buchhandlung Walther König, funded by the Senate Department for Education, Youth and Science.",
+                "image": "https://i.ibb.co/hdTwMxB/guppe-querformat-b.png",
+                "category": "Stakeholders",
+                "sub-category": "Associations /NGO",
+                "tags": [
+                    "culture",
+                    "art",
+                    "platform"
+                ],
+                "category-description": "Formal and informal actors in the area",
+                "links": [
+                    {
+                        "url": "36x Kreuzberg - Memoryspiel",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2022-09-19T16:54:04.703+01:00",
+                "updated_date": "2022-09-19T17:02:08.245+01:00",
+                "weight": 0,
+                "image_credit": "Querformat-b"
+            },
+            "id": "mehringplatz-community-atlas/querformat_b_verein_f_r_kunst_und_kultur#62"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Adalbert von Chemisso Gedenktafel",
+                "type": "Monument",
+                "start_date": "1822-04-30T00:00:00.000-00:01",
+                "end_date": "1838-08-21T00:00:00.000-00:01",
+                "description": "This granite plaque with a \"bronze medal\" was located \"in the centre alcove of the first floor\" until the house was demolished in 1909 and was then preserved in the Märki?sches Mu?seum.  Cha?misso left France with his family during the revolution and lived in Berlin from 1796. He first found employment at court, then served in the Prussian military until 1808. He worked as a writer (\"Peter Schle?mihls wun?dersame Ge?schichte\", 1814), poet and naturalist, becoming curator of the Botanical Garden in 1819 - after a three-year research trip around the world - and a member of the Academy of Sciences in 1835. His grave is located in Cemetery III of the Jeru?salems and Neue Kirchen-Gemeinde, Kreuzberg, Mehring?damm/ Blücherstra?ße, Dept. 3/1 38/1 (matrimonial grave).",
+                "image": "https://trello-attachments.s3.amazonaws.com/5e49b10b4b8dc84e5d00ffa0/5eab09bac4be1c6e0b5b61eb/9b5b02b5eb684e20acb4f966f2976f1d/IMG_8275.jpeg",
+                "category": "Memories",
+                "sub-category": "Statues",
+                "tags": [
+                    "culture",
+                    "history"
+                ],
+                "category-description": "Document of material and immaterial heritage",
+                "links": [],
+                "relationships": [],
+                "created_date": "2022-09-20T13:35:26.379+01:00",
+                "updated_date": "2022-09-20T13:45:02.694+01:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/adalbert_von_chemisso_gedenktafel#63"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Bauhütte",
+                "type": "Building",
+                "start_date": "2015-05-01T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "In 2015 a temporary architecture, the Bauhütte (literally “construction hut”) has been created with a combination of private and public funds to act as an interface between established citizens and the incoming inhabitants / stakeholders, hosting among other the meetings of the Sanierungsbeirat (regeneration advisory board). A temporary structure built to facilitate the social integration of the new development projects of the Baufeld program. The construction field development on the former flower wholesale market relies on participation. In the center of the site was placed the Bauhütte, a 60-square-meter project space, where the threads of the discussion about public participation, urban politics and architecture, youth and education converge. Here, residents, construction workers and architects, future users and builders meet at eye level to discuss on temporary use and trade development. So a small house makes a big contribution to the social cohesion of the people in the neighborhood. They get to know each other and can benefit from each other. For two years, it it has worked as a civil society platform in the middle of the construction site between Friedrichstraße and the Jewish Museum. In summer 2019 the structure has been relocated to a new location next to the TAZ new building, surrounded by a new community garden. ",
+                "image": "https://i.ibb.co/pJ4HtCY/SWITCH-ON-MEHRINGPLATZ-45-copia.jpg",
+                "category": "Transformations",
+                "sub-category": "Private spaces common oriented",
+                "tags": [
+                    "culture",
+                    "commons",
+                    "social inclusion",
+                    "temporary structure",
+                    "gardening"
+                ],
+                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": [
+                    {
+                        "url": "http://www.bauhuette-berlin.de",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
+                ],
+                "created_date": "2019-09-26T11:07:19.608+01:00",
+                "updated_date": "2023-07-21T14:35:07.829+01:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/bauh_tte#16"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Projektgruppe X Blumenmarkt",
+                "type": "Program",
+                "start_date": "2012-09-26T11:00:00.000+01:00",
+                "end_date": "2019-09-26T11:00:00.000+01:00",
+                "description": "The ex-Blumengroßmarkt project group (PxB) emerged from Berlin's first concept-based real estate allocation process. It is an amalgamation of the three assembly groups and planning teams who initiated the projects on the construction sites II, IV and V at the former flower wholesale market and will realise these in three different development models.\nSince the award decision in December 2012, all three project teams have been working together to implement their respective building projects in a model-like way in dialogue with the neighbourhood, the district and the Senate and the users.",
+                "image": "https://pxb.ag/images/intro.jpg",
+                "category": "Transformations",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": [
+                    {
+                        "url": "https://pxb.ag",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/bauh_tte#16",
+                    "mehringplatz-community-atlas/taz_neubau#10",
+                    "mehringplatz-community-atlas/erz_hlcaf_#18"
+                ],
+                "created_date": "2019-09-26T11:29:19.999+01:00",
+                "updated_date": "2022-06-29T08:36:44.166+01:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Erzählcafè",
+                "type": "Event",
+                "start_date": "2016-09-26T00:00:00.000+01:00",
+                "end_date": "2017-09-26T00:00:00.000+01:00",
+                "description": "A series of meetings with informed citizens and long time residents telling their stories and experience of the area of the Südliche Friedrichstadt. Part of the activities to facilitate the integration  of the new developments of the PXB plan realised at the Bauhütte in 2017",
+                "image": "https://irp-cdn.multiscreensite.com/5c373733/dms3rep/multi/desktop/ada347df5f334c2a9696b92b4f7851b6-420x595.dm.edit_KyaLZO.jpg",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "oral history",
+                    "events",
+                    "culture",
+                    "social inclusion"
+                ],
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "http://www.bauhuette-berlin.de/blog",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
+                    "mehringplatz-community-atlas/bauh_tte#16"
+                ],
+                "created_date": "2019-09-26T11:56:46.512+01:00",
+                "updated_date": "2019-11-25T12:59:00.005+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/erz_hlcaf_#18"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
+                "type": "Organization",
+                "start_date": "",
+                "end_date": "",
+                "description": "Advisory and exchange committee between the local authority and other stakeholders.\nInfluencing important decision-making processes and goals of redevelopment. In particular:\n- information and advice on construction measures to be developed and implemented with funding for urban regeneration to improve public infrastructure and public space;\n- participation in the design of concepts and formulation and modification of reconstruction targets structure.\nIt consists of: Territorial Representation and the employees of the District and Senate Administration responsible for the redevelopment area and their representatives. Aditionally, the Quartiersmanagement of Mehringplatz and Gewobag take part of the advisory council.",
+                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/01/logo_SanSF_mHintergrundklein.png",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/der-sanierungsbeirat/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
+                ],
+                "created_date": "2019-09-26T14:24:58.508+01:00",
+                "updated_date": "2022-06-29T08:36:44.166+01:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "GEWOBAG",
+                "type": "Organization",
+                "start_date": "1919-05-01T21:00:00.000+01:00",
+                "end_date": "",
+                "description": "One of the six municipal housing companies in Berlin. On behalf of the State of Berlin, Gewobag pursues the goal of providing affordable housing for large population and increasing municipal housing stock. With over 62,000 apartments and more than 100,000 tenants, the Gewobag portfolio is the size of a medium-sized city - and it continues to grow. Gewobag is the main real estate owner of Mehringplatz",
+                "image": "https://www.gewobag.de/wp-content/themes/gewobag/assets/svg/gewobag-logo.svg",
+                "category": "Stakeholders",
+                "sub-category": "Developers and enterprises",
+                "tags": [
+                    "architecture"
+                ],
+                "category-description": "Formal and informal actors in the area",
+                "links": [
+                    {
+                        "url": "https://www.gewobag.de",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-09-26T21:52:54.348+01:00",
+                "updated_date": "2019-11-25T12:59:00.005+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/gewobag#23"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urban Sketches: Development, Who Is It For",
+                "type": "Video",
+                "start_date": "2017-07-07T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "The narrative looks into the vulnerability and protection schemes affecting existing tenants and shop owners in Mehringplatz through a personal point of view account, contextualising the interest in the subject and also draws on a third party's knowledge and opinion on this question. \nScript Nathalie Bekdache\nEdited by oginoknauss\nImages from the Mehringplatz Memory Card set\nUrban Sketches is a series of short video postcards from Mehringplatz.\nThese audiovisual fragments are realised by the participants to the EULER - Mehringplatz Anknipsen laboratory in 2017. They experiment a simple and accessible format to capture an impression, report an observation or tell a story about the local identity. Complementing the collection of historical and analytical materials, they provide a layer of personal interpretation to the representation of the socio-spatial milieu.",
+                "image": "https://i.vimeocdn.com/video/646399950.jpg",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "Urban regeneration",
+                    "oral history",
+                    "social inclusion"
+                ],
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/manage/226707117/general",
+                        "title": "Urban Sketches",
+                        "description": "Urban Sketches is a series of short video postcards from Mehringplatz",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-11-07T15:23:13.358+00:00",
+                "updated_date": "2022-06-29T08:36:44.166+01:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/urban_sketches_development_who_is_it_for#33"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Urban Sketches: Places for all times",
+                "type": "Video",
+                "start_date": "",
+                "end_date": "",
+                "description": "Things worth noticing in the ordinary city.\nby Rasha Kanjarawi \nرشا قنجراوي\nUrban Sketches is a series of short video postcards from Mehringplatz.\nThese audiovisual fragments are realised by the participants to the EULER - Mehringplatz Anknipsen laboratory in 2017. They experiment a simple and accessible format to capture an impression, report an observation or tell a story about the local identity. Complementing the collection of historical and analytical materials, they provide a layer of personal interpretation to the representation of the socio-spatial milieu.\n",
+                "image": "https://i.vimeocdn.com/video/651562520.jpg",
+                "category": "Narratives",
+                "sub-category": "Place narratives ",
+                "tags": [
+                    "Public space",
+                    "culture",
+                    "social inclusion",
+                    "oral history"
+                ],
+                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/230890049",
+                        "title": "Urban Sketches",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-11-09T10:27:23.642+00:00",
+                "updated_date": "2022-06-29T08:36:44.166+01:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/urban_sketches_places_for_all_times#34"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "New building of the ZLB at Blücherplatz",
+                "type": "Project",
+                "start_date": "2017-06-01T00:00:00.000+01:00",
+                "end_date": "2026-01-01T00:00:00.000+00:00",
+                "description": "The Central and Regional Library Berlin (ZLB) is currently spread over three locations in the city. Therefore, the spatial conditions for users and staff are currently not ideal. In June 2018, after an intensive examination of different locations, the Berlin Senate decided to build the ZLB at Blücherplatz. In addition to the existing Amerika-Gedenkbibliothek (AGB), the new ZLB will require further building sections and will change the urban development of Blücherplatz. To this end, the complex traffic situation in the surrounding area, including Blücherstraße, is also being investigated. In autumn 2019 to spring 2020, a dialogue process \"urban planning feasibility study ZLB am Blücherplatz\" was conducted. Here, urban planners, architects, landscape planners, traffic planners, librarians and citizens discussed with each other how the new building can fit in well on the site at the AGB. Special attention was paid to how to deal with the Amerika-Gedenkbibliothek monument, the green space at Blücherplatz and the complex traffic situation, as well as Blücherstraße. The findings form the basis for the further planning of the new building and the outdoor facilities.\nOnce the examination of the programme of requirements has been completed, the general conditions, requirements and also an initial cost framework for the new ZLB building project will be established. On this basis, the preparations for the architectural competition will begin. A project will then be selected so that construction can begin in 2026.",
+                "image": "https://i.ibb.co/6v5WFZ6/Interaktive-Wand-2.jpg",
+                "category": "Transformations",
+                "sub-category": "",
+                "tags": [
+                    "social inclusion",
+                    "Public space"
+                ],
+                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": [
+                    {
+                        "url": "https://www.zlb.de/ueber-uns/projekte/neubauprojekt/aktuelles.html?d=0",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/zlb_amerika_gedenkbibliothek#30"
+                ],
+                "created_date": "2023-07-19T12:40:12.197+01:00",
+                "updated_date": "2023-07-21T14:11:04.412+01:00",
+                "weight": 0,
+                "image_credit": "ZLB"
+            },
+            "id": "mehringplatz-community-atlas/new_building_of_the_zlb_at_bl_cherplatz#67"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Hedwig Dohm Gedenktafel",
+                "type": "Monument",
+                "start_date": "",
+                "end_date": "",
+                "description": "Marianne Adelaide Hedwig Dohm  (20 September 1831 – 1 June 1919) was a German feminist, and author. She was one of the first feminist thinkers. She lived in this house until 1851.",
+                "image": "https://www.gedenktafeln-in-berlin.de/typo3temp/pics/Gedenktafel_Friedrichstr_235__Kreuz__Hed_ed79a9fe12.jpg",
+                "category": "Memories",
+                "sub-category": "Plaques/Information displays",
+                "tags": [
+                    "feminism",
+                    "culture"
+                ],
+                "category-description": "Document of material and immaterial heritage",
+                "links": [
+                    {
+                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/gedenktafel-anzeige/tid/konzentrationslager/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-09-25T15:58:48.148+01:00",
+                "updated_date": "2020-03-25T17:59:08.535+00:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "id": "mehringplatz-community-atlas/hedwig_dohm_gedenktafel#9"
+        }
+    ],
     "features": [
         {
             "type": "Feature",
@@ -96,6 +893,179 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Impact Hub",
+                "type": "Place",
+                "start_date": "2017-01-01T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "The \"Impact Hub Berlin\" is a co-working space at Mehringplatz and a place of social innovation. This space is created to help local individuals transform their innovative ideas into sustainable projects. As a member of the largest global network for social innovation (more than 90 hubs in 54 countries around the world), the Impact Hub team advises, trains and promotes the exchange of people with each other, so that their community currently comprises 17,000 members.",
+                "image": "https://berlin.impacthub.net/wp-content/uploads/2018/05/DSC_2255-e1526304748259.jpg",
+                "category": "Stakeholders",
+                "sub-category": "Creative industries",
+                "tags": [
+                    "office",
+                    "Creative industries",
+                    "platform"
+                ],
+                "category-description": "Formal and informal actors in the area",
+                "links": [],
+                "relationships": [],
+                "created_date": "2023-07-21T14:02:39.221+01:00",
+                "updated_date": "2023-07-21T14:05:14.660+01:00",
+                "weight": 0,
+                "image_credit": "Berlin Impact Hub"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3914,
+                    52.5001
+                ]
+            },
+            "id": "mehringplatz-community-atlas/impact_hub#70"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Milieuschutzgebiet - Soziales Erhaltungsgebiet Südliche Friedrichstadt",
+                "type": "Program",
+                "start_date": "2017-05-01T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Since  2017 the Südlche Friedrichsstadt is inscribed in the program  of the City of Berlin for the protection of the social composition of a neighbourhood,  the Soziales Erhaltungsgebiet.  Referred to in the media as “Milieuschutzgebiete“ (social environment protection areas), these are legally established areas for preserving the composition of the resident population from displacement and expulsion connected with urban regeneration. As of January 2019, there are a total of 57 social conservation areas in Berlin. In the Südliche Freidrichsstadt it is established by a recent deliberation on the same area of the Sanierungsgebiet.\nLegal basis\nThe legal basis is Art. 172 Federal Building Code (BauGB). Extracts:\n• In a development plan or other statutes, the municipality may designate areas in which the demolition, alteration or change of use of building structures first requires official approval with the aim of maintaining the social composition of the resident population.\n• The state governments shall be authorised to determine, by statutory order with a maximum validity of five years, that the establishment of condominium ownership or partial ownership (Art. 1, German Condominium Act) of buildings intended to serve residential purposes may not take place in whole or in part without prior authorisation for plots in areas located within the scope of a statute in accordance with Sentence 1 (2).\n",
+                "image": "https://i.ibb.co/hgkZv1p/Milieuschutzgebiet-SF.png",
+                "category": "Delimitations",
+                "sub-category": "social policy",
+                "tags": [
+                    "social inclusion",
+                    "Urban regeneration",
+                    "urbanism",
+                    "Urban Policy",
+                    "heritage"
+                ],
+                "category-description": "An area of interest or defining administrative borders or policies",
+                "links": [
+                    {
+                        "url": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/gruppe-infrastruktur-und-staedtebaufoerderung/aktuelles/suedliche-friedrichstadt-erhaltungsgebiet-gem-172-abs-1-nr-2-baugb-milieuschutz-600453.php",
+                        "title": "Ordnance of the Municipality",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
+                ],
+                "created_date": "2019-11-20T18:18:28.481+00:00",
+                "updated_date": "2022-06-29T08:36:44.166+01:00",
+                "weight": 0,
+                "image_credit": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.388535,
+                            52.49415
+                        ],
+                        [
+                            13.395292,
+                            52.494459
+                        ],
+                        [
+                            13.395058,
+                            52.496312
+                        ],
+                        [
+                            13.396425,
+                            52.495979
+                        ],
+                        [
+                            13.396972,
+                            52.496692
+                        ],
+                        [
+                            13.395175,
+                            52.497
+                        ],
+                        [
+                            13.395917,
+                            52.49833
+                        ],
+                        [
+                            13.395761,
+                            52.498995
+                        ],
+                        [
+                            13.396503,
+                            52.49928
+                        ],
+                        [
+                            13.399511,
+                            52.504672
+                        ],
+                        [
+                            13.396855,
+                            52.505526
+                        ],
+                        [
+                            13.395214,
+                            52.503294
+                        ],
+                        [
+                            13.39498,
+                            52.503508
+                        ],
+                        [
+                            13.394589,
+                            52.504861
+                        ],
+                        [
+                            13.39166,
+                            52.504529
+                        ],
+                        [
+                            13.391777,
+                            52.504292
+                        ],
+                        [
+                            13.390957,
+                            52.504173
+                        ],
+                        [
+                            13.390996,
+                            52.503175
+                        ],
+                        [
+                            13.388769,
+                            52.503128
+                        ],
+                        [
+                            13.385176,
+                            52.502297
+                        ],
+                        [
+                            13.389004,
+                            52.499138
+                        ],
+                        [
+                            13.389551,
+                            52.495623
+                        ],
+                        [
+                            13.388926,
+                            52.494269
+                        ],
+                        [
+                            13.388535,
+                            52.49415
+                        ]
+                    ]
+                ]
+            },
+            "id": "mehringplatz-community-atlas/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "GSW Tower",
                 "type": "Building",
                 "start_date": "1999-11-22T00:00:00.000+00:00",
@@ -185,7 +1155,7 @@
                 "end_date": "2017-12-08T00:00:00.000+00:00",
                 "description": "The Path of Visionaries (German: Pfad der Visionäre) is a city art project promoted by Kunstwelt. Intended as landmark and symbol of European unity in cooperation with the embassies of the European Union member states, it foresaw 27 illuminated floor displays with quotes by \"visionaires\" from each country. It has been under construction since 2006 until 2017 when the plaques already installed have been removed due works for the regeneration of the area dismantled. In 2022 the plaques were made visible again. In the spirit of its eventful history, Friedrichstraße in Berlin receives a cosmopolitan, unifying idea through the PATH OF VISIONARIES and the commitment of the participating states.",
                 "image": "",
-                "category": "Imaginations",
+                "category": "Visions",
                 "sub-category": "Project",
                 "tags": [
                     "art",
@@ -795,7 +1765,7 @@
                 "type": "Place",
                 "start_date": "2015-01-01T00:00:00.000+00:00",
                 "end_date": "",
-                "description": "The Kiezstube at Mehringplatz is a place for the neighborhood where everyone is welcome. Since 2015, it has offered a space for committed residents to meet, exchange ideas, cook together, celebrate parties, borrow books or take advantage of social counselling. The content should be based on neighbours' needs. Also, Kiezstube encourages community involvement in their district.\nInitially, the Kiezstube was managed by Die Globale e.V., which was taken over by Gewobag after the renovation of the premises in 2017. Gewobag currently operates ten neighbourhood rooms in various quarters of Berlin.\nIn 2018 after a closing due to several months of urgent renovation the Kiezstube was reopened for everyone who wants to make a difference in the neighborhood.",
+                "description": "The Kiezstube at Mehringplatz is a place for the neighborhood where everyone is welcome. Since 2015, it is a community canteen provided by the housing company Gewobag owning most of the property. It hosts the meetings of the council of inhabitants of the block of former social housing, together with being available to the citizens for social activities, courses, initiatives.The content should be based on neighbours' needs. Also, Kiezstube encourages community involvement in their district.\nInitially, the Kiezstube was managed by Die Globale e.V., which was taken over by Gewobag after the renovation of the premises in 2017. Gewobag currently operates ten neighbourhood rooms in various quarters of Berlin.\nIn 2018 after a closing due to several months of urgent renovation the Kiezstube was reopened for everyone who wants to make a difference in the neighborhood. ",
                 "image": "https://www.gewobag.de/wp-content/uploads/2019/11/mieter_service_kiezstube_ringslebenstr_header_1920x842px-1140x500.jpg",
                 "category": "Places",
                 "sub-category": "Community hub",
@@ -819,7 +1789,7 @@
                     "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
                 ],
                 "created_date": "2019-09-27T09:27:56.456+01:00",
-                "updated_date": "2023-07-19T16:37:04.673+01:00",
+                "updated_date": "2023-07-21T14:20:31.778+01:00",
                 "weight": 0,
                 "image_credit": "Gewobag website"
             },
@@ -835,11 +1805,11 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Café MaDaMe",
+                "title": "Café MadaMe",
                 "type": "Place",
                 "start_date": "",
                 "end_date": "",
-                "description": "Café that acts as a essential community hub in the neghibourhood. Cafe MaDaMe offers a range of gastronomic services, including a daily changing lunch menu, as well as various magazines on display, regular cultural events and the latest gossip from Mehringplatz. This is a place where ideas for Mehringplatz can be brought and discussed.",
+                "description": "Café MadaMe was born as an NGO providing social support and environmental education, but given its central position has become one of the key civic space of the neighbourhood. Cafe MaDaMe offers a range of gastronomic services, including a daily changing lunch menu, as well as various magazines on display, regular cultural events and the latest gossip from Mehringplatz. This is a place where ideas for Mehringplatz can be brought and discussed.",
                 "image": "https://s3-media0.fl.yelpcdn.com/bphoto/9de9wxcXUptzRALLdB7Z_A/o.jpg",
                 "category": "Places",
                 "sub-category": "Community hub",
@@ -854,7 +1824,7 @@
                     "mehringplatz-community-atlas/die_globale_e_v_#27"
                 ],
                 "created_date": "2019-09-27T09:50:32.870+01:00",
-                "updated_date": "2022-09-20T14:00:30.312+01:00",
+                "updated_date": "2023-07-21T14:17:18.146+01:00",
                 "weight": 0,
                 "image_credit": "https://www.yelp.de/biz_photos/caf%C3%A9-madame-berlin?select=9de9wxcXUptzRALLdB7Z_A"
             },
@@ -1075,146 +2045,6 @@
                 ]
             },
             "id": "mehringplatz-community-atlas/urban_sketches_victoria_versicherung#35"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Milieuschutzgebiet - Soziales Erhaltungsgebiet Südliche Friedrichstadt",
-                "type": "Program",
-                "start_date": "2017-05-01T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Since  2017 the Südlche Friedrichsstadt is inscribed in the program  of the City of Berlin for the protection of the social composition of a neighbourhood,  the Soziales Erhaltungsgebiet.  Referred to in the media as “Milieuschutzgebiete“ (social environment protection areas), these are legally established areas for preserving the composition of the resident population from displacement and expulsion connected with urban regeneration. As of January 2019, there are a total of 57 social conservation areas in Berlin. In the Südliche Freidrichsstadt it is established by a recent deliberation on the same area of the Sanierungsgebiet.\nLegal basis\nThe legal basis is Art. 172 Federal Building Code (BauGB). Extracts:\n• In a development plan or other statutes, the municipality may designate areas in which the demolition, alteration or change of use of building structures first requires official approval with the aim of maintaining the social composition of the resident population.\n• The state governments shall be authorised to determine, by statutory order with a maximum validity of five years, that the establishment of condominium ownership or partial ownership (Art. 1, German Condominium Act) of buildings intended to serve residential purposes may not take place in whole or in part without prior authorisation for plots in areas located within the scope of a statute in accordance with Sentence 1 (2).\n",
-                "image": "https://i.ibb.co/hgkZv1p/Milieuschutzgebiet-SF.png",
-                "category": "Delimitations",
-                "sub-category": "social policy",
-                "tags": [
-                    "social inclusion",
-                    "Urban regeneration",
-                    "urbanism",
-                    "Urban Policy",
-                    "heritage"
-                ],
-                "category-description": "An area of interest or defining administrative borders or policies",
-                "links": [
-                    {
-                        "url": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/gruppe-infrastruktur-und-staedtebaufoerderung/aktuelles/suedliche-friedrichstadt-erhaltungsgebiet-gem-172-abs-1-nr-2-baugb-milieuschutz-600453.php",
-                        "title": "Ordnance of the Municipality",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
-                ],
-                "created_date": "2019-11-20T18:18:28.481+00:00",
-                "updated_date": "2022-06-29T08:36:44.166+01:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.388535,
-                            52.49415
-                        ],
-                        [
-                            13.395292,
-                            52.494459
-                        ],
-                        [
-                            13.395058,
-                            52.496312
-                        ],
-                        [
-                            13.396425,
-                            52.495979
-                        ],
-                        [
-                            13.396972,
-                            52.496692
-                        ],
-                        [
-                            13.395175,
-                            52.497
-                        ],
-                        [
-                            13.395917,
-                            52.49833
-                        ],
-                        [
-                            13.395761,
-                            52.498995
-                        ],
-                        [
-                            13.396503,
-                            52.49928
-                        ],
-                        [
-                            13.399511,
-                            52.504672
-                        ],
-                        [
-                            13.396855,
-                            52.505526
-                        ],
-                        [
-                            13.395214,
-                            52.503294
-                        ],
-                        [
-                            13.39498,
-                            52.503508
-                        ],
-                        [
-                            13.394589,
-                            52.504861
-                        ],
-                        [
-                            13.39166,
-                            52.504529
-                        ],
-                        [
-                            13.391777,
-                            52.504292
-                        ],
-                        [
-                            13.390957,
-                            52.504173
-                        ],
-                        [
-                            13.390996,
-                            52.503175
-                        ],
-                        [
-                            13.388769,
-                            52.503128
-                        ],
-                        [
-                            13.385176,
-                            52.502297
-                        ],
-                        [
-                            13.389004,
-                            52.499138
-                        ],
-                        [
-                            13.389551,
-                            52.495623
-                        ],
-                        [
-                            13.388926,
-                            52.494269
-                        ],
-                        [
-                            13.388535,
-                            52.49415
-                        ]
-                    ]
-                ]
-            },
-            "id": "mehringplatz-community-atlas/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
         },
         {
             "type": "Feature",
@@ -1595,776 +2425,13 @@
             "id": "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
         }
     ],
-    "nonGeoFeatures": [
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "International Building Exhibition (IBA) ",
-                "type": "Project",
-                "start_date": "",
-                "end_date": "",
-                "description": "In 1979, the process for a new International Building Exhibition in Berlin (IBA) began. The Berlin Senate appointed the architect Josef Paul Kleihues as director, who invited a number of international architects to design projects for Berlin. The exhibition was divided into two different thematic areas: \"Critical Reconstruction\" and \"Urban Repair\". Südliche Friedrichstadt is one of the main areas of interest for some interventions of the IBA plan with the realisation some iconic residential architectures by Hadjuk, Aldo Rossi among others, characterised above all by the concept of a return to traditional styles and typologies. This concept also largely inspired the Planwerk Innestadt under the direction of Senate Building Director Hans Stimman. The work began in 1984 and the exhibition opened in 1987. ",
-                "image": "https://api.architectuul.org/media/5caae68a-045c-4fec-b6b1-2df56d7b5e1b/1312x.jpg",
-                "category": "Memories",
-                "sub-category": "Architecture ",
-                "tags": [],
-                "category-description": "Document of material and immaterial heritage",
-                "links": [],
-                "relationships": [],
-                "created_date": "2023-07-20T12:17:59.735+01:00",
-                "updated_date": "2023-07-20T15:00:09.725+01:00",
-                "weight": 0,
-                "image_credit": "IBAwebsite"
-            },
-            "id": "mehringplatz-community-atlas/international_building_exhibition_iba_#69"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Friedrichstadt Foundation",
-                "type": "Event",
-                "start_date": "1691-11-23T00:00:00.000-00:01",
-                "end_date": "",
-                "description": "Friedrichstadt is founded as independent city and suburb of Berlin",
-                "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/FriedrichstadtEarlyStreetPlan.jpg",
-                "category": "Memories",
-                "sub-category": "",
-                "tags": [
-                    "toponyms",
-                    "history",
-                    "urbanism"
-                ],
-                "category-description": "Document of material and immaterial heritage",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-11-22T11:36:17.608+00:00",
-                "updated_date": "2019-11-25T12:59:00.005+00:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/friedrichstadt_foundation#42"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Friedrichstadt Incorporation",
-                "type": "Event",
-                "start_date": "1709-12-11T00:00:00.000-00:01",
-                "end_date": "",
-                "description": "in 1709 is decreed and in  1710 happens the  effectively incorporation of the Friedrichstadt in the city of Berlin. The town is then integrated in the city as a district.",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Map_de_berlin_1710.jpg",
-                "category": "Memories",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "Document of material and immaterial heritage",
-                "links": [],
-                "relationships": [
-                    "mehringplatz-community-atlas/friedrichstadt_foundation#42"
-                ],
-                "created_date": "2019-11-23T11:48:48.433+00:00",
-                "updated_date": "2019-12-11T18:27:57.773+00:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/friedrichstadt_incorporation#44"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Die Rondell",
-                "type": "Place",
-                "start_date": "1720-11-23T00:00:00.000-00:01",
-                "end_date": "1815-11-23T00:00:00.000-00:01",
-                "description": "Originally named Rondell for its circular shape, this baroque square  was s laid out and completed around 1720 inspired by the urban model od piazza del Popolo in Rome. It is realized in the context of the city's extension under King Frederick William I of Prussia, along with Pariser Platz (former Karree) and Leipziger Platz (Octagon), as southern end of the Friedrichstraße. ",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mehringplatz_um1730.jpg",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2019-11-23T12:19:54.664+00:00",
-                "updated_date": "2019-12-05T17:40:37.514+00:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/die_rondell#45"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "WWII Air raid",
-                "type": "Event",
-                "start_date": "1945-03-03T00:00:00.000+01:00",
-                "end_date": "",
-                "description": " The area was completely devastated in World War Two, particularly in an air raid on 3 February 1945 and the Battle of Berlin which followed. The air raid produced the almost total destruction of the inner city, in particular in the proximities of the Regierungsviertel (Government district) on the Wilhelmstraße, leaving more than 120,000 homeless people, 2,296 totally destroyed buildings, 909 heavy damaged, 3,606 moderately and slightly damaged buildings, 22,519 destroyed homes, and 27,017 apartments evacuated due to the risk of collapse. Belle Alliance Platz is totally destroyed and will remain an empty lot for the following 20 years. ",
-                "image": "https://www.welt.de/img/geschichte/zweiter-weltkrieg/mobile140131885/6362507847-ci102l-w1024/2-WK-Berlin-1945-Strassenkampf.jpg",
-                "category": "Memories",
-                "sub-category": "",
-                "tags": [
-                    "history",
-                    "demolition"
-                ],
-                "category-description": "Document of material and immaterial heritage",
-                "links": [],
-                "relationships": [
-                    "mehringplatz-community-atlas/belle_alliance_platz#40",
-                    "mehringplatz-community-atlas/mehringplatz#39"
-                ],
-                "created_date": "2019-12-05T17:40:58.990+00:00",
-                "updated_date": "2019-12-05T19:41:14.873+00:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/wwii_air_raid#47"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Kunstwelt e.V.",
-                "type": "Organization",
-                "start_date": "",
-                "end_date": "",
-                "description": "Founded in 1999 the non-profit organization Kunstwelt Berlin develops public forums and hosts cultural events. Since 2005 it is in charge of the Quartiersmanagement ( Neighbourhood Management) at Mehringplatz, Berlin.\nMajor activities of this organization include art projects such as THE PATH OF VISIONARIES, symbol of European Unity In the pedestrian area of Friedrichstraße 27, and THE BERLIN ORACLE as well as the EUROPAFESTIVAL - BERLIN. ",
-                "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGCBUIBhcTFRUYFxYYGhwYGhkXGx8ZGhwZHxwYHyEgHyAfJCskJCMoKiMcJDckKjEuMjIyIyM3PDcxOysxMi4BCwsLBQUFDwUFDy4bFRsuLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLv/AABEIAI4BOQMBIgACEQEDEQH/xAAbAAEAAwEBAQEAAAAAAAAAAAAABAUGBwMCAf/EAEwQAAIBAwMCAwQEBwwHCQAAAAECAwAEEQUSIQYxBxNBIjJRcRRhgbIVI0JSc3SRCBc2N0NTYpKTs8HSFjRVg8PR8CQzNURygqGisf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDs1KUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoFKUoKm712C11+KzZiJpVZkXacEKGJ57D3TU+5nS1tmkdgqKCzMeAAO5NYDqg48ctN/Qy/cnrw1W5fxE102kLFdPgYfSJV485x/Jofh9fb1/NyG36d1yHX7DzoCzR5KhmVl3Ed8bgMj0zTpvXoOoLJpbdiyK5QkqV9oAE9/mKnWVslnaLFGoVEAVVHYAelYD9z/8AwPm/WpfuRUG/vbhbS0eRjhUVnY9/ZUEmo2gatFrmlJcQsWjfdtJBXO1ip4PPcGvjqv8Agrc/oJfuNWf8E/4sbX/e/wB/LQW/TfVNr1E0gt5N5jIDgqVIzn84Djg81bzyiGBmbsASfkK4F0asnT1mNXj3NGlzJBcoPWFvLw32E/t2/XXcr6dbrQJJEIZXiZlYdipQkGg/NA1aLXNKW4hYtG+7aSCvusVPB57g1UdSdc2WgXnlSSFpf5uNS7D544Hy71C8EP4tLf5y/wB7JWc8IL6Gz1i8huiqX73D5L8M68cKT39rcceuQeaDadL9Z2nUcxSGQiReTHIpR8fI9/szivPqTrqy6e1HyLiRlk2hsBGbg5xyAfhXz1N0mNU6itbyNxFNBIGZguTJHxlDyPTIz8GNagoD6CgxH76+lfzz/wBlJ/lq1/00s/8ARwX3mN9HL+Xv2N72SORjOPrrOeFig9bazwP9YX789aLxL078JdCXUYGT5ZdQPzo8OPu4oNKDkVU2OvW97rktoj5mhALrgjGcevY9wKi9C6mNR6Htrgt3hXcf6SDa/wD8qa5X4fzyQdewag59jUpLpBn0AYED+tgY+qg7NrGox6RpjzyttjQZY4zjkDsO/cVA1bqi20rQo7uVmWGTZsbYxPtqWHsgZHArPeNUhn0CCzU+1d3MUX/tznP7dlRPHuMQ9CRKowFuIwB9QSWgsP319K/nn/spP8taLpjqC36jsWmt3LorlCSpX2gFPY49CKtPLX4Cv1VCjigq+nNeg6gtWkt2LKjmNiVK+0ACRyPrFevUGrRaHpbXEzFY0xkgFveIUcDnuRWI/c//AMG7n9bk+5FXSCMigw376+lfzz/2Un+Wp/T3Xtjr2qCCCRmkYEgFGXgDJ5Iqj8X1C6rpWAP9dT70ddECAegoPus51R1jZ9NXKR3MjIzruXCM3Gcfkg1o65z1Xz42aZ+il+5LQWlh4laXeTBBdBWP56Og/rMu0ftrYA7hWW8TLW2k6LuGnVMLG5RmA3CTB2bT8c4GPXtTwqEo8PbTzc79hxnvs3N5f/02/ZQQZPFTS43IMz5BwfxUn+Wpeh+INhreqpbwys0j52gxuvZSx5Ix2Bql8AlDdLXGR/5yX+7hrooQDsBQZ/qfrKz6bu1juZGRnXcuEZuMkfkg1AsfEvS7ucILoKT28xHRf6xXaPtIqq6oGfHLTf0Mv3J613UulW+o6NIk6IY9jEswHs4B9oH0I75oLVGEiAg5B5BFVug67BrZl8ly3lOY3ypXDj05HPzrLeBNy9x0Am8khJHRCfzBg/sBJH2VH8Evf1H9cf8AxoOj1UnXoB1KLHcfPKeZtwcbOed3b7Ktq5vL/H+n6n/moNX1N1Ra9OSxLcyFPNLBTtJHs7c5I7AbhzV4DkVy/wAZ9NXV+p9Lt3JCyvOhI7jPkc1b+FmrP9Gk065P/abI+Wc/lxfkOM9xjA+W0+tBpbrWobbXo7RmImlVnRdpIKqCTz2HY1a1z7qP+O7Tv0M33Ja6DQcs8QrEap4s2UDMyCS2mQshwwzHP2/657VI8M9SPT9+dFulVJUJaGRRtWZCSf63fn1xg8jmZ1DYyy+MFhOsTmJIpQ8gViikpNgM2MA8jg/GrTxF6VXqXShtOy5iO+CUcFXHOMjnBwPkcH0oNXXOf3P/APBCb9bk+5DV34fazc6npRS8gkiuIvZdnjKJJ/TU42n6wOPUcEVmLJbvw+1mcLbS3VjNIZVMI3SRMe4K/sGeAcA57ig33Vpx0rdfoJf7tqz/AIJ8eGNr/vf7+WqTX+p7vqvTXs7KwuE85TG8tynloiNw3xHbI75+ANbnpbSV0Lp+K2U5EabS3xbksftJJoMX4MWiX3QtzDIu5HuJlZT6qVjBr56Mu30UXejztloY3kt3P8pAQT+1fh8x+TVh4L2Mth0zKksTxsbmRgroUJUiPBwwBx35p4saBJf6cl3ag/S7bJXaMs8bcOmB37k4/wDUPWg9PBVxH4ZW5JwB5pJP6aSpfUvSVj1jAJGCl8YWeFhu4494ZDY7YOcfVXh4TWLW3hzDDNGyN+NDJIpRsNJJ3BweQazvT93d+Hoe0ntJrm1Ds0M1uvmEKfRhxj44OMHOMjFBHkuL7w11CISz/SdPkcR5f348/PJBAycAlTg8A116uVa61z4j3UVutpLb2UcglllnXY74yNqL8iRxnk84xz1Wg5x4Vfw21r9ZX79xXRHUOhB5B4NYPw2sJbTq7VnkikjWSdWRnRlDrum5UnhhyOR8a39BxvS9TOgeF2p2pPt200tunx2ykKp/aXarLrbRzovhdZug/GWLwTHH52Rv/azZ+yoHVnTtxceKgjSOQ2tzLbzysEYx/igwKs2MD8o4Pqwrp3UunjVtAmtz/Kxug+ZU4P2HBoMfqko1zxbsUU7o7e3e6/tPZX/hmvL90IM9Dx/rEf3Jai+B+mXCST3F1HJG+yG3jEiMh8uJMcBh24Tn4g1ZeOVjLqHR6JDG8jidG2xqztgLJzhQT6ig+/3tI/8AaGo/24/yVquntLGj6WsKySShSTvmbe5ySeTgfKst++DN/sjUf7Fv+VaHpbWm1yzZ2tp7Yq23ZOmxm4ByAfTnGaDI/uf/AODdz+tyfcirpNcb8OtXuelNOmhk0y+kLzvIGjhfGCEX1H9HNbXQesJNT1ZIW068gDbvxksRWNcKW9o/XjHzIoKnxh/8W0r9dT7yV0WsD4p2Ut5qemmON3CXaM5RGYIu5PabA4H1nit9QK5X4iacNW8VrCBnkjDxSe3E22QYErey3OO2PlXVK5n4gmax8SLK8S1nuEhicMII2flhIuMgYz7QOPhQfWp+FqPiSG7naZPaT6UUnj3D85WT/nj4VfeGnUjdS6CXkQJNFIYpAPdLKAcj4Dnt8Qaqbnra+uoCltpN0JCMK06+WgPxOe/yyPnVp4YdNv0106UlYNNI5lkI5AYgDGfXAHf4k0GC8LOkV1/Rp5WuruErcum2CUIhwsZyRtPPOM/ACuhdM9HJoWpect3dynaV2Tyh05xzjaOeKwvh3rNz0ppcsMmmX0hed5QyQvjBWNfUf0Sa2Wi9ZyajqiRNpt7EHOPMliKxrwT7Rx9lBnPES1lvfFmxjhm8iRoZNsm0PtwJifZOM5GR9tVHWNjeWOvW9vqN/LJY3B2vJGFiG781wMjHunJ9MnHs1rOobGWXxgsJ1icxJFKHkCsUUlJsBmxgHkcH41oettATqXpyS3bAJGY2/NkHun/A/USKCw0uwj0ywSGJQkaDCqP+vtz6msN4Je/qP64/+NW3hde3M/T/AJN3FLHNAfLLSIyiRR7rKx4Y8YJGe2fyqx3RmrXHS15eK+m30oluHkVo4X27cn4j7cig7FXN5f4/0/U/81W+i9ZyajqiRNpt7EHOPMliKxrwT7Rx9lQJLGU+Nyz+VJ5QtdvmbG2bva9ndjGfq70Hx4lfxg6L+mm/4FfviXaPpGpxaxAuXg9i4QfykB7/AGrnv6cH8mvbr+xkuet9JdIndI5ZS7KhZUB8nBYgYUcHk/CttcwLc27RsoZGBVlPYqRgig53qN2uoeLulzRndHJbyurfEFJjXSq410t01d6J4rQxlJGtIfO8qXYxRY5I5GCl8Yzk459fmK7LQRpLlFuliLAOwLKufaKrjJA+rI/bX5DdxzXLxq6s8eN6g5K7hkbvhkc1juvr6XTuo4pYV3Otrcc43bF8y13Sbe7bBlto74xVzZRR6T0k0lu2/wDFNP5p9oyuVLeYx9d3f5ccAUGiqNFcpJcvGrAsm3eo7ruyRn581SzarIltp7cZuJESTj0MEshx8OVFeWlKzdX6iFbaxW3AbGcHy5MHHr8cUGnByK/awvS802m+Gsk/mBysU8sY2ABWUzNzz7WTg84q7u9SkiurFRjFw5WTj0FvLJx8OVFBf0rM293c33VdxCsixxQNCc7AzPvRWKcngd+e/tDHY5qL3qeSW5uWjmWPyJHjjiMLP5rR+9vcdgzZUbcYxk57UG9pWW1TVppJLFYcRm73bvMXJjHlGTOMj2lwRj19a8td1eSw1CC0M4RmjeSWfy95wpVQFQZAZiScnIAU8cjAaW+u47K0aSRgiKMszcACvWNxIgYHIIyCPgax516R+ib2VtryW4lCu0ZVJQIw6tsb57SO2VPpVhr2pSW81rEkiRCctulcAhdqbgqgkLub0z6KeDQaSlYu31m4XpO+uDKkjQecInVAEbylJ3cE559k+mVOKkpd3VnrFoJZEdLoujIqbfLcQvKNjZyR7BU575zx2oNBb3sdxcyRo6s8ZAdQeVLDIz8xzUus5Z6hI2q6goRWMJj8sAbS5MCvhm9eTjPoKg9JavLfXqK1zHIxjLTQPGYJon491D7RTOVJOfQgmg2NKxB1uc680bzRwuJ9kdvNGUSWHcBuSU+87LlgFyAfZI9aka7rrL1E1ss3kLHGsjP5RlZmcvtUDBAUBSSe5yAMYNBr6jS3KR3KRswDPu2Ke7bcE4+XFV/SmovqmiLI67X3OrYBUMUdl3KG5CtgMM+hqi8QbqWx1q1lhj8yRY7oqv8Au4+ceuOTtHJxgcmg1iXcb3jRBlMigMyg+0obOCfhnBqVVB0xbxWugeZFJ5xlUyvMe8rke8fh8Av5IGPSokGtyt0vYTnbvuGtxJxxiUAtj4f4UGqpWYuri6vOqZraOVYo0hik3+WHfc7TDAycY9j154475EddbuZehRcKoMwfy3KI0gASYxSSLGPabAVn2/8A7Qa+vwHIrN9N3z6lBKEu4plG0JIqgSI5B3LJHwBjgjsTkgjjJ8fC9HXouBnk3ho1ZRtC7Qc8Z9fnQauolheR39sJI3V0JIDKcjIJU/sIIqt641H8F9MSuGCuwEUbMcASSEIpJ+Ck7j9QNVHQk1vZatPZW8sckSpFNH5bq4AKiKRfZJ/KQP8AOSg2lKzGgXdzqepzFnVIoLiSIIEyZFAHds8Y3AcdyDmvHTLu81SzF3E6BGlISBkGGhWQoSZM5DkAuMcDgYPeg0ouEN4Ytw3hQ5X12EkA/LII+yvjUr6PTrNpZXWONcbnc4UZIA5+ZArM38U0/iI6xSLEPocZZ9m9v++nwFB4+JJ57YxzkfE+tzf6ASzuI2ljkeJjt9hjHceVu2nPcDOPQ0GzzX7WR6jhll65sgkoQeXOQNgbGBFn19cj5Y+uvPWNeZuoZbdZxbrCiEt5RlZ3cE4+AVRj6zu4IxQaq5uEtgN7BdzKi59WY4A+ZNSKw2rasb3o+0uJV2H6VAXAVu6TbWKqRuwdpYDvgirzp68l1exa4JCRyjMCgBiseOHc+rN329gOOTmgvAciv2sZ0N5tt0rLIZA/4y6ZRsC4ZZ58nPrkjOPTtU38MSfgfT5PZ3XLwrJxxh4ndsfDkCg01KzJu7m86smt0dI44khkLbNzHf5ns88YO3v3GPr401BVXOmeb1FFc78eXFJHsx38xojnOfTZjGDnP1VF0zp8WHnxq/8A2aXJWHb/AN0z537Gz7rZztxwc4PpV/Sgylp05cCa18y6VktGBjVYdjOBG8f4xt59rDd1AHfg54trLTPout3Fxvz5wiG3GNvlqw755znPp9tWtKDNaRoD2ugyWcsolhZXjTamyRUffuDNuYMfaAyAO3Y5ryten7j6fayTXSOtqTsVIdm8GJ4suTI3te1nIwO/HPGqpQVdjpv0TVriffnzzGduMbdiBO+ec9/TFV0uiXEFzL9GuVijmcyOGi8x0dgAzRtvAG7GcMrAHJ+qtLSgqb3TPpOp202/HkFzgjJffGU5OeO+exzXlrGlvcahHcQSLFMismXTzEeNipKsoZT3UEEEYPxzV3SgobvR5L7pqa2ln3PMjqZAmFXeCMKmfdX4FiT6mqbrpVe8t4pZlt4VBk82RA8TuMKI2V/xYPO8FuePZ5yRt6UGL0pn6i0O8tPNR4jH5UVzHHtRhJGQ2F3bW2ccqQDnHBBq+vNL+k3lrJux9HdnxjO7MUkWO/Hv59e2Prq2pQUiaLsubx/MYfStvKey0e2JY8q2e/G4HjBqLY6JOdXhmuZ0kMCuseyIxsxcBS0jF2ycegwM8/CtLSgyl/07PeBoXug9u0om2vGWmUCQSeWspfG0HgHYSF4+BqbqGky/hY3FtKkbuixyCSMyI6qWKHCuhDLubnOCDjHrV9SghabC9vaKryGVx7zsApY5J7DgD4D4epqPe6Z9K1u3uN+PJEo24zu8xVHfPGMZ9fsq1pQUel6J+DdTlZHxBL7Rg28LIfeZGzwG7lcd+QRyKq7bpedIbeFrpTBayRvGoiw7LH7qyNvwcDjIUc4JB7VsKUFXb6b5Wvy3G/PmRxR7MdvLMpznPOfM7YGMeuahQ6DJbdPiCO4ZJFlaVZQvGWleXa6bvaX2tpGRnvxWhpQUWh6TJbalLcTSI8sqoh8uMxIFTft4LMSfaPtE/AYGK/elNJk0XSRA0qyxxgJERGUYIM++dzBj25AA47VeUoKjV9KGp30DM34uF2kMZXIdtjKuTngLuY4wcnHbFfFzoiHWILhNsbRb1YKg9tHXlTgjHIRs8+7jHNXVKCs0XTfwcZvb3ebM83bG3dt9nuc4x34+VVSdPTQoYI7nZamTzNgQ+coMnmGNZQ4AQnI90kKcZ9a1FKCrj07b1G9zu96FIdmO215H3Zz678Yx6d6rp+mvM6altPNx5ksku/Z7u+cy427ucZ25yM98elaWlBRa7pMl5qUE8UqxyQiRfbjMissnl7uA6nI2Ag5r5vtJmXVnuLaZI3kVUkWWMyo2zO1gFdCGAJHcgjHHFX9KClu9Ia60+GN5SzRSxStIyjLmNgx4GAN31dvrpoej/gm6l8uT8Q7b0h28ROSd+xs+4x52Y4OcHBxV1SgoNB0V9NtZIXlWSFmlZFEZR182SR2DNvIb3yB7IqvtemZ0+ipJdK0Vo6NGqxbWYIrIPMbeckKcZAAzyQfTX0oKuz0z6Pr89zvz5yQpsxjb5Xmc5zznf2wMY9c1aUpQf//Z",
-                "category": "Stakeholders",
-                "sub-category": "NGO/Social work",
-                "tags": [
-                    "art",
-                    "culture",
-                    "quartiersmanagement"
-                ],
-                "category-description": "Formal and informal actors in the area",
-                "links": [],
-                "relationships": [
-                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14",
-                    "mehringplatz-community-atlas/candy_hartmann_quartiersmanagement_#32"
-                ],
-                "created_date": "2019-12-08T17:29:03.261+00:00",
-                "updated_date": "2023-07-20T11:41:43.513+01:00",
-                "weight": 0,
-                "image_credit": "Kunstwelt Berlin website"
-            },
-            "id": "mehringplatz-community-atlas/kunstwelt_e_v_#48"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Baustadtrat Kreuzberg-Friedrichshain ",
-                "type": "Interview",
-                "start_date": "2017-09-14T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Florian Schmidt is the Councillor for urban affairs of the Keuzberg- Friedrchshain district of Berlin. This video is part of a set of interviews to social, economic and institutional stakeholders of the Südliche Friedrichstadt realised in 2017 for the Switch On Mehringplatz.  Here he tells us about his background as an activist and an urban practitioner with Urbanitas, and his role in developing the early concept for the Südliche Friedrichstadt as a creative district.",
-                "image": "https://i.vimeocdn.com/video/669554989_130x73.jpg",
-                "category": "Narratives",
-                "sub-category": "Interviews",
-                "tags": [
-                    "Urban Policy",
-                    "Urban regeneration",
-                    "Creative industries"
-                ],
-                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/244994296",
-                        "title": "Bezirksstadtrat Kreuzberg-Friedrichshain",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41",
-                    "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
-                    "mehringplatz-community-atlas/erz_hlcaf_#18"
-                ],
-                "created_date": "2020-03-10T16:15:21.139+00:00",
-                "updated_date": "2022-09-20T13:48:50.854+01:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/baustadtrat_kreuzberg_friedrichshain_#53"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "H-Town Tour",
-                "type": "Video",
-                "start_date": "2019-06-15T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "H-Town tour is the final product of the URBEX laboratory with the youths of the KMA Antenne, a training project coordinated by Tesserae in 2018/2019. This EU funded Erasmus+ promoted urban exploration as a tool for the engagement of youths at risk of exclusion. The group of youngsters frequenting the KMA youth center participated to an activity of  international exchange together with participants form other 4 European cities, and worked on  mapping and designing a tour describing their neigbourhood.",
-                "image": "https://i.vimeocdn.com/video/839359588_260x146.jpg",
-                "category": "Narratives",
-                "sub-category": "Place narratives ",
-                "tags": [
-                    "youths",
-                    "social inclusion",
-                    "Public space",
-                    "oral history",
-                    "Psychogeography"
-                ],
-                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/showcase/4256854/video/350616264",
-                        "title": "H-Town Tour",
-                        "description": "",
-                        "type": "video"
-                    },
-                    {
-                        "url": "http://www.tesserae.eu/project/urbex/",
-                        "title": "URBEX",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "mehringplatz-community-atlas/kma_antenne#7"
-                ],
-                "created_date": "2020-03-13T15:47:34.776+00:00",
-                "updated_date": "2020-03-13T16:07:03.216+00:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/h_town_tour#54"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Tesserae",
-                "type": "Organization",
-                "start_date": "2011-11-21T00:00:00.000+00:00",
-                "end_date": "",
-                "description": "Tesseræ is a platform connecting critical multidisciplinary research, education, art, communication and project development in urban, territorial and social fields. Based in Berlin, Tesseræ works with local communities, independent and non-profit organisations, as well as local, national and European institutions.",
-                "image": "https://i.ibb.co/J5wCP95/TESSERAE-LOGO-WEB.jpg",
-                "category": "Stakeholders",
-                "sub-category": "Associations /NGO",
-                "tags": [],
-                "category-description": "Formal and informal actors in the area",
-                "links": [],
-                "relationships": [],
-                "created_date": "2020-03-27T18:31:40.650+00:00",
-                "updated_date": "2023-07-19T16:48:22.544+01:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/tesserae#56"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "\"Das Rondell\"",
-                "type": "Place",
-                "start_date": "1730-02-01T00:00:00.000-00:01",
-                "end_date": "1945-01-01T00:00:00.000+01:00",
-                "description": "Berlin grew rapidly in the first half of the 18th century. The city was enlarged and new city gates were built. One of these gates was the Halle Gate. Around 1730 - under King Frederick William I of Prussia - three new representative squares were built in front of three important city gates, which were initially named after their shape: \"Karree\" for Pariser Platz, \"Oktogon\" for Leipziger Platz and \"Rondell\" for Mehringplatz. This square, known as the \"Rondell\", was inspired by the city model of the Piazza del Popolo in Rome and was surrounded by two-storey town houses.                                                                                 ",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mehringplatz_um1730.jpg",
-                "category": "Memories",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "Document of material and immaterial heritage",
-                "links": [
-                    {
-                        "url": "https://www.stadtentwicklung.berlin.de/denkmal/liste_karte_datenbank/de/denkmaldatenbank/daobj.php?obj_dok_nr=09097784",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "mehringplatz-community-atlas/belle_alliance_platz#40",
-                    "mehringplatz-community-atlas/mehringplatz#39",
-                    "mehringplatz-community-atlas/weltkrieg_ii_luftangriff#60"
-                ],
-                "created_date": "2022-09-19T16:45:40.573+01:00",
-                "updated_date": "2022-09-19T16:48:35.964+01:00",
-                "weight": 0,
-                "image_credit": "https://de.wikipedia.org/wiki/Mehringplatz#/media/Datei:Mehringplatz_um1730.jpg"
-            },
-            "id": "mehringplatz-community-atlas/_das_rondell_#59"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Weltkrieg II - Luftangriff",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2022-09-19T16:48:30.978+01:00",
-                "updated_date": "2022-09-19T16:48:31.235+01:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/weltkrieg_ii_luftangriff#60"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "36x Kreuzberg - Memoryspiel",
-                "type": "Project",
-                "start_date": "",
-                "end_date": "",
-                "description": "36 x Kreuzberg - Memory game with subjective landmarks\nA project in public space by Querformat-b e.V.\nThe memory map shows the former Belle Alliance Square around 1730 and is one of 36 memory maps created during city walks through Kreuzberg. Social processes such as globalisation, migration, disappearing space and the emergence of new spaces were documented through photos and sketches. 36 x Kreuzberg was created in an artistic workshop, realised by the association Querformat-b.",
-                "image": "https://i.ibb.co/PNL2VQ7/mehringplatz-ehemaliger-belle-alliance-platz-2.jpg",
-                "category": "Transformations",
-                "sub-category": "Public space",
-                "tags": [
-                    "art",
-                    "Public space",
-                    "history"
-                ],
-                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
-                "links": [],
-                "relationships": [
-                    "mehringplatz-community-atlas/querformat_b_verein_f_r_kunst_und_kultur#62"
-                ],
-                "created_date": "2022-09-19T16:50:38.196+01:00",
-                "updated_date": "2022-09-19T16:54:06.051+01:00",
-                "weight": 0,
-                "image_credit": "Querformat-b"
-            },
-            "id": "mehringplatz-community-atlas/36x_kreuzberg_memoryspiel#61"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Querformat-b Verein für Kunst und Kultur",
-                "type": "Organization",
-                "start_date": "1987-01-01T00:00:00.000+00:00",
-                "end_date": "",
-                "description": "Querformat-b is a non-profit association for art and culture founded in 1987 by artists, art teachers and architects. The association is based in the cultural centre Statthaus Böcklerpark in the district of Friedrichshain-Kreuzberg. From 1987 to 2009, the association Querformat-b held the jury-free art and sales exhibition QUERSCHNITT once a year. Querformat plans and realises artistic projects and exhibitions in the field of socio-culture, a differentiated field of cultural practice outside of established art, in the overlapping area of visual arts, educational work and engagement with people.\nIn 2019, the publication MAPPING QUERFORMAT-B 30 JAHRE VEREIN FÜR KUNST UND KULTUR was published by Buchhandlung Walther König, funded by the Senate Department for Education, Youth and Science.",
-                "image": "https://i.ibb.co/hdTwMxB/guppe-querformat-b.png",
-                "category": "Stakeholders",
-                "sub-category": "Associations /NGO",
-                "tags": [
-                    "culture",
-                    "art",
-                    "platform"
-                ],
-                "category-description": "Formal and informal actors in the area",
-                "links": [
-                    {
-                        "url": "36x Kreuzberg - Memoryspiel",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2022-09-19T16:54:04.703+01:00",
-                "updated_date": "2022-09-19T17:02:08.245+01:00",
-                "weight": 0,
-                "image_credit": "Querformat-b"
-            },
-            "id": "mehringplatz-community-atlas/querformat_b_verein_f_r_kunst_und_kultur#62"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Adalbert von Chemisso Gedenktafel",
-                "type": "Monument",
-                "start_date": "1822-04-30T00:00:00.000-00:01",
-                "end_date": "1838-08-21T00:00:00.000-00:01",
-                "description": "This granite plaque with a \"bronze medal\" was located \"in the centre alcove of the first floor\" until the house was demolished in 1909 and was then preserved in the Märki?sches Mu?seum.  Cha?misso left France with his family during the revolution and lived in Berlin from 1796. He first found employment at court, then served in the Prussian military until 1808. He worked as a writer (\"Peter Schle?mihls wun?dersame Ge?schichte\", 1814), poet and naturalist, becoming curator of the Botanical Garden in 1819 - after a three-year research trip around the world - and a member of the Academy of Sciences in 1835. His grave is located in Cemetery III of the Jeru?salems and Neue Kirchen-Gemeinde, Kreuzberg, Mehring?damm/ Blücherstra?ße, Dept. 3/1 38/1 (matrimonial grave).",
-                "image": "https://trello-attachments.s3.amazonaws.com/5e49b10b4b8dc84e5d00ffa0/5eab09bac4be1c6e0b5b61eb/9b5b02b5eb684e20acb4f966f2976f1d/IMG_8275.jpeg",
-                "category": "Memories",
-                "sub-category": "Statues",
-                "tags": [
-                    "culture",
-                    "history"
-                ],
-                "category-description": "Document of material and immaterial heritage",
-                "links": [],
-                "relationships": [],
-                "created_date": "2022-09-20T13:35:26.379+01:00",
-                "updated_date": "2022-09-20T13:45:02.694+01:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/adalbert_von_chemisso_gedenktafel#63"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Erzählcafè",
-                "type": "Event",
-                "start_date": "2016-09-26T00:00:00.000+01:00",
-                "end_date": "2017-09-26T00:00:00.000+01:00",
-                "description": "A series of meetings with informed citizens and long time residents telling their stories and experience of the area of the Südliche Friedrichstadt. Part of the activities to facilitate the integration  of the new developments of the PXB plan realised at the Bauhütte in 2017",
-                "image": "https://irp-cdn.multiscreensite.com/5c373733/dms3rep/multi/desktop/ada347df5f334c2a9696b92b4f7851b6-420x595.dm.edit_KyaLZO.jpg",
-                "category": "Narratives",
-                "sub-category": "Place narratives ",
-                "tags": [
-                    "oral history",
-                    "events",
-                    "culture",
-                    "social inclusion"
-                ],
-                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
-                "links": [
-                    {
-                        "url": "http://www.bauhuette-berlin.de/blog",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
-                    "mehringplatz-community-atlas/bauh_tte#16"
-                ],
-                "created_date": "2019-09-26T11:56:46.512+01:00",
-                "updated_date": "2019-11-25T12:59:00.005+00:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/erz_hlcaf_#18"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
-                "type": "Organization",
-                "start_date": "",
-                "end_date": "",
-                "description": "Advisory and exchange committee between the local authority and other stakeholders.\nInfluencing important decision-making processes and goals of redevelopment. In particular:\n- information and advice on construction measures to be developed and implemented with funding for urban regeneration to improve public infrastructure and public space;\n- participation in the design of concepts and formulation and modification of reconstruction targets structure.\nIt consists of: Territorial Representation and the employees of the District and Senate Administration responsible for the redevelopment area and their representatives. Aditionally, the Quartiersmanagement of Mehringplatz and Gewobag take part of the advisory council.",
-                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/01/logo_SanSF_mHintergrundklein.png",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/der-sanierungsbeirat/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
-                ],
-                "created_date": "2019-09-26T14:24:58.508+01:00",
-                "updated_date": "2022-06-29T08:36:44.166+01:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "GEWOBAG",
-                "type": "Organization",
-                "start_date": "1919-05-01T21:00:00.000+01:00",
-                "end_date": "",
-                "description": "One of the six municipal housing companies in Berlin. On behalf of the State of Berlin, Gewobag pursues the goal of providing affordable housing for large population and increasing municipal housing stock. With over 62,000 apartments and more than 100,000 tenants, the Gewobag portfolio is the size of a medium-sized city - and it continues to grow. Gewobag is the main real estate owner of Mehringplatz",
-                "image": "https://www.gewobag.de/wp-content/themes/gewobag/assets/svg/gewobag-logo.svg",
-                "category": "Stakeholders",
-                "sub-category": "Developers and enterprises",
-                "tags": [
-                    "architecture"
-                ],
-                "category-description": "Formal and informal actors in the area",
-                "links": [
-                    {
-                        "url": "https://www.gewobag.de",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-09-26T21:52:54.348+01:00",
-                "updated_date": "2019-11-25T12:59:00.005+00:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/gewobag#23"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Urban Sketches: Development, Who Is It For",
-                "type": "Video",
-                "start_date": "2017-07-07T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "The narrative looks into the vulnerability and protection schemes affecting existing tenants and shop owners in Mehringplatz through a personal point of view account, contextualising the interest in the subject and also draws on a third party's knowledge and opinion on this question. \nScript Nathalie Bekdache\nEdited by oginoknauss\nImages from the Mehringplatz Memory Card set\nUrban Sketches is a series of short video postcards from Mehringplatz.\nThese audiovisual fragments are realised by the participants to the EULER - Mehringplatz Anknipsen laboratory in 2017. They experiment a simple and accessible format to capture an impression, report an observation or tell a story about the local identity. Complementing the collection of historical and analytical materials, they provide a layer of personal interpretation to the representation of the socio-spatial milieu.",
-                "image": "https://i.vimeocdn.com/video/646399950.jpg",
-                "category": "Narratives",
-                "sub-category": "Place narratives ",
-                "tags": [
-                    "Urban regeneration",
-                    "oral history",
-                    "social inclusion"
-                ],
-                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/manage/226707117/general",
-                        "title": "Urban Sketches",
-                        "description": "Urban Sketches is a series of short video postcards from Mehringplatz",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-11-07T15:23:13.358+00:00",
-                "updated_date": "2022-06-29T08:36:44.166+01:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/urban_sketches_development_who_is_it_for#33"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Urban Sketches: Places for all times",
-                "type": "Video",
-                "start_date": "",
-                "end_date": "",
-                "description": "Things worth noticing in the ordinary city.\nby Rasha Kanjarawi \nرشا قنجراوي\nUrban Sketches is a series of short video postcards from Mehringplatz.\nThese audiovisual fragments are realised by the participants to the EULER - Mehringplatz Anknipsen laboratory in 2017. They experiment a simple and accessible format to capture an impression, report an observation or tell a story about the local identity. Complementing the collection of historical and analytical materials, they provide a layer of personal interpretation to the representation of the socio-spatial milieu.\n",
-                "image": "https://i.vimeocdn.com/video/651562520.jpg",
-                "category": "Narratives",
-                "sub-category": "Place narratives ",
-                "tags": [
-                    "Public space",
-                    "culture",
-                    "social inclusion",
-                    "oral history"
-                ],
-                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/230890049",
-                        "title": "Urban Sketches",
-                        "description": "",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-11-09T10:27:23.642+00:00",
-                "updated_date": "2022-06-29T08:36:44.166+01:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/urban_sketches_places_for_all_times#34"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Urban Sketches: Alienation",
-                "type": "Video",
-                "start_date": "2017-09-09T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Urban Sketches is a series of short video postcards from Mehringplatz. These audiovisual fragments are realised by the participants to the EULER - Mehringplatz Anknipsen laboratory in 2017. They experiment a simple and accessible format to capture an impression, report an observation or tell a story about the local identity. Complementing the collection of historical and analytical materials, they provide a layer of personal interpretation to the representation of the socio-spatial milieu.\n",
-                "image": "https://i.vimeocdn.com/video/651039369.jpg",
-                "category": "Narratives",
-                "sub-category": "Place narratives ",
-                "tags": [
-                    "Public space",
-                    "Psychogeography"
-                ],
-                "category-description": "Personal perspective and voices, oral histories, interviews and documentations.",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/230464313",
-                        "title": "Urban Sketches",
-                        "description": "",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-11-09T11:07:33.603+00:00",
-                "updated_date": "2019-11-25T12:59:00.005+00:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/urban_sketches_alienation#36"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Belle Alliance Platz",
-                "type": "Place",
-                "start_date": "1815-11-21T00:00:00.000-00:01",
-                "end_date": "1945-02-03T00:00:00.000+01:00",
-                "description": "The circus/round plaza is renamed Belle-Alliance-Platz after the Battle of Waterloo, when English and Prussian  defeated Napoleon's army, June, 18th, 1815. “Belle-Alliance” was another name used to recall this battle, from the name of the inn where the two winning generals previously met.",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/800px-Berlin_Friedenssaeule.jpg",
-                "category": "Memories",
-                "sub-category": "",
-                "tags": [
-                    "architecture",
-                    "Creative industries",
-                    "toponyms",
-                    "history"
-                ],
-                "category-description": "Document of material and immaterial heritage",
-                "links": [],
-                "relationships": [
-                    "mehringplatz-community-atlas/mehringplatz#39"
-                ],
-                "created_date": "2019-11-21T11:11:07.402+00:00",
-                "updated_date": "2019-12-05T17:40:32.587+00:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/belle_alliance_platz#40"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Kreative Raumpioniere am Mehringplatz",
-                "type": "Project",
-                "start_date": "",
-                "end_date": "",
-                "description": " In 2009 the study Kreative Raumpionere am Mehringplatz is commissioned by GeWoBag to the firm Urbanitas to develop a strategy to support the settlement of cultural actors and creative industries in the area. The study is lead by Florian Schmidt, who will later become Baustadtrat (Coucillor for Urban Development) of Friedrichshain-Kreuzberg. ",
-                "image": "https://taz.de/picture/304920/624/Kreativquartier_aktuell_WEB.jpg",
-                "category": "Imaginations",
-                "sub-category": "",
-                "tags": [
-                    "Urban regeneration",
-                    "social inclusion",
-                    "art",
-                    "culture",
-                    "Creative industries"
-                ],
-                "category-description": "Visions for transformation, unrealised projects and proposed hypothesis - representing alternative realities of the area",
-                "links": [
-                    {
-                        "url": "http://kreativ-quartier-berlin.de/Raumpioniere_web.pdf",
-                        "title": "",
-                        "description": "",
-                        "type": "document"
-                    }
-                ],
-                "relationships": [
-                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
-                    "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
-                ],
-                "created_date": "2019-11-21T11:30:20.027+00:00",
-                "updated_date": "2019-11-25T12:59:00.005+00:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Hedwig Dohm Gedenktafel",
-                "type": "Monument",
-                "start_date": "",
-                "end_date": "",
-                "description": "Marianne Adelaide Hedwig Dohm  (20 September 1831 – 1 June 1919) was a German feminist, and author. She was one of the first feminist thinkers. She lived in this house until 1851.",
-                "image": "https://www.gedenktafeln-in-berlin.de/typo3temp/pics/Gedenktafel_Friedrichstr_235__Kreuz__Hed_ed79a9fe12.jpg",
-                "category": "Memories",
-                "sub-category": "Plaques/Information displays",
-                "tags": [
-                    "feminism",
-                    "culture"
-                ],
-                "category-description": "Document of material and immaterial heritage",
-                "links": [
-                    {
-                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/gedenktafel-anzeige/tid/konzentrationslager/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-09-25T15:58:48.148+01:00",
-                "updated_date": "2020-03-25T17:59:08.535+00:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/hedwig_dohm_gedenktafel#9"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Bauhütte",
-                "type": "Building",
-                "start_date": "2015-05-01T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Bauhütte\na civil society platform. A temporary structure built to facilitate the social integration of the new development projects of the Baufeld program. The construction field development on the former flower wholesale market relies on participation. In the center of the site was placed the Bauhütte, a 60-square-meter project space, where the threads of the discussion about public participation, urban politics and architecture, youth and education converge. Here, residents, construction workers and architects, future users and builders meet at eye level to discuss on temporary use and trade development. So a small house makes a big contribution to the social cohesion of the people in the neighborhood. They get to know each other and can benefit from each other. For two years, it it has worked as a civil society platform in the middle of the construction site between Friedrichstrasse and the Jewish Museum. In summer 2019 the structure has been relocated to a new location next to the TAZ new building, surrounded by a new community garden. ",
-                "image": "https://i.ibb.co/pJ4HtCY/SWITCH-ON-MEHRINGPLATZ-45-copia.jpg",
-                "category": "Transformations",
-                "sub-category": "Private spaces common oriented",
-                "tags": [
-                    "culture",
-                    "commons",
-                    "social inclusion",
-                    "temporary structure",
-                    "gardening"
-                ],
-                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
-                "links": [
-                    {
-                        "url": "http://www.bauhuette-berlin.de",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
-                ],
-                "created_date": "2019-09-26T11:07:19.608+01:00",
-                "updated_date": "2022-09-20T13:46:58.153+01:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/bauh_tte#16"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Projektgruppe X Blumenmarkt",
-                "type": "Program",
-                "start_date": "2012-09-26T11:00:00.000+01:00",
-                "end_date": "2019-09-26T11:00:00.000+01:00",
-                "description": "The ex-Blumengroßmarkt project group (PxB) emerged from Berlin's first concept-based real estate allocation process. It is an amalgamation of the three assembly groups and planning teams who initiated the projects on the construction sites II, IV and V at the former flower wholesale market and will realise these in three different development models.\nSince the award decision in December 2012, all three project teams have been working together to implement their respective building projects in a model-like way in dialogue with the neighbourhood, the district and the Senate and the users.",
-                "image": "https://pxb.ag/images/intro.jpg",
-                "category": "Transformations",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "Current projects, conflicts and initiatives - transformations taking place in the area",
-                "links": [
-                    {
-                        "url": "https://pxb.ag",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "mehringplatz-community-atlas/bauh_tte#16",
-                    "mehringplatz-community-atlas/taz_neubau#10",
-                    "mehringplatz-community-atlas/erz_hlcaf_#18"
-                ],
-                "created_date": "2019-09-26T11:29:19.999+01:00",
-                "updated_date": "2022-06-29T08:36:44.166+01:00",
-                "weight": 0,
-                "image_credit": ""
-            },
-            "id": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
-        }
-    ],
     "properties": {
         "title": "Switch on Mehringplatz ",
         "url": "http://mehringplatz-en.community-atlas.net",
         "id": "mehringplatz_en",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) is a digital atlas dedicated to the Südliche Friedrichstadt and the surrounding territories of Kreuzberg and Mitte. It collects and makes accessible data, memories and visions about the neighbourhood. It  combines qualitative and quantitative data, personal narratives and public documents to provide a complex and nuanced representation of the local identity. The neighbourhood atlas maps local initiatives, actors, plans and policies, with a focus on processes of civic engagement, co-creation and social inclusion. Its elaboration started in 2016 through the EU funded Erasmus+ project EULER, as the outcome of a series of laboratories dedicated to urban reconnaissance, collaborative mapping and digital storytelling. It is currently implemented through the COMENSI project testing the digital atlas prototype to publish contents co-created with local communities.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2023-07-20T14:04:37.146Z",
+        "published": "2023-07-21T13:35:49.541Z",
         "links": [
             {
                 "title": "Mehringplatz Anknipsen - German",
@@ -2381,7 +2448,7 @@
                 "type": ""
             }
         ],
-        "version": 20,
+        "version": 21,
         "taxonomy": [
             {
                 "category": "Delimitations",
@@ -2462,7 +2529,7 @@
                 "id": 6
             },
             {
-                "category": "Imaginations",
+                "category": "Visions",
                 "description": "Visions for transformation, unrealised projects and proposed hypothesis - representing alternative realities of the area",
                 "sub-categories": [
                     "Study",
@@ -2484,6 +2551,22 @@
         ]
     },
     "relationships": [
+        {
+            "from": "mehringplatz-community-atlas/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+            "to": "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "from": "mehringplatz-community-atlas/belle_alliance_platz#40",
+            "to": "mehringplatz-community-atlas/mehringplatz#39"
+        },
+        {
+            "from": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
+        },
+        {
+            "from": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
+        },
         {
             "from": "mehringplatz-community-atlas/friedrichstadt_incorporation#44",
             "to": "mehringplatz-community-atlas/friedrichstadt_foundation#42"
@@ -2565,6 +2648,22 @@
             "to": "mehringplatz-community-atlas/querformat_b_verein_f_r_kunst_und_kultur#62"
         },
         {
+            "from": "mehringplatz-community-atlas/bauh_tte#16",
+            "to": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
+        },
+        {
+            "from": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
+            "to": "mehringplatz-community-atlas/bauh_tte#16"
+        },
+        {
+            "from": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
+            "to": "mehringplatz-community-atlas/taz_neubau#10"
+        },
+        {
+            "from": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
+            "to": "mehringplatz-community-atlas/erz_hlcaf_#18"
+        },
+        {
             "from": "mehringplatz-community-atlas/erz_hlcaf_#18",
             "to": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
         },
@@ -2641,20 +2740,8 @@
             "to": ""
         },
         {
-            "from": "mehringplatz-community-atlas/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
-            "to": "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
-        },
-        {
-            "from": "mehringplatz-community-atlas/belle_alliance_platz#40",
-            "to": "mehringplatz-community-atlas/mehringplatz#39"
-        },
-        {
-            "from": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
-        },
-        {
-            "from": "mehringplatz-community-atlas/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
+            "from": "mehringplatz-community-atlas/new_building_of_the_zlb_at_bl_cherplatz#67",
+            "to": "mehringplatz-community-atlas/zlb_amerika_gedenkbibliothek#30"
         },
         {
             "from": "mehringplatz-community-atlas/victoria_versicherung_kreuzberg#8",
@@ -2683,22 +2770,6 @@
         {
             "from": "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14",
             "to": "mehringplatz-community-atlas/kunstwelt_e_v_#48"
-        },
-        {
-            "from": "mehringplatz-community-atlas/bauh_tte#16",
-            "to": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
-        },
-        {
-            "from": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
-            "to": "mehringplatz-community-atlas/bauh_tte#16"
-        },
-        {
-            "from": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
-            "to": "mehringplatz-community-atlas/taz_neubau#10"
-        },
-        {
-            "from": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17",
-            "to": "mehringplatz-community-atlas/erz_hlcaf_#18"
         }
     ]
 }

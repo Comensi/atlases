@@ -4,43 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Neubau Franz-Klühs-Straße 3-9",
-                "type": "",
-                "start_date": "2017-12-12T00:00:00.000+00:00",
-                "end_date": "",
-                "description": "In der Franz-Klühs-Straße 3, 5, 7 und 9 wurde am 12. Dezember 2017 der Grundstein für einen Neubau gelegt. Im Auftrag der kommunalen Wohnungsbaugesellschaft GEWOBAG wird hier ein 7-geschossiges Gebäude entstehen, das Platz für Gewerbe und Mietwohnungen bietet. Die Hälfte der Wohnungen können von Personen mit einem Wohnberechtigungsschein (WBS) angemietet werden, allerdings sollen auch die anderen Wohnungen zu günstigen Mietpreisen vergeben werden. Das neu geschaffene Wohnangebot soll sich besonders an Familien und Einzelhaushalte richten, die an diesem Standort den größten Bedarf an Wohnraum hätten.\nQuelle: Gewobag; Berliner Woche.",
-                "image": "https://i.ibb.co/qMbtxBd/Franz-Kluehs-Nordansicht.jpg",
-                "category": "Orte",
-                "sub-category": "Wohnen/ Unterbringung",
-                "tags": [
-                    "Büro",
-                    "Wohnen"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "https://www.gewobag.de/bauen-in-berlin/bauprojekte/franz-kluehs-strasse-3-5-7-9/",
-                        "title": "Neubau Gewobag",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/gewobag#54",
-                    "ca/axel_springer_verlag_neubau#66",
-                    "ca/taz_neubau#10"
-                ],
-                "created_date": "2020-11-13T17:10:07.432+00:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Gewobag",
-                "icon_css_class": ""
-            },
-            "id": "ca/neubau_franz_kl_hs_stra_e_3_9#91"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Baustadtrat Kreuzberg-Friedrichshain",
                 "type": "Interview",
                 "start_date": "",
@@ -108,65 +71,6 @@
                 "icon_css_class": ""
             },
             "id": "ca/raum_f_r______________ein_mural_f_r_den_kiez#106"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Mehringplatz Ankipsen  Interviews",
-                "type": "",
-                "start_date": "",
-                "end_date": "",
-                "description": "Diese Sammlung von Video präsentiert einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging, und sind derzeit mit neue Interviews integriert, die Tesserae im Rahmen der Projekte COMENSI und Cocreation erstellt.\nActivity",
-                "image": "",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [],
-                "relationships": [],
-                "created_date": "2020-03-27T20:43:16.628+00:00",
-                "updated_date": "2020-03-27T20:56:18.302+00:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/mehringplatz_ankipsen_interviews#63"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Mehringplatz Anknipsen Interviews",
-                "type": "Mediensammlung",
-                "start_date": "2017-05-05T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Diese Sammlung von Video präsentiert einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmusplus-Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging, und sind derzeit mit neue Interviews integriert, die Tesserae im Rahmen der Projekte COMENSI und Cocreation erstellt.\n",
-                "image": "https://i.ibb.co/XytyGBF/Screenshot-2020-03-27-at-22-05-16.png",
-                "category": "Geschichten",
-                "sub-category": "Interviews",
-                "tags": [],
-                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/showcase/4678972",
-                        "title": "Stakeholders Interviews showcase",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/switch_on_mehringplatz#68",
-                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
-                    "ca/karin_l_cker_caf_madame_#31",
-                    "ca/ela_kagel_supermarkt#13",
-                    "ca/candy_hartmann_quartiersmanagement_#32"
-                ],
-                "created_date": "2020-03-27T20:57:16.075+00:00",
-                "updated_date": "2020-05-14T14:59:04.348+01:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/mehringplatz_anknipsen_interviews#64"
         },
         {
             "type": "Feature",
@@ -440,39 +344,39 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Urban Sketches: Alienation",
-                "type": "Video",
-                "start_date": "2017-09-09T00:00:00.000+01:00",
-                "end_date": "2017-09-09T00:00:00.000+01:00",
-                "description": "Der Mehringplatz ist ein zentrales Gebiet in Berlin, an dem viele erstaunliche und eher untypische Orte zusammenkommen. Der Autor dieses Urban Sketches zeigt einige dieser Orte, die oft leer stehen, und fragt sich, welche Bedeutung die Bewohner:innen ihnen beimessen.       \nAutor: Alessandro De Simone\nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms",
-                "image": "https://i.vimeocdn.com/video/651039369.jpg",
-                "category": "Geschichten",
-                "sub-category": "Place narratives ",
+                "title": "Neubau Franz-Klühs-Straße 3-9",
+                "type": "",
+                "start_date": "2017-12-12T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "In der Franz-Klühs-Straße 3, 5, 7 und 9 wurde am 12. Dezember 2017 der Grundstein für einen Neubau gelegt. Im Auftrag der kommunalen Wohnungsbaugesellschaft GEWOBAG wird hier ein 7-geschossiges Gebäude entstehen, das Platz für Gewerbe und Mietwohnungen bietet. Die Hälfte der Wohnungen können von Personen mit einem Wohnberechtigungsschein (WBS) angemietet werden, allerdings sollen auch die anderen Wohnungen zu günstigen Mietpreisen vergeben werden. Das neu geschaffene Wohnangebot soll sich besonders an Familien und Einzelhaushalte richten, die an diesem Standort den größten Bedarf an Wohnraum hätten.\nQuelle: Gewobag; Berliner Woche.",
+                "image": "https://i.ibb.co/qMbtxBd/Franz-Kluehs-Nordansicht.jpg",
+                "category": "Orte",
+                "sub-category": "Wohnen/ Unterbringung",
                 "tags": [
-                    "Öffentlicher Raum",
-                    "Medien"
+                    "Büro",
+                    "Wohnen"
                 ],
-                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
                 "links": [
                     {
-                        "url": "https://vimeo.com/230464313",
-                        "title": "Urban Sketches: Alienation",
+                        "url": "https://www.gewobag.de/bauen-in-berlin/bauprojekte/franz-kluehs-strasse-3-5-7-9/",
+                        "title": "Neubau Gewobag",
                         "description": "",
-                        "type": "video"
+                        "type": "website"
                     }
                 ],
                 "relationships": [
-                    "ca/urban_sketches_development_who_is_it_for#33",
-                    "ca/urban_sketches_places_for_all_times#34",
-                    "ca/urban_sketches_victoria_versicherung#35"
+                    "ca/gewobag#54",
+                    "ca/axel_springer_verlag_neubau#66",
+                    "ca/taz_neubau#10"
                 ],
-                "created_date": "2019-11-09T11:07:33.603+00:00",
+                "created_date": "2020-11-13T17:10:07.432+00:00",
                 "updated_date": "2022-06-29T04:51:57.701+01:00",
                 "weight": 0,
-                "image_credit": "Alessandro De Simone",
+                "image_credit": "Gewobag",
                 "icon_css_class": ""
             },
-            "id": "ca/urban_sketches_alienation#36"
+            "id": "ca/neubau_franz_kl_hs_stra_e_3_9#91"
         },
         {
             "type": "Feature",
@@ -811,6 +715,65 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Mehringplatz Ankipsen  Interviews",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "Diese Sammlung von Video präsentiert einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmus + -Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging, und sind derzeit mit neue Interviews integriert, die Tesserae im Rahmen der Projekte COMENSI und Cocreation erstellt.\nActivity",
+                "image": "",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [],
+                "relationships": [],
+                "created_date": "2020-03-27T20:43:16.628+00:00",
+                "updated_date": "2020-03-27T20:56:18.302+00:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/mehringplatz_ankipsen_interviews#63"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mehringplatz Anknipsen Interviews",
+                "type": "Mediensammlung",
+                "start_date": "2017-05-05T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Diese Sammlung von Video präsentiert einer Reihe von Interviews mit lokalen sozialen, wirtschaftlichen und institutionellen Akteur:innen, die für das Mehringplatz-Solidaritätscurriculum geführt wurden. Die Interviews waren Teil des EULER Erasmusplus-Projekts, bei dem es um die Untersuchung vorhandener Ressourcen und Potenziale der Südlichen Friedrichstadt ging, und sind derzeit mit neue Interviews integriert, die Tesserae im Rahmen der Projekte COMENSI und Cocreation erstellt.\n",
+                "image": "https://i.ibb.co/XytyGBF/Screenshot-2020-03-27-at-22-05-16.png",
+                "category": "Geschichten",
+                "sub-category": "Interviews",
+                "tags": [],
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/showcase/4678972",
+                        "title": "Stakeholders Interviews showcase",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/switch_on_mehringplatz#68",
+                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+                    "ca/karin_l_cker_caf_madame_#31",
+                    "ca/ela_kagel_supermarkt#13",
+                    "ca/candy_hartmann_quartiersmanagement_#32"
+                ],
+                "created_date": "2020-03-27T20:57:16.075+00:00",
+                "updated_date": "2020-05-14T14:59:04.348+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/mehringplatz_anknipsen_interviews#64"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
                 "type": "Organisation",
                 "start_date": "",
@@ -959,107 +922,46 @@
                 "icon_css_class": ""
             },
             "id": "ca/urban_sketches_places_for_all_times#34"
-        }
-    ],
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Marie-Juchacz-Denkmal",
-                "type": "Monument",
-                "start_date": "",
-                "end_date": "",
-                "description": "Die Skulptur von Gerd Winner, 2017, steht in dem kleinen Grünstreifen zwischen dem Wohnkomplex am Mehringplatz und der Gitschiner Straße. Es stellt aus einem bestimmten Winkel das Porträt von Marie Juchacz dar. Neben der Skulptur steht eine Gedenktafel, die über das Leben von Marie Juchacz informiert (ein Auszug):\nMarie Juchacz (1879 - 1956) war eine Politikerin, Frauenrechtlerin und Gründerin der Arbeiterwohlfahrt, deren Zentrale sich bis 1933 Nahe des Mehringplatzes befand.\nSie wurde in die verfassungsgebende Weimarer Nationalversammlung gewählt und sprach am 19. Februar 1919 als erste Frau vor einem deutschen Parlament. \nBis 1933 blieb sie als führende Sozial- und Frauenpolitikerin in der SPD Mitglied des Reichstags. Nach Auflösung der AWO 1933 floh Marie Juchacz ins Exil und kehrte erst 1949 aus den USA nach Deutschland zurück. Hier begleitete sie als Ehrenvorsitzende die Arbeit der wiedergegründeten AWO. ",
-                "image": "https://www.gedenktafeln-in-berlin.de/uploads/tx_tafeln/Juchacz_Denkmal.jpg",
-                "category": "Erinnerungen",
-                "sub-category": "Statuen",
-                "tags": [
-                    "Kunst",
-                    "Kultur",
-                    "Feminismus",
-                    "Ortsname",
-                    "Ausbildung"
-                ],
-                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [
-                    {
-                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/person/alph/J/person/1581/",
-                        "title": "Gedenktafeln in Berlin",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2020-09-09T16:55:41.788+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Holger Hübner",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3929,
-                    52.4983
-                ]
-            },
-            "id": "ca/marie_juchacz_denkmal#89"
         },
         {
             "type": "Feature",
             "properties": {
-                "title": "Theodor-Wolff-Park",
-                "type": "Ort",
-                "start_date": "1990-01-01T00:00:00.000+00:00",
-                "end_date": "",
-                "description": "Der Theodor-Wolff-Park wurde im Rahmen der Internationalen Bauausstellung (IBA) 1984 angelegt.\nBenannt wurde er 1993 nach dem Schriftsteller und Publizisten, an dessen 50. Todestag.\nDie Idee war es, einzelne geometrische Elemente mit verschiedenen Texturen wie Rasen, Sand oder Wasser anzulegen. Die Wege sind dabei die ausgebauten Trampelpfade, die vorher über den Platz führten. Der Park ist mit Skulpturen des Bildhauers Heinrich Brummack geschmückt.\nSeit 2014 ist der Park als Gartendenkmal eingetragen, als beispielhaftes Projekt zur Reparatur und Verbindung des durch Zerstörung und Baulücken geprägten Gebiets.\nUm der Verwahrlosung entgegen zu wirken, wurde der Park 2015 mit Hilfe eines Bürgerbegehrens in das Förderprogramm Städtebaulicher Denkmalschutz aufgenommen und bis 2019 saniert.",
-                "image": "https://geomantie-berlin.de/wp-content/uploads/2017/07/vor_ort_august.jpg",
-                "category": "Orte",
-                "sub-category": "Park",
+                "title": "Urban Sketches: Alienation",
+                "type": "Video",
+                "start_date": "2017-09-09T00:00:00.000+01:00",
+                "end_date": "2017-09-09T00:00:00.000+01:00",
+                "description": "Der Mehringplatz ist ein zentrales Gebiet in Berlin, an dem viele erstaunliche und eher untypische Orte zusammenkommen. Der Autor dieses Urban Sketches zeigt einige dieser Orte, die oft leer stehen, und fragt sich, welche Bedeutung die Bewohner:innen ihnen beimessen.       \nAutor: Alessandro De Simone\nRealisiert im Juli 2017 mit Unterstützung des Erasmus + EULER-Programms",
+                "image": "https://i.vimeocdn.com/video/651039369.jpg",
+                "category": "Geschichten",
+                "sub-category": "Place narratives ",
                 "tags": [
-                    "Kunst",
-                    "Park",
-                    "gemeinschaftlich",
                     "Öffentlicher Raum",
-                    "Stadterneuerung",
-                    "Umwelt"
+                    "Medien"
                 ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "category-description": "Persönliche Wahrnehmungen und Perspektiven auf das Gebiet ",
                 "links": [
                     {
-                        "url": "https://www.landschaftsarchitektur-heute.de/themen/berliner-kulturlandschaften/landschaftsarchitektur-als-kulturelles-erbe/details/16",
-                        "title": "Landschaftsarchitektur heute: Theodor-Wolff-Park",
-                        "description": "Beschreibung des Projekts",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.stadtentwicklung.berlin.de/staedtebau/foerderprogramme/lebendige_zentren/de/gebiete/fri_kre/suedl_friedrichstadt/theodor_wolff_park.shtml",
-                        "title": "Lebendige Zentren und Quartiere: Theodor-Wolff-Park",
-                        "description": "Website vom Land Berlin über Geförderte Projekte",
-                        "type": "website"
+                        "url": "https://vimeo.com/230464313",
+                        "title": "Urban Sketches: Alienation",
+                        "description": "",
+                        "type": "video"
                     }
                 ],
                 "relationships": [
-                    "ca/besselpark_sanierung#11",
-                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
-                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
-                    "ca/iba#80"
+                    "ca/urban_sketches_development_who_is_it_for#33",
+                    "ca/urban_sketches_places_for_all_times#34",
+                    "ca/urban_sketches_victoria_versicherung#35"
                 ],
-                "created_date": "2020-11-17T16:15:35.223+00:00",
-                "updated_date": "2020-11-23T17:20:02.363+00:00",
+                "created_date": "2019-11-09T11:07:33.603+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
                 "weight": 0,
-                "image_credit": "Geomantie Berlin",
+                "image_credit": "Alessandro De Simone",
                 "icon_css_class": ""
             },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3899,
-                    52.5015
-                ]
-            },
-            "id": "ca/theodor_wolff_park#93"
-        },
+            "id": "ca/urban_sketches_alienation#36"
+        }
+    ],
+    "features": [
         {
             "type": "Feature",
             "properties": {
@@ -1227,308 +1129,6 @@
                 ]
             },
             "id": "ca/raimund_abraham_haus#107"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Mehringplatz im Umbau ",
-                "type": "Projekt",
-                "start_date": "2019-02-04T00:00:00.000+00:00",
-                "end_date": "2020-12-18T00:00:00.000+00:00",
-                "description": "Seit Februar 2019 wird der Mehringplatz umgestaltet. Dieses Projekt findet im Rahmen der Neugestaltung des Sanierungsgebietes statt.\nDie Neugestaltung des Mehringplatzes wird nach dem Entwurf der Firma Arge Lavaland / Treibhaus Landschaftsarchitektur durchgeführt. In dem Bauprojekt wird der Innenbereich des Platzes zu einer begrünten Fläche umgestaltet. Die verkehrsberuhigten Flächen des Platzes und weitere Teilen der südlichen Friedrichstadt bis zur Franz-Klühs-Straße werden im Rahmen des Bauvorhabens erneuert und umgestaltet. Die denkmalgerechte Erneuerung und Erweiterung der öffentlichen Beleuchtung sowie die Erneuerung des Stadtmobiliars sind auch vorgesehen.\nInsgesamt sind für die Bauzeit zwei Jahre angesetzt.  Die Bauarbeiten werden in mehreren Schritten durchgeführt - wie Sie im verlinkten Bild (s.o.) sehen können. ",
-                "image": "https://i.ibb.co/3djCf0c/MEHRINGPLATZ-07-06-2016-Arge-Lavaland-und-Treibhaus.png",
-                "category": "Veränderungen",
-                "sub-category": "Öffentlicher Raum",
-                "tags": [
-                    "Urbanität",
-                    "Stadterneuerung",
-                    "Öffentlicher Raum",
-                    "Architektur"
-                ],
-                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
-                "links": [
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/aktuelle-projekte/aktuelle-projekte/",
-                        "title": "Umbau Mehringplatz",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "http://qm-mehringplatz.de/fileadmin/user_upload/2019-02-12-Mehringplatz-Bauablauf-768x494_552px.jpg",
-                        "title": "Bauablauf Mehringplatz",
-                        "description": "",
-                        "type": "image"
-                    }
-                ],
-                "relationships": [
-                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
-                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
-                ],
-                "created_date": "2020-03-25T14:22:15.353+00:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "https://i.ibb.co/3djCf0c/MEHRINGPLATZ-07-06-2016-Arge-Lavaland-und-Treibhaus.png",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.391261,
-                            52.500928
-                        ],
-                        [
-                            13.391368,
-                            52.500477
-                        ],
-                        [
-                            13.391121,
-                            52.500457
-                        ],
-                        [
-                            13.391186,
-                            52.500176
-                        ],
-                        [
-                            13.391432,
-                            52.500196
-                        ],
-                        [
-                            13.391496,
-                            52.499765
-                        ],
-                        [
-                            13.391196,
-                            52.499687
-                        ],
-                        [
-                            13.390885,
-                            52.499576
-                        ],
-                        [
-                            13.390671,
-                            52.499438
-                        ],
-                        [
-                            13.390596,
-                            52.499354
-                        ],
-                        [
-                            13.390424,
-                            52.499138
-                        ],
-                        [
-                            13.390381,
-                            52.498896
-                        ],
-                        [
-                            13.390457,
-                            52.498759
-                        ],
-                        [
-                            13.390585,
-                            52.498596
-                        ],
-                        [
-                            13.39095,
-                            52.498276
-                        ],
-                        [
-                            13.391336,
-                            52.498197
-                        ],
-                        [
-                            13.391657,
-                            52.498178
-                        ],
-                        [
-                            13.391679,
-                            52.497956
-                        ],
-                        [
-                            13.392247,
-                            52.498001
-                        ],
-                        [
-                            13.392172,
-                            52.498224
-                        ],
-                        [
-                            13.392569,
-                            52.498335
-                        ],
-                        [
-                            13.392708,
-                            52.4984
-                        ],
-                        [
-                            13.392794,
-                            52.4984
-                        ],
-                        [
-                            13.392922,
-                            52.498452
-                        ],
-                        [
-                            13.392858,
-                            52.498524
-                        ],
-                        [
-                            13.392933,
-                            52.498602
-                        ],
-                        [
-                            13.393019,
-                            52.4987
-                        ],
-                        [
-                            13.393094,
-                            52.498864
-                        ],
-                        [
-                            13.393137,
-                            52.498864
-                        ],
-                        [
-                            13.393137,
-                            52.498981
-                        ],
-                        [
-                            13.393094,
-                            52.498981
-                        ],
-                        [
-                            13.392987,
-                            52.49921
-                        ],
-                        [
-                            13.392901,
-                            52.499334
-                        ],
-                        [
-                            13.392676,
-                            52.499504
-                        ],
-                        [
-                            13.392504,
-                            52.499595
-                        ],
-                        [
-                            13.392226,
-                            52.499713
-                        ],
-                        [
-                            13.391904,
-                            52.499765
-                        ],
-                        [
-                            13.391754,
-                            52.499778
-                        ],
-                        [
-                            13.391732,
-                            52.499902
-                        ],
-                        [
-                            13.391786,
-                            52.499915
-                        ],
-                        [
-                            13.391722,
-                            52.500183
-                        ],
-                        [
-                            13.39184,
-                            52.500196
-                        ],
-                        [
-                            13.391765,
-                            52.500496
-                        ],
-                        [
-                            13.391689,
-                            52.500503
-                        ],
-                        [
-                            13.391668,
-                            52.500732
-                        ],
-                        [
-                            13.391743,
-                            52.500745
-                        ],
-                        [
-                            13.3917,
-                            52.500856
-                        ],
-                        [
-                            13.391717,
-                            52.500944
-                        ],
-                        [
-                            13.391261,
-                            52.500928
-                        ]
-                    ]
-                ]
-            },
-            "id": "ca/mehringplatz_im_umbau_#62"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Ehemalige Blumengroßmarkthalle  ",
-                "type": "Gebäude",
-                "start_date": "2009-04-03T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Die Blumengroßmarkthalle in der Berliner Friedrichstadt entstand 1922 zunächst nahe der Markthalle II (Lindenhalle), in der seit deren Eröffnung 1886 auch einige Blumengroßhändler:innen ihre Stände unterhielten. Im Jahr 1922 konnte eine eigene Halle für den Blumengroßmarkt auf dem heutigen Fromet-und-Moses-Mendelssohn-Platz erbaut werden. Nach der Zerstörung im Zweiten Weltkrieg entstand an gleicher Stelle ein Provisorium, das erst 1965 der neu gebauten Halle für den Blumenhandel wich. Im Mai 2010 zog der Blumengroßmarkt dann zur Großmarkthalle Beusselstraße (Berlin Mitte) um. Die Halle in der Friedrichstadt wurde verkauft und es wurde mit dem Umbau für das Jüdische Museum Berlin begonnen. \nDie Museumsleitung konnte dank Finanzhilfen in Höhe von elf Millionen Euro, von denen 6,6 Millionen durch den Bund bereitgestellt wurden und der Rest aus Privatspenden stammt, die ehemalige Blumenhalle zur Akademie des Jüdischen Museums Berlin umbauen lassen. Die Michael Blumenthal Akademie beherbergt seit ihrer Eröffnung die Bibliothek, das Archiv, die Bildungsabteilung und Akademieprogramme zu den Themen Migration, Diversität, Judentum und Islam. Die Innengestaltung mit einem U-förmigen Grundriss entwarf Daniel Libeskind, der bereits für den modernen Ausbau des Jüdischen Museums die Pläne geliefert hatte.\nQuelle: wikipedia. ",
-                "image": "https://i.ibb.co/QchL1WY/mehringp.jpg",
-                "category": "Orte",
-                "sub-category": "Öffentlicher Raum",
-                "tags": [
-                    "Erbe",
-                    "Stadtpolitik",
-                    "Öffentlicher Raum",
-                    "Medien",
-                    "Architektur",
-                    "Geschichte "
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "https://www.jmberlin.de/w-michael-blumenthal-akademie",
-                        "title": "Michael Blumenthal Akademie",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://de.wikipedia.org/wiki/Blumengroßmarkthalle_(Berlin-Kreuzberg)",
-                        "title": "Blumengroßmarkthalle Berlin",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-                    "ca/kreative_raumpioniere_am_mehringplatz#41",
-                    "ca/konzentrationslager_gutschow_keller_#61",
-                    "ca/metropolenhaus_am_j_dischen_museum#19"
-                ],
-                "created_date": "2020-04-03T14:18:05.316+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": -3,
-                "image_credit": "Photo Manuela Conti - oginoknauss",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3929,
-                    52.502891
-                ]
-            },
-            "id": "ca/ehemalige_blumengro_markthalle_#65"
         },
         {
             "type": "Feature",
@@ -2104,204 +1704,100 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Milieuschutzgebiet - Soziales Erhaltungsgebiet Südliche Friedrichstadt",
-                "type": "Programm",
-                "start_date": "2017-06-16T00:00:00.000+01:00",
+                "title": "Marie-Juchacz-Denkmal",
+                "type": "Monument",
+                "start_date": "",
                 "end_date": "",
-                "description": "Die Mietpreise sind aufgrund des Bevölkerungszuwachses und der verstärkten Ansiedlung ausländischer Investor:innen deutlich gestiegen. Deswegen sind viele Bewohner:innen bedroht, ihren Haushalt zu verlieren, was insbesondere für Menschen mit geringem Einkommen gilt. Das hat auch zur Folge, dass sich die Bevölkerungszusammensetzung eines Quartiers verändert und tendenziell homogener wird. Deshalb hat die Stadt das Förderprogramm \"Soziale Erhaltungsverordnungen\" - auch \"Milieuschutzgebiet\" genannt - eingeführt. Ziel dieser Regelung ist es, zu verhindern, dass ärmere Bewohner:innen durch Luxusmodernisierungen oder durch Umwandlung von Miet- in Eigentumswohnungen aus ihrem Kiez verdrängt werden. So soll die durchmischte Zusammensetzung der Nachbarschaft geschützt und erhalten werden.\nIm Baugesetzbuch § 172 ist geregelt, unter welchen Voraussetzungen ein Antrag zum \"Milieuschutzgebiet\" stattgegeben wird.\nDie \"Südliche Friedrichstadt\" wurde 2017 zum Milieuschutzgebiet erklärt und ist somit 1 von 61 in Berlin geschützten Gebieten. ",
-                "image": "https://i.ibb.co/hgkZv1p/Milieuschutzgebiet-SF.png",
-                "category": "Gebiet",
-                "sub-category": "social policy",
+                "description": "Die Skulptur von Gerd Winner, 2017, steht in dem kleinen Grünstreifen zwischen dem Wohnkomplex am Mehringplatz und der Gitschiner Straße. Es stellt aus einem bestimmten Winkel das Porträt von Marie Juchacz dar. Neben der Skulptur steht eine Gedenktafel, die über das Leben von Marie Juchacz informiert (ein Auszug):\nMarie Juchacz (1879 - 1956) war eine Politikerin, Frauenrechtlerin und Gründerin der Arbeiterwohlfahrt, deren Zentrale sich bis 1933 Nahe des Mehringplatzes befand.\nSie wurde in die verfassungsgebende Weimarer Nationalversammlung gewählt und sprach am 19. Februar 1919 als erste Frau vor einem deutschen Parlament. \nBis 1933 blieb sie als führende Sozial- und Frauenpolitikerin in der SPD Mitglied des Reichstags. Nach Auflösung der AWO 1933 floh Marie Juchacz ins Exil und kehrte erst 1949 aus den USA nach Deutschland zurück. Hier begleitete sie als Ehrenvorsitzende die Arbeit der wiedergegründeten AWO. ",
+                "image": "https://www.gedenktafeln-in-berlin.de/uploads/tx_tafeln/Juchacz_Denkmal.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "Statuen",
                 "tags": [
-                    "soziale Inklusion",
-                    "Stadterneuerung",
-                    "Urbanität",
-                    "Stadtpolitik",
-                    "Erbe"
+                    "Kunst",
+                    "Kultur",
+                    "Feminismus",
+                    "Ortsname",
+                    "Ausbildung"
                 ],
-                "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
                 "links": [
                     {
-                        "url": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/gruppe-infrastruktur-und-staedtebaufoerderung/aktuelles/suedliche-friedrichstadt-erhaltungsgebiet-gem-172-abs-1-nr-2-baugb-milieuschutz-600453.php",
-                        "title": "Südliche Friedrichstadt Erhaltungsverordnung ",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/staedtebaufoerderung/erhaltungsgebiete/milieuschutzgebiete-492487.php",
-                        "title": "Erhaltungsverordnung Wissenswertes",
+                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/person/alph/J/person/1581/",
+                        "title": "Gedenktafeln in Berlin",
                         "description": "",
                         "type": "website"
                     }
                 ],
-                "relationships": [
-                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
-                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
-                ],
-                "created_date": "2019-11-20T18:18:28.481+00:00",
+                "relationships": [],
+                "created_date": "2020-09-09T16:55:41.788+01:00",
                 "updated_date": "2022-06-29T04:51:57.701+01:00",
                 "weight": 0,
-                "image_credit": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/gruppe-infrastruktur-und-staedtebaufoerderung/aktuelles/suedliche-friedrichstadt-erhaltungsgebiet-gem-172-abs-1-nr-2-baugb-milieuschutz-600453.php",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.388535,
-                            52.49415
-                        ],
-                        [
-                            13.395292,
-                            52.494459
-                        ],
-                        [
-                            13.395058,
-                            52.496312
-                        ],
-                        [
-                            13.396425,
-                            52.495979
-                        ],
-                        [
-                            13.396972,
-                            52.496692
-                        ],
-                        [
-                            13.395175,
-                            52.497
-                        ],
-                        [
-                            13.395917,
-                            52.49833
-                        ],
-                        [
-                            13.395761,
-                            52.498995
-                        ],
-                        [
-                            13.396503,
-                            52.49928
-                        ],
-                        [
-                            13.399511,
-                            52.504672
-                        ],
-                        [
-                            13.396855,
-                            52.505526
-                        ],
-                        [
-                            13.395214,
-                            52.503294
-                        ],
-                        [
-                            13.39498,
-                            52.503508
-                        ],
-                        [
-                            13.394589,
-                            52.504861
-                        ],
-                        [
-                            13.39166,
-                            52.504529
-                        ],
-                        [
-                            13.391777,
-                            52.504292
-                        ],
-                        [
-                            13.390957,
-                            52.504173
-                        ],
-                        [
-                            13.390996,
-                            52.503175
-                        ],
-                        [
-                            13.388769,
-                            52.503128
-                        ],
-                        [
-                            13.385176,
-                            52.502297
-                        ],
-                        [
-                            13.389004,
-                            52.499138
-                        ],
-                        [
-                            13.389551,
-                            52.495623
-                        ],
-                        [
-                            13.388926,
-                            52.494269
-                        ],
-                        [
-                            13.388535,
-                            52.49415
-                        ]
-                    ]
-                ]
-            },
-            "id": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Mehringplatz",
-                "type": "Ort",
-                "start_date": "1968-06-21T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Der Mehringplatz ist der Schwerpunkt der Südlichen Friedrichstadt. Der barocke monumentale Belle-Alliance-Platz am Ende der Nord-Süd-Hauptachse Friedrichstraße neben dem Halleschen Tor (Stadttor nach Halle) wurde im Zweiten Weltkrieg vollständig zerstört. Danach blieb bis Ende der sechziger Jahre ein Viertel am Stadtrand neben der Berliner Mauer. Das Wiederaufbauprojekt wurde in den 1960er Jahren von Hans Scharoun durchgeführt, der vorschlug, die Kreisform des alten Rondells wiederzubeleben. Der Bau der Berliner Mauer veränderte später die Aussichten und es war Werner Düttman - ehemaliger Schüler von Scharoun -, der das Projekt für Wohnzwecke neu anpasste. Der riesige Komplex wurde schließlich zu einer Siedlung für Sozialwohnungen, in der hauptsächlich Haushalte mit Migrationshintergrund lebten. Eigentümer des größten Teils des Wohnkomplexes ist heute GeWoBag, ein öffentliches Privatunternehmen.",
-                "image": "https://i.ibb.co/dGk5L20/photo-2020-02-24-23-45-56.jpg",
-                "category": "Orte",
-                "sub-category": "Öffentlicher Raum",
-                "tags": [
-                    "Öffentlicher Raum",
-                    "Stadterneuerung",
-                    "Quartiersmanagement",
-                    "soziale Inklusion",
-                    "Architektur"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "https://de.wikipedia.org/wiki/Mehringplatz",
-                        "title": "Mehringplatz auf Wikipedia",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "http://travelogues.me/albums/mehringplatz-1/",
-                        "title": "Photographic survey of Mehringplatz by Manuela Conti",
-                        "description": "",
-                        "type": "photoblog"
-                    }
-                ],
-                "relationships": [
-                    "ca/_das_rondell_#45",
-                    "",
-                    "ca/kiezstube_mehringplatz#25",
-                    "ca/caf_madame#26"
-                ],
-                "created_date": "2019-11-21T10:25:33.651+00:00",
-                "updated_date": "2020-05-05T13:37:50.975+01:00",
-                "weight": -4,
-                "image_credit": "Photo Manuela Conti - oginoknauss",
+                "image_credit": "Holger Hübner",
                 "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.391837,
-                    52.498937
+                    13.3929,
+                    52.4983
                 ]
             },
-            "id": "ca/mehringplatz#39"
+            "id": "ca/marie_juchacz_denkmal#89"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Theodor-Wolff-Park",
+                "type": "Ort",
+                "start_date": "1990-01-01T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "Der Theodor-Wolff-Park wurde im Rahmen der Internationalen Bauausstellung (IBA) 1984 angelegt.\nBenannt wurde er 1993 nach dem Schriftsteller und Publizisten, an dessen 50. Todestag.\nDie Idee war es, einzelne geometrische Elemente mit verschiedenen Texturen wie Rasen, Sand oder Wasser anzulegen. Die Wege sind dabei die ausgebauten Trampelpfade, die vorher über den Platz führten. Der Park ist mit Skulpturen des Bildhauers Heinrich Brummack geschmückt.\nSeit 2014 ist der Park als Gartendenkmal eingetragen, als beispielhaftes Projekt zur Reparatur und Verbindung des durch Zerstörung und Baulücken geprägten Gebiets.\nUm der Verwahrlosung entgegen zu wirken, wurde der Park 2015 mit Hilfe eines Bürgerbegehrens in das Förderprogramm Städtebaulicher Denkmalschutz aufgenommen und bis 2019 saniert.",
+                "image": "https://geomantie-berlin.de/wp-content/uploads/2017/07/vor_ort_august.jpg",
+                "category": "Orte",
+                "sub-category": "Park",
+                "tags": [
+                    "Kunst",
+                    "Park",
+                    "gemeinschaftlich",
+                    "Öffentlicher Raum",
+                    "Stadterneuerung",
+                    "Umwelt"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://www.landschaftsarchitektur-heute.de/themen/berliner-kulturlandschaften/landschaftsarchitektur-als-kulturelles-erbe/details/16",
+                        "title": "Landschaftsarchitektur heute: Theodor-Wolff-Park",
+                        "description": "Beschreibung des Projekts",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.stadtentwicklung.berlin.de/staedtebau/foerderprogramme/lebendige_zentren/de/gebiete/fri_kre/suedl_friedrichstadt/theodor_wolff_park.shtml",
+                        "title": "Lebendige Zentren und Quartiere: Theodor-Wolff-Park",
+                        "description": "Website vom Land Berlin über Geförderte Projekte",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/besselpark_sanierung#11",
+                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+                    "ca/iba#80"
+                ],
+                "created_date": "2020-11-17T16:15:35.223+00:00",
+                "updated_date": "2020-11-23T17:20:02.363+00:00",
+                "weight": 0,
+                "image_credit": "Geomantie Berlin",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3899,
+                    52.5015
+                ]
+            },
+            "id": "ca/theodor_wolff_park#93"
         },
         {
             "type": "Feature",
@@ -2760,88 +2256,43 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Ela Kagel - SUPERMARKT",
-                "type": "Interview",
-                "start_date": "2017-03-13T00:00:00.000+00:00",
-                "end_date": "",
-                "description": "SUPERMARKT ist ein unabhängiger Projektraum für digitale Kultur und alternative Ökonomien, in dem Workshops, verschiedene Projekte und Konferenzen veranstaltet werden. Der inhaltliche Fokus von SUPERMARKT liegt auf  der Schnittstelle zwischen Technologie und Gesellschaft. SUPERMARKT wurde im Jahr 2010 von Ela Kagel, David Farine und Zsolt Szentirmai gegründet. Im September 2015 zog der SUPERMARKT in seine jetzigen Räumlichkeiten am Mehringplatz in Kreuzberg um.                           Im Rahmen des EULER Erasmus+ Projektes wurde 2017 ein Videointerview mit Ela Kagel geführt (s.o.). Für das Projekt wurden lokale soziale, wirtschaftliche und institutionelle Akteur:innen interviewt, um die vorhandenen Ressourcen und Potenziale der Südlichen Friedrichstadt zu eruieren.",
-                "image": "https://i.vimeocdn.com/video/669771730_260x146.jpg",
-                "category": "Akteur:innen",
-                "sub-category": "Stakeholder interviews",
+                "title": "Mehringplatz im Umbau ",
+                "type": "Projekt",
+                "start_date": "2019-02-04T00:00:00.000+00:00",
+                "end_date": "2020-12-18T00:00:00.000+00:00",
+                "description": "Seit Februar 2019 wird der Mehringplatz umgestaltet. Dieses Projekt findet im Rahmen der Neugestaltung des Sanierungsgebietes statt.\nDie Neugestaltung des Mehringplatzes wird nach dem Entwurf der Firma Arge Lavaland / Treibhaus Landschaftsarchitektur durchgeführt. In dem Bauprojekt wird der Innenbereich des Platzes zu einer begrünten Fläche umgestaltet. Die verkehrsberuhigten Flächen des Platzes und weitere Teilen der südlichen Friedrichstadt bis zur Franz-Klühs-Straße werden im Rahmen des Bauvorhabens erneuert und umgestaltet. Die denkmalgerechte Erneuerung und Erweiterung der öffentlichen Beleuchtung sowie die Erneuerung des Stadtmobiliars sind auch vorgesehen.\nInsgesamt sind für die Bauzeit zwei Jahre angesetzt.  Die Bauarbeiten werden in mehreren Schritten durchgeführt - wie Sie im verlinkten Bild (s.o.) sehen können. ",
+                "image": "https://i.ibb.co/3djCf0c/MEHRINGPLATZ-07-06-2016-Arge-Lavaland-und-Treibhaus.png",
+                "category": "Veränderungen",
+                "sub-category": "Öffentlicher Raum",
                 "tags": [
-                    "Kultur",
-                    "Medien",
-                    "workspace",
-                    "digital ",
-                    "gemeinschaftlich",
-                    "Plattform",
-                    "Genossenschaft"
+                    "Urbanität",
+                    "Stadterneuerung",
+                    "Öffentlicher Raum",
+                    "Architektur"
                 ],
-                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
                 "links": [
                     {
-                        "url": "https://vimeo.com/215396718",
-                        "title": "Interview mit Ela Kagel 2017",
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/aktuelle-projekte/aktuelle-projekte/",
+                        "title": "Umbau Mehringplatz",
                         "description": "",
-                        "type": "video"
+                        "type": "website"
                     },
                     {
-                        "url": "https://supermarkt-berlin.net/",
-                        "title": "SUPERMARKT Berlin",
+                        "url": "http://qm-mehringplatz.de/fileadmin/user_upload/2019-02-12-Mehringplatz-Bauablauf-768x494_552px.jpg",
+                        "title": "Bauablauf Mehringplatz",
                         "description": "",
-                        "type": "website"
+                        "type": "image"
                     }
                 ],
                 "relationships": [
-                    "ca/supermarkt#12"
+                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
                 ],
-                "created_date": "2019-09-25T17:10:51.974+01:00",
-                "updated_date": "2020-03-27T15:19:32.449+00:00",
+                "created_date": "2020-03-25T14:22:15.353+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
                 "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39265,
-                    52.4996
-                ]
-            },
-            "id": "ca/ela_kagel_supermarkt#13"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Quartiersmanagement am Mehringplatz  ",
-                "type": "Programm",
-                "start_date": "2005-09-26T08:00:00.000+01:00",
-                "end_date": "",
-                "description": "Im Jahr 2005 wurde das Gebiet um den Mehringplatz Teil des nationalen Programms „Soziale Stadt“, welches aus dem Europäischen Fonds für regionale Entwicklung (EFRE) und nationalen Fonds finanziert wird. Im Rahmen dieses Programms werden benachteiligte Gebiete gefördert, indem gemäß den auf Bundesebene festgelegten Standards spezifische soziale Unterstützungsmaßnahmen umgesetzt werden. Das Entwicklungsprogramm Soziale Stadt setzt einen engen räumlichen Fokus und stärkt die lokale Beteiligung. Dies geschieht, indem die Entscheidungsfindung dezentralisiert wird, da die Verantwortung für kleine Projekte auf Bewohner:innen vor Ort übertragen wird. Das Programm richtet ein lokales Quartiersmanagement ein, das verschiedene Arten von Nachbarschaftsfonds verwaltet, die jeweils unterschiedliche Projektarten abdecken und unter direkter Einbeziehung der Bewohner:innen arbeiten. Die Teams des Quartiersmanagements bieten eine Plattform fürs Netzwerken und Austauschen an, auf der Gruppen und Akteur:innen lokale Bedürfnisse, Werte und Visionen erörtern und identifizieren können.",
-                "image": "https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg",
-                "category": "Gebiet",
-                "sub-category": "social policy",
-                "tags": [
-                    "soziale Inklusion",
-                    "Quartiersmanagement"
-                ],
-                "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
-                "links": [
-                    {
-                        "url": "http://www.qm-mehringplatz.de/index.php?id=4",
-                        "title": "QM Website",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/candy_hartmann_quartiersmanagement_#32",
-                    "ca/kunstwelt_e_v_#48"
-                ],
-                "created_date": "2019-09-25T18:32:11.919+01:00",
-                "updated_date": "2020-05-29T15:33:18.169+01:00",
-                "weight": 0,
-                "image_credit": "Foto: https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg",
+                "image_credit": "https://i.ibb.co/3djCf0c/MEHRINGPLATZ-07-06-2016-Arge-Lavaland-und-Treibhaus.png",
                 "icon_css_class": ""
             },
             "geometry": {
@@ -2849,116 +2300,260 @@
                 "coordinates": [
                     [
                         [
-                            13.389109026495703,
-                            52.49811904906019
+                            13.391261,
+                            52.500928
                         ],
                         [
-                            13.390868555609472,
-                            52.497936164411875
+                            13.391368,
+                            52.500477
                         ],
                         [
-                            13.395739447180517,
-                            52.49840643768485
+                            13.391121,
+                            52.500457
                         ],
                         [
-                            13.39543903977085,
-                            52.49902039799883
+                            13.391186,
+                            52.500176
                         ],
                         [
-                            13.39419449478794,
-                            52.50113653593054
+                            13.391432,
+                            52.500196
                         ],
                         [
-                            13.394087206427344,
-                            52.50175045812035
+                            13.391496,
+                            52.499765
                         ],
                         [
-                            13.39440907150913,
-                            52.502338247927895
+                            13.391196,
+                            52.499687
                         ],
                         [
-                            13.391211878363379,
-                            52.502116194924305
+                            13.390885,
+                            52.499576
                         ],
                         [
-                            13.391018759314306,
-                            52.503278695273096
+                            13.390671,
+                            52.499438
                         ],
                         [
-                            13.388851534430273,
-                            52.503148078789366
+                            13.390596,
+                            52.499354
                         ],
                         [
-                            13.38520373017002,
-                            52.502364371736924
+                            13.390424,
+                            52.499138
                         ],
                         [
-                            13.387757193152197,
-                            52.500300542992875
+                            13.390381,
+                            52.498896
                         ],
                         [
-                            13.388830076758154,
-                            52.500587917358274
+                            13.390457,
+                            52.498759
                         ],
                         [
-                            13.389109026495703,
-                            52.49811904906019
+                            13.390585,
+                            52.498596
+                        ],
+                        [
+                            13.39095,
+                            52.498276
+                        ],
+                        [
+                            13.391336,
+                            52.498197
+                        ],
+                        [
+                            13.391657,
+                            52.498178
+                        ],
+                        [
+                            13.391679,
+                            52.497956
+                        ],
+                        [
+                            13.392247,
+                            52.498001
+                        ],
+                        [
+                            13.392172,
+                            52.498224
+                        ],
+                        [
+                            13.392569,
+                            52.498335
+                        ],
+                        [
+                            13.392708,
+                            52.4984
+                        ],
+                        [
+                            13.392794,
+                            52.4984
+                        ],
+                        [
+                            13.392922,
+                            52.498452
+                        ],
+                        [
+                            13.392858,
+                            52.498524
+                        ],
+                        [
+                            13.392933,
+                            52.498602
+                        ],
+                        [
+                            13.393019,
+                            52.4987
+                        ],
+                        [
+                            13.393094,
+                            52.498864
+                        ],
+                        [
+                            13.393137,
+                            52.498864
+                        ],
+                        [
+                            13.393137,
+                            52.498981
+                        ],
+                        [
+                            13.393094,
+                            52.498981
+                        ],
+                        [
+                            13.392987,
+                            52.49921
+                        ],
+                        [
+                            13.392901,
+                            52.499334
+                        ],
+                        [
+                            13.392676,
+                            52.499504
+                        ],
+                        [
+                            13.392504,
+                            52.499595
+                        ],
+                        [
+                            13.392226,
+                            52.499713
+                        ],
+                        [
+                            13.391904,
+                            52.499765
+                        ],
+                        [
+                            13.391754,
+                            52.499778
+                        ],
+                        [
+                            13.391732,
+                            52.499902
+                        ],
+                        [
+                            13.391786,
+                            52.499915
+                        ],
+                        [
+                            13.391722,
+                            52.500183
+                        ],
+                        [
+                            13.39184,
+                            52.500196
+                        ],
+                        [
+                            13.391765,
+                            52.500496
+                        ],
+                        [
+                            13.391689,
+                            52.500503
+                        ],
+                        [
+                            13.391668,
+                            52.500732
+                        ],
+                        [
+                            13.391743,
+                            52.500745
+                        ],
+                        [
+                            13.3917,
+                            52.500856
+                        ],
+                        [
+                            13.391717,
+                            52.500944
+                        ],
+                        [
+                            13.391261,
+                            52.500928
                         ]
                     ]
                 ]
             },
-            "id": "ca/quartiersmanagement_am_mehringplatz_#14"
+            "id": "ca/mehringplatz_im_umbau_#62"
         },
         {
             "type": "Feature",
             "properties": {
-                "title": "Bauhütte",
-                "type": "Projekt",
-                "start_date": "2015-05-01T00:00:00.000+01:00",
+                "title": "Ehemalige Blumengroßmarkthalle  ",
+                "type": "Gebäude",
+                "start_date": "2009-04-03T00:00:00.000+01:00",
                 "end_date": "",
-                "description": "Die BAUHÜTTE ist ein Ort des Austausches über Prozesse in der Südlichen Friedrichstadt. Entstanden ist die BAUHÜTTE  im Zuge der baulichen Entwicklung des ehemaligen Blumengroßmarktes, die auf der Beteiligung von Bürger:innen beruhte. Die nur 60 Quadratmeter große BAUHÜTTE bietet einen Raum, in dem Nachbar:innen, Bauarbeiter:innen und Architekt:innen über temporäre Nutzungen und bauliche Veränderungen im Gebiet diskutieren können. Hier treffen also die Planer:innen und künftigen Nutzer:innen aufeinander! Ziel ist es, den sozialen Zusammenhalt zu stärken und voneinander zu lernen. Seit dem Sommer 2019 hat die BAUHÜTTE einen neuen Standort neben dem TAZ-Neubau bezogen, der von einem Gemeinschaftsgarten umgeben ist. Zusätzlich lädt ein Café auf dem Gelände alle Interessierten zum Verweilen im Nachbarschaftsgarten ein.",
-                "image": "https://i.ibb.co/pJ4HtCY/SWITCH-ON-MEHRINGPLATZ-45-copia.jpg",
-                "category": "Akteur:innen",
-                "sub-category": "Private spaces common oriented",
+                "description": "Die Blumengroßmarkthalle in der Berliner Friedrichstadt entstand 1922 zunächst nahe der Markthalle II (Lindenhalle), in der seit deren Eröffnung 1886 auch einige Blumengroßhändler:innen ihre Stände unterhielten. Im Jahr 1922 konnte eine eigene Halle für den Blumengroßmarkt auf dem heutigen Fromet-und-Moses-Mendelssohn-Platz erbaut werden. Nach der Zerstörung im Zweiten Weltkrieg entstand an gleicher Stelle ein Provisorium, das erst 1965 der neu gebauten Halle für den Blumenhandel wich. Im Mai 2010 zog der Blumengroßmarkt dann zur Großmarkthalle Beusselstraße (Berlin Mitte) um. Die Halle in der Friedrichstadt wurde verkauft und es wurde mit dem Umbau für das Jüdische Museum Berlin begonnen. \nDie Museumsleitung konnte dank Finanzhilfen in Höhe von elf Millionen Euro, von denen 6,6 Millionen durch den Bund bereitgestellt wurden und der Rest aus Privatspenden stammt, die ehemalige Blumenhalle zur Akademie des Jüdischen Museums Berlin umbauen lassen. Die Michael Blumenthal Akademie beherbergt seit ihrer Eröffnung die Bibliothek, das Archiv, die Bildungsabteilung und Akademieprogramme zu den Themen Migration, Diversität, Judentum und Islam. Die Innengestaltung mit einem U-förmigen Grundriss entwarf Daniel Libeskind, der bereits für den modernen Ausbau des Jüdischen Museums die Pläne geliefert hatte.\nQuelle: wikipedia. ",
+                "image": "https://i.ibb.co/QchL1WY/mehringp.jpg",
+                "category": "Orte",
+                "sub-category": "Öffentlicher Raum",
                 "tags": [
-                    "Kultur",
-                    "gemeinschaftlich",
-                    "soziale Inklusion",
-                    "temporäre Nutzung",
-                    "Gärtnern"
+                    "Erbe",
+                    "Stadtpolitik",
+                    "Öffentlicher Raum",
+                    "Medien",
+                    "Architektur",
+                    "Geschichte "
                 ],
-                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
                 "links": [
                     {
-                        "url": "http://www.bauhuette-berlin.de",
-                        "title": "BAUHÜTTE Website",
+                        "url": "https://www.jmberlin.de/w-michael-blumenthal-akademie",
+                        "title": "Michael Blumenthal Akademie",
                         "description": "",
                         "type": "website"
                     },
                     {
-                        "url": "https://ancient-sierra-54813.herokuapp.com/stories/117",
-                        "title": "360° Perspektive",
+                        "url": "https://de.wikipedia.org/wiki/Blumengroßmarkthalle_(Berlin-Kreuzberg)",
+                        "title": "Blumengroßmarkthalle Berlin",
                         "description": "",
                         "type": "website"
                     }
                 ],
                 "relationships": [
-                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+                    "ca/kreative_raumpioniere_am_mehringplatz#41",
+                    "ca/konzentrationslager_gutschow_keller_#61",
+                    "ca/metropolenhaus_am_j_dischen_museum#19"
                 ],
-                "created_date": "2019-09-26T11:07:19.608+01:00",
-                "updated_date": "2022-09-20T13:46:47.430+01:00",
-                "weight": 4,
+                "created_date": "2020-04-03T14:18:05.316+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": -3,
                 "image_credit": "Photo Manuela Conti - oginoknauss",
                 "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3915,
-                    52.5029
+                    13.3929,
+                    52.502891
                 ]
             },
-            "id": "ca/bauh_tte#16"
+            "id": "ca/ehemalige_blumengro_markthalle_#65"
         },
         {
             "type": "Feature",
@@ -3513,6 +3108,208 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Milieuschutzgebiet - Soziales Erhaltungsgebiet Südliche Friedrichstadt",
+                "type": "Programm",
+                "start_date": "2017-06-16T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Die Mietpreise sind aufgrund des Bevölkerungszuwachses und der verstärkten Ansiedlung ausländischer Investor:innen deutlich gestiegen. Deswegen sind viele Bewohner:innen bedroht, ihren Haushalt zu verlieren, was insbesondere für Menschen mit geringem Einkommen gilt. Das hat auch zur Folge, dass sich die Bevölkerungszusammensetzung eines Quartiers verändert und tendenziell homogener wird. Deshalb hat die Stadt das Förderprogramm \"Soziale Erhaltungsverordnungen\" - auch \"Milieuschutzgebiet\" genannt - eingeführt. Ziel dieser Regelung ist es, zu verhindern, dass ärmere Bewohner:innen durch Luxusmodernisierungen oder durch Umwandlung von Miet- in Eigentumswohnungen aus ihrem Kiez verdrängt werden. So soll die durchmischte Zusammensetzung der Nachbarschaft geschützt und erhalten werden.\nIm Baugesetzbuch § 172 ist geregelt, unter welchen Voraussetzungen ein Antrag zum \"Milieuschutzgebiet\" stattgegeben wird.\nDie \"Südliche Friedrichstadt\" wurde 2017 zum Milieuschutzgebiet erklärt und ist somit 1 von 61 in Berlin geschützten Gebieten. ",
+                "image": "https://i.ibb.co/hgkZv1p/Milieuschutzgebiet-SF.png",
+                "category": "Gebiet",
+                "sub-category": "social policy",
+                "tags": [
+                    "soziale Inklusion",
+                    "Stadterneuerung",
+                    "Urbanität",
+                    "Stadtpolitik",
+                    "Erbe"
+                ],
+                "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
+                "links": [
+                    {
+                        "url": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/gruppe-infrastruktur-und-staedtebaufoerderung/aktuelles/suedliche-friedrichstadt-erhaltungsgebiet-gem-172-abs-1-nr-2-baugb-milieuschutz-600453.php",
+                        "title": "Südliche Friedrichstadt Erhaltungsverordnung ",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/staedtebaufoerderung/erhaltungsgebiete/milieuschutzgebiete-492487.php",
+                        "title": "Erhaltungsverordnung Wissenswertes",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
+                ],
+                "created_date": "2019-11-20T18:18:28.481+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/gruppe-infrastruktur-und-staedtebaufoerderung/aktuelles/suedliche-friedrichstadt-erhaltungsgebiet-gem-172-abs-1-nr-2-baugb-milieuschutz-600453.php",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.388535,
+                            52.49415
+                        ],
+                        [
+                            13.395292,
+                            52.494459
+                        ],
+                        [
+                            13.395058,
+                            52.496312
+                        ],
+                        [
+                            13.396425,
+                            52.495979
+                        ],
+                        [
+                            13.396972,
+                            52.496692
+                        ],
+                        [
+                            13.395175,
+                            52.497
+                        ],
+                        [
+                            13.395917,
+                            52.49833
+                        ],
+                        [
+                            13.395761,
+                            52.498995
+                        ],
+                        [
+                            13.396503,
+                            52.49928
+                        ],
+                        [
+                            13.399511,
+                            52.504672
+                        ],
+                        [
+                            13.396855,
+                            52.505526
+                        ],
+                        [
+                            13.395214,
+                            52.503294
+                        ],
+                        [
+                            13.39498,
+                            52.503508
+                        ],
+                        [
+                            13.394589,
+                            52.504861
+                        ],
+                        [
+                            13.39166,
+                            52.504529
+                        ],
+                        [
+                            13.391777,
+                            52.504292
+                        ],
+                        [
+                            13.390957,
+                            52.504173
+                        ],
+                        [
+                            13.390996,
+                            52.503175
+                        ],
+                        [
+                            13.388769,
+                            52.503128
+                        ],
+                        [
+                            13.385176,
+                            52.502297
+                        ],
+                        [
+                            13.389004,
+                            52.499138
+                        ],
+                        [
+                            13.389551,
+                            52.495623
+                        ],
+                        [
+                            13.388926,
+                            52.494269
+                        ],
+                        [
+                            13.388535,
+                            52.49415
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mehringplatz",
+                "type": "Ort",
+                "start_date": "1968-06-21T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Der Mehringplatz ist der Schwerpunkt der Südlichen Friedrichstadt. Der barocke monumentale Belle-Alliance-Platz am Ende der Nord-Süd-Hauptachse Friedrichstraße neben dem Halleschen Tor (Stadttor nach Halle) wurde im Zweiten Weltkrieg vollständig zerstört. Danach blieb bis Ende der sechziger Jahre ein Viertel am Stadtrand neben der Berliner Mauer. Das Wiederaufbauprojekt wurde in den 1960er Jahren von Hans Scharoun durchgeführt, der vorschlug, die Kreisform des alten Rondells wiederzubeleben. Der Bau der Berliner Mauer veränderte später die Aussichten und es war Werner Düttman - ehemaliger Schüler von Scharoun -, der das Projekt für Wohnzwecke neu anpasste. Der riesige Komplex wurde schließlich zu einer Siedlung für Sozialwohnungen, in der hauptsächlich Haushalte mit Migrationshintergrund lebten. Eigentümer des größten Teils des Wohnkomplexes ist heute GeWoBag, ein öffentliches Privatunternehmen.",
+                "image": "https://i.ibb.co/dGk5L20/photo-2020-02-24-23-45-56.jpg",
+                "category": "Orte",
+                "sub-category": "Öffentlicher Raum",
+                "tags": [
+                    "Öffentlicher Raum",
+                    "Stadterneuerung",
+                    "Quartiersmanagement",
+                    "soziale Inklusion",
+                    "Architektur"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://de.wikipedia.org/wiki/Mehringplatz",
+                        "title": "Mehringplatz auf Wikipedia",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://travelogues.me/albums/mehringplatz-1/",
+                        "title": "Photographic survey of Mehringplatz by Manuela Conti",
+                        "description": "",
+                        "type": "photoblog"
+                    }
+                ],
+                "relationships": [
+                    "ca/_das_rondell_#45",
+                    "",
+                    "ca/kiezstube_mehringplatz#25",
+                    "ca/caf_madame#26"
+                ],
+                "created_date": "2019-11-21T10:25:33.651+00:00",
+                "updated_date": "2020-05-05T13:37:50.975+01:00",
+                "weight": -4,
+                "image_credit": "Photo Manuela Conti - oginoknauss",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.391837,
+                    52.498937
+                ]
+            },
+            "id": "ca/mehringplatz#39"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "KMA e.V.",
                 "type": "Organisation",
                 "start_date": "1987-03-13T00:00:00.000+00:00",
@@ -3716,6 +3513,209 @@
                 ]
             },
             "id": "ca/besselpark_sanierung#11"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Ela Kagel - SUPERMARKT",
+                "type": "Interview",
+                "start_date": "2017-03-13T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "SUPERMARKT ist ein unabhängiger Projektraum für digitale Kultur und alternative Ökonomien, in dem Workshops, verschiedene Projekte und Konferenzen veranstaltet werden. Der inhaltliche Fokus von SUPERMARKT liegt auf  der Schnittstelle zwischen Technologie und Gesellschaft. SUPERMARKT wurde im Jahr 2010 von Ela Kagel, David Farine und Zsolt Szentirmai gegründet. Im September 2015 zog der SUPERMARKT in seine jetzigen Räumlichkeiten am Mehringplatz in Kreuzberg um.                           Im Rahmen des EULER Erasmus+ Projektes wurde 2017 ein Videointerview mit Ela Kagel geführt (s.o.). Für das Projekt wurden lokale soziale, wirtschaftliche und institutionelle Akteur:innen interviewt, um die vorhandenen Ressourcen und Potenziale der Südlichen Friedrichstadt zu eruieren.",
+                "image": "https://i.vimeocdn.com/video/669771730_260x146.jpg",
+                "category": "Akteur:innen",
+                "sub-category": "Stakeholder interviews",
+                "tags": [
+                    "Kultur",
+                    "Medien",
+                    "workspace",
+                    "digital ",
+                    "gemeinschaftlich",
+                    "Plattform",
+                    "Genossenschaft"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/215396718",
+                        "title": "Interview mit Ela Kagel 2017",
+                        "description": "",
+                        "type": "video"
+                    },
+                    {
+                        "url": "https://supermarkt-berlin.net/",
+                        "title": "SUPERMARKT Berlin",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/supermarkt#12"
+                ],
+                "created_date": "2019-09-25T17:10:51.974+01:00",
+                "updated_date": "2020-03-27T15:19:32.449+00:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39265,
+                    52.4996
+                ]
+            },
+            "id": "ca/ela_kagel_supermarkt#13"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Quartiersmanagement am Mehringplatz  ",
+                "type": "Programm",
+                "start_date": "2005-09-26T08:00:00.000+01:00",
+                "end_date": "",
+                "description": "Im Jahr 2005 wurde das Gebiet um den Mehringplatz Teil des nationalen Programms „Soziale Stadt“, welches aus dem Europäischen Fonds für regionale Entwicklung (EFRE) und nationalen Fonds finanziert wird. Im Rahmen dieses Programms werden benachteiligte Gebiete gefördert, indem gemäß den auf Bundesebene festgelegten Standards spezifische soziale Unterstützungsmaßnahmen umgesetzt werden. Das Entwicklungsprogramm Soziale Stadt setzt einen engen räumlichen Fokus und stärkt die lokale Beteiligung. Dies geschieht, indem die Entscheidungsfindung dezentralisiert wird, da die Verantwortung für kleine Projekte auf Bewohner:innen vor Ort übertragen wird. Das Programm richtet ein lokales Quartiersmanagement ein, das verschiedene Arten von Nachbarschaftsfonds verwaltet, die jeweils unterschiedliche Projektarten abdecken und unter direkter Einbeziehung der Bewohner:innen arbeiten. Die Teams des Quartiersmanagements bieten eine Plattform fürs Netzwerken und Austauschen an, auf der Gruppen und Akteur:innen lokale Bedürfnisse, Werte und Visionen erörtern und identifizieren können.",
+                "image": "https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg",
+                "category": "Gebiet",
+                "sub-category": "social policy",
+                "tags": [
+                    "soziale Inklusion",
+                    "Quartiersmanagement"
+                ],
+                "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
+                "links": [
+                    {
+                        "url": "http://www.qm-mehringplatz.de/index.php?id=4",
+                        "title": "QM Website",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/candy_hartmann_quartiersmanagement_#32",
+                    "ca/kunstwelt_e_v_#48"
+                ],
+                "created_date": "2019-09-25T18:32:11.919+01:00",
+                "updated_date": "2020-05-29T15:33:18.169+01:00",
+                "weight": 0,
+                "image_credit": "Foto: https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.389109026495703,
+                            52.49811904906019
+                        ],
+                        [
+                            13.390868555609472,
+                            52.497936164411875
+                        ],
+                        [
+                            13.395739447180517,
+                            52.49840643768485
+                        ],
+                        [
+                            13.39543903977085,
+                            52.49902039799883
+                        ],
+                        [
+                            13.39419449478794,
+                            52.50113653593054
+                        ],
+                        [
+                            13.394087206427344,
+                            52.50175045812035
+                        ],
+                        [
+                            13.39440907150913,
+                            52.502338247927895
+                        ],
+                        [
+                            13.391211878363379,
+                            52.502116194924305
+                        ],
+                        [
+                            13.391018759314306,
+                            52.503278695273096
+                        ],
+                        [
+                            13.388851534430273,
+                            52.503148078789366
+                        ],
+                        [
+                            13.38520373017002,
+                            52.502364371736924
+                        ],
+                        [
+                            13.387757193152197,
+                            52.500300542992875
+                        ],
+                        [
+                            13.388830076758154,
+                            52.500587917358274
+                        ],
+                        [
+                            13.389109026495703,
+                            52.49811904906019
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Bauhütte",
+                "type": "Projekt",
+                "start_date": "2015-05-01T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Die BAUHÜTTE ist ein Ort des Austausches über Prozesse in der Südlichen Friedrichstadt. Entstanden ist die BAUHÜTTE  im Zuge der baulichen Entwicklung des ehemaligen Blumengroßmarktes, die auf der Beteiligung von Bürger:innen beruhte. Die nur 60 Quadratmeter große BAUHÜTTE bietet einen Raum, in dem Nachbar:innen, Bauarbeiter:innen und Architekt:innen über temporäre Nutzungen und bauliche Veränderungen im Gebiet diskutieren können. Hier treffen also die Planer:innen und künftigen Nutzer:innen aufeinander! Ziel ist es, den sozialen Zusammenhalt zu stärken und voneinander zu lernen. Seit dem Sommer 2019 hat die BAUHÜTTE einen neuen Standort neben dem TAZ-Neubau bezogen, der von einem Gemeinschaftsgarten umgeben ist. Zusätzlich lädt ein Café auf dem Gelände alle Interessierten zum Verweilen im Nachbarschaftsgarten ein.",
+                "image": "https://i.ibb.co/pJ4HtCY/SWITCH-ON-MEHRINGPLATZ-45-copia.jpg",
+                "category": "Akteur:innen",
+                "sub-category": "Private spaces common oriented",
+                "tags": [
+                    "Kultur",
+                    "gemeinschaftlich",
+                    "soziale Inklusion",
+                    "temporäre Nutzung",
+                    "Gärtnern"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [
+                    {
+                        "url": "http://www.bauhuette-berlin.de",
+                        "title": "BAUHÜTTE Website",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://ancient-sierra-54813.herokuapp.com/stories/117",
+                        "title": "360° Perspektive",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+                ],
+                "created_date": "2019-09-26T11:07:19.608+01:00",
+                "updated_date": "2022-09-20T13:46:47.430+01:00",
+                "weight": 4,
+                "image_credit": "Photo Manuela Conti - oginoknauss",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3915,
+                    52.5029
+                ]
+            },
+            "id": "ca/bauh_tte#16"
         }
     ],
     "properties": {
@@ -3724,7 +3724,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2023-07-27T14:22:05.257Z",
+        "published": "2023-07-28T11:56:31.967Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -3734,7 +3734,7 @@
                 "type": "translation"
             }
         ],
-        "version": 143,
+        "version": 144,
         "taxonomy": [
             {
                 "category": "Gebiet",
@@ -3837,84 +3837,12 @@
     },
     "relationships": [
         {
-            "from": "ca/theodor_wolff_park#93",
-            "to": "ca/besselpark_sanierung#11"
-        },
-        {
-            "from": "ca/theodor_wolff_park#93",
-            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
-        },
-        {
-            "from": "ca/theodor_wolff_park#93",
-            "to": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
-        },
-        {
-            "from": "ca/theodor_wolff_park#93",
-            "to": "ca/iba#80"
-        },
-        {
-            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
-            "to": "ca/gewobag#54"
-        },
-        {
-            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
-            "to": "ca/axel_springer_verlag_neubau#66"
-        },
-        {
-            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
-            "to": "ca/taz_neubau#10"
-        },
-        {
             "from": "ca/raum_f_r______________ein_mural_f_r_den_kiez#106",
             "to": "ca/hau_2#100"
         },
         {
             "from": "ca/raimund_abraham_haus#107",
             "to": "ca/iba#80"
-        },
-        {
-            "from": "ca/mehringplatz_im_umbau_#62",
-            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
-        },
-        {
-            "from": "ca/mehringplatz_im_umbau_#62",
-            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
-        },
-        {
-            "from": "ca/mehringplatz_anknipsen_interviews#64",
-            "to": "ca/switch_on_mehringplatz#68"
-        },
-        {
-            "from": "ca/mehringplatz_anknipsen_interviews#64",
-            "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
-        },
-        {
-            "from": "ca/mehringplatz_anknipsen_interviews#64",
-            "to": "ca/karin_l_cker_caf_madame_#31"
-        },
-        {
-            "from": "ca/mehringplatz_anknipsen_interviews#64",
-            "to": "ca/ela_kagel_supermarkt#13"
-        },
-        {
-            "from": "ca/mehringplatz_anknipsen_interviews#64",
-            "to": "ca/candy_hartmann_quartiersmanagement_#32"
-        },
-        {
-            "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
-        },
-        {
-            "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
-        },
-        {
-            "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/konzentrationslager_gutschow_keller_#61"
-        },
-        {
-            "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/metropolenhaus_am_j_dischen_museum#19"
         },
         {
             "from": "ca/axel_springer_verlag_neubau#66",
@@ -4045,40 +3973,32 @@
             "to": "ca/belle_alliance_platz#40"
         },
         {
-            "from": "ca/urban_sketches_alienation#36",
-            "to": "ca/urban_sketches_development_who_is_it_for#33"
+            "from": "ca/theodor_wolff_park#93",
+            "to": "ca/besselpark_sanierung#11"
         },
         {
-            "from": "ca/urban_sketches_alienation#36",
-            "to": "ca/urban_sketches_places_for_all_times#34"
-        },
-        {
-            "from": "ca/urban_sketches_alienation#36",
-            "to": "ca/urban_sketches_victoria_versicherung#35"
-        },
-        {
-            "from": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+            "from": "ca/theodor_wolff_park#93",
             "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
         },
         {
-            "from": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
-            "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
+            "from": "ca/theodor_wolff_park#93",
+            "to": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
         },
         {
-            "from": "ca/mehringplatz#39",
-            "to": "ca/_das_rondell_#45"
+            "from": "ca/theodor_wolff_park#93",
+            "to": "ca/iba#80"
         },
         {
-            "from": "ca/mehringplatz#39",
-            "to": ""
+            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
+            "to": "ca/gewobag#54"
         },
         {
-            "from": "ca/mehringplatz#39",
-            "to": "ca/kiezstube_mehringplatz#25"
+            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
+            "to": "ca/axel_springer_verlag_neubau#66"
         },
         {
-            "from": "ca/mehringplatz#39",
-            "to": "ca/caf_madame#26"
+            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
+            "to": "ca/taz_neubau#10"
         },
         {
             "from": "ca/belle_alliance_platz#40",
@@ -4201,20 +4121,48 @@
             "to": "ca/amerika_gedenkbibliothek#30"
         },
         {
-            "from": "ca/ela_kagel_supermarkt#13",
-            "to": "ca/supermarkt#12"
+            "from": "ca/mehringplatz_im_umbau_#62",
+            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
         },
         {
-            "from": "ca/quartiersmanagement_am_mehringplatz_#14",
+            "from": "ca/mehringplatz_im_umbau_#62",
+            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+        },
+        {
+            "from": "ca/mehringplatz_anknipsen_interviews#64",
+            "to": "ca/switch_on_mehringplatz#68"
+        },
+        {
+            "from": "ca/mehringplatz_anknipsen_interviews#64",
+            "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
+        },
+        {
+            "from": "ca/mehringplatz_anknipsen_interviews#64",
+            "to": "ca/karin_l_cker_caf_madame_#31"
+        },
+        {
+            "from": "ca/mehringplatz_anknipsen_interviews#64",
+            "to": "ca/ela_kagel_supermarkt#13"
+        },
+        {
+            "from": "ca/mehringplatz_anknipsen_interviews#64",
             "to": "ca/candy_hartmann_quartiersmanagement_#32"
         },
         {
-            "from": "ca/quartiersmanagement_am_mehringplatz_#14",
-            "to": "ca/kunstwelt_e_v_#48"
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
         },
         {
-            "from": "ca/bauh_tte#16",
-            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
+        },
+        {
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/konzentrationslager_gutschow_keller_#61"
+        },
+        {
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/metropolenhaus_am_j_dischen_museum#19"
         },
         {
             "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
@@ -4361,6 +4309,42 @@
             "to": "ca/sammlung_mehringplatz_urban_sketches_#70"
         },
         {
+            "from": "ca/urban_sketches_alienation#36",
+            "to": "ca/urban_sketches_development_who_is_it_for#33"
+        },
+        {
+            "from": "ca/urban_sketches_alienation#36",
+            "to": "ca/urban_sketches_places_for_all_times#34"
+        },
+        {
+            "from": "ca/urban_sketches_alienation#36",
+            "to": "ca/urban_sketches_victoria_versicherung#35"
+        },
+        {
+            "from": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "from": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+            "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
+        },
+        {
+            "from": "ca/mehringplatz#39",
+            "to": "ca/_das_rondell_#45"
+        },
+        {
+            "from": "ca/mehringplatz#39",
+            "to": ""
+        },
+        {
+            "from": "ca/mehringplatz#39",
+            "to": "ca/kiezstube_mehringplatz#25"
+        },
+        {
+            "from": "ca/mehringplatz#39",
+            "to": "ca/caf_madame#26"
+        },
+        {
             "from": "ca/kma_e_v_#7",
             "to": "ca/kmantenne#59"
         },
@@ -4379,6 +4363,22 @@
         {
             "from": "ca/besselpark_sanierung#11",
             "to": "ca/mehringplatz_im_umbau_#62"
+        },
+        {
+            "from": "ca/ela_kagel_supermarkt#13",
+            "to": "ca/supermarkt#12"
+        },
+        {
+            "from": "ca/quartiersmanagement_am_mehringplatz_#14",
+            "to": "ca/candy_hartmann_quartiersmanagement_#32"
+        },
+        {
+            "from": "ca/quartiersmanagement_am_mehringplatz_#14",
+            "to": "ca/kunstwelt_e_v_#48"
+        },
+        {
+            "from": "ca/bauh_tte#16",
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
         }
     ]
 }

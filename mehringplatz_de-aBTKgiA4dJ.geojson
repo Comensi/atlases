@@ -4,6 +4,43 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Neubau Franz-Klühs-Straße 3-9",
+                "type": "",
+                "start_date": "2017-12-12T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "In der Franz-Klühs-Straße 3, 5, 7 und 9 wurde am 12. Dezember 2017 der Grundstein für einen Neubau gelegt. Im Auftrag der kommunalen Wohnungsbaugesellschaft GEWOBAG wird hier ein 7-geschossiges Gebäude entstehen, das Platz für Gewerbe und Mietwohnungen bietet. Die Hälfte der Wohnungen können von Personen mit einem Wohnberechtigungsschein (WBS) angemietet werden, allerdings sollen auch die anderen Wohnungen zu günstigen Mietpreisen vergeben werden. Das neu geschaffene Wohnangebot soll sich besonders an Familien und Einzelhaushalte richten, die an diesem Standort den größten Bedarf an Wohnraum hätten.\nQuelle: Gewobag; Berliner Woche.",
+                "image": "https://i.ibb.co/qMbtxBd/Franz-Kluehs-Nordansicht.jpg",
+                "category": "Orte",
+                "sub-category": "Wohnen/ Unterbringung",
+                "tags": [
+                    "Büro",
+                    "Wohnen"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://www.gewobag.de/bauen-in-berlin/bauprojekte/franz-kluehs-strasse-3-5-7-9/",
+                        "title": "Neubau Gewobag",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/gewobag#54",
+                    "ca/axel_springer_verlag_neubau#66",
+                    "ca/taz_neubau#10"
+                ],
+                "created_date": "2020-11-13T17:10:07.432+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "Gewobag",
+                "icon_css_class": ""
+            },
+            "id": "ca/neubau_franz_kl_hs_stra_e_3_9#91"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Baustadtrat Kreuzberg-Friedrichshain",
                 "type": "Interview",
                 "start_date": "",
@@ -340,85 +377,6 @@
                 "icon_css_class": ""
             },
             "id": "ca/iba#80"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Neubau Franz-Klühs-Straße 3-9",
-                "type": "",
-                "start_date": "2017-12-12T00:00:00.000+00:00",
-                "end_date": "",
-                "description": "In der Franz-Klühs-Straße 3, 5, 7 und 9 wurde am 12. Dezember 2017 der Grundstein für einen Neubau gelegt. Im Auftrag der kommunalen Wohnungsbaugesellschaft GEWOBAG wird hier ein 7-geschossiges Gebäude entstehen, das Platz für Gewerbe und Mietwohnungen bietet. Die Hälfte der Wohnungen können von Personen mit einem Wohnberechtigungsschein (WBS) angemietet werden, allerdings sollen auch die anderen Wohnungen zu günstigen Mietpreisen vergeben werden. Das neu geschaffene Wohnangebot soll sich besonders an Familien und Einzelhaushalte richten, die an diesem Standort den größten Bedarf an Wohnraum hätten.\nQuelle: Gewobag; Berliner Woche.",
-                "image": "https://i.ibb.co/qMbtxBd/Franz-Kluehs-Nordansicht.jpg",
-                "category": "Orte",
-                "sub-category": "Wohnen/ Unterbringung",
-                "tags": [
-                    "Büro",
-                    "Wohnen"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "https://www.gewobag.de/bauen-in-berlin/bauprojekte/franz-kluehs-strasse-3-5-7-9/",
-                        "title": "Neubau Gewobag",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/gewobag#54",
-                    "ca/axel_springer_verlag_neubau#66",
-                    "ca/taz_neubau#10"
-                ],
-                "created_date": "2020-11-13T17:10:07.432+00:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Gewobag",
-                "icon_css_class": ""
-            },
-            "id": "ca/neubau_franz_kl_hs_stra_e_3_9#91"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Kreative Raumpioniere am Mehringplatz",
-                "type": "Projekt",
-                "start_date": "2009-02-25T00:00:00.000+00:00",
-                "end_date": "2011-01-26T00:00:00.000+00:00",
-                "description": "Die Projektstudie „Kreative Raumpioniere am Mehringplatz“ geht aus dem Leitbildprozess “Kreativquartier Südliche Friedrichstadt” hervor, der mit Unterstützung der bezirklichen Wirtschaftsförderung von Friedrichshain-Kreuzberg in den Jahren 2009 und 2010 durchgeführt wurde. Beauftragt wurde die Projektstudie von der Wohnungsbaugesellschaft GEWOBAG. \nZiele der Projektstudie „Kreative Raumpioniere am Mehringplatz“ sind: 1. Die Schaffung von Wirkungsräumen für Kreativwirtschaft, Kultur und impulsgebendem Gewerbe 2. Förderung von sozialer Vielfalt und Nutzungsvielfalt im Sozialraum Mehringplatz 3. Etablierung von Begegnungsorten zwischen Kreativwirtschaft und Bewohner:innen.",
-                "image": "https://i.ibb.co/sQJbBbz/Kreativ-quartier.png",
-                "category": "Visionen",
-                "sub-category": "Study",
-                "tags": [
-                    "Stadterneuerung",
-                    "soziale Inklusion",
-                    "Kunst",
-                    "Kultur",
-                    "Kreativwirtschaft"
-                ],
-                "category-description": "Ideen und Ansätze zur Weiterentwicklung des Gebietes",
-                "links": [
-                    {
-                        "url": "http://kreativ-quartier-berlin.de/Raumpioniere_web.pdf",
-                        "title": "Projektstudie kreative Raumpioniere am Mehringplatz",
-                        "description": "",
-                        "type": "document"
-                    }
-                ],
-                "relationships": [
-                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
-                    "ca/quartiersmanagement_am_mehringplatz_#14",
-                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-                    "",
-                    "ca/ehemalige_blumengro_markthalle_#65"
-                ],
-                "created_date": "2019-11-21T11:30:20.027+00:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Urbanitas  - Projektbüro Kreativquartier S[dliche Friedrichstadt, Berlin 2011",
-                "icon_css_class": ""
-            },
-            "id": "ca/kreative_raumpioniere_am_mehringplatz#41"
         },
         {
             "type": "Feature",
@@ -774,38 +732,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
-                "type": "Organisation",
-                "start_date": "",
-                "end_date": "",
-                "description": "Advisory and exchange committee between the local authority and other stakeholders.\nInfluencing important decision-making processes and goals of redevelopment. In particular:\n- information and advice on construction measures to be developed and implemented with funding for urban regeneration to improve public infrastructure and public space;\n- participation in the design of concepts and formulation and modification of reconstruction targets structure.\nIt consists of: Territorial Representation and the employees of the District and Senate Administration responsible for the redevelopment area and their representatives. Aditionally, the Quartiersmanagement of Mehringplatz and Gewobag take part of the advisory council.",
-                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/01/logo_SanSF_mHintergrundklein.png",
-                "category": "",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "",
-                "links": [
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/der-sanierungsbeirat/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/quartiersmanagement_am_mehringplatz_#14"
-                ],
-                "created_date": "2019-09-26T14:24:58.508+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "id": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Candy Hartmann - Quartiersmanagement ",
                 "type": "Interview",
                 "start_date": "2017-08-14T00:00:00.000+01:00",
@@ -959,9 +885,303 @@
                 "icon_css_class": ""
             },
             "id": "ca/urban_sketches_alienation#36"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Kreative Raumpioniere am Mehringplatz",
+                "type": "Projekt",
+                "start_date": "2009-02-25T00:00:00.000+00:00",
+                "end_date": "2011-01-26T00:00:00.000+00:00",
+                "description": "Die Projektstudie „Kreative Raumpioniere am Mehringplatz“ geht aus dem Leitbildprozess “Kreativquartier Südliche Friedrichstadt” hervor, der mit Unterstützung der bezirklichen Wirtschaftsförderung von Friedrichshain-Kreuzberg in den Jahren 2009 und 2010 durchgeführt wurde. Beauftragt wurde die Projektstudie von der Wohnungsbaugesellschaft GEWOBAG. \nZiele der Projektstudie „Kreative Raumpioniere am Mehringplatz“ sind: 1. Die Schaffung von Wirkungsräumen für Kreativwirtschaft, Kultur und impulsgebendem Gewerbe 2. Förderung von sozialer Vielfalt und Nutzungsvielfalt im Sozialraum Mehringplatz 3. Etablierung von Begegnungsorten zwischen Kreativwirtschaft und Bewohner:innen.",
+                "image": "https://i.ibb.co/sQJbBbz/Kreativ-quartier.png",
+                "category": "Visionen",
+                "sub-category": "Study",
+                "tags": [
+                    "Stadterneuerung",
+                    "soziale Inklusion",
+                    "Kunst",
+                    "Kultur",
+                    "Kreativwirtschaft"
+                ],
+                "category-description": "Ideen und Ansätze zur Weiterentwicklung des Gebietes",
+                "links": [
+                    {
+                        "url": "http://kreativ-quartier-berlin.de/Raumpioniere_web.pdf",
+                        "title": "Projektstudie kreative Raumpioniere am Mehringplatz",
+                        "description": "",
+                        "type": "document"
+                    }
+                ],
+                "relationships": [
+                    "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55",
+                    "ca/quartiersmanagement_am_mehringplatz_#14",
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+                    "",
+                    "ca/ehemalige_blumengro_markthalle_#65"
+                ],
+                "created_date": "2019-11-21T11:30:20.027+00:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "Urbanitas  - Projektbüro Kreativquartier S[dliche Friedrichstadt, Berlin 2011",
+                "icon_css_class": ""
+            },
+            "id": "ca/kreative_raumpioniere_am_mehringplatz#41"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
+                "type": "Organisation",
+                "start_date": "",
+                "end_date": "",
+                "description": "Advisory and exchange committee between the local authority and other stakeholders.\nInfluencing important decision-making processes and goals of redevelopment. In particular:\n- information and advice on construction measures to be developed and implemented with funding for urban regeneration to improve public infrastructure and public space;\n- participation in the design of concepts and formulation and modification of reconstruction targets structure.\nIt consists of: Territorial Representation and the employees of the District and Senate Administration responsible for the redevelopment area and their representatives. Aditionally, the Quartiersmanagement of Mehringplatz and Gewobag take part of the advisory council.",
+                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/01/logo_SanSF_mHintergrundklein.png",
+                "category": "",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/der-sanierungsbeirat/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/quartiersmanagement_am_mehringplatz_#14"
+                ],
+                "created_date": "2019-09-26T14:24:58.508+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
         }
     ],
     "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sanierungszeitung Südseite ",
+                "type": "Mediensammlung",
+                "start_date": "",
+                "end_date": "",
+                "description": "Seit 2014, mit einjähriger Pause in 2021, gibt es die lokale Zeitung “Südseite”, herausgegeben von der asum GmbH für angewandte Sozialforschung und urbanes Management im Auftrag des Bezirksamtes. Vierteljährlich, wird sie an zentralen Stellen ausgelegt und an alle Haushalte im Gebiet verteilt. Die Zeitschrift informiert über Veränderungen und aktuelles Geschehen im Kiez und erzählt Hintergrundgeschichten zu lokalen Orten. ",
+                "image": "https://payload.cargocollective.com/1/9/293282/9569300/IMG_6915_b-Kopie_800.jpg",
+                "category": "Initiativen",
+                "sub-category": "Bildung",
+                "tags": [
+                    "Medien",
+                    "Stadterneuerung",
+                    "Geschichte "
+                ],
+                "category-description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/links-und-downloads/sanierungszeitung-suedseite/",
+                        "title": "Sanierungszeitung Südseite",
+                        "description": "Download",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-09-07T10:43:39.198+01:00",
+                "updated_date": "2023-07-27T14:29:26.155+01:00",
+                "weight": 0,
+                "image_credit": "Veronica Teichmann",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3918,
+                    52.499
+                ]
+            },
+            "id": "ca/sanierungszeitung_s_dseite_#85"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Hallesches Tor",
+                "type": "Ort",
+                "start_date": "",
+                "end_date": "",
+                "description": "Die U-Bahn Station Hallesches Tor hat ihren Namen von dem einstigen Durchgang in der alten Stadtmauer, der sich im 18. Jahrhundert am selben Platz befand. Bis 1812 war dies das einzige Tor im Süden Berlins, durch das Juden:Jüdinnen mit Registrierung in die Stadt gelangen konnten.\nAls eine Haltestelle der ersten U-Bahn Linie in berlin, gehört die Station zu den ältesten der Stadt. Heutzutage, fungiert sie hauptsächlich als Umsteige- und Kreuzungspunkt dreier U-Bahn Linien, die den Ort mit allen Himmelsrichtungen verbinden:\nDie U1 führt direkt in den Osten, zur Warschauer Straße in Friedrichshain, sowie zu der gehobenen Einkaufsstraße Kurfürstenstraße im Westen. Mit der U6 gelangt man richtung Norden, vorbei an zentralen Orten wie der Friedrichstraße und dem Checkpoint Charlie in das Industriegebiet im Wedding oder Richtung Süden durch Kreuzberberg nach Tempelhof. Außerdem verbindet die U3 das Hallesche Tor direkt mit dem Campus der Freien Universität.\nWährend U1 und U3 über einen Hochbahnhof erreichbar sind, befindet sich der Eingang zum unterirdischen Bahnsteig der U6 direkt auf dem Mehringplatz. Die Station steht unter Denkmalschutz.",
+                "image": "https://kondius.com/wp-content/uploads/2017/06/hallesches-tor-web.jpg",
+                "category": "Orte",
+                "sub-category": "Öffentlicher Raum",
+                "tags": [
+                    "Architektur",
+                    "Öffentlicher Raum",
+                    "Urbanität",
+                    "Erbe",
+                    "Geschichte ",
+                    "Ortsname"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [],
+                "relationships": [
+                    "ca/mehringplatz#39",
+                    "ca/belle_alliance_platz#40"
+                ],
+                "created_date": "2020-09-09T15:36:41.016+01:00",
+                "updated_date": "2020-11-10T14:17:40.445+00:00",
+                "weight": 0,
+                "image_credit": "Kondius AG",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3906,
+                    52.4977
+                ]
+            },
+            "id": "ca/hallesches_tor#87"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wolfgang Thiess",
+                "type": "Personen",
+                "start_date": "",
+                "end_date": "",
+                "description": "An der U-Bahn Haltestelle Hallesches Tor ist eine Gedenktafel angebracht, die an den Widerstandskämpfer und Antifaschisten Wolfgang Thiess erinnert, der an diesem Ort Flugblätter aus dem Zug warf und in Plötzensee hingerichtet wurde. Ein Auszug aus dem Text auf der Gedenktafel: \nWolfgang Thiess (1911 - 1943) \nwar nach 1933 bei der illegalen Zeitschrift \"Die innere Front\" für den Wirtschaftsteil verantwortlich. Im April 1942 klebte er Zettel gegen die NS-Propagandaausstellung \"Das Sowjetparadies\". Am 20.10.1942 wurde er verhaftet, dann wurde ihm zusammen mit anderen aus seiner Gruppe der Prozeß gemacht und zum Tode verurteilt. \nDer Entwurf der Tafel im Rahmen des Kreuzberger Antifaschistischen Gedenktafelprogramms stammt von dem Berliner Bildhauer Gerhard Moritzen und stellt in 13 Feldern die Lebensstationen von Thiess dar.\n",
+                "image": "https://www.gedenktafeln-in-berlin.de/typo3temp/pics/Gedenktafel_Hallesche-Tor-Bru__cke__Kreu_1b5649d785.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "Gedenk- oder Informationstafeln",
+                "tags": [
+                    "Kunst",
+                    "Medien",
+                    "Geschichte "
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/person/alph/T/person/1698/",
+                        "title": "Gedenktafeln in Berlin",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-09-09T16:07:11.267+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "OTFW, CC BY-SA 3.0",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3906,
+                    52.4977
+                ]
+            },
+            "id": "ca/wolfgang_thiess#88"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Marie-Juchacz-Denkmal",
+                "type": "Monument",
+                "start_date": "",
+                "end_date": "",
+                "description": "Die Skulptur von Gerd Winner, 2017, steht in dem kleinen Grünstreifen zwischen dem Wohnkomplex am Mehringplatz und der Gitschiner Straße. Es stellt aus einem bestimmten Winkel das Porträt von Marie Juchacz dar. Neben der Skulptur steht eine Gedenktafel, die über das Leben von Marie Juchacz informiert (ein Auszug):\nMarie Juchacz (1879 - 1956) war eine Politikerin, Frauenrechtlerin und Gründerin der Arbeiterwohlfahrt, deren Zentrale sich bis 1933 Nahe des Mehringplatzes befand.\nSie wurde in die verfassungsgebende Weimarer Nationalversammlung gewählt und sprach am 19. Februar 1919 als erste Frau vor einem deutschen Parlament. \nBis 1933 blieb sie als führende Sozial- und Frauenpolitikerin in der SPD Mitglied des Reichstags. Nach Auflösung der AWO 1933 floh Marie Juchacz ins Exil und kehrte erst 1949 aus den USA nach Deutschland zurück. Hier begleitete sie als Ehrenvorsitzende die Arbeit der wiedergegründeten AWO. ",
+                "image": "https://www.gedenktafeln-in-berlin.de/uploads/tx_tafeln/Juchacz_Denkmal.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "Statuen",
+                "tags": [
+                    "Kunst",
+                    "Kultur",
+                    "Feminismus",
+                    "Ortsname",
+                    "Ausbildung"
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [
+                    {
+                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/person/alph/J/person/1581/",
+                        "title": "Gedenktafeln in Berlin",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2020-09-09T16:55:41.788+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "Holger Hübner",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3929,
+                    52.4983
+                ]
+            },
+            "id": "ca/marie_juchacz_denkmal#89"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Theodor-Wolff-Park",
+                "type": "Ort",
+                "start_date": "1990-01-01T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "Der Theodor-Wolff-Park wurde im Rahmen der Internationalen Bauausstellung (IBA) 1984 angelegt.\nBenannt wurde er 1993 nach dem Schriftsteller und Publizisten, an dessen 50. Todestag.\nDie Idee war es, einzelne geometrische Elemente mit verschiedenen Texturen wie Rasen, Sand oder Wasser anzulegen. Die Wege sind dabei die ausgebauten Trampelpfade, die vorher über den Platz führten. Der Park ist mit Skulpturen des Bildhauers Heinrich Brummack geschmückt.\nSeit 2014 ist der Park als Gartendenkmal eingetragen, als beispielhaftes Projekt zur Reparatur und Verbindung des durch Zerstörung und Baulücken geprägten Gebiets.\nUm der Verwahrlosung entgegen zu wirken, wurde der Park 2015 mit Hilfe eines Bürgerbegehrens in das Förderprogramm Städtebaulicher Denkmalschutz aufgenommen und bis 2019 saniert.",
+                "image": "https://geomantie-berlin.de/wp-content/uploads/2017/07/vor_ort_august.jpg",
+                "category": "Orte",
+                "sub-category": "Park",
+                "tags": [
+                    "Kunst",
+                    "Park",
+                    "gemeinschaftlich",
+                    "Öffentlicher Raum",
+                    "Stadterneuerung",
+                    "Umwelt"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://www.landschaftsarchitektur-heute.de/themen/berliner-kulturlandschaften/landschaftsarchitektur-als-kulturelles-erbe/details/16",
+                        "title": "Landschaftsarchitektur heute: Theodor-Wolff-Park",
+                        "description": "Beschreibung des Projekts",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.stadtentwicklung.berlin.de/staedtebau/foerderprogramme/lebendige_zentren/de/gebiete/fri_kre/suedl_friedrichstadt/theodor_wolff_park.shtml",
+                        "title": "Lebendige Zentren und Quartiere: Theodor-Wolff-Park",
+                        "description": "Website vom Land Berlin über Geförderte Projekte",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/besselpark_sanierung#11",
+                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
+                    "ca/iba#80"
+                ],
+                "created_date": "2020-11-17T16:15:35.223+00:00",
+                "updated_date": "2020-11-23T17:20:02.363+00:00",
+                "weight": 0,
+                "image_credit": "Geomantie Berlin",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3899,
+                    52.5015
+                ]
+            },
+            "id": "ca/theodor_wolff_park#93"
+        },
         {
             "type": "Feature",
             "properties": {
@@ -1129,6 +1349,61 @@
                 ]
             },
             "id": "ca/raimund_abraham_haus#107"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Ehemalige Blumengroßmarkthalle  ",
+                "type": "Gebäude",
+                "start_date": "2009-04-03T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Die Blumengroßmarkthalle in der Berliner Friedrichstadt entstand 1922 zunächst nahe der Markthalle II (Lindenhalle), in der seit deren Eröffnung 1886 auch einige Blumengroßhändler:innen ihre Stände unterhielten. Im Jahr 1922 konnte eine eigene Halle für den Blumengroßmarkt auf dem heutigen Fromet-und-Moses-Mendelssohn-Platz erbaut werden. Nach der Zerstörung im Zweiten Weltkrieg entstand an gleicher Stelle ein Provisorium, das erst 1965 der neu gebauten Halle für den Blumenhandel wich. Im Mai 2010 zog der Blumengroßmarkt dann zur Großmarkthalle Beusselstraße (Berlin Mitte) um. Die Halle in der Friedrichstadt wurde verkauft und es wurde mit dem Umbau für das Jüdische Museum Berlin begonnen. \nDie Museumsleitung konnte dank Finanzhilfen in Höhe von elf Millionen Euro, von denen 6,6 Millionen durch den Bund bereitgestellt wurden und der Rest aus Privatspenden stammt, die ehemalige Blumenhalle zur Akademie des Jüdischen Museums Berlin umbauen lassen. Die Michael Blumenthal Akademie beherbergt seit ihrer Eröffnung die Bibliothek, das Archiv, die Bildungsabteilung und Akademieprogramme zu den Themen Migration, Diversität, Judentum und Islam. Die Innengestaltung mit einem U-förmigen Grundriss entwarf Daniel Libeskind, der bereits für den modernen Ausbau des Jüdischen Museums die Pläne geliefert hatte.\nQuelle: wikipedia. ",
+                "image": "https://i.ibb.co/QchL1WY/mehringp.jpg",
+                "category": "Orte",
+                "sub-category": "Öffentlicher Raum",
+                "tags": [
+                    "Erbe",
+                    "Stadtpolitik",
+                    "Öffentlicher Raum",
+                    "Medien",
+                    "Architektur",
+                    "Geschichte "
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "https://www.jmberlin.de/w-michael-blumenthal-akademie",
+                        "title": "Michael Blumenthal Akademie",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://de.wikipedia.org/wiki/Blumengroßmarkthalle_(Berlin-Kreuzberg)",
+                        "title": "Blumengroßmarkthalle Berlin",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+                    "ca/kreative_raumpioniere_am_mehringplatz#41",
+                    "ca/konzentrationslager_gutschow_keller_#61",
+                    "ca/metropolenhaus_am_j_dischen_museum#19"
+                ],
+                "created_date": "2020-04-03T14:18:05.316+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": -3,
+                "image_credit": "Photo Manuela Conti - oginoknauss",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3929,
+                    52.502891
+                ]
+            },
+            "id": "ca/ehemalige_blumengro_markthalle_#65"
         },
         {
             "type": "Feature",
@@ -1578,264 +1853,6 @@
                 ]
             },
             "id": "ca/parkhaus_franz_kl_hs_stra_e_wilhelmstra_e#83"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Sanierungszeitung Südseite ",
-                "type": "Mediensammlung",
-                "start_date": "",
-                "end_date": "",
-                "description": "Seit 2014, mit einjähriger Pause in 2021, gibt es die lokale Zeitung “Südseite”, herausgegeben von der asum GmbH für angewandte Sozialforschung und urbanes Management im Auftrag des Bezirksamtes. Vierteljährlich, wird sie an zentralen Stellen ausgelegt und an alle Haushalte im Gebiet verteilt. Die Zeitschrift informiert über Veränderungen und aktuelles Geschehen im Kiez und erzählt Hintergrundgeschichten zu lokalen Orten. ",
-                "image": "https://payload.cargocollective.com/1/9/293282/9569300/IMG_6915_b-Kopie_800.jpg",
-                "category": "Initiativen",
-                "sub-category": "Bildung",
-                "tags": [
-                    "Medien",
-                    "Stadterneuerung",
-                    "Geschichte "
-                ],
-                "category-description": "Zusammenfügen der oben genannten Kategorien zu einem Rundgang durch das Gebiet",
-                "links": [
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/links-und-downloads/sanierungszeitung-suedseite/",
-                        "title": "Sanierungszeitung Südseite",
-                        "description": "Download",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2020-09-07T10:43:39.198+01:00",
-                "updated_date": "2023-07-27T14:29:26.155+01:00",
-                "weight": 0,
-                "image_credit": "Veronica Teichmann",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3918,
-                    52.499
-                ]
-            },
-            "id": "ca/sanierungszeitung_s_dseite_#85"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Hallesches Tor",
-                "type": "Ort",
-                "start_date": "",
-                "end_date": "",
-                "description": "Die U-Bahn Station Hallesches Tor hat ihren Namen von dem einstigen Durchgang in der alten Stadtmauer, der sich im 18. Jahrhundert am selben Platz befand. Bis 1812 war dies das einzige Tor im Süden Berlins, durch das Juden:Jüdinnen mit Registrierung in die Stadt gelangen konnten.\nAls eine Haltestelle der ersten U-Bahn Linie in berlin, gehört die Station zu den ältesten der Stadt. Heutzutage, fungiert sie hauptsächlich als Umsteige- und Kreuzungspunkt dreier U-Bahn Linien, die den Ort mit allen Himmelsrichtungen verbinden:\nDie U1 führt direkt in den Osten, zur Warschauer Straße in Friedrichshain, sowie zu der gehobenen Einkaufsstraße Kurfürstenstraße im Westen. Mit der U6 gelangt man richtung Norden, vorbei an zentralen Orten wie der Friedrichstraße und dem Checkpoint Charlie in das Industriegebiet im Wedding oder Richtung Süden durch Kreuzberberg nach Tempelhof. Außerdem verbindet die U3 das Hallesche Tor direkt mit dem Campus der Freien Universität.\nWährend U1 und U3 über einen Hochbahnhof erreichbar sind, befindet sich der Eingang zum unterirdischen Bahnsteig der U6 direkt auf dem Mehringplatz. Die Station steht unter Denkmalschutz.",
-                "image": "https://kondius.com/wp-content/uploads/2017/06/hallesches-tor-web.jpg",
-                "category": "Orte",
-                "sub-category": "Öffentlicher Raum",
-                "tags": [
-                    "Architektur",
-                    "Öffentlicher Raum",
-                    "Urbanität",
-                    "Erbe",
-                    "Geschichte ",
-                    "Ortsname"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [],
-                "relationships": [
-                    "ca/mehringplatz#39",
-                    "ca/belle_alliance_platz#40"
-                ],
-                "created_date": "2020-09-09T15:36:41.016+01:00",
-                "updated_date": "2020-11-10T14:17:40.445+00:00",
-                "weight": 0,
-                "image_credit": "Kondius AG",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3906,
-                    52.4977
-                ]
-            },
-            "id": "ca/hallesches_tor#87"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Wolfgang Thiess",
-                "type": "Personen",
-                "start_date": "",
-                "end_date": "",
-                "description": "An der U-Bahn Haltestelle Hallesches Tor ist eine Gedenktafel angebracht, die an den Widerstandskämpfer und Antifaschisten Wolfgang Thiess erinnert, der an diesem Ort Flugblätter aus dem Zug warf und in Plötzensee hingerichtet wurde. Ein Auszug aus dem Text auf der Gedenktafel: \nWolfgang Thiess (1911 - 1943) \nwar nach 1933 bei der illegalen Zeitschrift \"Die innere Front\" für den Wirtschaftsteil verantwortlich. Im April 1942 klebte er Zettel gegen die NS-Propagandaausstellung \"Das Sowjetparadies\". Am 20.10.1942 wurde er verhaftet, dann wurde ihm zusammen mit anderen aus seiner Gruppe der Prozeß gemacht und zum Tode verurteilt. \nDer Entwurf der Tafel im Rahmen des Kreuzberger Antifaschistischen Gedenktafelprogramms stammt von dem Berliner Bildhauer Gerhard Moritzen und stellt in 13 Feldern die Lebensstationen von Thiess dar.\n",
-                "image": "https://www.gedenktafeln-in-berlin.de/typo3temp/pics/Gedenktafel_Hallesche-Tor-Bru__cke__Kreu_1b5649d785.jpg",
-                "category": "Erinnerungen",
-                "sub-category": "Gedenk- oder Informationstafeln",
-                "tags": [
-                    "Kunst",
-                    "Medien",
-                    "Geschichte "
-                ],
-                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [
-                    {
-                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/person/alph/T/person/1698/",
-                        "title": "Gedenktafeln in Berlin",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2020-09-09T16:07:11.267+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "OTFW, CC BY-SA 3.0",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3906,
-                    52.4977
-                ]
-            },
-            "id": "ca/wolfgang_thiess#88"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Marie-Juchacz-Denkmal",
-                "type": "Monument",
-                "start_date": "",
-                "end_date": "",
-                "description": "Die Skulptur von Gerd Winner, 2017, steht in dem kleinen Grünstreifen zwischen dem Wohnkomplex am Mehringplatz und der Gitschiner Straße. Es stellt aus einem bestimmten Winkel das Porträt von Marie Juchacz dar. Neben der Skulptur steht eine Gedenktafel, die über das Leben von Marie Juchacz informiert (ein Auszug):\nMarie Juchacz (1879 - 1956) war eine Politikerin, Frauenrechtlerin und Gründerin der Arbeiterwohlfahrt, deren Zentrale sich bis 1933 Nahe des Mehringplatzes befand.\nSie wurde in die verfassungsgebende Weimarer Nationalversammlung gewählt und sprach am 19. Februar 1919 als erste Frau vor einem deutschen Parlament. \nBis 1933 blieb sie als führende Sozial- und Frauenpolitikerin in der SPD Mitglied des Reichstags. Nach Auflösung der AWO 1933 floh Marie Juchacz ins Exil und kehrte erst 1949 aus den USA nach Deutschland zurück. Hier begleitete sie als Ehrenvorsitzende die Arbeit der wiedergegründeten AWO. ",
-                "image": "https://www.gedenktafeln-in-berlin.de/uploads/tx_tafeln/Juchacz_Denkmal.jpg",
-                "category": "Erinnerungen",
-                "sub-category": "Statuen",
-                "tags": [
-                    "Kunst",
-                    "Kultur",
-                    "Feminismus",
-                    "Ortsname",
-                    "Ausbildung"
-                ],
-                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [
-                    {
-                        "url": "https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/person/alph/J/person/1581/",
-                        "title": "Gedenktafeln in Berlin",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2020-09-09T16:55:41.788+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Holger Hübner",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3929,
-                    52.4983
-                ]
-            },
-            "id": "ca/marie_juchacz_denkmal#89"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Theodor-Wolff-Park",
-                "type": "Ort",
-                "start_date": "1990-01-01T00:00:00.000+00:00",
-                "end_date": "",
-                "description": "Der Theodor-Wolff-Park wurde im Rahmen der Internationalen Bauausstellung (IBA) 1984 angelegt.\nBenannt wurde er 1993 nach dem Schriftsteller und Publizisten, an dessen 50. Todestag.\nDie Idee war es, einzelne geometrische Elemente mit verschiedenen Texturen wie Rasen, Sand oder Wasser anzulegen. Die Wege sind dabei die ausgebauten Trampelpfade, die vorher über den Platz führten. Der Park ist mit Skulpturen des Bildhauers Heinrich Brummack geschmückt.\nSeit 2014 ist der Park als Gartendenkmal eingetragen, als beispielhaftes Projekt zur Reparatur und Verbindung des durch Zerstörung und Baulücken geprägten Gebiets.\nUm der Verwahrlosung entgegen zu wirken, wurde der Park 2015 mit Hilfe eines Bürgerbegehrens in das Förderprogramm Städtebaulicher Denkmalschutz aufgenommen und bis 2019 saniert.",
-                "image": "https://geomantie-berlin.de/wp-content/uploads/2017/07/vor_ort_august.jpg",
-                "category": "Orte",
-                "sub-category": "Park",
-                "tags": [
-                    "Kunst",
-                    "Park",
-                    "gemeinschaftlich",
-                    "Öffentlicher Raum",
-                    "Stadterneuerung",
-                    "Umwelt"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "https://www.landschaftsarchitektur-heute.de/themen/berliner-kulturlandschaften/landschaftsarchitektur-als-kulturelles-erbe/details/16",
-                        "title": "Landschaftsarchitektur heute: Theodor-Wolff-Park",
-                        "description": "Beschreibung des Projekts",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.stadtentwicklung.berlin.de/staedtebau/foerderprogramme/lebendige_zentren/de/gebiete/fri_kre/suedl_friedrichstadt/theodor_wolff_park.shtml",
-                        "title": "Lebendige Zentren und Quartiere: Theodor-Wolff-Park",
-                        "description": "Website vom Land Berlin über Geförderte Projekte",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/besselpark_sanierung#11",
-                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
-                    "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38",
-                    "ca/iba#80"
-                ],
-                "created_date": "2020-11-17T16:15:35.223+00:00",
-                "updated_date": "2020-11-23T17:20:02.363+00:00",
-                "weight": 0,
-                "image_credit": "Geomantie Berlin",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3899,
-                    52.5015
-                ]
-            },
-            "id": "ca/theodor_wolff_park#93"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Belle Alliance Platz",
-                "type": "Ort",
-                "start_date": "1815-01-21T00:00:00.000-00:01",
-                "end_date": "1945-02-03T00:00:00.000+01:00",
-                "description": "Im Jahr 1815 wurde der Name \"Das Rondell\" in Belle-Alliance-Platz als Erinnerung an den Sieg über Napoleon in Waterloo geändert. Die Friedenssäule wurde nur zwanzig Jahre später in der Mitte des Platzes errichtet und die Landschaftsgestaltung vom Direktor des königlichen Gartens Lenné übernommen. Der Platz blieb zunächst unverändert, bis mit dem Abriss der Akzisemauer 1879 und mit der späteren Erschließung durch die Eisenbahn und die U-Bahn das Erscheinungsbild des Platzes stark verändert wurde. Der Belle-Alliance-Platz wurde im II. Weltkrieg stark zerstört und unmittelbar danach in Mehringplatz (nach Franz Mehring) umbenannt. ",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/19061207_berlin_belle_alliance_platz.jpg",
-                "category": "Erinnerungen",
-                "sub-category": "",
-                "tags": [
-                    "Architektur",
-                    "Kreativwirtschaft",
-                    "Ortsname",
-                    "Geschichte "
-                ],
-                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
-                "links": [],
-                "relationships": [
-                    "ca/mehringplatz#39",
-                    "ca/_das_rondell_#45"
-                ],
-                "created_date": "2019-11-21T11:11:07.402+00:00",
-                "updated_date": "2020-08-27T16:43:11.737+01:00",
-                "weight": -1,
-                "image_credit": "Wikimedia",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3918,
-                    52.499
-                ]
-            },
-            "id": "ca/belle_alliance_platz#40"
         },
         {
             "type": "Feature",
@@ -2503,369 +2520,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Ehemalige Blumengroßmarkthalle  ",
-                "type": "Gebäude",
-                "start_date": "2009-04-03T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Die Blumengroßmarkthalle in der Berliner Friedrichstadt entstand 1922 zunächst nahe der Markthalle II (Lindenhalle), in der seit deren Eröffnung 1886 auch einige Blumengroßhändler:innen ihre Stände unterhielten. Im Jahr 1922 konnte eine eigene Halle für den Blumengroßmarkt auf dem heutigen Fromet-und-Moses-Mendelssohn-Platz erbaut werden. Nach der Zerstörung im Zweiten Weltkrieg entstand an gleicher Stelle ein Provisorium, das erst 1965 der neu gebauten Halle für den Blumenhandel wich. Im Mai 2010 zog der Blumengroßmarkt dann zur Großmarkthalle Beusselstraße (Berlin Mitte) um. Die Halle in der Friedrichstadt wurde verkauft und es wurde mit dem Umbau für das Jüdische Museum Berlin begonnen. \nDie Museumsleitung konnte dank Finanzhilfen in Höhe von elf Millionen Euro, von denen 6,6 Millionen durch den Bund bereitgestellt wurden und der Rest aus Privatspenden stammt, die ehemalige Blumenhalle zur Akademie des Jüdischen Museums Berlin umbauen lassen. Die Michael Blumenthal Akademie beherbergt seit ihrer Eröffnung die Bibliothek, das Archiv, die Bildungsabteilung und Akademieprogramme zu den Themen Migration, Diversität, Judentum und Islam. Die Innengestaltung mit einem U-förmigen Grundriss entwarf Daniel Libeskind, der bereits für den modernen Ausbau des Jüdischen Museums die Pläne geliefert hatte.\nQuelle: wikipedia. ",
-                "image": "https://i.ibb.co/QchL1WY/mehringp.jpg",
-                "category": "Orte",
-                "sub-category": "Öffentlicher Raum",
-                "tags": [
-                    "Erbe",
-                    "Stadtpolitik",
-                    "Öffentlicher Raum",
-                    "Medien",
-                    "Architektur",
-                    "Geschichte "
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "https://www.jmberlin.de/w-michael-blumenthal-akademie",
-                        "title": "Michael Blumenthal Akademie",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://de.wikipedia.org/wiki/Blumengroßmarkthalle_(Berlin-Kreuzberg)",
-                        "title": "Blumengroßmarkthalle Berlin",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-                    "ca/kreative_raumpioniere_am_mehringplatz#41",
-                    "ca/konzentrationslager_gutschow_keller_#61",
-                    "ca/metropolenhaus_am_j_dischen_museum#19"
-                ],
-                "created_date": "2020-04-03T14:18:05.316+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": -3,
-                "image_credit": "Photo Manuela Conti - oginoknauss",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3929,
-                    52.502891
-                ]
-            },
-            "id": "ca/ehemalige_blumengro_markthalle_#65"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Projektgruppe am Ex-Blumenmarkt (PxB)",
-                "type": "Projekt",
-                "start_date": "2012-12-01T00:00:00.000+00:00",
-                "end_date": "2019-09-26T11:00:00.000+01:00",
-                "description": "Die Projektgruppe am Ex-Blumengroßmarkt (PxB) ist aus Berlins erstem konzeptbasierten Immobilienvergabeprozess hervorgegangen. Die Projektgruppe ist ein Zusammenschluss aus Architekt:innen und Planer:innen, die an der Entwicklung der Baustellen II, IV und V auf dem ehemaligen Blumengroßmarkt mitwirken. \nZiel der Projektgruppe ist es, mit der Nachbarschaft, dem Senat und dem Bezirk Friedrichshain-Kreuzberg im Dialog zu den jeweiligen Bauprojekten zu sein und so gemeinschaftlich über die künftige Nutzung zu entscheiden und diese modellhaft umzusetzen. Zu diesem Zweck haben sich die Bauherren in einem Standortentwicklungsvertrag verpflichtet gemeinsame Projekte zu organisieren und finanzieren.Die Preisentscheidung war im Dezember 2012. Mittlerweile ist die bauliche Entwicklung des Ex-Blumengroßmarktes größtenteils abgeschlossen.\n",
-                "image": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg",
-                "category": "Veränderungen",
-                "sub-category": "Privater Raum",
-                "tags": [],
-                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
-                "links": [
-                    {
-                        "url": "https://frizz23.com/en/",
-                        "title": "Frizz23 (Kreuzbergs Baugruppe für kulturelles Gewerbe) ",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.metropolenhaus.de/",
-                        "title": "Metropolenhaus",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://www.metropolenhaus.de/ex-blumengrossmarkt-pxb/",
-                        "title": "Projektgruppe am Ex-Blumengroßmarkt",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "http://selbstbaugenossenschaft.de/?page_id=129",
-                        "title": "IBeB",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/bauh_tte#16",
-                    "ca/taz_neubau#10",
-                    "ca/metropolenhaus_am_j_dischen_museum#19",
-                    "ca/ehemalige_blumengro_markthalle_#65"
-                ],
-                "created_date": "2019-09-26T11:29:19.999+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": -4,
-                "image_credit": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.394369,
-                            52.502299
-                        ],
-                        [
-                            13.394219,
-                            52.502345
-                        ],
-                        [
-                            13.392,
-                            52.502175
-                        ],
-                        [
-                            13.391914,
-                            52.502717
-                        ],
-                        [
-                            13.391271,
-                            52.502684
-                        ],
-                        [
-                            13.391163,
-                            52.503383
-                        ],
-                        [
-                            13.39304,
-                            52.503533
-                        ],
-                        [
-                            13.392986,
-                            52.503866
-                        ],
-                        [
-                            13.393801,
-                            52.503912
-                        ],
-                        [
-                            13.394948,
-                            52.503057
-                        ],
-                        [
-                            13.394637,
-                            52.502789
-                        ],
-                        [
-                            13.394455,
-                            52.502547
-                        ],
-                        [
-                            13.394369,
-                            52.502299
-                        ]
-                    ]
-                ]
-            },
-            "id": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Sanierungsgebiet Südliche Friedrichstadt",
-                "type": "Programm",
-                "start_date": "2011-04-01T14:00:00.000+01:00",
-                "end_date": "",
-                "description": "Das Gebiet der Südlichen Friedrichstadt wurde mit Rechtsverordnung vom 15. März 2011 mit Rechtskraft am 1. April 2011 förmlich als Sanierungsgebiet festgesetzt. Die zuvor im Gebiet durchgeführten Vorbereitenden Untersuchungen kamen zu dem Ergebnis, dass die Südliche Friedrichstadt durch erhebliche städtebauliche und funktionale Schwächen gekennzeichnet ist. Das Gebiet wird seiner Lage und Bedeutung in der Innenstadt nicht gerecht, wichtige Areale und öffentliche Standorte sind städtebaulich nicht eingebunden. Darüber hinaus bestehen funktionale und gestalterische Mängel bei den Einrichtungen der sozialen Infrastruktur und im öffentlichen Raum.\nIm Gebiet gilt nun für den Zeitraum der Sanierungsdurchführung das „Besondere Städtebaurecht” gemäß §§ 136-191 BauGB. Die Sanierung erfolgt im „vereinfachten Verfahren” in dem die besonderen sanierungsrechtlichen Vorschriften (Kaufpreisprüfung, Ausgleichsbetrag des Eigentümers, §§ 152-156a BauGB) nicht angewendet werden.",
-                "image": "https://i.ibb.co/MBpXTVW/SFS-Luftild-Geltungsbereich-753x1024.jpg",
-                "category": "Gebiet",
-                "sub-category": "Public space",
-                "tags": [
-                    "Öffentlicher Raum",
-                    "Stadterneuerung"
-                ],
-                "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
-                "links": [
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/",
-                        "title": "Official website",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
-                        "title": "Area",
-                        "description": "",
-                        "type": "image"
-                    }
-                ],
-                "relationships": [
-                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
-                    "",
-                    "ca/besselpark_sanierung#11"
-                ],
-                "created_date": "2019-09-26T14:31:05.747+01:00",
-                "updated_date": "2020-12-03T18:37:55.776+00:00",
-                "weight": 0,
-                "image_credit": "fis-Broker",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.388535,
-                            52.49415
-                        ],
-                        [
-                            13.395292,
-                            52.494459
-                        ],
-                        [
-                            13.395058,
-                            52.496312
-                        ],
-                        [
-                            13.396425,
-                            52.495979
-                        ],
-                        [
-                            13.396972,
-                            52.496692
-                        ],
-                        [
-                            13.395175,
-                            52.497
-                        ],
-                        [
-                            13.395917,
-                            52.49833
-                        ],
-                        [
-                            13.395761,
-                            52.498995
-                        ],
-                        [
-                            13.396503,
-                            52.49928
-                        ],
-                        [
-                            13.399511,
-                            52.504672
-                        ],
-                        [
-                            13.396855,
-                            52.505526
-                        ],
-                        [
-                            13.395214,
-                            52.503294
-                        ],
-                        [
-                            13.39498,
-                            52.503508
-                        ],
-                        [
-                            13.394589,
-                            52.504861
-                        ],
-                        [
-                            13.39166,
-                            52.504529
-                        ],
-                        [
-                            13.391777,
-                            52.504292
-                        ],
-                        [
-                            13.390957,
-                            52.504173
-                        ],
-                        [
-                            13.390996,
-                            52.503175
-                        ],
-                        [
-                            13.388769,
-                            52.503128
-                        ],
-                        [
-                            13.385176,
-                            52.502297
-                        ],
-                        [
-                            13.389004,
-                            52.499138
-                        ],
-                        [
-                            13.389551,
-                            52.495623
-                        ],
-                        [
-                            13.388926,
-                            52.494269
-                        ],
-                        [
-                            13.388535,
-                            52.49415
-                        ]
-                    ]
-                ]
-            },
-            "id": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Kiezstube Mehringplatz",
-                "type": "Ort",
-                "start_date": "2015-04-09T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Die Kiezstube ist ein Ort für die Nachbarschaft, an dem alle willkommen sind. Seit 2015 bietet die Kiezstube am Mehringplatz den Anwohner:innen einen Raum, um sich zu treffen, auszutauschen, gemeinsam zu kochen, Feste zu feiern, Bücher auszuleihen oder die Sozialberatung in Anspruch zu nehmen. Die inhaltliche Ausgestaltung soll sich an den Bedarfen im Kiez orientieren. Die Kiezstube fördert  Menschen dabei, sich gemeinwesenorientiert in ihrem Bezirk engagieren zu können. \nAnfangs wurde die Kiezstube von Die Globale e.V. verwaltet, was nach der Renovierung der Räumlichkeiten 2017 von der Gewobag übernommen wurde. Zurzeit betreibt die Gewobag zehn Kiezstuben in verschiedenen Quartieren Berlins.  ",
-                "image": "https://i.ibb.co/0MTpC1v/csm-2018-eroeffn-kiezstube06-b9c3ae922e.jpg",
-                "category": "Orte",
-                "sub-category": "Gemeinschaftsmittelpunkt",
-                "tags": [
-                    "soziale Inklusion",
-                    "Quartiersmanagement",
-                    "Kochen",
-                    "Veranstaltung",
-                    "gemeinschaftlich",
-                    "Kunst",
-                    "Sprache"
-                ],
-                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
-                "links": [
-                    {
-                        "url": "http://www.qm-mehringplatz.de/index.php?id=79",
-                        "title": "Kiezstube",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/mehringplatz#39",
-                    "",
-                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
-                    "ca/die_globale_e_v_#27"
-                ],
-                "created_date": "2019-09-27T09:27:56.456+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "Foto: M. Hühn",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39305,
-                    52.499245
-                ]
-            },
-            "id": "ca/kiezstube_mehringplatz#25"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Café MaDaMe",
                 "type": "Ort",
                 "start_date": "",
@@ -3310,209 +2964,40 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "KMA e.V.",
-                "type": "Organisation",
-                "start_date": "1987-03-13T00:00:00.000+00:00",
-                "end_date": "",
-                "description": "Die Kreuzberger Musikalische Aktion e.V. ist eine gemeinnützige Initiative und anerkannter freier Träger der Kinder- und Jugendhilfe. Gegründet u.a. von Künstler:innen, Sozialarbeiter:innen und Lehrer:innen, die mit ihren jeweiligen Kompetenzen präventiv gegen Gewalt, Kinder- und Jugendkriminalität, Drogensucht und sexuellen Missbrauch von Kindern und Jugendlichen arbeiten.\nSeit über dreißig Jahren unterstützt die Initiative mit ihren Projekten (Musik, Multimedia, Theater, Sport, kreatives Gestalten...) Kinder und Jugendliche dabei, ihre Potenziale zu entdecken und ihre Fähigkeiten zu entwickeln. Sie unterstützen auch junge arbeitslose Menschen beim Berufseinstieg durch die Nutzung ihrer Werkstätten und Projekträume.  \nDie KMA e.V. ist an drei Standorten vertreten:\nAls KMAntenne in der Friedrichstraße 2-3 mit Aktivitäten im Bereich Tanz, Musik, Theater und Multimedia. Zudem sind sie direkt daneben im Intihaus, wo zahlreiche Initiativen, Vereine und Projekte vertreten sind wie die Kiezküche \"Kantine Kreuzberg\". Seit 2012 ist KMA e.V. zudem im Statthaus Böcklerpark am Landwehrkanal, wo es ein großes Außengelände für Sportakitvitäten und viele Räume für Workshops gibt.",
-                "image": "https://kma-ev.de/typo3conf/ext/template_provider/Resources/Public/Images/logo_orange.png",
-                "category": "Akteur:innen",
-                "sub-category": "NGO/Social work",
-                "tags": [
-                    "Jugend",
-                    "Kultur",
-                    "soziale Inklusion",
-                    "Musik",
-                    "Medien",
-                    "Ausbildung"
-                ],
-                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
-                "links": [
-                    {
-                        "url": "https://kma-ev.de/kma-ev",
-                        "title": "KMA e.V.",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/kmantenne#59",
-                    "ca/h_town_tour#56"
-                ],
-                "created_date": "2019-09-25T15:36:57.647+01:00",
-                "updated_date": "2022-06-29T04:51:57.701+01:00",
-                "weight": 0,
-                "image_credit": "https://www.google.com/search?q=KMA+e.V.+berlin&rlz=1C1CHBF_deDE716DE716&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi9vceQ393oAhWpwsQBHVwqByIQ_AUoBHoECBIQBg&biw=1280&bih=610#imgrc=NkSlDQ95MBOtIM",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39179,
-                    52.50062
-                ]
-            },
-            "id": "ca/kma_e_v_#7"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Victoria Versicherung Kreuzberg",
-                "type": "Gebäude",
-                "start_date": "",
-                "end_date": "",
-                "description": "Das Gebäude wurde in den Jahren 1893-1913 als Zentrale der Victoria Versicherungsgesellschaft erbaut. Ursprünglich umfasste das Gebäude zwölf Höfe und spannte von der Lindenstraße bis zur alten Jakobstraße. Derzeit existieren noch drei dieser Höfe, die in der Umplanung wieder als zentrale Elemente belebt werden. GBP Architekten revitalisiert die historischen Victoriahöfe. Die Straßenfassade wie auch die Hoffassaden werden denkmalpflegerisch in Stand gesetzt. Im Rahmen der denkmalpflegerischen Erneuerung der Fassade werden auch sämtliche Fenster erneuert und energetisch sowie schallschutztechnisch auf den neuesten Stand gebracht. Die Wiederbelebung der historischen Giebelformen im Dachgeschoss in zeitgenössichem Stil rundet den allgemein feinfühligen gestalteten Umbau der Victoriahöfe ab. Die alte Pracht des Gebäudes wird für eine gewerbliche Nutzung zu neuem Leben erweckt.\n",
-                "image": "https://www.arcguide.de/wp-content/uploads/3/8/38768-990x781.jpg",
+                "title": "Belle Alliance Platz",
+                "type": "Ort",
+                "start_date": "1815-01-21T00:00:00.000-00:01",
+                "end_date": "1945-02-03T00:00:00.000+01:00",
+                "description": "Im Jahr 1815 wurde der Name \"Das Rondell\" in Belle-Alliance-Platz als Erinnerung an den Sieg über Napoleon in Waterloo geändert. Die Friedenssäule wurde nur zwanzig Jahre später in der Mitte des Platzes errichtet und die Landschaftsgestaltung vom Direktor des königlichen Gartens Lenné übernommen. Der Platz blieb zunächst unverändert, bis mit dem Abriss der Akzisemauer 1879 und mit der späteren Erschließung durch die Eisenbahn und die U-Bahn das Erscheinungsbild des Platzes stark verändert wurde. Der Belle-Alliance-Platz wurde im II. Weltkrieg stark zerstört und unmittelbar danach in Mehringplatz (nach Franz Mehring) umbenannt. ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/19061207_berlin_belle_alliance_platz.jpg",
                 "category": "Erinnerungen",
-                "sub-category": "Architecture ",
+                "sub-category": "",
                 "tags": [
-                    "Architektur"
+                    "Architektur",
+                    "Kreativwirtschaft",
+                    "Ortsname",
+                    "Geschichte "
                 ],
                 "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
                 "links": [],
                 "relationships": [
-                    "ca/urban_sketches_victoria_versicherung#35"
+                    "ca/mehringplatz#39",
+                    "ca/_das_rondell_#45"
                 ],
-                "created_date": "2019-09-25T15:57:02.813+01:00",
-                "updated_date": "2023-07-26T15:32:55.356+01:00",
-                "weight": 0,
-                "image_credit": "Foto: Christoph Rokitta, Visualisierung: Davide Abbonacci",
+                "created_date": "2019-11-21T11:11:07.402+00:00",
+                "updated_date": "2020-08-27T16:43:11.737+01:00",
+                "weight": -1,
+                "image_credit": "Wikimedia",
                 "icon_css_class": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.39625,
-                    52.50373
+                    13.3918,
+                    52.499
                 ]
             },
-            "id": "ca/victoria_versicherung_kreuzberg#8"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "TAZ Neubau",
-                "type": "Gebäude",
-                "start_date": "2018-09-30T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Das neue Gebäude der taz, Tageszeitung, wird durch Investitionen seiner Genossenschaftsmitglieder ermöglicht. Es steht auf der ehemaligen Kriegsbrache nahe dem Blumengroßmarkt und schafft neue Büroräume, die an die Veränderungen von neuen digitalen Strukturen und Arbeitsformen angepasst sind und gleichzeitig die Arbeitsbedingungen verbessern, sowie eine Kapitalanlage der Genossenschaft darstellen. \nDesignt wurde der Neubau vom E2A Architekturbüro und folgt der Idee “ein System ohne Hierarchien” (Zitat), bei dem das innere Netzwerk das Leitprinzip sein soll. Es soll ein (Zitat) “lebender Organismus” sein: Abgesehen davon, dass es ermöglicht, dass alle Angestellten nun unter einem Dach zusammen arbeiten können - und nicht, wie vorher in drei verschiedenen Häusern - nimmt es eine neue Rolle als Teil des kreativen Quartierprojekts ein und soll eine Offenheit nach außen ausstrahlen, die nicht nur Unterstützer:innen der taz, Genossenschaftsmitglieder, Gründer:innen, Partner:innen, Leser:innen und Abonnent:innen einläd, sondern alle, die das Hausprojekt grundsätzlich unterstützen und daran teilnehmen wollen. \nDer Neubau wurde im Oktober 2018 eröffnet. ",
-                "image": "https://i.pinimg.com/564x/9b/fe/fe/9bfefe50ca7507a3c783edb501f9d376.jpg",
-                "category": "Veränderungen",
-                "sub-category": "Private spaces",
-                "tags": [
-                    "Medien",
-                    "Kultur"
-                ],
-                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
-                "links": [
-                    {
-                        "url": "http://www.taz.de/!p4820/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [],
-                "created_date": "2019-09-25T15:59:09.170+01:00",
-                "updated_date": "2020-09-09T15:16:53.576+01:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39135,
-                    52.50315
-                ]
-            },
-            "id": "ca/taz_neubau#10"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Besselpark Sanierung",
-                "type": "Projekt",
-                "start_date": "2019-08-15T00:00:00.000+01:00",
-                "end_date": "",
-                "description": "Aufgrund seines schlechten Zustands wird der Besselpark in den kommenden Monaten (März bis September 2020) umgestaltet. Dieses Projekt findet im Rahmen der Neugestaltung des Sanierungsgebietes statt. Ziel der Planung ist es, den Besselpark, den Spielplatz, die Besselstraße und die Freiflächen an der Charlottenstraße 98 zusammen zu koordinieren um einen städtischen Gesamtraum herzustellen.   \nIm Rahmen einer Bürger*innenbefragung wurden Wünsche und Anregungen der Bewohner*innen in das landschaftsplanerische Auswahlverfahren aufgenommen. Das Auswahlgremium berücksichtigte die Anmerkungen und das Büro von Rehwaldt Landschaftsarchitekten hat die Verantwortung übernommen, dies in das Projekt hinzuzufügen. Im Mai 2017 wurde der Entwurf im Sanierungsbeirat noch einmal vorgestellt und über Angebote für Jugendliche diskutiert. Dies ist in der weiteren Planung eingeflossen.                                                            ",
-                "image": "https://i.ibb.co/N6zB15d/Besselpark-Perspektive-komp-768x402.jpg",
-                "category": "Veränderungen",
-                "sub-category": "Öffentlicher Raum",
-                "tags": [
-                    "Stadterneuerung",
-                    "Öffentlicher Raum",
-                    "Park"
-                ],
-                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
-                "links": [
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/05/BES_LP3_Pr%C3%A4sentation_170523.pdf",
-                        "title": "sanierung-suedliche-friedrichstadt/ Besselpark",
-                        "description": "",
-                        "type": "website"
-                    },
-                    {
-                        "url": "https://ancient-sierra-54813.herokuapp.com/stories/119",
-                        "title": "360° Perspektive",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
-                    "ca/mehringplatz_im_umbau_#62"
-                ],
-                "created_date": "2019-09-25T16:52:03.678+01:00",
-                "updated_date": "2022-06-27T12:07:35.387+01:00",
-                "weight": 0,
-                "image_credit": " Rehwaldt Landschaftsarchitekten Mai 2017",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            13.390974480686964,
-                            52.504162809150216
-                        ],
-                        [
-                            13.39284129816133,
-                            52.50433913724122
-                        ],
-                        [
-                            13.392894942341627,
-                            52.50400607247558
-                        ],
-                        [
-                            13.39233704286653,
-                            52.50397994964212
-                        ],
-                        [
-                            13.392412144718946,
-                            52.50347708207264
-                        ],
-                        [
-                            13.391682583866896,
-                            52.50342483576153
-                        ],
-                        [
-                            13.391693312702955,
-                            52.50334646617839
-                        ],
-                        [
-                            13.391135413227857,
-                            52.503294219712025
-                        ],
-                        [
-                            13.390974480686964,
-                            52.504162809150216
-                        ]
-                    ]
-                ]
-            },
-            "id": "ca/besselpark_sanierung#11"
+            "id": "ca/belle_alliance_platz#40"
         },
         {
             "type": "Feature",
@@ -3716,6 +3201,521 @@
                 ]
             },
             "id": "ca/bauh_tte#16"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Projektgruppe am Ex-Blumenmarkt (PxB)",
+                "type": "Projekt",
+                "start_date": "2012-12-01T00:00:00.000+00:00",
+                "end_date": "2019-09-26T11:00:00.000+01:00",
+                "description": "Die Projektgruppe am Ex-Blumengroßmarkt (PxB) ist aus Berlins erstem konzeptbasierten Immobilienvergabeprozess hervorgegangen. Die Projektgruppe ist ein Zusammenschluss aus Architekt:innen und Planer:innen, die an der Entwicklung der Baustellen II, IV und V auf dem ehemaligen Blumengroßmarkt mitwirken. \nZiel der Projektgruppe ist es, mit der Nachbarschaft, dem Senat und dem Bezirk Friedrichshain-Kreuzberg im Dialog zu den jeweiligen Bauprojekten zu sein und so gemeinschaftlich über die künftige Nutzung zu entscheiden und diese modellhaft umzusetzen. Zu diesem Zweck haben sich die Bauherren in einem Standortentwicklungsvertrag verpflichtet gemeinsame Projekte zu organisieren und finanzieren.Die Preisentscheidung war im Dezember 2012. Mittlerweile ist die bauliche Entwicklung des Ex-Blumengroßmarktes größtenteils abgeschlossen.\n",
+                "image": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Privater Raum",
+                "tags": [],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "https://frizz23.com/en/",
+                        "title": "Frizz23 (Kreuzbergs Baugruppe für kulturelles Gewerbe) ",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.metropolenhaus.de/",
+                        "title": "Metropolenhaus",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.metropolenhaus.de/ex-blumengrossmarkt-pxb/",
+                        "title": "Projektgruppe am Ex-Blumengroßmarkt",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://selbstbaugenossenschaft.de/?page_id=129",
+                        "title": "IBeB",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/bauh_tte#16",
+                    "ca/taz_neubau#10",
+                    "ca/metropolenhaus_am_j_dischen_museum#19",
+                    "ca/ehemalige_blumengro_markthalle_#65"
+                ],
+                "created_date": "2019-09-26T11:29:19.999+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": -4,
+                "image_credit": "https://www.metropolenhaus.de/wp-content/uploads/2015/03/pxb_11.jpg",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.394369,
+                            52.502299
+                        ],
+                        [
+                            13.394219,
+                            52.502345
+                        ],
+                        [
+                            13.392,
+                            52.502175
+                        ],
+                        [
+                            13.391914,
+                            52.502717
+                        ],
+                        [
+                            13.391271,
+                            52.502684
+                        ],
+                        [
+                            13.391163,
+                            52.503383
+                        ],
+                        [
+                            13.39304,
+                            52.503533
+                        ],
+                        [
+                            13.392986,
+                            52.503866
+                        ],
+                        [
+                            13.393801,
+                            52.503912
+                        ],
+                        [
+                            13.394948,
+                            52.503057
+                        ],
+                        [
+                            13.394637,
+                            52.502789
+                        ],
+                        [
+                            13.394455,
+                            52.502547
+                        ],
+                        [
+                            13.394369,
+                            52.502299
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Sanierungsgebiet Südliche Friedrichstadt",
+                "type": "Programm",
+                "start_date": "2011-04-01T14:00:00.000+01:00",
+                "end_date": "",
+                "description": "Das Gebiet der Südlichen Friedrichstadt wurde mit Rechtsverordnung vom 15. März 2011 mit Rechtskraft am 1. April 2011 förmlich als Sanierungsgebiet festgesetzt. Die zuvor im Gebiet durchgeführten Vorbereitenden Untersuchungen kamen zu dem Ergebnis, dass die Südliche Friedrichstadt durch erhebliche städtebauliche und funktionale Schwächen gekennzeichnet ist. Das Gebiet wird seiner Lage und Bedeutung in der Innenstadt nicht gerecht, wichtige Areale und öffentliche Standorte sind städtebaulich nicht eingebunden. Darüber hinaus bestehen funktionale und gestalterische Mängel bei den Einrichtungen der sozialen Infrastruktur und im öffentlichen Raum.\nIm Gebiet gilt nun für den Zeitraum der Sanierungsdurchführung das „Besondere Städtebaurecht” gemäß §§ 136-191 BauGB. Die Sanierung erfolgt im „vereinfachten Verfahren” in dem die besonderen sanierungsrechtlichen Vorschriften (Kaufpreisprüfung, Ausgleichsbetrag des Eigentümers, §§ 152-156a BauGB) nicht angewendet werden.",
+                "image": "https://i.ibb.co/MBpXTVW/SFS-Luftild-Geltungsbereich-753x1024.jpg",
+                "category": "Gebiet",
+                "sub-category": "Public space",
+                "tags": [
+                    "Öffentlicher Raum",
+                    "Stadterneuerung"
+                ],
+                "category-description": "Durch persönliches Interesse oder durch Verwaltungsgrenzen definiertes Gebiet",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/",
+                        "title": "Official website",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
+                        "title": "Area",
+                        "description": "",
+                        "type": "image"
+                    }
+                ],
+                "relationships": [
+                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+                    "",
+                    "ca/besselpark_sanierung#11"
+                ],
+                "created_date": "2019-09-26T14:31:05.747+01:00",
+                "updated_date": "2020-12-03T18:37:55.776+00:00",
+                "weight": 0,
+                "image_credit": "fis-Broker",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.388535,
+                            52.49415
+                        ],
+                        [
+                            13.395292,
+                            52.494459
+                        ],
+                        [
+                            13.395058,
+                            52.496312
+                        ],
+                        [
+                            13.396425,
+                            52.495979
+                        ],
+                        [
+                            13.396972,
+                            52.496692
+                        ],
+                        [
+                            13.395175,
+                            52.497
+                        ],
+                        [
+                            13.395917,
+                            52.49833
+                        ],
+                        [
+                            13.395761,
+                            52.498995
+                        ],
+                        [
+                            13.396503,
+                            52.49928
+                        ],
+                        [
+                            13.399511,
+                            52.504672
+                        ],
+                        [
+                            13.396855,
+                            52.505526
+                        ],
+                        [
+                            13.395214,
+                            52.503294
+                        ],
+                        [
+                            13.39498,
+                            52.503508
+                        ],
+                        [
+                            13.394589,
+                            52.504861
+                        ],
+                        [
+                            13.39166,
+                            52.504529
+                        ],
+                        [
+                            13.391777,
+                            52.504292
+                        ],
+                        [
+                            13.390957,
+                            52.504173
+                        ],
+                        [
+                            13.390996,
+                            52.503175
+                        ],
+                        [
+                            13.388769,
+                            52.503128
+                        ],
+                        [
+                            13.385176,
+                            52.502297
+                        ],
+                        [
+                            13.389004,
+                            52.499138
+                        ],
+                        [
+                            13.389551,
+                            52.495623
+                        ],
+                        [
+                            13.388926,
+                            52.494269
+                        ],
+                        [
+                            13.388535,
+                            52.49415
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Kiezstube Mehringplatz",
+                "type": "Ort",
+                "start_date": "2015-04-09T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Die Kiezstube ist ein Ort für die Nachbarschaft, an dem alle willkommen sind. Seit 2015 bietet die Kiezstube am Mehringplatz den Anwohner:innen einen Raum, um sich zu treffen, auszutauschen, gemeinsam zu kochen, Feste zu feiern, Bücher auszuleihen oder die Sozialberatung in Anspruch zu nehmen. Die inhaltliche Ausgestaltung soll sich an den Bedarfen im Kiez orientieren. Die Kiezstube fördert  Menschen dabei, sich gemeinwesenorientiert in ihrem Bezirk engagieren zu können. \nAnfangs wurde die Kiezstube von Die Globale e.V. verwaltet, was nach der Renovierung der Räumlichkeiten 2017 von der Gewobag übernommen wurde. Zurzeit betreibt die Gewobag zehn Kiezstuben in verschiedenen Quartieren Berlins.  ",
+                "image": "https://i.ibb.co/0MTpC1v/csm-2018-eroeffn-kiezstube06-b9c3ae922e.jpg",
+                "category": "Orte",
+                "sub-category": "Gemeinschaftsmittelpunkt",
+                "tags": [
+                    "soziale Inklusion",
+                    "Quartiersmanagement",
+                    "Kochen",
+                    "Veranstaltung",
+                    "gemeinschaftlich",
+                    "Kunst",
+                    "Sprache"
+                ],
+                "category-description": "Von der Gemeinschaft als wichtig erachtete Orte",
+                "links": [
+                    {
+                        "url": "http://www.qm-mehringplatz.de/index.php?id=79",
+                        "title": "Kiezstube",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/mehringplatz#39",
+                    "",
+                    "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+                    "ca/die_globale_e_v_#27"
+                ],
+                "created_date": "2019-09-27T09:27:56.456+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "Foto: M. Hühn",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39305,
+                    52.499245
+                ]
+            },
+            "id": "ca/kiezstube_mehringplatz#25"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "KMA e.V.",
+                "type": "Organisation",
+                "start_date": "1987-03-13T00:00:00.000+00:00",
+                "end_date": "",
+                "description": "Die Kreuzberger Musikalische Aktion e.V. ist eine gemeinnützige Initiative und anerkannter freier Träger der Kinder- und Jugendhilfe. Gegründet u.a. von Künstler:innen, Sozialarbeiter:innen und Lehrer:innen, die mit ihren jeweiligen Kompetenzen präventiv gegen Gewalt, Kinder- und Jugendkriminalität, Drogensucht und sexuellen Missbrauch von Kindern und Jugendlichen arbeiten.\nSeit über dreißig Jahren unterstützt die Initiative mit ihren Projekten (Musik, Multimedia, Theater, Sport, kreatives Gestalten...) Kinder und Jugendliche dabei, ihre Potenziale zu entdecken und ihre Fähigkeiten zu entwickeln. Sie unterstützen auch junge arbeitslose Menschen beim Berufseinstieg durch die Nutzung ihrer Werkstätten und Projekträume.  \nDie KMA e.V. ist an drei Standorten vertreten:\nAls KMAntenne in der Friedrichstraße 2-3 mit Aktivitäten im Bereich Tanz, Musik, Theater und Multimedia. Zudem sind sie direkt daneben im Intihaus, wo zahlreiche Initiativen, Vereine und Projekte vertreten sind wie die Kiezküche \"Kantine Kreuzberg\". Seit 2012 ist KMA e.V. zudem im Statthaus Böcklerpark am Landwehrkanal, wo es ein großes Außengelände für Sportakitvitäten und viele Räume für Workshops gibt.",
+                "image": "https://kma-ev.de/typo3conf/ext/template_provider/Resources/Public/Images/logo_orange.png",
+                "category": "Akteur:innen",
+                "sub-category": "NGO/Social work",
+                "tags": [
+                    "Jugend",
+                    "Kultur",
+                    "soziale Inklusion",
+                    "Musik",
+                    "Medien",
+                    "Ausbildung"
+                ],
+                "category-description": "Im Gebiet engagierte Menschen und Initiativen",
+                "links": [
+                    {
+                        "url": "https://kma-ev.de/kma-ev",
+                        "title": "KMA e.V.",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/kmantenne#59",
+                    "ca/h_town_tour#56"
+                ],
+                "created_date": "2019-09-25T15:36:57.647+01:00",
+                "updated_date": "2022-06-29T04:51:57.701+01:00",
+                "weight": 0,
+                "image_credit": "https://www.google.com/search?q=KMA+e.V.+berlin&rlz=1C1CHBF_deDE716DE716&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi9vceQ393oAhWpwsQBHVwqByIQ_AUoBHoECBIQBg&biw=1280&bih=610#imgrc=NkSlDQ95MBOtIM",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39179,
+                    52.50062
+                ]
+            },
+            "id": "ca/kma_e_v_#7"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Victoria Versicherung Kreuzberg",
+                "type": "Gebäude",
+                "start_date": "",
+                "end_date": "",
+                "description": "Das Gebäude wurde in den Jahren 1893-1913 als Zentrale der Victoria Versicherungsgesellschaft erbaut. Ursprünglich umfasste das Gebäude zwölf Höfe und spannte von der Lindenstraße bis zur alten Jakobstraße. Derzeit existieren noch drei dieser Höfe, die in der Umplanung wieder als zentrale Elemente belebt werden. GBP Architekten revitalisiert die historischen Victoriahöfe. Die Straßenfassade wie auch die Hoffassaden werden denkmalpflegerisch in Stand gesetzt. Im Rahmen der denkmalpflegerischen Erneuerung der Fassade werden auch sämtliche Fenster erneuert und energetisch sowie schallschutztechnisch auf den neuesten Stand gebracht. Die Wiederbelebung der historischen Giebelformen im Dachgeschoss in zeitgenössichem Stil rundet den allgemein feinfühligen gestalteten Umbau der Victoriahöfe ab. Die alte Pracht des Gebäudes wird für eine gewerbliche Nutzung zu neuem Leben erweckt.\n",
+                "image": "https://www.arcguide.de/wp-content/uploads/3/8/38768-990x781.jpg",
+                "category": "Erinnerungen",
+                "sub-category": "Architecture ",
+                "tags": [
+                    "Architektur"
+                ],
+                "category-description": "Gesammelte Eindrücke und Andenken zum Gebiet",
+                "links": [],
+                "relationships": [
+                    "ca/urban_sketches_victoria_versicherung#35"
+                ],
+                "created_date": "2019-09-25T15:57:02.813+01:00",
+                "updated_date": "2023-07-26T15:32:55.356+01:00",
+                "weight": 0,
+                "image_credit": "Foto: Christoph Rokitta, Visualisierung: Davide Abbonacci",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39625,
+                    52.50373
+                ]
+            },
+            "id": "ca/victoria_versicherung_kreuzberg#8"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "TAZ Neubau",
+                "type": "Gebäude",
+                "start_date": "2018-09-30T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Das neue Gebäude der taz, Tageszeitung, wird durch Investitionen seiner Genossenschaftsmitglieder ermöglicht. Es steht auf der ehemaligen Kriegsbrache nahe dem Blumengroßmarkt und schafft neue Büroräume, die an die Veränderungen von neuen digitalen Strukturen und Arbeitsformen angepasst sind und gleichzeitig die Arbeitsbedingungen verbessern, sowie eine Kapitalanlage der Genossenschaft darstellen. \nDesignt wurde der Neubau vom E2A Architekturbüro und folgt der Idee “ein System ohne Hierarchien” (Zitat), bei dem das innere Netzwerk das Leitprinzip sein soll. Es soll ein (Zitat) “lebender Organismus” sein: Abgesehen davon, dass es ermöglicht, dass alle Angestellten nun unter einem Dach zusammen arbeiten können - und nicht, wie vorher in drei verschiedenen Häusern - nimmt es eine neue Rolle als Teil des kreativen Quartierprojekts ein und soll eine Offenheit nach außen ausstrahlen, die nicht nur Unterstützer:innen der taz, Genossenschaftsmitglieder, Gründer:innen, Partner:innen, Leser:innen und Abonnent:innen einläd, sondern alle, die das Hausprojekt grundsätzlich unterstützen und daran teilnehmen wollen. \nDer Neubau wurde im Oktober 2018 eröffnet. ",
+                "image": "https://i.pinimg.com/564x/9b/fe/fe/9bfefe50ca7507a3c783edb501f9d376.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Private spaces",
+                "tags": [
+                    "Medien",
+                    "Kultur"
+                ],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "http://www.taz.de/!p4820/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [],
+                "created_date": "2019-09-25T15:59:09.170+01:00",
+                "updated_date": "2020-09-09T15:16:53.576+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39135,
+                    52.50315
+                ]
+            },
+            "id": "ca/taz_neubau#10"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Besselpark Sanierung",
+                "type": "Projekt",
+                "start_date": "2019-08-15T00:00:00.000+01:00",
+                "end_date": "",
+                "description": "Aufgrund seines schlechten Zustands wird der Besselpark in den kommenden Monaten (März bis September 2020) umgestaltet. Dieses Projekt findet im Rahmen der Neugestaltung des Sanierungsgebietes statt. Ziel der Planung ist es, den Besselpark, den Spielplatz, die Besselstraße und die Freiflächen an der Charlottenstraße 98 zusammen zu koordinieren um einen städtischen Gesamtraum herzustellen.   \nIm Rahmen einer Bürger*innenbefragung wurden Wünsche und Anregungen der Bewohner*innen in das landschaftsplanerische Auswahlverfahren aufgenommen. Das Auswahlgremium berücksichtigte die Anmerkungen und das Büro von Rehwaldt Landschaftsarchitekten hat die Verantwortung übernommen, dies in das Projekt hinzuzufügen. Im Mai 2017 wurde der Entwurf im Sanierungsbeirat noch einmal vorgestellt und über Angebote für Jugendliche diskutiert. Dies ist in der weiteren Planung eingeflossen.                                                            ",
+                "image": "https://i.ibb.co/N6zB15d/Besselpark-Perspektive-komp-768x402.jpg",
+                "category": "Veränderungen",
+                "sub-category": "Öffentlicher Raum",
+                "tags": [
+                    "Stadterneuerung",
+                    "Öffentlicher Raum",
+                    "Park"
+                ],
+                "category-description": "Veränderungen des Gebietes durch jüngst realisierte oder laufende Projekte oder Initiativen ",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/05/BES_LP3_Pr%C3%A4sentation_170523.pdf",
+                        "title": "sanierung-suedliche-friedrichstadt/ Besselpark",
+                        "description": "",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://ancient-sierra-54813.herokuapp.com/stories/119",
+                        "title": "360° Perspektive",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+                    "ca/mehringplatz_im_umbau_#62"
+                ],
+                "created_date": "2019-09-25T16:52:03.678+01:00",
+                "updated_date": "2022-06-27T12:07:35.387+01:00",
+                "weight": 0,
+                "image_credit": " Rehwaldt Landschaftsarchitekten Mai 2017",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.390974480686964,
+                            52.504162809150216
+                        ],
+                        [
+                            13.39284129816133,
+                            52.50433913724122
+                        ],
+                        [
+                            13.392894942341627,
+                            52.50400607247558
+                        ],
+                        [
+                            13.39233704286653,
+                            52.50397994964212
+                        ],
+                        [
+                            13.392412144718946,
+                            52.50347708207264
+                        ],
+                        [
+                            13.391682583866896,
+                            52.50342483576153
+                        ],
+                        [
+                            13.391693312702955,
+                            52.50334646617839
+                        ],
+                        [
+                            13.391135413227857,
+                            52.503294219712025
+                        ],
+                        [
+                            13.390974480686964,
+                            52.504162809150216
+                        ]
+                    ]
+                ]
+            },
+            "id": "ca/besselpark_sanierung#11"
         }
     ],
     "properties": {
@@ -3724,7 +3724,7 @@
         "id": "mehringplatz_de",
         "description": "Mehringplatz Anknipsen (Switch on Mehringplatz) ist ein digitaler Atlas, der sich mit der Südlichen Friedrichstadt und den umliegenden Gebieten Kreuzberg und Mitte beschäftigt. Ziel ist es, die Komplexität und Vielfalt der lokalen Identität aufzuzeigen.\r\nIm Atlas sind deswegen persönliche Erzählungen, Erinnerungen, qualitative wie quantitative Daten und Visionen  zur Nachbarschaft gesammelt. Es werden lokale Initiativen und Einzelpersonen, Planungen und politische Ambitionen zum Gebiet dargestellt, bei denen es um bürgerschaftliches Engagement, Co-Creation und soziale Inklusion geht.  \r\nDie Ausarbeitung des Atlas begann 2016 im Rahmen des EU-finanzierten Erasmus+ Projekts EULER als Ergebnis von Werkstätten, die sich mit den Themen Stadterkundung, kollaboratives Mapping und digitalem Geschichtenerzählen befasst haben. Derzeit wird im Rahmen des COMENSI-Projekts dieser Prototyp des digitalen Atlas getestet, um die gemeinsam mit der Nachbarschaft erstellten Inhalte zu veröffentlichen.",
         "image": "https://i.ibb.co/QMQTC7f/mehringplatz-switch-on.jpg",
-        "published": "2023-07-28T11:56:31.967Z",
+        "published": "2023-07-31T14:05:47.193Z",
         "links": [
             {
                 "title": "Switch on Mehringplatz - English",
@@ -3734,7 +3734,7 @@
                 "type": "translation"
             }
         ],
-        "version": 144,
+        "version": 145,
         "taxonomy": [
             {
                 "category": "Gebiet",
@@ -3837,12 +3837,64 @@
     },
     "relationships": [
         {
+            "from": "ca/hallesches_tor#87",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/hallesches_tor#87",
+            "to": "ca/belle_alliance_platz#40"
+        },
+        {
+            "from": "ca/theodor_wolff_park#93",
+            "to": "ca/besselpark_sanierung#11"
+        },
+        {
+            "from": "ca/theodor_wolff_park#93",
+            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "from": "ca/theodor_wolff_park#93",
+            "to": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
+        },
+        {
+            "from": "ca/theodor_wolff_park#93",
+            "to": "ca/iba#80"
+        },
+        {
+            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
+            "to": "ca/gewobag#54"
+        },
+        {
+            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
+            "to": "ca/axel_springer_verlag_neubau#66"
+        },
+        {
+            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
+            "to": "ca/taz_neubau#10"
+        },
+        {
             "from": "ca/raum_f_r______________ein_mural_f_r_den_kiez#106",
             "to": "ca/hau_2#100"
         },
         {
             "from": "ca/raimund_abraham_haus#107",
             "to": "ca/iba#80"
+        },
+        {
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+        },
+        {
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
+        },
+        {
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/konzentrationslager_gutschow_keller_#61"
+        },
+        {
+            "from": "ca/ehemalige_blumengro_markthalle_#65",
+            "to": "ca/metropolenhaus_am_j_dischen_museum#19"
         },
         {
             "from": "ca/axel_springer_verlag_neubau#66",
@@ -3965,70 +4017,6 @@
             "to": "ca/urban_sketches_alienation#36"
         },
         {
-            "from": "ca/hallesches_tor#87",
-            "to": "ca/mehringplatz#39"
-        },
-        {
-            "from": "ca/hallesches_tor#87",
-            "to": "ca/belle_alliance_platz#40"
-        },
-        {
-            "from": "ca/theodor_wolff_park#93",
-            "to": "ca/besselpark_sanierung#11"
-        },
-        {
-            "from": "ca/theodor_wolff_park#93",
-            "to": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22"
-        },
-        {
-            "from": "ca/theodor_wolff_park#93",
-            "to": "ca/milieuschutzgebiet_soziales_erhaltungsgebiet_s_dliche_friedrichstadt#38"
-        },
-        {
-            "from": "ca/theodor_wolff_park#93",
-            "to": "ca/iba#80"
-        },
-        {
-            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
-            "to": "ca/gewobag#54"
-        },
-        {
-            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
-            "to": "ca/axel_springer_verlag_neubau#66"
-        },
-        {
-            "from": "ca/neubau_franz_kl_hs_stra_e_3_9#91",
-            "to": "ca/taz_neubau#10"
-        },
-        {
-            "from": "ca/belle_alliance_platz#40",
-            "to": "ca/mehringplatz#39"
-        },
-        {
-            "from": "ca/belle_alliance_platz#40",
-            "to": "ca/_das_rondell_#45"
-        },
-        {
-            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
-        },
-        {
-            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
-        },
-        {
-            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
-        },
-        {
-            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": ""
-        },
-        {
-            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
-            "to": "ca/ehemalige_blumengro_markthalle_#65"
-        },
-        {
             "from": "ca/eingemeindung_friedrichstadt_#44",
             "to": "ca/gr_ndung_friedrichstadt_#42"
         },
@@ -4147,70 +4135,6 @@
         {
             "from": "ca/mehringplatz_anknipsen_interviews#64",
             "to": "ca/candy_hartmann_quartiersmanagement_#32"
-        },
-        {
-            "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
-        },
-        {
-            "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/kreative_raumpioniere_am_mehringplatz#41"
-        },
-        {
-            "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/konzentrationslager_gutschow_keller_#61"
-        },
-        {
-            "from": "ca/ehemalige_blumengro_markthalle_#65",
-            "to": "ca/metropolenhaus_am_j_dischen_museum#19"
-        },
-        {
-            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-            "to": "ca/bauh_tte#16"
-        },
-        {
-            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-            "to": "ca/taz_neubau#10"
-        },
-        {
-            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-            "to": "ca/metropolenhaus_am_j_dischen_museum#19"
-        },
-        {
-            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
-            "to": "ca/ehemalige_blumengro_markthalle_#65"
-        },
-        {
-            "from": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
-            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
-        },
-        {
-            "from": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
-            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
-        },
-        {
-            "from": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
-            "to": ""
-        },
-        {
-            "from": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
-            "to": "ca/besselpark_sanierung#11"
-        },
-        {
-            "from": "ca/kiezstube_mehringplatz#25",
-            "to": "ca/mehringplatz#39"
-        },
-        {
-            "from": "ca/kiezstube_mehringplatz#25",
-            "to": ""
-        },
-        {
-            "from": "ca/kiezstube_mehringplatz#25",
-            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
-        },
-        {
-            "from": "ca/kiezstube_mehringplatz#25",
-            "to": "ca/die_globale_e_v_#27"
         },
         {
             "from": "ca/caf_madame#26",
@@ -4345,6 +4269,98 @@
             "to": "ca/caf_madame#26"
         },
         {
+            "from": "ca/belle_alliance_platz#40",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/belle_alliance_platz#40",
+            "to": "ca/_das_rondell_#45"
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "ca/florian_schmidt_baustadtrat_friedrichshain_kreuzberg#55"
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": ""
+        },
+        {
+            "from": "ca/kreative_raumpioniere_am_mehringplatz#41",
+            "to": "ca/ehemalige_blumengro_markthalle_#65"
+        },
+        {
+            "from": "ca/ela_kagel_supermarkt#13",
+            "to": "ca/supermarkt#12"
+        },
+        {
+            "from": "ca/quartiersmanagement_am_mehringplatz_#14",
+            "to": "ca/candy_hartmann_quartiersmanagement_#32"
+        },
+        {
+            "from": "ca/quartiersmanagement_am_mehringplatz_#14",
+            "to": "ca/kunstwelt_e_v_#48"
+        },
+        {
+            "from": "ca/bauh_tte#16",
+            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
+        },
+        {
+            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+            "to": "ca/bauh_tte#16"
+        },
+        {
+            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+            "to": "ca/taz_neubau#10"
+        },
+        {
+            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+            "to": "ca/metropolenhaus_am_j_dischen_museum#19"
+        },
+        {
+            "from": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17",
+            "to": "ca/ehemalige_blumengro_markthalle_#65"
+        },
+        {
+            "from": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21",
+            "to": "ca/quartiersmanagement_am_mehringplatz_#14"
+        },
+        {
+            "from": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+        },
+        {
+            "from": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+            "to": ""
+        },
+        {
+            "from": "ca/sanierungsgebiet_s_dliche_friedrichstadt#22",
+            "to": "ca/besselpark_sanierung#11"
+        },
+        {
+            "from": "ca/kiezstube_mehringplatz#25",
+            "to": "ca/mehringplatz#39"
+        },
+        {
+            "from": "ca/kiezstube_mehringplatz#25",
+            "to": ""
+        },
+        {
+            "from": "ca/kiezstube_mehringplatz#25",
+            "to": "ca/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+        },
+        {
+            "from": "ca/kiezstube_mehringplatz#25",
+            "to": "ca/die_globale_e_v_#27"
+        },
+        {
             "from": "ca/kma_e_v_#7",
             "to": "ca/kmantenne#59"
         },
@@ -4363,22 +4379,6 @@
         {
             "from": "ca/besselpark_sanierung#11",
             "to": "ca/mehringplatz_im_umbau_#62"
-        },
-        {
-            "from": "ca/ela_kagel_supermarkt#13",
-            "to": "ca/supermarkt#12"
-        },
-        {
-            "from": "ca/quartiersmanagement_am_mehringplatz_#14",
-            "to": "ca/candy_hartmann_quartiersmanagement_#32"
-        },
-        {
-            "from": "ca/quartiersmanagement_am_mehringplatz_#14",
-            "to": "ca/kunstwelt_e_v_#48"
-        },
-        {
-            "from": "ca/bauh_tte#16",
-            "to": "ca/projektgruppe_am_ex_blumenmarkt_pxb_#17"
         }
     ]
 }

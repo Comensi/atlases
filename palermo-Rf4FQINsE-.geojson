@@ -1,74 +1,91 @@
 {
     "type": "FeatureCollection",
-    "features": [
+    "nonGeoFeatures": [
         {
             "type": "Feature",
             "properties": {
-                "title": "Le Edicole votive del Capo",
-                "type": "Azione partecipativa",
-                "start_date": "",
-                "end_date": "",
-                "description": "Nella raccolta di #IdeePerIlCapo il tema della valorizzazione e salvaguardia delle edicole votive, o \"cappelluzze\" in palermitano, pone l'accento su quanti elementi del patrimonio culturale possono essere valorizzati insieme agli abitanti del quartiere ascoltando le loro voci, i loro racconti e le loro idee",
-                "image": "https://i.postimg.cc/MGcKsQvJ/Schermata-2021-01-11-alle-16-57-37.png",
-                "category": "Idee e Proposte",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/499197521",
-                        "title": "",
-                        "description": "",
-                        "type": "video"
-                    }
-                ],
-                "relationships": [
-                    "ca/laboratori_di_quartiere_ideeperilcapo#76"
-                ],
-                "created_date": "2020-10-15T08:25:23.446-07:00",
-                "updated_date": "2021-01-11T07:59:19.204-08:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3559,
-                    38.117
-                ]
-            },
-            "id": "ca/le_edicole_votive_del_capo#102"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "AGESCI PALERMO 15°",
-                "type": "Organizzazione",
-                "start_date": "",
-                "end_date": "",
-                "description": "Il Gruppo scout AGESCI PALERMO 15° nasce nel 1956 e da allora ha la propria sede in Via Mura San Vito n.12 al Capo. I locali utilizzati dal Gruppo sono parte di un vasto edificio conventuale dei Padri Agostiniani Scalzi e attigui alla chiesa di San Gregorio Magno. Il Gruppo dalla propria costituzione ha offerto la proposta educativa scout a migliaia di ragazzi dagli 8 ai 21 anni del quartiere Capo e dell’intera città. L’azione educativa è proposta dagli educatori/capi attraverso il metodo scout su 4 ambiti: “Formazione del carattere, salute e forza fisica, abilità manuale e servizio al prossimo”. I valori dell’accoglienza, dell’amicizia, del rispetto dell’ambiente, della pace, della legalità, del credo cattolico sono alla base di tutte le attività svolte. In coerenza con il motto del fondatore dello scoutismo Baden Powell di “lascia il mondo un po’ migliore di come lo hai trovato” il Gruppo organizza, anche in collaborazione con le altre realtà che agiscono nel quartiere, attività per la promozione e la riqualificazione del territorio. ",
-                "image": "https://i.postimg.cc/25Pqwhzm/Whats-App-Image-2021-02-10-at-13-28-01.jpg ",
+                "title": "Patto Educativo Capo",
+                "type": "Progetto",
+                "start_date": "2023-02-20T00:00:00.000+00:00",
+                "end_date": "2025-08-20T00:00:00.000+01:00",
+                "description": "Il progetto Patto Educativo Capo si svolge nel 2023/2024 e mira a contrastare la povertà educativa favorendo la relazione di bambini e ragazzi del quartiere Capo-Monte di Pietà di Palermo con il territorio in cui vivono. L'obiettivo è farlo attraverso la creazione di una comunità educante che condivida e sviluppi pratiche educative diffuse e aperte che utilizzano gli spazi del quartiere come luoghi di apprendimento.\nIl progetto è finanziato dal Bando per le Comunità Educanti 2020 della Fondazione Con i Bambini, insieme ad altre associazioni, realtà e istituzioni del territorio palermitano. Capofila del progetto è la cooperativa sociale Bond of Union.\nLe attività del progetto prevedono: indagine statistica sui minori residenti nel quartiere Capo, mappatura degli spazi educativi, definizione di un patto educativo tra i soggetti della rete, formazione degli operatori formali e informali della comunità, attivazione di spazi educativi e di attività educative per i minori del quartiere, connessione con ulteriori comunità educanti.",
+                "image": "https://i.postimg.cc/wMqxgpqH/PATTO-EDUCATIVO-CAPO-COLOR-2-A-1.png",
                 "category": "Rete Capo",
                 "sub-category": "",
                 "tags": [],
                 "category-description": "associazioni e servizi presenti nel quartiere",
                 "links": [],
                 "relationships": null,
-                "created_date": "2020-10-14T02:34:57.340-07:00",
-                "updated_date": "2021-02-15T05:48:53.394-08:00",
+                "created_date": "2023-10-04T10:40:11.591+01:00",
+                "updated_date": "2023-10-24T10:53:40.321+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "id": "ca/patto_educativo_capo#110"
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Mercato delle Pulci ",
+                "type": "Luogo",
+                "start_date": "",
+                "end_date": "",
+                "description": "Il Mercato delle Pulci si trova nei pressi della Cattedrale di Palermo, tra piazza Peranni e Via Papireto. Nasce nel secondo dopo-guerra per scambiare e rivendere oggetti recuperati dalle rovine dei numerosi bombardamenti della città. Il mercato è composto da numerose baracche costruite con materiali di risulta addossate ai tronchi degli alberi.\nIl Mercato riveste ancora oggi un ruolo importante di memoria storica e culturale di Palermo e ha un potenziale come spazio educativo di quartiere. Bond of Union ha avviato con i mercatari un processo partecipativo di valorizzazione del mercato finalizzato a farne riconoscere il valore culturale, riportando gli abitanti di Palermo a visitarlo e frequentarlo.",
+                "image": "https://i.postimg.cc/8zS1Wzy1/Whats-App-Image-2023-10-20-at-12-34-16.jpg",
+                "category": "Spazi di quartiere",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
+                "links": [
+                    {
+                        "url": "https://storymaps.arcgis.com/stories/98f33b4d34eb4c2ca5c22bde326570b5",
+                        "title": "Mercato delle Pulci",
+                        "description": "",
+                        "type": "website"
+                    }
+                ],
+                "relationships": null,
+                "created_date": "2023-10-11T11:48:43.609+01:00",
+                "updated_date": "2023-10-20T11:36:43.359+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
             },
             "geometry": {
-                "type": "Point",
+                "type": "Polygon",
                 "coordinates": [
-                    13.3544,
-                    38.1191
+                    [
+                        [
+                            13.353463,
+                            38.11506
+                        ],
+                        [
+                            13.352036,
+                            38.114634
+                        ],
+                        [
+                            13.352074,
+                            38.114549
+                        ],
+                        [
+                            13.353576,
+                            38.114997
+                        ],
+                        [
+                            13.353501,
+                            38.115062
+                        ],
+                        [
+                            13.353463,
+                            38.11506
+                        ]
+                    ]
                 ]
             },
-            "id": "ca/agesci_palermo_15_#101"
+            "id": "ca/mercato_delle_pulci_#113"
         },
         {
             "type": "Feature",
@@ -98,8 +115,8 @@
                     }
                 ],
                 "relationships": null,
-                "created_date": "2020-10-13T04:56:42.587-07:00",
-                "updated_date": "2021-02-15T05:52:29.155-08:00",
+                "created_date": "2020-10-13T12:56:42.587+01:00",
+                "updated_date": "2021-02-15T13:52:29.155+00:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -116,106 +133,20 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "#IDEEPERILCAPO - Evento Finale",
-                "type": "Evento",
-                "start_date": "2020-10-15T16:00:00.000-07:00",
-                "end_date": "2020-10-15T16:00:00.000-07:00",
-                "description": "ll 16 ottobre 2020 Bond of Union presenta #IDEEPERILCAPO : video-interviste con artigiani, mercatari e abitanti del quartiere. Saranno discusse le proposte per la risoluzione di alcune delle problematiche del quartiere insieme ai cittadini del Capo-Monte di Pieta'. Vi aspettiamo alla Ex Scuola Ugdulena in Via Mura di San Vito 10, Palermo (Sede del MASCI) dalle 18. La presentazione é l'evento finale del progetto #ComensiEU Erasmus+ Indire. I video nascono come strategia post covid per realizzare dei laboratori con la gente in maniera informale e per attivare dei momenti di partecipazione, attivismo e coinvolgimeto civico del quartiere. Si tratta quindi di interviste informali ad artigiani e cittadini, storie, processi di realizzazione di idee e cambiamenti positivi.",
-                "image": "https://i.postimg.cc/7h4vQPcx/121151662-3257277627724417-7389759341181650736-o.jpg",
-                "category": "Iniziative",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
-                "links": [
-                    {
-                        "url": "https://vimeo.com/467713917",
-                        "title": "Video finale #IDEEPERILCAPO",
-                        "description": "Video finale #IDEEPERILCAPO",
-                        "type": "video"
-                    },
-                    {
-                        "url": "https://vimeo.com/channels/1432859",
-                        "title": "Raccolta Video-interviste",
-                        "description": "Raccolta Video-interviste",
-                        "type": "website"
-                    }
-                ],
-                "relationships": [
-                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
-                    "ca/bond_of_union#85",
-                    "ca/masci#91"
-                ],
-                "created_date": "2020-10-13T04:46:43.550-07:00",
-                "updated_date": "2020-10-16T06:28:13.350-07:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3547,
-                    38.1191
-                ]
-            },
-            "id": "ca/_ideeperilcapo_evento_finale#98"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "“Da Capo a Capo”",
-                "type": "Evento",
-                "start_date": "2020-11-13T16:00:00.000-08:00",
-                "end_date": "2020-10-14T16:00:00.000-07:00",
-                "description": "Il progetto “Da Capo a Capo”, ha l’obiettivo di riscoprire la bellezza dello storico quartiere del Capo attraverso l’arte, la creatività e soprattutto con il coinvolgimento e la partecipazione dei residenti, dei commercianti, delle associazioni attive sul territorio e degli artigiani, portavoce delle tradizioni più antiche della città.  \nIl programma, articolato attraverso eventi diversi, intende raggiungere un pubblico eterogeneo: residenti del quartiere, turisti, cittadini, ma anche bambini, ragazzi e appassionati di storia e di arte. Per questo sono previste performance teatrali ed happening di danza contemporanea, percorsi narrativi storico-culturali, concerti e laboratori didattico-creativi rivolti a bambini e ragazzi che vedranno come protagonisti artisti locali di qualità.",
-                "image": "https://i.postimg.cc/SNfHThkr/97488310-3533061200054520-5349241940212711424-n.jpg",
-                "category": "Iniziative",
-                "sub-category": "",
-                "tags": [],
-                "category-description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
-                "links": [],
-                "relationships": [
-                    "ca/teatro_alla_guilla#84"
-                ],
-                "created_date": "2020-10-13T04:46:35.191-07:00",
-                "updated_date": "2020-11-24T06:24:25.765-08:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3563,
-                    38.1157
-                ]
-            },
-            "id": "ca/_da_capo_a_capo_#97"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Comunita’ di Sant’egidio - Scuola della pace",
+                "title": "AGESCI PALERMO 15°",
                 "type": "Organizzazione",
                 "start_date": "",
                 "end_date": "",
-                "description": "La Comunita’ di Sant’Egidio opera a Palermo nel quartiere Capo da diversi anni attarverso il doposcuola “scuola della pace” ed il supporto con beni alimenari a famiglie in difficolta’. Attivi nella rete Capo attraverso i numerosi volontari che hanno parteciapato a diverse attivita’ in comune con Bond of Union.",
-                "image": "https://i.postimg.cc/hv88CX0S/Schermata-2020-10-12-alle-13-12-12.png",
+                "description": "Il Gruppo scout AGESCI PALERMO 15° nasce nel 1956 e da allora ha la propria sede in Via Mura San Vito n.12 al Capo. I locali utilizzati dal Gruppo sono parte di un vasto edificio conventuale dei Padri Agostiniani Scalzi e attigui alla chiesa di San Gregorio Magno. Il Gruppo dalla propria costituzione ha offerto la proposta educativa scout a migliaia di ragazzi dagli 8 ai 21 anni del quartiere Capo e dell’intera città. L’azione educativa è proposta dagli educatori/capi attraverso il metodo scout su 4 ambiti: “Formazione del carattere, salute e forza fisica, abilità manuale e servizio al prossimo”. I valori dell’accoglienza, dell’amicizia, del rispetto dell’ambiente, della pace, della legalità, del credo cattolico sono alla base di tutte le attività svolte. In coerenza con il motto del fondatore dello scoutismo Baden Powell di “lascia il mondo un po’ migliore di come lo hai trovato” il Gruppo organizza, anche in collaborazione con le altre realtà che agiscono nel quartiere, attività per la promozione e la riqualificazione del territorio. ",
+                "image": "https://i.postimg.cc/25Pqwhzm/Whats-App-Image-2021-02-10-at-13-28-01.jpg ",
                 "category": "Rete Capo",
-                "sub-category": "Terzo settore",
+                "sub-category": "",
                 "tags": [],
                 "category-description": "associazioni e servizi presenti nel quartiere",
-                "links": [
-                    {
-                        "url": "https://livesicilia.it/2020/09/30/capo-la-vita-oltre-lo-spacciogiuseppe-ha-chiesto-i-libri/?refresh_ce=",
-                        "title": "Scuola della pace",
-                        "description": "Scuola della pace",
-                        "type": "website"
-                    }
-                ],
+                "links": [],
                 "relationships": null,
-                "created_date": "2020-10-12T04:08:53.082-07:00",
-                "updated_date": "2020-10-13T04:41:40.072-07:00",
+                "created_date": "2020-10-14T10:34:57.340+01:00",
+                "updated_date": "2021-02-15T13:48:53.394+00:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -223,11 +154,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3555,
-                    38.1168
+                    13.3544,
+                    38.1191
                 ]
             },
-            "id": "ca/comunita_di_sant_egidio_scuola_della_pace#96"
+            "id": "ca/agesci_palermo_15_#101"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Le Edicole votive del Capo",
+                "type": "Azione partecipativa",
+                "start_date": "",
+                "end_date": "",
+                "description": "Nella raccolta di #IdeePerIlCapo il tema della valorizzazione e salvaguardia delle edicole votive, o \"cappelluzze\" in palermitano, pone l'accento su quanti elementi del patrimonio culturale possono essere valorizzati insieme agli abitanti del quartiere ascoltando le loro voci, i loro racconti e le loro idee",
+                "image": "https://i.postimg.cc/MGcKsQvJ/Schermata-2021-01-11-alle-16-57-37.png",
+                "category": "Idee e Proposte",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/499197521",
+                        "title": "",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76"
+                ],
+                "created_date": "2020-10-15T16:25:23.446+01:00",
+                "updated_date": "2021-01-11T15:59:19.204+00:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3559,
+                    38.117
+                ]
+            },
+            "id": "ca/le_edicole_votive_del_capo#102"
         },
         {
             "type": "Feature",
@@ -253,8 +223,8 @@
                 "relationships": [
                     "ca/laboratori_di_quartiere_ideeperilcapo#76"
                 ],
-                "created_date": "2020-09-25T02:19:48.365-07:00",
-                "updated_date": "2020-09-30T07:47:30.284-07:00",
+                "created_date": "2020-09-25T10:19:48.365+01:00",
+                "updated_date": "2020-09-30T15:47:30.284+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -271,29 +241,27 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Spazi per artigiani e coinvolgimento giovani",
-                "type": "Progetto",
+                "title": "Comunita’ di Sant’egidio - Scuola della pace",
+                "type": "Organizzazione",
                 "start_date": "",
                 "end_date": "",
-                "description": "Nelle discussioni con gli artigiani e gli artisti del quartiere é emersa la necessita’ e l’idea di proporre la nascita di uno spazio pubblico (un atellier) in cui esercitare regolarmente l’attivita’ di produzione, vendita e insegnamento artistica e artigianale. L’idea educativa alla base e di fornire a nuove generazione di artisti e artigiani la possibilita’ di imparare o innamorarsi di mestieri che in parte stanno scomparendo: fabbri, marmisti, falegnami, intagliatori di pietre e scultori, sarti. Il quartiere ha delle ricchezze artigianili forti ed estremamente concentrate localmente non supportante da nessun tipo di politica o aiuto pubblico: tante promesse ma zero azioni. Il coinvogimento dei giovani é un altro elemento importante sul quale viene richiesto supporto pubblico per valorizzare il trasferimento generazionale delle competenze prima che scompaiano definitivamente con effetti negativi sull’economia del quartiere.",
-                "image": "https://i.postimg.cc/x8cv2JMZ/IMG-20200624-113537423.jpg",
-                "category": "Idee e Proposte",
-                "sub-category": "",
+                "description": "La Comunita’ di Sant’Egidio opera a Palermo nel quartiere Capo da diversi anni attarverso il doposcuola “scuola della pace” ed il supporto con beni alimenari a famiglie in difficolta’. Attivi nella rete Capo attraverso i numerosi volontari che hanno parteciapato a diverse attivita’ in comune con Bond of Union.",
+                "image": "https://i.postimg.cc/hv88CX0S/Schermata-2020-10-12-alle-13-12-12.png",
+                "category": "Rete Capo",
+                "sub-category": "Terzo settore",
                 "tags": [],
-                "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
+                "category-description": "associazioni e servizi presenti nel quartiere",
                 "links": [
                     {
-                        "url": "https://vimeo.com/461402155",
-                        "title": "Artigiani e capo",
-                        "description": "Interviste agli artigiani del Capo per i Laboratori Locali #IDEEPERILCAPO",
-                        "type": "video"
+                        "url": "https://livesicilia.it/2020/09/30/capo-la-vita-oltre-lo-spacciogiuseppe-ha-chiesto-i-libri/?refresh_ce=",
+                        "title": "Scuola della pace",
+                        "description": "Scuola della pace",
+                        "type": "website"
                     }
                 ],
-                "relationships": [
-                    "ca/laboratori_di_quartiere_ideeperilcapo#76"
-                ],
-                "created_date": "2020-06-24T07:12:12.654-07:00",
-                "updated_date": "2020-10-12T04:06:14.219-07:00",
+                "relationships": null,
+                "created_date": "2020-10-12T12:08:53.082+01:00",
+                "updated_date": "2020-10-13T12:41:40.072+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -301,11 +269,127 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3556,
-                    38.1158
+                    13.3555,
+                    38.1168
                 ]
             },
-            "id": "ca/spazi_per_artigiani_e_coinvolgimento_giovani#94"
+            "id": "ca/comunita_di_sant_egidio_scuola_della_pace#96"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "“Da Capo a Capo”",
+                "type": "Evento",
+                "start_date": "2020-11-14T00:00:00.000+00:00",
+                "end_date": "2020-10-15T00:00:00.000+01:00",
+                "description": "Il progetto “Da Capo a Capo”, ha l’obiettivo di riscoprire la bellezza dello storico quartiere del Capo attraverso l’arte, la creatività e soprattutto con il coinvolgimento e la partecipazione dei residenti, dei commercianti, delle associazioni attive sul territorio e degli artigiani, portavoce delle tradizioni più antiche della città.  \nIl programma, articolato attraverso eventi diversi, intende raggiungere un pubblico eterogeneo: residenti del quartiere, turisti, cittadini, ma anche bambini, ragazzi e appassionati di storia e di arte. Per questo sono previste performance teatrali ed happening di danza contemporanea, percorsi narrativi storico-culturali, concerti e laboratori didattico-creativi rivolti a bambini e ragazzi che vedranno come protagonisti artisti locali di qualità.",
+                "image": "https://i.postimg.cc/SNfHThkr/97488310-3533061200054520-5349241940212711424-n.jpg",
+                "category": "Iniziative",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
+                "links": [],
+                "relationships": [
+                    "ca/teatro_alla_guilla#84"
+                ],
+                "created_date": "2020-10-13T12:46:35.191+01:00",
+                "updated_date": "2020-11-24T14:24:25.765+00:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3563,
+                    38.1157
+                ]
+            },
+            "id": "ca/_da_capo_a_capo_#97"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "#IDEEPERILCAPO - Evento Finale",
+                "type": "Evento",
+                "start_date": "2020-10-16T00:00:00.000+01:00",
+                "end_date": "2020-10-16T00:00:00.000+01:00",
+                "description": "ll 16 ottobre 2020 Bond of Union presenta #IDEEPERILCAPO : video-interviste con artigiani, mercatari e abitanti del quartiere. Saranno discusse le proposte per la risoluzione di alcune delle problematiche del quartiere insieme ai cittadini del Capo-Monte di Pieta'. Vi aspettiamo alla Ex Scuola Ugdulena in Via Mura di San Vito 10, Palermo (Sede del MASCI) dalle 18. La presentazione é l'evento finale del progetto #ComensiEU Erasmus+ Indire. I video nascono come strategia post covid per realizzare dei laboratori con la gente in maniera informale e per attivare dei momenti di partecipazione, attivismo e coinvolgimeto civico del quartiere. Si tratta quindi di interviste informali ad artigiani e cittadini, storie, processi di realizzazione di idee e cambiamenti positivi.",
+                "image": "https://i.postimg.cc/7h4vQPcx/121151662-3257277627724417-7389759341181650736-o.jpg",
+                "category": "Iniziative",
+                "sub-category": "",
+                "tags": [],
+                "category-description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/467713917",
+                        "title": "Video finale #IDEEPERILCAPO",
+                        "description": "Video finale #IDEEPERILCAPO",
+                        "type": "video"
+                    },
+                    {
+                        "url": "https://vimeo.com/channels/1432859",
+                        "title": "Raccolta Video-interviste",
+                        "description": "Raccolta Video-interviste",
+                        "type": "website"
+                    }
+                ],
+                "relationships": [
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
+                    "ca/bond_of_union#85",
+                    "ca/masci#91"
+                ],
+                "created_date": "2020-10-13T12:46:43.550+01:00",
+                "updated_date": "2020-10-16T14:28:13.350+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3547,
+                    38.1191
+                ]
+            },
+            "id": "ca/_ideeperilcapo_evento_finale#98"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "La pupaccena",
+                "type": "",
+                "start_date": "",
+                "end_date": "",
+                "description": "Un antico dolce, tipico della festa dei morti, tramandato per tante generazioni ancora realizzato al Capo. La pupaccena é una tradizione del quartiere ed é emerso in tante conversazioni con gli abitanti come esistevano diverse botteghe nel quartiere, anche nel vicolo degli orfani, dedicate alla realizzazioni dei pupi di zucchero. La bottega in vicolo abbadia resta l’ultima dedicata alla sua produzione.",
+                "image": "https://i.postimg.cc/0j7H9h88/pupaccena.jpg",
+                "category": "Storie del quartiere",
+                "sub-category": "Tradizioni culinarie",
+                "tags": [],
+                "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
+                "links": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=Kv6xpuVBRpw",
+                        "title": "Pupi di zucchero",
+                        "description": "",
+                        "type": "video"
+                    }
+                ],
+                "relationships": null,
+                "created_date": "2020-06-12T16:27:42.210+01:00",
+                "updated_date": "2020-06-12T16:42:36.144+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3537,
+                    38.1179
+                ]
+            },
+            "id": "ca/la_pupaccena#92"
         },
         {
             "type": "Feature",
@@ -352,8 +436,8 @@
                     "ca/laboratori_di_quartiere_ideeperilcapo#76",
                     "ca/spazi_di_quartiere#72"
                 ],
-                "created_date": "2020-06-23T06:06:22.259-07:00",
-                "updated_date": "2020-06-23T09:09:29.596-07:00",
+                "created_date": "2020-06-23T14:06:22.259+01:00",
+                "updated_date": "2020-06-23T17:09:29.596+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -370,27 +454,29 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "La pupaccena",
-                "type": "",
+                "title": "Spazi per artigiani e coinvolgimento giovani",
+                "type": "Progetto",
                 "start_date": "",
                 "end_date": "",
-                "description": "Un antico dolce, tipico della festa dei morti, tramandato per tante generazioni ancora realizzato al Capo. La pupaccena é una tradizione del quartiere ed é emerso in tante conversazioni con gli abitanti come esistevano diverse botteghe nel quartiere, anche nel vicolo degli orfani, dedicate alla realizzazioni dei pupi di zucchero. La bottega in vicolo abbadia resta l’ultima dedicata alla sua produzione.",
-                "image": "https://i.postimg.cc/0j7H9h88/pupaccena.jpg",
-                "category": "Storie del quartiere",
-                "sub-category": "Tradizioni culinarie",
+                "description": "Nelle discussioni con gli artigiani e gli artisti del quartiere é emersa la necessita’ e l’idea di proporre la nascita di uno spazio pubblico (un atellier) in cui esercitare regolarmente l’attivita’ di produzione, vendita e insegnamento artistica e artigianale. L’idea educativa alla base e di fornire a nuove generazione di artisti e artigiani la possibilita’ di imparare o innamorarsi di mestieri che in parte stanno scomparendo: fabbri, marmisti, falegnami, intagliatori di pietre e scultori, sarti. Il quartiere ha delle ricchezze artigianili forti ed estremamente concentrate localmente non supportante da nessun tipo di politica o aiuto pubblico: tante promesse ma zero azioni. Il coinvogimento dei giovani é un altro elemento importante sul quale viene richiesto supporto pubblico per valorizzare il trasferimento generazionale delle competenze prima che scompaiano definitivamente con effetti negativi sull’economia del quartiere.",
+                "image": "https://i.postimg.cc/x8cv2JMZ/IMG-20200624-113537423.jpg",
+                "category": "Idee e Proposte",
+                "sub-category": "",
                 "tags": [],
-                "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
+                "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
                 "links": [
                     {
-                        "url": "https://www.youtube.com/watch?v=Kv6xpuVBRpw",
-                        "title": "Pupi di zucchero",
-                        "description": "",
+                        "url": "https://vimeo.com/461402155",
+                        "title": "Artigiani e capo",
+                        "description": "Interviste agli artigiani del Capo per i Laboratori Locali #IDEEPERILCAPO",
                         "type": "video"
                     }
                 ],
-                "relationships": null,
-                "created_date": "2020-06-12T08:27:42.210-07:00",
-                "updated_date": "2020-06-12T08:42:36.144-07:00",
+                "relationships": [
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76"
+                ],
+                "created_date": "2020-06-24T15:12:12.654+01:00",
+                "updated_date": "2020-10-12T12:06:14.219+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -398,76 +484,41 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3537,
-                    38.1179
+                    13.3556,
+                    38.1158
                 ]
             },
-            "id": "ca/la_pupaccena#92"
+            "id": "ca/spazi_per_artigiani_e_coinvolgimento_giovani#94"
         },
         {
             "type": "Feature",
             "properties": {
-                "title": "Masci",
+                "title": "Naka",
                 "type": "Organizzazione",
                 "start_date": "",
                 "end_date": "",
-                "description": "MASCI Palermo 3 Aquile randagie é il movimento scout adulti che ha ripreso con un grande impegno la scuola Gregorio Ugdulena (in stato di abbandono e degrado da alcuni anni) per creare un nuovo centro sociale servizi per ragazzi down e ragazzi disabili. Il centro sarà adibito a laboratori teatrali, musicali, di cucina e tipografia.\nIl centro sara’ inoltre aperto ad attività ed idee da sviluppare con il quartiere. Il movimento Masci ha dato la sua disponibilita’ alla colaborazine con altre organizzazioni del quartiere, come Bond of Union e Naka, ed ha già partecipato alle prime riunioni della Rete Capo prima della chiusura dovuta all’emergenza covid.",
-                "image": "https://i.postimg.cc/9Q6sX86s/DSC04807.jpg",
+                "description": "Naka è uno spazio di comunità per il quartiere Capo di Palermo, impegnato nell'arricchimento di esperienze educative per giovani e meno giovani. Il motto di Naka  è \"everyone deserves the opportunity to learn\". Il team di Naka collaborato attivamente con Bond of Union alla realizzazione dell'evento Spazi di quartiere per Piazza Papireto. ",
+                "image": "https://i.postimg.cc/KzFPpWkb/naka.jpg",
                 "category": "Rete Capo",
                 "sub-category": "Terzo settore",
-                "tags": [],
+                "tags": [
+                    "community engagement"
+                ],
                 "category-description": "associazioni e servizi presenti nel quartiere",
                 "links": [
                     {
-                        "url": "http://mascisicilia.altervista.org/joomla/",
-                        "title": "MASCI ",
-                        "description": "",
-                        "type": "website"
-                    }
-                ],
-                "relationships": null,
-                "created_date": "2020-06-10T03:28:53.085-07:00",
-                "updated_date": "2020-06-12T08:27:55.300-07:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3547,
-                    38.1191
-                ]
-            },
-            "id": "ca/masci#91"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "La grotta dei Beati Paoli",
-                "type": "Luogo",
-                "start_date": "",
-                "end_date": "",
-                "description": "I Beati Paoli ebbero la sede principale sulla via ora intestata ad essi dietro la chiesuola di Santa Maria di Gesù dove s’apriva una grotta ora murata e interrata. Sotto il vicolo degli Orfani s’incalanavano per lunghi condotti alti 2 metri e larghi 1,50 metri che si aprivano con pozzi sotto le scuole dei Calasanzio (sede del Liceo Scientifico Statale Cannizzaro sino al 1955) sotto l’attuale Istituto Tecnico per Geometri Parlatore, sotto palazzo Geraci, sotto la chiesa di San Matteo ed il Monastero delle Vergini. \nLa società segreta sarebbe nata anche perché la giustizia amministrata dallo stato era molto spesso a servizio dei potenti. Il popolo, di conseguenza, non potendosi fare giustizia da solo, poiché debole, si affida ad una setta che agiva nell’ombra e con la massima segretezza. Nelle discussioni con i cittadini é spesso emersa la memoria collettiva dell’accesso alla grotta da Vicolo degli Orfani e l’idea della sua valorizzazione a fini turististici. La grotta é infatti attualmente non visitabile per il grande pubblico.\n\n",
-                "image": "https://i.postimg.cc/ncWGRnXt/IMG-20200527-112743.jpg",
-                "category": "Storie del quartiere",
-                "sub-category": "memorie",
-                "tags": [],
-                "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
-                "links": [
-                    {
-                        "url": "http://www.palermoweb.com/sottopalermo/grotte/paoli.htm",
-                        "title": "Sotto Palermo",
+                        "url": "https://www.nakanoprofit.org/",
+                        "title": "Naka website",
                         "description": "",
                         "type": "website"
                     }
                 ],
                 "relationships": [
-                    "ca/vicolo_degli_orfani#75",
-                    "ca/laboratori_di_quartiere_ideeperilcapo#76"
+                    "ca/spazi_di_quartiere#72",
+                    "ca/piazza_papireto#70"
                 ],
-                "created_date": "2020-05-13T02:50:02.685-07:00",
-                "updated_date": "2020-06-05T03:22:50.518-07:00",
+                "created_date": "2020-05-12T09:55:00.433+01:00",
+                "updated_date": "2023-10-16T10:58:00.992+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -475,11 +526,11 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3555,
-                    38.1168
+                    13.3536,
+                    38.1154
                 ]
             },
-            "id": "ca/la_grotta_dei_beati_paoli#89"
+            "id": "ca/naka#87"
         },
         {
             "type": "Feature",
@@ -508,8 +559,8 @@
                     "ca/laboratori_di_quartiere_ideeperilcapo#76",
                     "ca/cinema_all_aperto#78"
                 ],
-                "created_date": "2020-05-12T02:25:50.935-07:00",
-                "updated_date": "2020-05-16T02:36:36.943-07:00",
+                "created_date": "2020-05-12T10:25:50.935+01:00",
+                "updated_date": "2020-05-16T10:36:36.943+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -526,32 +577,30 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Naka",
-                "type": "Organizzazione",
+                "title": "La grotta dei Beati Paoli",
+                "type": "Luogo",
                 "start_date": "",
                 "end_date": "",
-                "description": "Naka è uno spazio di comunità per il quartiere Capo di Palermo, impegnato nell'arricchimento di esperienze educative per giovani e meno giovani. Il motto di Naka  è \"everyone deserves the opportunity to learn\". Il team di Naka collaborato attivamente con Bond of Union alla realizzazione dell'evento Spazi di quartiere per Piazza Papireto. ",
-                "image": "https://i.postimg.cc/nc2MyV1y/naka.jpg",
-                "category": "Rete Capo",
-                "sub-category": "Terzo settore",
-                "tags": [
-                    "community engagement"
-                ],
-                "category-description": "associazioni e servizi presenti nel quartiere",
+                "description": "I Beati Paoli ebbero la sede principale sulla via ora intestata ad essi dietro la chiesuola di Santa Maria di Gesù dove s’apriva una grotta ora murata e interrata. Sotto il vicolo degli Orfani s’incalanavano per lunghi condotti alti 2 metri e larghi 1,50 metri che si aprivano con pozzi sotto le scuole dei Calasanzio (sede del Liceo Scientifico Statale Cannizzaro sino al 1955) sotto l’attuale Istituto Tecnico per Geometri Parlatore, sotto palazzo Geraci, sotto la chiesa di San Matteo ed il Monastero delle Vergini. \nLa società segreta sarebbe nata anche perché la giustizia amministrata dallo stato era molto spesso a servizio dei potenti. Il popolo, di conseguenza, non potendosi fare giustizia da solo, poiché debole, si affida ad una setta che agiva nell’ombra e con la massima segretezza. Nelle discussioni con i cittadini é spesso emersa la memoria collettiva dell’accesso alla grotta da Vicolo degli Orfani e l’idea della sua valorizzazione a fini turististici. La grotta é infatti attualmente non visitabile per il grande pubblico.\n",
+                "image": "https://i.postimg.cc/ncWGRnXt/IMG-20200527-112743.jpg",
+                "category": "Storie del quartiere",
+                "sub-category": "memorie",
+                "tags": [],
+                "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "links": [
                     {
-                        "url": "https://www.nakanoprofit.org/",
-                        "title": "Naka website",
+                        "url": "http://www.palermoweb.com/sottopalermo/grotte/paoli.htm",
+                        "title": "Sotto Palermo",
                         "description": "",
                         "type": "website"
                     }
                 ],
                 "relationships": [
-                    "ca/spazi_di_quartiere#72",
-                    "ca/piazza_papireto#70"
+                    "ca/vicolo_degli_orfani#75",
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76"
                 ],
-                "created_date": "2020-05-12T01:55:00.433-07:00",
-                "updated_date": "2020-05-25T02:51:22.916-07:00",
+                "created_date": "2020-05-13T10:50:02.685+01:00",
+                "updated_date": "2022-06-29T19:37:55.828+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -559,39 +608,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3536,
-                    38.1154
+                    13.3555,
+                    38.1168
                 ]
             },
-            "id": "ca/naka#87"
+            "id": "ca/la_grotta_dei_beati_paoli#89"
         },
         {
             "type": "Feature",
             "properties": {
-                "title": "La Pupa del capo",
-                "type": "Edificio",
+                "title": "Masci",
+                "type": "Organizzazione",
                 "start_date": "",
                 "end_date": "",
-                "description": "Un creatore diede vita alla Pupa del Capo per donarla a Salvatore e Vincenza Morello per le loro nozze, presumibilmente tra il 1902 e il 1908. Il mosaico, che rappresenta Demetra, dea delle messi, fu un regalo apprezzato dal proprietario del panificio, il quale fece dell'opera d'arte l'insegna della sua bottega. È così che la Pupa del Capo, come negli anni Palermo l’ha denominata, osserva i passanti da almeno cento anni e li invita ad entrare. Qualche anno fa è iniziato il restauro dell’opera. Alcune associazioni locali hanno messo in salvo l’opera da eventuali crolli di Palazzo Serenario, edificio barocco anch’esso in fase di restauro. La Pupa si trova attualmente a Palazzo Ajutamicristo, in attesa di tornare nella sua sede originaria, lungo la via Cappuccinelle.",
-                "image": "https://i.postimg.cc/pXMhtRDk/DSC01656.jpg",
-                "category": "Storie del quartiere",
-                "sub-category": "memorie",
-                "tags": [
-                    "arte",
-                    "memoria orale"
-                ],
-                "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
+                "description": "MASCI Palermo 3 Aquile randagie é il movimento scout adulti che ha ripreso con un grande impegno la scuola Gregorio Ugdulena (in stato di abbandono e degrado da alcuni anni) per creare un nuovo centro sociale servizi per ragazzi down e ragazzi disabili. Il centro sarà adibito a laboratori teatrali, musicali, di cucina e tipografia.\nIl centro sara’ inoltre aperto ad attività ed idee da sviluppare con il quartiere. Il movimento Masci ha dato la sua disponibilita’ alla colaborazine con altre organizzazioni del quartiere, come Bond of Union e Naka, ed ha già partecipato alle prime riunioni della Rete Capo prima della chiusura dovuta all’emergenza covid.",
+                "image": "https://i.postimg.cc/9Q6sX86s/DSC04807.jpg",
+                "category": "Rete Capo",
+                "sub-category": "Terzo settore",
+                "tags": [],
+                "category-description": "associazioni e servizi presenti nel quartiere",
                 "links": [
                     {
-                        "url": "https://palermo.italiani.it/scopricitta/pupa-del-capo-arte-mosaico-palermo/",
-                        "title": "La storia della Pupa",
+                        "url": "http://mascisicilia.altervista.org/joomla/",
+                        "title": "MASCI ",
                         "description": "",
                         "type": "website"
                     }
                 ],
                 "relationships": null,
-                "created_date": "2020-05-12T01:40:26.868-07:00",
-                "updated_date": "2020-05-16T02:35:14.361-07:00",
+                "created_date": "2020-06-10T11:28:53.085+01:00",
+                "updated_date": "2020-06-12T16:27:55.300+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -599,11 +645,47 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3544,
-                    38.1175
+                    13.3547,
+                    38.1191
                 ]
             },
-            "id": "ca/la_pupa_del_capo#86"
+            "id": "ca/masci#91"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Teatro alla Guilla",
+                "type": "Organizzazione",
+                "start_date": "",
+                "end_date": "",
+                "description": "L'associazione \"C.I.A.S.-La Guilla\" gestisce lo spazio Teatro alla Guilla. Dal 2011 è diventato un punto d’incontro e di riferimento interculturale per la città. L'associazione ha organizzato nella sua sede performance, esposizioni, concerti, laboratori teatrali, videoproiezioni, letture e presentazioni di libri. Il Teatro, ed in particolare Valerio Strati, è attivo nel quartiere con manifestazioni come \"Da Capo a Capo\" ed ha collaborato con Bond of Union alla realizzazione dell'evento Spazi di quartiere alla Guilla ed alla costituzione della Rete Capo.",
+                "image": "https://i.postimg.cc/02h9Gfkr/IMG-20191118-141505-1.jpg",
+                "category": "Rete Capo",
+                "sub-category": "Terzo settore",
+                "tags": [
+                    "cultura",
+                    "organizzazioni"
+                ],
+                "category-description": "associazioni e servizi presenti nel quartiere",
+                "links": [],
+                "relationships": [
+                    "ca/spazi_di_quartiere#72",
+                    "ca/piazzetta_alla_guilla#81"
+                ],
+                "created_date": "2020-05-11T16:18:38.887+01:00",
+                "updated_date": "2022-06-29T19:37:55.828+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3565,
+                    38.1155
+                ]
+            },
+            "id": "ca/teatro_alla_guilla#84"
         },
         {
             "type": "Feature",
@@ -646,8 +728,8 @@
                     "ca/laboratori_di_quartiere_ideeperilcapo#76",
                     "ca/vicolo_degli_orfani#75"
                 ],
-                "created_date": "2020-05-11T08:33:02.763-07:00",
-                "updated_date": "2020-05-16T02:33:55.073-07:00",
+                "created_date": "2020-05-11T16:33:02.763+01:00",
+                "updated_date": "2020-05-16T10:33:55.073+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -664,137 +746,30 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Teatro alla Guilla",
-                "type": "Organizzazione",
+                "title": "La Pupa del capo",
+                "type": "Edificio",
                 "start_date": "",
                 "end_date": "",
-                "description": "\nL'associazione \"C.I.A.S.-La Guilla\" gestisce lo spazio Teatro alla Guilla. Dal 2011 è diventato un punto d’incontro e di riferimento interculturale per la città. L'associazione ha organizzato nella sua sede performance, esposizioni, concerti, laboratori teatrali, videoproiezioni, letture e presentazioni di libri. Il Teatro, ed in particolare Valerio Strati, è attivo nel quartiere con manifestazioni come \"Da Capo a Capo\" ed ha collaborato con Bond of Union alla realizzazione dell'evento Spazi di quartiere alla Guilla ed alla costituzione della Rete Capo.",
-                "image": "https://i.postimg.cc/02h9Gfkr/IMG-20191118-141505-1.jpg",
-                "category": "Rete Capo",
-                "sub-category": "Terzo settore",
-                "tags": [
-                    "cultura",
-                    "organizzazioni"
-                ],
-                "category-description": "associazioni e servizi presenti nel quartiere",
-                "links": [],
-                "relationships": [
-                    "ca/spazi_di_quartiere#72",
-                    "ca/piazzetta_alla_guilla#81"
-                ],
-                "created_date": "2020-05-11T08:18:38.887-07:00",
-                "updated_date": "2020-05-16T02:30:52.420-07:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3565,
-                    38.1155
-                ]
-            },
-            "id": "ca/teatro_alla_guilla#84"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Da Franco",
-                "type": "Persona",
-                "start_date": "",
-                "end_date": "",
-                "description": "Franco è il proprietario di una storica osteria in Via Capuccinelle. Attivissimo nel quartiere ha lanciato numerose iniziative come la riqualificazione di una piazzetta abbandontata accanto alla sua osteria. Franco ha dato il suo contributo nella discussione sulle potenzialità di Cortile Mangano e nei successivi laboratori di quartiere. La sua osteria \"Da Franco\" è il perfetto luogo per accese e stimolanti discussioni sulla storia e sul futuro possibile per il quartiere Capo. ",
-                "image": "https://i.postimg.cc/pdNX93Dq/Palermo-atlas.jpg",
+                "description": "Un creatore diede vita alla Pupa del Capo per donarla a Salvatore e Vincenza Morello per le loro nozze, presumibilmente tra il 1902 e il 1908. Il mosaico, che rappresenta Demetra, dea delle messi, fu un regalo apprezzato dal proprietario del panificio, il quale fece dell'opera d'arte l'insegna della sua bottega. È così che la Pupa del Capo, come negli anni Palermo l’ha denominata, osserva i passanti da almeno cento anni e li invita ad entrare. Qualche anno fa è iniziato il restauro dell’opera. Alcune associazioni locali hanno messo in salvo l’opera da eventuali crolli di Palazzo Serenario, edificio barocco anch’esso in fase di restauro. La Pupa si trova attualmente a Palazzo Ajutamicristo, in attesa di tornare nella sua sede originaria, lungo la via Cappuccinelle.",
+                "image": "https://i.postimg.cc/pXMhtRDk/DSC01656.jpg",
                 "category": "Storie del quartiere",
-                "sub-category": "",
+                "sub-category": "memorie",
                 "tags": [
-                    "street food & cucina"
+                    "arte",
+                    "memoria orale"
                 ],
                 "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
-                "links": [],
-                "relationships": [
-                    "ca/spazi_di_quartiere#72"
-                ],
-                "created_date": "2020-05-11T07:56:52.755-07:00",
-                "updated_date": "2020-05-16T02:29:27.613-07:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3533,
-                    38.1167
-                ]
-            },
-            "id": "ca/da_franco#83"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Piazza Beati Paoli",
-                "type": "Luogo",
-                "start_date": "",
-                "end_date": "",
-                "description": "La Piazza Beati Paoli ed il suo storico chiosco, gestito da Fabio sono un luogo simbolico del quartiere. La piazza è stata recentemente ristrutturata valorizzando la sua valenza di luogo di incontro e discussione. Lo spazio è stato utilizzato da Bond of Union come \"laboratorio di quartiere a cielo aperto\". L'ambiente informale della piazza e del chiosco ha infatti permesso di confrontarsi con i residenti, come Gianni, e raccogliere le loro idee per il quartiere.",
-                "image": "https://i.postimg.cc/JnhmfK1N/IMG-20200511-120619.jpg",
-                "category": "Spazi di quartiere",
-                "sub-category": "Spazi pubblici",
-                "tags": [
-                    "spazio pubblico"
-                ],
-                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
-                "links": [],
-                "relationships": [
-                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
-                    "ca/cartello_informativo_benvenuti_al_capo_#77"
-                ],
-                "created_date": "2020-05-11T07:41:27.641-07:00",
-                "updated_date": "2020-05-16T02:27:37.714-07:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3554,
-                    38.1167
-                ]
-            },
-            "id": "ca/piazza_beati_paoli#82"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Piazzetta alla Guilla",
-                "type": "Luogo",
-                "start_date": "",
-                "end_date": "",
-                "description": "La piazzetta alla Guilla è uno dei pochi spazi verdi presenti nel quartiere ed è aperta a differenti usi da parte dei residenti. Importante snodo, via di passaggio tra il mercato del Capo e la cattedrale presenta la possibilità di avviare una programmazione di attività ricreative che potrebbere coinvolgere residenti, parrocchie, scuole e associazioni locali come il vicino Teatro alla Guilla. Nella discussione Spazi di quartiere di novembre 2019 è emerso come possa essere interessante coinvolgere le scuole del quartiere in attività extra-scolastiche di aggregazione per i ragazzi nella piazzetta, oltre alla necessità di sistemarne i muretti e di installare nuove panchine e contenitori per i rifiuti.\n",
-                "image": "https://i.postimg.cc/VkXtP0Kb/guilla2.jpg",
-                "category": "Spazi di quartiere",
-                "sub-category": "Spazi verdi",
-                "tags": [
-                    "area verde"
-                ],
-                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
                 "links": [
                     {
-                        "url": "https://i.postimg.cc/wxtcbMYD/DSC03692.jpg",
-                        "title": "Spazi di quartiere in Piazzetta alla Guilla",
-                        "description": "Spazi di quartiere con il Teatro alla Guilla",
-                        "type": "image"
+                        "url": "https://palermo.italiani.it/scopricitta/pupa-del-capo-arte-mosaico-palermo/",
+                        "title": "La storia della Pupa",
+                        "description": "",
+                        "type": "website"
                     }
                 ],
-                "relationships": [
-                    "ca/spazi_di_quartiere#72",
-                    "ca/teatro_alla_guilla#84"
-                ],
-                "created_date": "2020-05-08T07:53:34.707-07:00",
-                "updated_date": "2020-05-16T02:26:13.325-07:00",
+                "relationships": null,
+                "created_date": "2020-05-12T09:40:26.868+01:00",
+                "updated_date": "2020-05-16T10:35:14.361+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -802,11 +777,11 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.356,
-                    38.116
+                    13.3544,
+                    38.1175
                 ]
             },
-            "id": "ca/piazzetta_alla_guilla#81"
+            "id": "ca/la_pupa_del_capo#86"
         },
         {
             "type": "Feature",
@@ -840,8 +815,8 @@
                 "relationships": [
                     "ca/piazzetta_alla_guilla#81"
                 ],
-                "created_date": "2020-04-15T03:18:20.078-07:00",
-                "updated_date": "2020-05-16T02:24:01.639-07:00",
+                "created_date": "2020-04-15T11:18:20.078+01:00",
+                "updated_date": "2020-05-16T10:24:01.639+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -854,6 +829,213 @@
                 ]
             },
             "id": "ca/sartoria_eleganza#80"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Piazzetta alla Guilla",
+                "type": "Luogo",
+                "start_date": "",
+                "end_date": "",
+                "description": "La piazzetta alla Guilla è uno dei pochi spazi verdi presenti nel quartiere ed è aperta a differenti usi da parte dei residenti. Importante snodo, via di passaggio tra il mercato del Capo e la cattedrale presenta la possibilità di avviare una programmazione di attività ricreative che potrebbere coinvolgere residenti, parrocchie, scuole e associazioni locali come il vicino Teatro alla Guilla. Nella discussione Spazi di quartiere di novembre 2019 è emerso come possa essere interessante coinvolgere le scuole del quartiere in attività extra-scolastiche di aggregazione per i ragazzi nella piazzetta, oltre alla necessità di sistemarne i muretti e di installare nuove panchine e contenitori per i rifiuti.\n",
+                "image": "https://i.postimg.cc/VkXtP0Kb/guilla2.jpg",
+                "category": "Spazi di quartiere",
+                "sub-category": "Spazi verdi",
+                "tags": [
+                    "area verde"
+                ],
+                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/wxtcbMYD/DSC03692.jpg",
+                        "title": "Spazi di quartiere in Piazzetta alla Guilla",
+                        "description": "Spazi di quartiere con il Teatro alla Guilla",
+                        "type": "image"
+                    }
+                ],
+                "relationships": [
+                    "ca/spazi_di_quartiere#72",
+                    "ca/teatro_alla_guilla#84"
+                ],
+                "created_date": "2020-05-08T15:53:34.707+01:00",
+                "updated_date": "2023-09-19T11:25:35.116+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.356,
+                    38.116
+                ]
+            },
+            "id": "ca/piazzetta_alla_guilla#81"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Piazza Beati Paoli",
+                "type": "Luogo",
+                "start_date": "",
+                "end_date": "",
+                "description": "La Piazza Beati Paoli ed il suo storico chiosco, gestito da Fabio sono un luogo simbolico del quartiere. La piazza è stata recentemente ristrutturata valorizzando la sua valenza di luogo di incontro e discussione. Lo spazio è stato utilizzato da Bond of Union come \"laboratorio di quartiere a cielo aperto\". L'ambiente informale della piazza e del chiosco ha infatti permesso di confrontarsi con i residenti, come Gianni, e raccogliere le loro idee per il quartiere.",
+                "image": "https://i.postimg.cc/JnhmfK1N/IMG-20200511-120619.jpg",
+                "category": "Spazi di quartiere",
+                "sub-category": "Spazi pubblici",
+                "tags": [
+                    "spazio pubblico"
+                ],
+                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
+                "links": [],
+                "relationships": [
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
+                    "ca/cartello_informativo_benvenuti_al_capo_#77"
+                ],
+                "created_date": "2020-05-11T15:41:27.641+01:00",
+                "updated_date": "2020-05-16T10:27:37.714+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3554,
+                    38.1167
+                ]
+            },
+            "id": "ca/piazza_beati_paoli#82"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Da Franco",
+                "type": "Persona",
+                "start_date": "",
+                "end_date": "",
+                "description": "Franco è il proprietario di una storica osteria in Via Capuccinelle. Attivissimo nel quartiere ha lanciato numerose iniziative come la riqualificazione di una piazzetta abbandontata accanto alla sua osteria. Franco ha dato il suo contributo nella discussione sulle potenzialità di Cortile Mangano e nei successivi laboratori di quartiere. La sua osteria \"Da Franco\" è il perfetto luogo per accese e stimolanti discussioni sulla storia e sul futuro possibile per il quartiere Capo. ",
+                "image": "https://i.postimg.cc/pdNX93Dq/Palermo-atlas.jpg",
+                "category": "Storie del quartiere",
+                "sub-category": "",
+                "tags": [
+                    "street food & cucina"
+                ],
+                "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
+                "links": [],
+                "relationships": [
+                    "ca/spazi_di_quartiere#72"
+                ],
+                "created_date": "2020-05-11T15:56:52.755+01:00",
+                "updated_date": "2020-05-16T10:29:27.613+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3533,
+                    38.1167
+                ]
+            },
+            "id": "ca/da_franco#83"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Cartello informativo Benvenuti al Capo!",
+                "type": "Azione partecipativa",
+                "start_date": "",
+                "end_date": "",
+                "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee Laboratori di quartiere tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti interessati a migliorare la segnaletica turistica, la visibilità e la vivibilità del mercato del Capo. L'idea è di rivolgersi sia a turisti, che a cittadini palermitani interessati a scoprire il quartiere e di ricreare un legame tra Piazza Beati Paoli ed il mercato del Capo.",
+                "image": "https://i.postimg.cc/QdYSVSsc/Whats-App-Image-2020-10-15-at-15-46-42.jpg",
+                "category": "Idee e Proposte",
+                "sub-category": "",
+                "tags": [
+                    "partecipazione"
+                ],
+                "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/3N6JdPLP/IMG-20201015-121817964-HDR.jpg",
+                        "title": "Il quartiere da una mano!",
+                        "description": "Il quartiere da una mano!",
+                        "type": "image"
+                    },
+                    {
+                        "url": "https://vimeo.com/468550077",
+                        "title": "Il Video di Benvenuti al Capo",
+                        "description": "Il Video di Benventuti al Capo!",
+                        "type": "video"
+                    }
+                ],
+                "relationships": [
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
+                    "ca/la_bottega_del_fabbro#79"
+                ],
+                "created_date": "2020-02-05T13:51:25.211+00:00",
+                "updated_date": "2020-10-15T14:51:52.481+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3555,
+                    38.1167
+                ]
+            },
+            "id": "ca/cartello_informativo_benvenuti_al_capo_#77"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Cinema all'aperto",
+                "type": "Azione partecipativa",
+                "start_date": "",
+                "end_date": "",
+                "description": "L'idea del cinema all'aperto è una delle proposte emerse nelle discussioni \"Laboratori di quartiere\" con i cittadini ed i ristoratori di Piazzetta Saponeria (febbraio 2019) per Cortile Ecce Homo. Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato esistevano due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati. l’idea come spiegato nel video é attualmente sospesa a causa dell’emergenza covid ma la volonta’ di realizzarla da parte dei residenti rimane.",
+                "image": "https://i.postimg.cc/fyfPMSMx/IMG-20200511-WA0008.jpg",
+                "category": "Idee e Proposte",
+                "sub-category": "",
+                "tags": [
+                    "partecipazione"
+                ],
+                "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
+                "links": [
+                    {
+                        "url": "https://vimeo.com/480341156",
+                        "title": "l’idea del cinema",
+                        "description": "l’idea del cinema",
+                        "type": "video"
+                    },
+                    {
+                        "url": "https://i.postimg.cc/nc4fTTtp/DSC03599.jpg",
+                        "title": "Ex Arena Trinacria",
+                        "description": "Il vecchio ingresso dell'Arena Trinacria",
+                        "type": "image"
+                    }
+                ],
+                "relationships": [
+                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
+                    "ca/cortile_ecce_homo#88"
+                ],
+                "created_date": "2020-02-14T16:29:46.329+00:00",
+                "updated_date": "2020-11-17T15:16:33.579+00:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3548,
+                    38.1178
+                ]
+            },
+            "id": "ca/cinema_all_aperto#78"
         },
         {
             "type": "Feature",
@@ -894,8 +1076,8 @@
                     "ca/cartello_informativo_benvenuti_al_capo_#77",
                     "ca/laboratori_di_quartiere_ideeperilcapo#76"
                 ],
-                "created_date": "2020-02-14T08:48:29.637-08:00",
-                "updated_date": "2020-05-16T02:23:09.593-07:00",
+                "created_date": "2020-02-14T16:48:29.637+00:00",
+                "updated_date": "2020-05-16T10:23:09.593+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -912,86 +1094,29 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Cinema all'aperto",
-                "type": "Azione partecipativa",
+                "title": "Madonna della Mercede",
+                "type": "Festa di quartiere",
                 "start_date": "",
                 "end_date": "",
-                "description": "L'idea del cinema all'aperto è una delle proposte emerse nelle discussioni \"Laboratori di quartiere\" con i cittadini ed i ristoratori di Piazzetta Saponeria (febbraio 2019) per Cortile Ecce Homo. Si tratta di un esigenza avvertita dal quartiere dove eventi di questo tipo sono assenti. In passato esistevano due cinema (es. arena trinacria in via Candelai) ormai completamente abbandonati. l’idea come spiegato nel video é attualmente sospesa a causa dell’emergenza covid ma la volonta’ di realizzarla da parte dei residenti rimane.",
-                "image": "https://i.postimg.cc/fyfPMSMx/IMG-20200511-WA0008.jpg",
-                "category": "Idee e Proposte",
-                "sub-category": "",
+                "description": "La Madonna della Mercede al Capo, chiamata dagli abitanti a Micce', è la Santa più venerata nel quartiere e la patrona dell'antico mandamento Monte di Pietà. Nel mese di settembre la festa religiosa viene celebrata da tutta la comunità attirando cittadini di altri quartieri e turisti. La statua della Madonna viene portata fuori dalla chiesa in processione per le vie del quartiere e viene accolta con il grido \"A regina du Capu è, viva a madonna micce’\".",
+                "image": "https://i.postimg.cc/85R2jfLx/45026980262-5bacd1d3f9-z.jpg",
+                "category": "Storie del quartiere",
+                "sub-category": "memorie",
                 "tags": [
-                    "partecipazione"
+                    "evento"
                 ],
-                "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
+                "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "links": [
                     {
-                        "url": "https://vimeo.com/480341156",
-                        "title": "l’idea del cinema",
-                        "description": "l’idea del cinema",
-                        "type": "video"
-                    },
-                    {
-                        "url": "https://i.postimg.cc/nc4fTTtp/DSC03599.jpg",
-                        "title": "Ex Arena Trinacria",
-                        "description": "Il vecchio ingresso dell'Arena Trinacria",
-                        "type": "image"
-                    }
-                ],
-                "relationships": [
-                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
-                    "ca/cortile_ecce_homo#88"
-                ],
-                "created_date": "2020-02-14T08:29:46.329-08:00",
-                "updated_date": "2020-11-17T07:16:33.579-08:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3548,
-                    38.1178
-                ]
-            },
-            "id": "ca/cinema_all_aperto#78"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Cartello informativo Benvenuti al Capo!",
-                "type": "Azione partecipativa",
-                "start_date": "",
-                "end_date": "",
-                "description": "Cartello informativo in Piazza Beati Paoli proposto dagli abitanti del quartiere nella raccolta di idee Laboratori di quartiere tra febbraio e marzo 2020. L'idea del cartello é promossa da commercianti e abitanti interessati a migliorare la segnaletica turistica, la visibilità e la vivibilità del mercato del Capo. L'idea è di rivolgersi sia a turisti, che a cittadini palermitani interessati a scoprire il quartiere e di ricreare un legame tra Piazza Beati Paoli ed il mercato del Capo.",
-                "image": "https://i.postimg.cc/QdYSVSsc/Whats-App-Image-2020-10-15-at-15-46-42.jpg",
-                "category": "Idee e Proposte",
-                "sub-category": "",
-                "tags": [
-                    "partecipazione"
-                ],
-                "category-description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
-                "links": [
-                    {
-                        "url": "https://i.postimg.cc/3N6JdPLP/IMG-20201015-121817964-HDR.jpg",
-                        "title": "Il quartiere da una mano!",
-                        "description": "Il quartiere da una mano!",
-                        "type": "image"
-                    },
-                    {
-                        "url": "https://vimeo.com/468550077",
-                        "title": "Il Video di Benvenuti al Capo",
-                        "description": "Il Video di Benventuti al Capo!",
+                        "url": "https://www.youtube.com/watch?v=mUUsUQEwjtY",
+                        "title": "Festa della Mercede",
+                        "description": "video della festa della mercede al capo 2019",
                         "type": "video"
                     }
                 ],
-                "relationships": [
-                    "ca/laboratori_di_quartiere_ideeperilcapo#76",
-                    "ca/la_bottega_del_fabbro#79"
-                ],
-                "created_date": "2020-02-05T05:51:25.211-08:00",
-                "updated_date": "2020-10-15T06:51:52.481-07:00",
+                "relationships": null,
+                "created_date": "2019-12-12T10:55:40.353+00:00",
+                "updated_date": "2020-05-16T10:06:40.343+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -999,53 +1124,11 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3555,
-                    38.1167
+                    13.3546,
+                    38.1174
                 ]
             },
-            "id": "ca/cartello_informativo_benvenuti_al_capo_#77"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Laboratori di Quartiere #IDEEPERILCAPO",
-                "type": "Azione partecipativa",
-                "start_date": "2020-01-13T16:00:00.000-08:00",
-                "end_date": "2020-09-29T16:00:00.000-07:00",
-                "description": "Laboratorio di raccolta, progettazione e realizzazione di idee e proposte dei residenti in significativi spazi del quartiere Capo. Il laboratorio ha portato Bond of Union a confrontarsi con gli abitanti del quartiere per lo sviluppo e la realizzazione di proposte da sviluppare insieme. Tra le interessanti proposte emerse nella prima fase, antecedente al blocco dovuto all'emergenza Covid-19, un cartello informativo per il mercato ed il cinema all'aperto in Cortile Ecce Homo. Video interviste completano e danno voce al quartiere, alle sue probelamtiche, alle sue proposte nei laboratori #IDEEPERILCAPO",
-                "image": "https://i.postimg.cc/T3RXcZ55/83456042-2600819766703543-6129873214291050496-o.jpg",
-                "category": "Iniziative",
-                "sub-category": "",
-                "tags": [
-                    "partecipazione"
-                ],
-                "category-description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
-                "links": [
-                    {
-                        "url": "https://i.postimg.cc/zfZG5dyJ/IMG-20200220-123230.jpg",
-                        "title": "Raccolta di idee",
-                        "description": "",
-                        "type": "image"
-                    }
-                ],
-                "relationships": [
-                    "ca/cinema_all_aperto#78",
-                    "ca/cartello_informativo_benvenuti_al_capo_#77"
-                ],
-                "created_date": "2019-12-12T04:32:10.764-08:00",
-                "updated_date": "2020-10-01T02:52:59.080-07:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3555,
-                    38.1168
-                ]
-            },
-            "id": "ca/laboratori_di_quartiere_ideeperilcapo#76"
+            "id": "ca/madonna_della_mercede#73"
         },
         {
             "type": "Feature",
@@ -1080,8 +1163,8 @@
                     "ca/spazi_di_quartiere#72",
                     "ca/bond_of_union#85"
                 ],
-                "created_date": "2019-12-12T03:28:00.260-08:00",
-                "updated_date": "2020-05-16T02:16:14.964-07:00",
+                "created_date": "2019-12-12T11:28:00.260+00:00",
+                "updated_date": "2020-05-16T10:16:14.964+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -1098,66 +1181,32 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Madonna della Mercede",
-                "type": "Festa di quartiere",
-                "start_date": "",
-                "end_date": "",
-                "description": "La Madonna della Mercede al Capo, chiamata dagli abitanti a Micce', è la Santa più venerata nel quartiere e la patrona dell'antico mandamento Monte di Pietà. Nel mese di settembre la festa religiosa viene celebrata da tutta la comunità attirando cittadini di altri quartieri e turisti. La statua della Madonna viene portata fuori dalla chiesa in processione per le vie del quartiere e viene accolta con il grido \"A regina du Capu è, viva a madonna micce’\".",
-                "image": "https://i.postimg.cc/85R2jfLx/45026980262-5bacd1d3f9-z.jpg",
-                "category": "Storie del quartiere",
-                "sub-category": "memorie",
-                "tags": [
-                    "evento"
-                ],
-                "category-description": "storie, interviste, memorie raccolte con abitanti del quartiere",
-                "links": [
-                    {
-                        "url": "https://www.youtube.com/watch?v=mUUsUQEwjtY",
-                        "title": "Festa della Mercede",
-                        "description": "video della festa della mercede al capo 2019",
-                        "type": "video"
-                    }
-                ],
-                "relationships": null,
-                "created_date": "2019-12-12T02:55:40.353-08:00",
-                "updated_date": "2020-05-16T02:06:40.343-07:00",
-                "weight": 0,
-                "image_credit": "",
-                "icon_css_class": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3546,
-                    38.1174
-                ]
-            },
-            "id": "ca/madonna_della_mercede#73"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Spazi Di Quartiere",
+                "title": "Laboratori di Quartiere #IDEEPERILCAPO",
                 "type": "Azione partecipativa",
-                "start_date": "2019-11-07T16:00:00.000-08:00",
-                "end_date": "2019-11-28T16:00:00.000-08:00",
-                "description": "Gli eventi Spazi di Quartiere sono stati realizzati nel quartiere Capo-Monte di Pietà nel mese di Novembre 2019 dalla Cooperativa Sociale Bond of Union. Spazi di Quartiere ha creato dei momenti di incontro informale e di confronto organizzati in quattro differenti punti del quartiere  (Vicolo degli Orfani, Piazza Papireto, Piazzetta alla Guilla e Cortile Mangano), con il fine di attivare momenti di partecipazione attiva degli abitanti del quartiere. All'organizzazione degli eventi hanno attivamente collaborato associazioni culturali e del terzo settore che operano nel quartiere tra cui la Comunità di Sant'egidio, l'Associazione Naka, il Teatro alla Guilla e Giancarlo Gallitano. Gli incontri hanno previsto anche la partecipazione della Consigliera della Prima Circoscrizione Francesca Vetrano e del Presidente Massimo Castiglia.",
-                "image": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
+                "start_date": "2020-01-14T00:00:00.000+00:00",
+                "end_date": "2020-09-30T00:00:00.000+01:00",
+                "description": "Laboratorio di raccolta, progettazione e realizzazione di idee e proposte dei residenti in significativi spazi del quartiere Capo. Il laboratorio ha portato Bond of Union a confrontarsi con gli abitanti del quartiere per lo sviluppo e la realizzazione di proposte da sviluppare insieme. Tra le interessanti proposte emerse nella prima fase, antecedente al blocco dovuto all'emergenza Covid-19, un cartello informativo per il mercato ed il cinema all'aperto in Cortile Ecce Homo. Video interviste completano e danno voce al quartiere, alle sue probelamtiche, alle sue proposte nei laboratori #IDEEPERILCAPO",
+                "image": "https://i.postimg.cc/T3RXcZ55/83456042-2600819766703543-6129873214291050496-o.jpg",
                 "category": "Iniziative",
                 "sub-category": "",
                 "tags": [
                     "partecipazione"
                 ],
                 "category-description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
-                "links": [],
-                "relationships": [
-                    "ca/cortile_mangano#68",
-                    "ca/piazza_papireto#70",
-                    "ca/vicolo_degli_orfani#75",
-                    "ca/piazzetta_alla_guilla#81"
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/zfZG5dyJ/IMG-20200220-123230.jpg",
+                        "title": "Raccolta di idee",
+                        "description": "",
+                        "type": "image"
+                    }
                 ],
-                "created_date": "2019-12-12T02:24:26.427-08:00",
-                "updated_date": "2020-05-16T02:00:43.058-07:00",
+                "relationships": [
+                    "ca/cinema_all_aperto#78",
+                    "ca/cartello_informativo_benvenuti_al_capo_#77"
+                ],
+                "created_date": "2019-12-12T12:32:10.764+00:00",
+                "updated_date": "2020-10-01T10:52:59.080+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -1165,11 +1214,58 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3557,
-                    38.1175
+                    13.3555,
+                    38.1168
                 ]
             },
-            "id": "ca/spazi_di_quartiere#72"
+            "id": "ca/laboratori_di_quartiere_ideeperilcapo#76"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Piazza Papireto",
+                "type": "Luogo",
+                "start_date": "",
+                "end_date": "",
+                "description": "Piazza Papireto prende il nome dal fiume che attraversava gran parte del quartiere Capo. E' uno spazio pubblico in fase di riqualificazione da parte dell'amministrazione comunale e si presta a differenti usi da parte dei cittadini. Rappresenta un punto di accesso al quartiere ed é caratterizzato dalla presenza di residenti di stati sociali differenti ma con interessi comuni. Nel corso delle discussioni Spazi di Quartiere (novembre 2019) i cittadini partecipanti hanno espresso diversi desideri e proposte di intervento per l'area come inserire nella piazza un parco giochi e delle panchine o creare spazi ricreativi per adulti ed un cineclub all'aperto.\n",
+                "image": "https://i.postimg.cc/76mtZBpM/UNADJUSTEDNONRAW-thumb-6ad.jpg",
+                "category": "Spazi di quartiere",
+                "sub-category": "Spazi pubblici",
+                "tags": [
+                    "spazio pubblico"
+                ],
+                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
+                "links": [
+                    {
+                        "url": "https://i.postimg.cc/rwwj8Jtt/74905546-2462724297179758-8280341168777068544-o.jpg",
+                        "title": "Proposte per Piazza Papireto",
+                        "description": "Proposte per Piazza Papireto raccolte durante Spazi di quartiere",
+                        "type": "image"
+                    },
+                    {
+                        "url": "https://i.postimg.cc/nhW4ntJ6/74893030-2462724590513062-4867935131790213120-o.jpg",
+                        "title": "Spazi di quartiere a Piazza Papireto",
+                        "description": "Spazi di quartiere a Piazza Papireto",
+                        "type": "image"
+                    }
+                ],
+                "relationships": [
+                    "ca/spazi_di_quartiere#72"
+                ],
+                "created_date": "2019-12-11T16:12:02.170+00:00",
+                "updated_date": "2022-06-29T19:37:55.828+01:00",
+                "weight": 0,
+                "image_credit": "",
+                "icon_css_class": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3538,
+                    38.1151
+                ]
+            },
+            "id": "ca/piazza_papireto#70"
         },
         {
             "type": "Feature",
@@ -1199,8 +1295,8 @@
                     }
                 ],
                 "relationships": null,
-                "created_date": "2019-12-12T02:11:40.236-08:00",
-                "updated_date": "2020-05-28T07:18:04.916-07:00",
+                "created_date": "2019-12-12T10:11:40.236+00:00",
+                "updated_date": "2020-05-28T15:18:04.916+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -1273,37 +1369,27 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Piazza Papireto",
-                "type": "Luogo",
-                "start_date": "",
-                "end_date": "",
-                "description": "Piazza Papireto prende il nome dal fiume che attraversava gran parte del quartiere Capo. E' uno spazio pubblico in fase di riqualificazione da parte dell'amministrazione comunale e si presta a differenti usi da parte dei cittadini. Rappresenta un punto di accesso al quartiere ed é caratterizzato dalla presenza di residenti di stati sociali differenti ma con interessi comuni. Nel corso delle discussioni Spazi di Quartiere (novembre 2019) i cittadini partecipanti hanno espresso diversi desideri e proposte di intervento per l'area come inserire nella piazza un parco giochi e delle panchine o creare spazi ricreativi per adulti ed un cineclub all'aperto.\n\n",
-                "image": "https://i.postimg.cc/76mtZBpM/UNADJUSTEDNONRAW-thumb-6ad.jpg",
-                "category": "Spazi di quartiere",
-                "sub-category": "Spazi pubblici",
+                "title": "Spazi Di Quartiere",
+                "type": "Azione partecipativa",
+                "start_date": "2019-11-08T00:00:00.000+00:00",
+                "end_date": "2019-11-29T00:00:00.000+00:00",
+                "description": "Gli eventi Spazi di Quartiere sono stati realizzati nel quartiere Capo-Monte di Pietà nel mese di Novembre 2019 dalla Cooperativa Sociale Bond of Union. Spazi di Quartiere ha creato dei momenti di incontro informale e di confronto organizzati in quattro differenti punti del quartiere  (Vicolo degli Orfani, Piazza Papireto, Piazzetta alla Guilla e Cortile Mangano), con il fine di attivare momenti di partecipazione attiva degli abitanti del quartiere. All'organizzazione degli eventi hanno attivamente collaborato associazioni culturali e del terzo settore che operano nel quartiere tra cui la Comunità di Sant'egidio, l'Associazione Naka, il Teatro alla Guilla e Giancarlo Gallitano. Gli incontri hanno previsto anche la partecipazione della Consigliera della Prima Circoscrizione Francesca Vetrano e del Presidente Massimo Castiglia.",
+                "image": "https://i.postimg.cc/CL5Z4P3m/75588126-2462724740513047-9082463299563421696-o.jpg",
+                "category": "Iniziative",
+                "sub-category": "",
                 "tags": [
-                    "spazio pubblico"
+                    "partecipazione"
                 ],
-                "category-description": "luoghi fisici di aggregazione o significativi del quartiere",
-                "links": [
-                    {
-                        "url": "https://i.postimg.cc/rwwj8Jtt/74905546-2462724297179758-8280341168777068544-o.jpg",
-                        "title": "Proposte per Piazza Papireto",
-                        "description": "Proposte per Piazza Papireto raccolte durante Spazi di quartiere",
-                        "type": "image"
-                    },
-                    {
-                        "url": "https://i.postimg.cc/nhW4ntJ6/74893030-2462724590513062-4867935131790213120-o.jpg",
-                        "title": "Spazi di quartiere a Piazza Papireto",
-                        "description": "Spazi di quartiere a Piazza Papireto",
-                        "type": "image"
-                    }
-                ],
+                "category-description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
+                "links": [],
                 "relationships": [
-                    "ca/spazi_di_quartiere#72"
+                    "ca/cortile_mangano#68",
+                    "ca/piazza_papireto#70",
+                    "ca/vicolo_degli_orfani#75",
+                    "ca/piazzetta_alla_guilla#81"
                 ],
-                "created_date": "2019-12-11T08:12:02.170-08:00",
-                "updated_date": "2020-05-16T02:13:20.443-07:00",
+                "created_date": "2019-12-12T10:24:26.427+00:00",
+                "updated_date": "2020-05-16T10:00:43.058+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -1311,11 +1397,11 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3538,
-                    38.1151
+                    13.3557,
+                    38.1175
                 ]
             },
-            "id": "ca/piazza_papireto#70"
+            "id": "ca/spazi_di_quartiere#72"
         },
         {
             "type": "Feature",
@@ -1343,8 +1429,8 @@
                 "relationships": [
                     "ca/spazi_di_quartiere#72"
                 ],
-                "created_date": "2019-12-11T05:30:08.220-08:00",
-                "updated_date": "2020-05-16T01:57:34.402-07:00",
+                "created_date": "2019-12-11T13:30:08.220+00:00",
+                "updated_date": "2020-05-16T09:57:34.402+01:00",
                 "weight": 0,
                 "image_credit": "",
                 "icon_css_class": ""
@@ -1365,7 +1451,7 @@
         "id": "palermo",
         "description": "L’atlante di quartiere è una piattaforma digitale sul quartiere Capo-Monte di Pietà di Palermo. Racconta il progetto di ricerca azione partecipativa realizzato dalla cooperativa sociale Bond of Union nel quartiere Capo di Palermo. E' composto da una mappa in cui sono indicati spazi significativi del quartiere, storie dei suoi abitanti, iniziative in atto, video interviste e proposte per il quartiere. Una sezione dell'atlante denominata Rete Capo contiene le associazioni ed i servizi attivi nel quartiere. L'Atlante è parte del progetto Erasmus+ Community Engagement for Social Inclusion (COMENSI) realizzato in cinque quartieri di Palermo, Londra, Berlino, Lisbona e Lubiana. ",
         "image": "https://i.postimg.cc/Wb3hxy42/SGZtqfl-OS5i-X0qr-Q52-KTTw-thumb-6ac.jpg",
-        "published": "2021-02-15T13:54:17.653Z",
+        "published": "2023-11-17T07:26:24.772Z",
         "links": [
             {
                 "title": "Il progetto COMENSI",
@@ -1382,7 +1468,7 @@
                 "type": "webpage"
             }
         ],
-        "version": 284,
+        "version": 288,
         "taxonomy": [
             {
                 "category": "Rete Capo",
@@ -1396,33 +1482,13 @@
                 "id": 6
             },
             {
-                "category": "Iniziative",
-                "description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
+                "category": "Il Quartiere Capo",
+                "description": "area d'intervento",
                 "sub-categories": [
-                    "#r31"
+                    "#r30"
                 ],
-                "weight": 0,
-                "id": 5
-            },
-            {
-                "category": "Idee e Proposte",
-                "description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
-                "sub-categories": [],
-                "weight": 0,
-                "id": 4
-            },
-            {
-                "category": "Storie del quartiere",
-                "description": "storie, interviste, memorie raccolte con abitanti del quartiere",
-                "sub-categories": [
-                    "storie",
-                    "interviste ",
-                    "memorie",
-                    "personaggi",
-                    "Tradizioni culinarie"
-                ],
-                "weight": 0,
-                "id": 3
+                "weight": -1,
+                "id": 1
             },
             {
                 "category": "Spazi di quartiere",
@@ -1438,13 +1504,33 @@
                 "id": 2
             },
             {
-                "category": "Il Quartiere Capo",
-                "description": "area d'intervento",
+                "category": "Storie del quartiere",
+                "description": "storie, interviste, memorie raccolte con abitanti del quartiere",
                 "sub-categories": [
-                    "#r30"
+                    "storie",
+                    "interviste ",
+                    "memorie",
+                    "personaggi",
+                    "Tradizioni culinarie"
                 ],
-                "weight": -1,
-                "id": 1
+                "weight": 0,
+                "id": 3
+            },
+            {
+                "category": "Idee e Proposte",
+                "description": "visioni, progetti e proposte dei cittadini per la trasformazione o il miglioramento del quartiere",
+                "sub-categories": [],
+                "weight": 0,
+                "id": 4
+            },
+            {
+                "category": "Iniziative",
+                "description": "pratiche e azioni locali per promuovere la partecipazione dei cittadini",
+                "sub-categories": [
+                    "#r31"
+                ],
+                "weight": 0,
+                "id": 5
             }
         ]
     },
@@ -1452,6 +1538,14 @@
         {
             "from": "ca/le_edicole_votive_del_capo#102",
             "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
+        },
+        {
+            "from": "ca/il_mercato_del_capo#95",
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
+        },
+        {
+            "from": "ca/_da_capo_a_capo_#97",
+            "to": "ca/teatro_alla_guilla#84"
         },
         {
             "from": "ca/_ideeperilcapo_evento_finale#98",
@@ -1466,18 +1560,6 @@
             "to": "ca/masci#91"
         },
         {
-            "from": "ca/_da_capo_a_capo_#97",
-            "to": "ca/teatro_alla_guilla#84"
-        },
-        {
-            "from": "ca/il_mercato_del_capo#95",
-            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
-        },
-        {
-            "from": "ca/spazi_per_artigiani_e_coinvolgimento_giovani#94",
-            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
-        },
-        {
             "from": "ca/puliamo_il_quartiere_#93",
             "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
@@ -1486,20 +1568,8 @@
             "to": "ca/spazi_di_quartiere#72"
         },
         {
-            "from": "ca/la_grotta_dei_beati_paoli#89",
-            "to": "ca/vicolo_degli_orfani#75"
-        },
-        {
-            "from": "ca/la_grotta_dei_beati_paoli#89",
+            "from": "ca/spazi_per_artigiani_e_coinvolgimento_giovani#94",
             "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
-        },
-        {
-            "from": "ca/cortile_ecce_homo#88",
-            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
-        },
-        {
-            "from": "ca/cortile_ecce_homo#88",
-            "to": "ca/cinema_all_aperto#78"
         },
         {
             "from": "ca/naka#87",
@@ -1510,6 +1580,30 @@
             "to": "ca/piazza_papireto#70"
         },
         {
+            "from": "ca/cortile_ecce_homo#88",
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
+        },
+        {
+            "from": "ca/cortile_ecce_homo#88",
+            "to": "ca/cinema_all_aperto#78"
+        },
+        {
+            "from": "ca/la_grotta_dei_beati_paoli#89",
+            "to": "ca/vicolo_degli_orfani#75"
+        },
+        {
+            "from": "ca/la_grotta_dei_beati_paoli#89",
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
+        },
+        {
+            "from": "ca/teatro_alla_guilla#84",
+            "to": "ca/spazi_di_quartiere#72"
+        },
+        {
+            "from": "ca/teatro_alla_guilla#84",
+            "to": "ca/piazzetta_alla_guilla#81"
+        },
+        {
             "from": "ca/bond_of_union#85",
             "to": "ca/spazi_di_quartiere#72"
         },
@@ -1522,24 +1616,8 @@
             "to": "ca/vicolo_degli_orfani#75"
         },
         {
-            "from": "ca/teatro_alla_guilla#84",
-            "to": "ca/spazi_di_quartiere#72"
-        },
-        {
-            "from": "ca/teatro_alla_guilla#84",
+            "from": "ca/sartoria_eleganza#80",
             "to": "ca/piazzetta_alla_guilla#81"
-        },
-        {
-            "from": "ca/da_franco#83",
-            "to": "ca/spazi_di_quartiere#72"
-        },
-        {
-            "from": "ca/piazza_beati_paoli#82",
-            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
-        },
-        {
-            "from": "ca/piazza_beati_paoli#82",
-            "to": "ca/cartello_informativo_benvenuti_al_capo_#77"
         },
         {
             "from": "ca/piazzetta_alla_guilla#81",
@@ -1550,24 +1628,16 @@
             "to": "ca/teatro_alla_guilla#84"
         },
         {
-            "from": "ca/sartoria_eleganza#80",
-            "to": "ca/piazzetta_alla_guilla#81"
+            "from": "ca/piazza_beati_paoli#82",
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
-            "from": "ca/la_bottega_del_fabbro#79",
+            "from": "ca/piazza_beati_paoli#82",
             "to": "ca/cartello_informativo_benvenuti_al_capo_#77"
         },
         {
-            "from": "ca/la_bottega_del_fabbro#79",
-            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
-        },
-        {
-            "from": "ca/cinema_all_aperto#78",
-            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
-        },
-        {
-            "from": "ca/cinema_all_aperto#78",
-            "to": "ca/cortile_ecce_homo#88"
+            "from": "ca/da_franco#83",
+            "to": "ca/spazi_di_quartiere#72"
         },
         {
             "from": "ca/cartello_informativo_benvenuti_al_capo_#77",
@@ -1578,12 +1648,20 @@
             "to": "ca/la_bottega_del_fabbro#79"
         },
         {
-            "from": "ca/laboratori_di_quartiere_ideeperilcapo#76",
-            "to": "ca/cinema_all_aperto#78"
+            "from": "ca/cinema_all_aperto#78",
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
-            "from": "ca/laboratori_di_quartiere_ideeperilcapo#76",
+            "from": "ca/cinema_all_aperto#78",
+            "to": "ca/cortile_ecce_homo#88"
+        },
+        {
+            "from": "ca/la_bottega_del_fabbro#79",
             "to": "ca/cartello_informativo_benvenuti_al_capo_#77"
+        },
+        {
+            "from": "ca/la_bottega_del_fabbro#79",
+            "to": "ca/laboratori_di_quartiere_ideeperilcapo#76"
         },
         {
             "from": "ca/vicolo_degli_orfani#75",
@@ -1592,6 +1670,18 @@
         {
             "from": "ca/vicolo_degli_orfani#75",
             "to": "ca/bond_of_union#85"
+        },
+        {
+            "from": "ca/laboratori_di_quartiere_ideeperilcapo#76",
+            "to": "ca/cinema_all_aperto#78"
+        },
+        {
+            "from": "ca/laboratori_di_quartiere_ideeperilcapo#76",
+            "to": "ca/cartello_informativo_benvenuti_al_capo_#77"
+        },
+        {
+            "from": "ca/piazza_papireto#70",
+            "to": "ca/spazi_di_quartiere#72"
         },
         {
             "from": "ca/spazi_di_quartiere#72",
@@ -1608,10 +1698,6 @@
         {
             "from": "ca/spazi_di_quartiere#72",
             "to": "ca/piazzetta_alla_guilla#81"
-        },
-        {
-            "from": "ca/piazza_papireto#70",
-            "to": "ca/spazi_di_quartiere#72"
         },
         {
             "from": "ca/cortile_mangano#68",
